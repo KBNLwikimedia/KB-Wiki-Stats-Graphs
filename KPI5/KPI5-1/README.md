@@ -5,6 +5,6 @@ The Jupyther Notebook [KPI5-1.ipynb](KPI5-1.ipynb) visualises the aggregated dat
 This chart has been uploaded to
 * https://commons.wikimedia.org/wiki/File:Links_naar_websites_van_de_KB_in_Nederlandstalige_Wikipedia,_top_25,_hoofdnaamruimte,_20-02-2018.png
 
-and is further explained in 
+and is further explained (in Dutch) on
 
 * https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5/KPI5_KB_20-02-2018
