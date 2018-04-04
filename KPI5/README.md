@@ -12,4 +12,4 @@ The first two sheets in the Excel are the aggegations (=sums) of all the sheets 
 * _AlleDiensten_Hfdnr_ is the aggegate for the main namespace.  [KPI5-KB-DutchWikipedia-MainNamespace_20022018_RawData.csv](KPI5-1/KPI5-KB-DutchWikipedia-MainNamespace_20022018_RawData.csv) in PKI5-1 is the cleaned up version of this sheet.
 * _AlleDiensten-Overig_ is the aggegate for the other namespaces
 
-(*) An overview of all websites of the KB can be found [here](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5/KPI5_KB_20-02-2018#Tabelweergave) . Click on the blue text [weergeven] to open the collapsed table. Alternatively, see [this graph](plot)
+(*) An overview of all websites of the KB can be found [here](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5/KPI5_KB_20-02-2018#Tabelweergave) . Click on the blue text [weergeven] to open the collapsed table. Alternatively, see the y-axis of [this bar chart](KPI5-Plot2.png).
