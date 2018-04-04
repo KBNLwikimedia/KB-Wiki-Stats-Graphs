@@ -1,4 +1,4 @@
-The file [KPI5-KB-DutchWikipedia-MainNamespace_20022018_RawData.csv](KPI5-KB-DutchWikipedia-MainNamespace_20022018_RawData.csv) list which articles in (the main namespace of) Dutch Wikipedia contain which URLs of websites of the Koninlijke Bibliotheek
+The file [KPI5-KB-DutchWikipedia-MainNamespace_20022018_RawData.csv](KPI5-KB-DutchWikipedia-MainNamespace_20022018_RawData.csv) lists which articles in (the main namespace of) Dutch Wikipedia contain which URLs of websites of the Koninlijke Bibliotheek
 
 The Jupyther Notebook [KPI5-1.ipynb](KPI5-1.ipynb) visualises the aggregated data into a [horizontal barchart](KPI5-Plot1.png). 
 
