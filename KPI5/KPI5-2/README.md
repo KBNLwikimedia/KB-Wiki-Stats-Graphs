@@ -12,7 +12,7 @@ The Jupyther Notebook [KPI5-2.ipynb](KPI5-2.ipynb) visualises the data into a [h
 ![Grafiek: Links en artikelen in Nederlandstalige Wikipedia o.b.v. websites van de Koninklijke Biblioteek](https://raw.githubusercontent.com/ookgezellig/KB-Wiki-Stats-Graphs/master/KPI5/KPI5-2/KPI5-Plot2.png)
 
 This chart has been uploaded to
-* https://commons.wikimedia.org/wiki/File
+* https://commons.wikimedia.org/wiki/File:Links_en_artikelen_in_Nederlandstalige_Wikipedia_o.b.v._KB-websites,_hoofdnaamruimte,_20-02-2018.png
 
 and is further explained (in Dutch) on
 
