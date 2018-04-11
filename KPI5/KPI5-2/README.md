@@ -17,3 +17,5 @@ This chart has been uploaded to
 and is further explained (in Dutch) on
 
 * https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5/KPI5_KB_20-02-2018
+
+You can run this notebook interactively in the cloud via Mybinder.org: https://mybinder.org/v2/gh/ookgezellig/KB-Wiki-Stats-Graphs/master?filepath=KPI5/KPI5-2/KPI5-2.ipynb
