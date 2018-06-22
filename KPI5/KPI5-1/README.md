@@ -1,4 +1,6 @@
-The file [KPI5-KB-DutchWikipedia-MainNamespace_20022018_RawData.csv](KPI5-KB-DutchWikipedia-MainNamespace_20022018_RawData.csv) lists which articles in (the main namespace of) Dutch Wikipedia contain which URLs of websites of the Koninlijke Bibliotheek.
+The file [WPNLHoodnaamruimteArtikel-KBdienst-KBurl_definitief_20022018.txt](WPNLHoodnaamruimteArtikel-KBdienst-KBurl_definitief_20022018.txt) lists which articles in (the main namespace of) Dutch Wikipedia contain which URLs of websites of the Koninlijke Bibliotheek, as measured on 20-02-2018. 
+
+The 'ZZZZ' in this file is used as a seprator, as more traditonal separators (, ; - etc) are not safe, they can alos occur in the URLs. 
 
 The Jupyther Notebook [KPI5-1.ipynb](KPI5-1.ipynb) visualises the aggregated data into a [horizontal barchart](KPI5-Plot1.png). 
 
