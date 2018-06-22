@@ -1,15 +1,23 @@
-The file [KPI5-KB-Links_Articles_DutchWikipedia-AllNamespaces_20022018_RawData.csv](KPI5-KB-Links_Articles_DutchWikipedia-AllNamespaces_20022018_RawData.csv) has the following fields: 
+#### Main namespace of WP:NL
 
+The file [WPNLHoofdnaamruimteArtikel-KBdienst-KBurl_definitief_20022018.txt](WPNLHoofdnaamruimteArtikel-KBdienst-KBurl_definitief_20022018.txt) lists which articles in (the main namespace of) Dutch Wikipedia contain which URLs of websites of the Koninlijke Bibliotheek, as measured on 20-02-2018. 
+* The 'ZZZZ' in this file is used as a seprator, as more traditonal separators (, ; - etc) are not safe, they can also occur in the URLs. 
+* The middle column tells to which KB-website the URL is related (Delpher Kranten Basis, DBNL, GvN etc.)
+* It is the exact same file as in KPI5-1
+
+The Jupyther Notebook [KPI5-2-Hoofdnaamruimte.ipynb](KPI5-2-Hoofdnaamruimte.ipynb) does two things:  
+
+1) First, it takes the txt-file to generates a Pandas Dataframe with the following fields: 
+
+* _KB-Label_: expanation.... This corresponds to the middle colomn of the above txt-file  
 * _KB-Dienst_: Name of the KB-website (= website that is run and/or managed by the Koninklijke Bibliotheek) 
 * _Links_hnr_: Number of links (URLs) to this website in the main namespace of Dutch Wikipedia
 * _Artikelen_hnr_: Number of unique articles in the main namespace of Dutch Wikipedia containing (one or more) links to this website 
-* _Links_overige_: Number of links (URLs) to this website in the other namespaces of Dutch Wikipedia
-* _Artikelen_overige_: Number of unique pages in the other namespaces of Dutch Wikipedia containing (one or more) links to this website 
 * _Sortorder_: number used to put the horizontal bars in the desired order
 
-The Jupyther Notebook [KPI5-2.ipynb](KPI5-2.ipynb) visualises the data into a [horizontal barchart](KPI5-Plot2.png). 
+2) Next, it visualises this dataframe into a [horizontal barchart](KPI5-Plot2_hoofdnaamruimte.png). 
 
-![Grafiek: Links en artikelen in Nederlandstalige Wikipedia o.b.v. websites van de Koninklijke Biblioteek](https://raw.githubusercontent.com/ookgezellig/KB-Wiki-Stats-Graphs/master/KPI5/KPI5-2/KPI5-Plot2.png)
+![Grafiek: Links en artikelen in (de hoofdnaamruimte van) de Nederlandstalige Wikipedia o.b.v. websites van de Koninklijke Biblioteek](https://raw.githubusercontent.com/ookgezellig/KB-Wiki-Stats-Graphs/master/KPI5/KPI5-2/KPI5-Plot2_hoofdnaamruimte.png)
 
 This chart has been uploaded to
 * https://commons.wikimedia.org/wiki/File:Links_en_artikelen_in_Nederlandstalige_Wikipedia_o.b.v._KB-websites,_hoofdnaamruimte,_20-02-2018.png
@@ -18,4 +26,7 @@ and is further explained (in Dutch) on
 
 * https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5/KPI5_KB_20-02-2018
 
-You can run this notebook interactively in the cloud via Mybinder.org: https://mybinder.org/v2/gh/ookgezellig/KB-Wiki-Stats-Graphs/master?filepath=KPI5/KPI5-2/KPI5-2.ipynb
+You can run this notebook interactively in the cloud via Mybinder.org: https://mybinder.org/v2/gh/ookgezellig/KB-Wiki-Stats-Graphs/master?filepath=KPI5/KPI5-2/KPI5-2-Hoofdnaamruimte.ipynb
+
+#### Other namespace of WP:NL
+In the exact same way, but now for all the other namespaces of WP:NL combined, using the notebook [KPI5-2-OverigeNaamruimtes.ipynb](KPI5-2-OverigeNaamruimtes.ipynb) on the data [WPNLOverigeNaamruimtes-KBdienst-KBurl_definitief_20022018.txt](WPNLOverigeNaamruimtes-KBdienst-KBurl_definitief_20022018.txt) gives us the plot [KPI5-Plot2_overigenaamruimten.png](KPI5-Plot2_overigenaamruimten.png).
