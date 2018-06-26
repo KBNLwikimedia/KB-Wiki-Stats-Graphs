@@ -29,4 +29,4 @@ and is further explained (in Dutch) on
 You can run this notebook interactively in the cloud via Mybinder.org: https://mybinder.org/v2/gh/ookgezellig/KB-Wiki-Stats-Graphs/master?filepath=KPI5/KPI5-2/KPI5-2-Hoofdnaamruimte.ipynb
 
 #### 2) Other namespaces of WP:NL (combined)
-In the exact same way, but now for all the other namespaces of WP:NL combined, using the notebook [KPI5-2-OverigeNaamruimtes.ipynb](KPI5-2-OverigeNaamruimtes.ipynb) on the data [WPNLOverigeNaamruimtes-KBdienst-KBurl_definitief_20022018.txt](WPNLOverigeNaamruimtes-KBdienst-KBurl_definitief_20022018.txt) gives us the plot [KPI5-Plot2_overigenaamruimten.png](KPI5-Plot2_overigenaamruimten.png).
+In the exact same way, but now for all the other namespaces of WP:NL combined, using the notebook [KPI5-2-OverigeNaamruimtes.ipynb](KPI5-2-OverigeNaamruimtes.ipynb) on the data [WPNLOverigeNaamruimtes-KBdienst-KBurl_definitief_20022018.txt](WPNLOverigeNaamruimtes-KBdienst-KBurl_definitief_20022018.txt) gives us the plot [KPI5-Plot2_overigenaamruimtes.png](KPI5-Plot2_overigenaamruimtes.png).
