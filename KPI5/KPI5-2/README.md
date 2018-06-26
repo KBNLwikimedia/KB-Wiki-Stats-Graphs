@@ -3,7 +3,7 @@
 The file [WPNLHoofdnaamruimteArtikel-KBdienst-KBurl_definitief_20022018.txt](WPNLHoofdnaamruimteArtikel-KBdienst-KBurl_definitief_20022018.txt) lists which articles in (the main namespace of) Dutch Wikipedia contain which URLs of websites of the Koninlijke Bibliotheek, as measured on 20-02-2018. 
 * The 'ZZZZ' in this file is used as a seprator, as more traditonal separators (, ; - etc) are not safe, they can also occur in the URLs. 
 * The middle column tells to which KB-website the URL is related (Delpher Kranten Basis, DBNL, GvN etc.)
-* It is the exact same file as in KPI5-1
+* It is the exact same file as in [KPI5-1](../KPI5-1)
 
 The Jupyther Notebook [KPI5-2-Hoofdnaamruimte.ipynb](KPI5-2-Hoofdnaamruimte.ipynb) does two things:  
 
