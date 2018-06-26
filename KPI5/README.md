@@ -1,4 +1,4 @@
-### Making the graphs and table for https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5/KPI5_KB_20-02-2018
+### NEEDS MODIFYING -- Making the graphs and table for https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5/KPI5_KB_20-02-2018
 
 The Excel-file [KPI5-KB-AllWebsites_DutchWikipedia-AllNamespaces_20022018_RawData.xlsx](KPI5-KB-AllWebsites_DutchWikipedia-AllNamespaces_20022018_RawData.xlsx) is the master file from which the csv-files in [KPI5-1](KPI5-1) and [KPI5-2](KPI5-2) were derived.
 
