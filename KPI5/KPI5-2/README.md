@@ -10,7 +10,7 @@ The Jupyther Notebook [KPI5-2-Hoofdnaamruimte.ipynb](KPI5-2-Hoofdnaamruimte.ipyn
 1) First, it takes the txt-file to generates a Pandas Dataframe with the following fields: 
 
 * _KBLabel_: Short name/label of the website. This label is also used in the middle colomn of the above txt-file  
-* _KBFullname_: Long name of the website 
+* _KBFullname_: Long name of the website. You see this name on the vertical axis of the barchart plot below
 * _NumLinks_hnr_: Number of links (URLs) to this website in the main namespace of Dutch Wikipedia
 * _NumWPArtikelen_hnr_: Number of unique articles in the main namespace of Dutch Wikipedia containing (one or more) links to this website 
 * _Sortorder_: number used to put the horizontal bars in the desired order
