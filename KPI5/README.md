@@ -1,6 +1,6 @@
 ### NEEDS MODIFYING -- Making the graphs and table for https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5/KPI5_KB_20-02-2018
 
-The Excel-file [xxxxxxxxxxxxxxxxxKPI5-KB-AllWebsites_DutchWikipedia-AllNamespaces_20022018_RawData.xlsx](PI5-KB-AllWebsites_DutchWikipedia-AllNamespaces_20022018_RawData.xlsx) is the master file from which the csv-files in [KPI5-1](KPI5-1) and [KPI5-2](KPI5-2) were derived.
+The Excel-file [KPI5-KB-AllWebsites_DutchWikipedia-AllNamespaces_20022018_RawData.xlsx](KPI5-KB-AllWebsites_DutchWikipedia-AllNamespaces_20022018_RawData.xlsx) is the master file from which the csv-files in [KPI5-1](KPI5-1) and [KPI5-2](KPI5-2) were derived.
 
 For every KB-website (*), this Excel contains two sheets. For instance, for the KB-run site [DBNL](http://www.dbnl.org/) the sheet
 * _DBNL-Hoofdnaamruimte_ lists which articles in the main namespace (Dutch: _Hoofdnaamruimte_) of Dutch Wikipedia (column A) contain which URLs of the DBNL website (column B)
