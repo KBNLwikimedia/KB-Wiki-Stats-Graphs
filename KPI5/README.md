@@ -8,7 +8,7 @@ For every KB-website (*), this Excel contains two sheets. For instance, for the 
 * Column E is the de-duplicated version of column A; it shows all the _unique_ Wikipedia articles  that contain links to the DBNL site
 
 The first two sheets in the Excel are the aggregations (=sums) of all the sheets for the individual KB-websites: 
-* _AlleDiensten_Hfdnr_ is the aggregate for the main namespace.  xxxxxxxx[KPI5-KB-DutchWikipedia-MainNamespace_20022018_RawData.csv](KPI5-1/KPI5-KB-DutchWikipedia-MainNamespace_20022018_RawData.csv) in PKI5-1 is the cleaned up version of this sheet.
-* _AlleDiensten-Overig_ is the aggregate for the other namespaces
+* _AlleDiensten_Hfdnr_ is the aggregate for the main namespace.  [WPNLHoofdnaamruimteArtikel-KBdienst-KBurl_definitief_20022018.txt](KPI5-1/WPNLHoofdnaamruimteArtikel-KBdienst-KBurl_definitief_20022018.txt) in PKI5-1 is the cleaned up version of this sheet.
+* _AlleDiensten-Overig_ is the aggregate for the other namespaces.
 
 (*) An overview of all websites of the KB can be found [in this table](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5/KPI5_KB_20-02-2018#Tabelweergave) . Alternatively, see the y-axis of [this bar chart](KPI5-2/KPI5-Plot2_hoofdnaamruimte.png).
