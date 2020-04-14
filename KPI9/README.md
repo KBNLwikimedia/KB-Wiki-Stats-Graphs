@@ -8,7 +8,7 @@ Data for
  
   * [Kranten 1618-1995 (Basiscollectie)](KPI9-02-DelpherKrantenBasis_21-02-2018_05-02-2020.xlsx)
   * [Boeken 17e t/m 20e eeuw (Basiscollectie)](KPI9-03-DelpherBoekenBasis_21-02-2018_05-02-2020.xlsx)
-  * []()
+  * [Boeken tot 1874 (Googlecollectie)](KPI9-04-DelpherBoekenGoogle_21-02-2018_05-02-2020.xlsx)
   * []()
   * []()
   * []()
