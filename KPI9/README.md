@@ -12,5 +12,5 @@ Data for
   * []()
   * []()
   * []()
-  * []()
+  * [Delpher Rest - o.a. homepage, zoekresultatenpagina's, statische pagina's](KPI9-07-DelpherOverig_21-02-2018_05-02-2020.xlsx)
   * [DBNL](KPI9-09-DBNL_21-02-2018_05-02-2020.xlsx)
