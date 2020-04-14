@@ -7,6 +7,10 @@ Data for
 * [Measurement KPI 9 in February 2020](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9/KPI9_KB_05-02-2020)
  
   * [Kranten 1618-1995 (Basiscollectie)](KPI9-02-DelpherKrantenBasis_21-02-2018_05-02-2020.xlsx)
+  * [Boeken 17e t/m 20e eeuw (Basiscollectie)](KPI9-03-DelpherBoekenBasis_21-02-2018_05-02-2020.xlsx)
+  * []()
+  * []()
+  * []()
   * []()
   * []()
   * [DBNL](KPI9-09-DBNL_21-02-2018_05-02-2020.xlsx)
