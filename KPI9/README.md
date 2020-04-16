@@ -19,7 +19,7 @@ Data for
   * [KB catalogus](KPI9-12-KBcat_21-02-2018_05-02-2020.xlsx) (KB cat)  
   * [Geheugen van Nederland](KPI9-11-GvN_21-02-2018_05-02-2020.xlsx) (GvN) 
 
-* __[Totaal: Delpher + DBNL + kb.nl + KB cat + GvN](KPI9-01-VijfGrootsteDienstenTotaal_21-02-2018_05-02-2020.xlsx)__
+  * __[Totaal: Delpher + DBNL + kb.nl + KB cat + GvN](KPI9-01-VijfGrootsteDienstenTotaal_21-02-2018_05-02-2020.xlsx)__
 
 
 
