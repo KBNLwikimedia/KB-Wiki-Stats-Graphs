@@ -21,7 +21,7 @@ Data for
     * [KB website](KPI9-10-KBwebsite_21-02-2018_05-02-2020.xlsx)
     
   * KB catalogus (KB cat)
-    * [KB catalogus]()   
+    * [KB catalogus](KPI9-12-KBcat_21-02-2018_05-02-2020.xlsx)   
 
   * Geheugen van Nederland (GvN)
     * [Geheugen van Nederland](KPI9-11-GvN_21-02-2018_05-02-2020.xlsx)  
