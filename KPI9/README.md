@@ -24,7 +24,7 @@ Data for
     * [KB catalogus]()   
 
   * Geheugen van Nederland (GvN)
-    * [ Geheugen van Nederland]()  
+    * [Geheugen van Nederland](KPI9-11-GvN_21-02-2018_05-02-2020.xlsx)  
 
 * Totaal: Delpher + DBNL + kb.nl + KB cat + GvN
     * [KB-diensten Totaal]()
