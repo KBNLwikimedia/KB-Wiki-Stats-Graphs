@@ -12,7 +12,7 @@ Data for
     * [Tijdschriften 19e en 20e eeuw](KPI9-05-DelpherTijdschriften_21-02-2018_05-02-2020.xlsx)
     * [Radiobulletins van het ANP](KPI9-06-DelpherANP_21-02-2018_05-02-2020.xlsx)
     * [Delpher Rest - o.a. homepage, zoekresultatenpagina's, statische pagina's](KPI9-07-DelpherOverig_21-02-2018_05-02-2020.xlsx)
-    * [Delpher totaal - Alle inhoud](KPI9-08-DelpherTotaal_21-02-2018_05-02-2020.xlsx)
+    * __[Delpher totaal - Alle inhoud](KPI9-08-DelpherTotaal_21-02-2018_05-02-2020.xlsx)__
 
   * [DBNL](KPI9-09-DBNL_21-02-2018_05-02-2020.xlsx)
   * [KB website](KPI9-10-KBwebsite_21-02-2018_05-02-2020.xlsx) (kb.nl)
