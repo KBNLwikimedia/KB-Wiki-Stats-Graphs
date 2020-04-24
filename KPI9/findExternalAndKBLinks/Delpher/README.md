@@ -1,0 +1,1 @@
+For explanation in Dutch see https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9#Artikelen_sterk_gebaseerd_op_Delpher_en/of_DBNL
