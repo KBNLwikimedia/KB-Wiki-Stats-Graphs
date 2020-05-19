@@ -1,24 +1,24 @@
 # 247 Wikipedia articles impossible without Delpher or DBNL, with 33.000 monthly views
-*Latest update: 20 May 2020*
+Latest update: 20 May 2020
 
-### Quizje:
+*This post ... purpose.... * 
 
-Wat is de overeenkomst tussen een vuilnisman, een vuilniszak en een vuilniswagen ?
-<image src="images/garbage-2354422_960_720.jpg" width="150"/>
+### Quiz time:
 
-Vuilnis Vuilnisman Beroep - Gratis foto op Pixabay
+*What is the connection between a garbage man, a garbage bag and a garbage truck?*<br/>
+<image src="images/garbage-2354422_960_720.jpg" height="150"/> <image src="images/220px-Vuilniszak.jpg" height="150"/>
+ <image src="images/260px-Eboueurs_20100508_Aix-en-Provence_1.jpg" height="150"/>
 
-Of tussen de voetballers Cor van der Gijp , Gerrie ter Horst en Joop van Daele ?
+*Or between the Dutch soccer players Cor van der Gijp, Gerrie ter Horst and Joop van Daele?*<br/> 
+<image src="images/Cor_van_der_Gijp_1954b.jpg" height="150"/> <image src="images/266px-Sparta_tegen_Ajax_2-1,_Cruijff_in_duel_met_Ter_Horst_(l),_Bestanddeelnr_920-0595.jpg" height="150"/> <image src="images/Joop_van_Daele_(1976).jpg" height="150"/>
 
-Cor van der Gijp 1954b.jpgTer Horst in duel met Johan Cruijff (1967)Joop van Daele (1976).jpg
+*Or between Hotel De Indes and the Internationaal Press Museum, both located in The Hague, The Netherlands?*<br/>
+<image src="images/DenHaagHotelDesIndes.JPG" height="150"/> <image src="images/266px-Den_Haag_-_Javastraat_32_(2018).jpg" height="150"/>
 
-Of tussen Hotel De Indes en het Internationaal Persmuseum, beide in Den Haag?
+*Or between a children's song book and the litarary magazine 'Forum' (1932-1935)?<br/>
+<image src="images/260px-Heije-kinderliederen-1847.jpg" height="150"/> <image src="images/for003193201_01_tpg.jpg" height="150"/>
 
-Voormalige onderkomen Internationaal Persmuseum
-
-Of tussen een kinderliedboek en het literaire tijdschrift Forum (1932-1935) ?
-
-Antwoord:
+### Answer:
 
 Zonder Delpher of DBNL zouden er over deze dingen zeer waarschijnlijk geen Wikipedia-artikelen bestaan! (@maaikenapolitano, @mirjamraaphorst)
 
@@ -26,6 +26,20 @@ M.a.w. : de inhoud van deze artikelen is geheel of grotendeels gebaseerd op inho
 Hoe zit dit precies?
 
 Elke twee jaar meet ik een aantal indicatoren over het bereik en hergebruik van de KB-collectie via de Wikimedia-platformen. In februari was het weer zover, ik zal daarover in latere Plein-posts nog uitgebreid verslag doen. Maar één van de inzichten die ik kreeg wil ik nu al graag met jullie delen: er staan op Wikipedia tientallen artikelen die er zonder Delpher en DBNL niet zouden zijn geweest.
+
+
+
+<image src="images/image_10658527031588781879393.png" width="150"/>
+<image src="images/image_11235458251588782175115.png" width="150"/>
+<image src="images/image_12425167721588761061236.png" width="150"/>
+<image src="images/image_2194896221588784171279.png" width="150"/>
+<image src="images/image_68690689531588266794442.png" width="150"/>
+<image src="images/image_78079566521588266716668.png" width="150"/>
+<image src="images/imagetools0.png" width="150"/>
+<image src="images/imagetools1.png" width="150"/>
+<image src="images/imagetools2.png" width="150"/>
+<image src="images/imagetools3.png" width="150"/>
+<image src="images/imagetools4.png" width="150"/>
 
 Iets specifieker, afgelopen februari heb ik gemeten
 
