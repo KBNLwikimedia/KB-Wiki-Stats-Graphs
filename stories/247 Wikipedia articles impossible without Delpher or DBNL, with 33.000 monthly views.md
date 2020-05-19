@@ -1,7 +1,9 @@
-# 247 Wikipedia articles impossible without Delpher or DBNL, with 33.000 monthly views
+## 247 Wikipedia articles that would not have been written without Delpher and DBNL, with 33.000 monthly views
 Latest update: 20 May 2020
 
-*This post ... purpose.... * 
+*This post ... purpose* 
+
+------
 
 ### Quiz time:
 
@@ -15,7 +17,7 @@ Latest update: 20 May 2020
 *Or between Hotel De Indes and the Internationaal Press Museum, both located in The Hague, The Netherlands?*<br/>
 <image src="images/DenHaagHotelDesIndes.JPG" height="150"/> <image src="images/266px-Den_Haag_-_Javastraat_32_(2018).jpg" height="150"/>
 
-*Or between a children's song book and the litarary magazine 'Forum' (1932-1935)?<br/>
+*Or between a children's song book and the litarary magazine 'Forum' (1932-1935)*?<br/>
 <image src="images/260px-Heije-kinderliederen-1847.jpg" height="150"/> <image src="images/for003193201_01_tpg.jpg" height="150"/>
 
 ### Answer:
