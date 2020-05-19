@@ -1,6 +1,10 @@
-Quizje:
+# 247 Wikipedia articles impossible without Delpher or DBNL, with 33.000 monthly views
+*Latest update: 20 May 2020*
+
+### Quizje:
 
 Wat is de overeenkomst tussen een vuilnisman, een vuilniszak en een vuilniswagen ?
+<image src="images/garbage-2354422_960_720.jpg" width="150"/>
 
 Vuilnis Vuilnisman Beroep - Gratis foto op Pixabay
 
