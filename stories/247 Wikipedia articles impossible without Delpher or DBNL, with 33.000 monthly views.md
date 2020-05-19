@@ -3,21 +3,19 @@ Latest update: 20 May 2020
 
 *This post ... purpose* 
 
-------
-
 ### Quiz time:
 
-*What is the connection between a garbage man, a garbage bag and a garbage truck?*<br/>
+*What is the connection between a [garbage man](https://nl.wikipedia.org/wiki/Vuilnisman), a [garbage bag](https://nl.wikipedia.org/wiki/Vuilniszak) and a [garbage truck](https://nl.wikipedia.org/wiki/Vuilniswagen)?*<br/>
 <image src="images/garbage-2354422_960_720.jpg" height="150"/> <image src="images/220px-Vuilniszak.jpg" height="150"/>
  <image src="images/260px-Eboueurs_20100508_Aix-en-Provence_1.jpg" height="150"/>
 
-*Or between the Dutch soccer players Cor van der Gijp, Gerrie ter Horst and Joop van Daele?*<br/> 
+*Or between the Dutch soccer players [Cor van der Gijp](https://nl.wikipedia.org/wiki/Cor_van_der_Gijp), [Gerrie ter Horst](https://nl.wikipedia.org/wiki/Gerrie_ter_Horst) and [Joop van Daele](https://nl.wikipedia.org/wiki/Joop_van_Daele)?*<br/> 
 <image src="images/Cor_van_der_Gijp_1954b.jpg" height="150"/> <image src="images/266px-Sparta_tegen_Ajax_2-1,_Cruijff_in_duel_met_Ter_Horst_(l),_Bestanddeelnr_920-0595.jpg" height="150"/> <image src="images/Joop_van_Daele_(1976).jpg" height="150"/>
 
-*Or between Hotel De Indes and the Internationaal Press Museum, both located in The Hague, The Netherlands?*<br/>
+*Or between [Hotel Des Indes](https://nl.wikipedia.org/wiki/Hotel_Des_Indes_(Den_Haag)) and the [International Press Museum](https://nl.wikipedia.org/wiki/Internationaal_Persmuseum), both located in The Hague, The Netherlands?*<br/>
 <image src="images/DenHaagHotelDesIndes.JPG" height="150"/> <image src="images/266px-Den_Haag_-_Javastraat_32_(2018).jpg" height="150"/>
 
-*Or between a children's song book and the litarary magazine 'Forum' (1932-1935)*?<br/>
+*Or between a [children's song book](https://nl.wikipedia.org/wiki/Kinderliedboek) and the [literary magazine 'Forum' (1932-1935)](https://nl.wikipedia.org/wiki/Forum_(literair_tijdschrift))*?<br/>
 <image src="images/260px-Heije-kinderliederen-1847.jpg" height="150"/> <image src="images/for003193201_01_tpg.jpg" height="150"/>
 
 ### Answer:
