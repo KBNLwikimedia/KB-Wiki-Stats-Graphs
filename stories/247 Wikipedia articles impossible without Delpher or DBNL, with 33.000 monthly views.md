@@ -1,4 +1,4 @@
-## 247 Wikipedia articles that wouldn't be here without Delpher and DBNL, with 33.000 monthly views
+## 247 Wikipedia articles that wouldn't be here without Delpher and DBNL, with 33.000 views each month
 Latest update: 20 May 2020
 
 *This post ... purpose* 
