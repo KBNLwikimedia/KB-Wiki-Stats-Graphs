@@ -42,7 +42,7 @@ To be more specfific, last February I determined
 ### Approach in 4 steps
 During this measurement process I noticed that there are quite a few *Hotel Des Indes*-like articles: articles containing a striking amount of links to Delpher and/or DBNL. That triggered my curiosity, so I went deeper and more systematic, in 4 steps.
 
-#### Step 1
+#### Step 1: article lists
 I started out by making an overview of all articles on Dutch Wikipedia containing one or more links to Delpher or DBNL. I did this using [this tool](https://tools.wmflabs.org/massviews/), which takes a URL (or rather a URL pattern) as input, and returns a list of articles containing that URL pattern. The screenshot below is based on the URL *[https://www.delpher.nl](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=external-link&start=2018-02-21&end=2020-02-05&project=nl.wikipedia.org&target=https%3A%2F%2Fwww.delpher.nl&sort=views&direction=1&view=list&target=https://www.delpher.nl)* (click for live tool, might take some time)
 
 <kbd><image src="images/image_68690689531588266794442.png" width="400"/></kbd>
@@ -53,7 +53,7 @@ I used this tool for all Delpher URLs (don't forget the persistent KB-resolver U
 
 I used a similar workflow for DBNL (URL pattern [*http(s)://\*.dbnl.org*](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=external-link&target=http://*.dbnl.org&start=2018-02-21&end=2020-02-05&project=nl.wikipedia.org&sort=views&direction=1&view=list)), resulting in a [list of just over 7.600 unique Wikipedia articles](/KPI9/KPI9-09-DBNL_21-02-2018_05-02-2020.xlsx).
 
-#### Step 2
+#### Step 2: external links
 Once I had those article lists, I determined for each article which (and how many) external links it contains, and which of those links point to Delpher (or DBNL). I did this using the [MediaWiki API](https://www.mediawiki.org/wiki/API:Extlinks) and Python script ([for Delpher](/KPI9/findExternalAndKBLinks/Delpher/findExternalAndDelpherLinks.py) and [for DBNL](/KPI9/findExternalAndKBLinks/DBNL/findExternalAndDBNLlinks.py)). In the screenshot below of the Delpher script you can see that filtering is done on the resolver URLs of the [Delpher Newspapers](https://www.delpher.nl/nl/kranten) subset.
 
 <kbd><image src="images/image_78079566521588266716668.png" width="600"/></kbd>
@@ -64,12 +64,12 @@ This step eventually yields an Excel that (for Delpher) looks like this:
 
 For example, the article ["...die_Revolutie_niet_begrepen!..."](https://nl.wikipedia.org/wiki/...die_Revolutie_niet_begrepen!...) contains [16 external links](https://nl.wikipedia.org/w/api.php?action=query&titles=...die_Revolutie_niet_begrepen!...&prop=extlinks&format=json&ellimit=500), 9 of which point to Delpher.
 
-#### Step 3
+#### Step 3: linkratio
 Because we are looking for articles that are entirely or largely based on the contents from Delpher (or DBNL), it is useful to look at the so-called *linkratio* . That is the ratio of the total number of external links, and the number of those that link to Delpher. A linkratio of 1.00 means that *all* external links in an article are Delpher links. The lower the linkratio, the smaller the relative number of Delpher links in the article.
 
 <kbd><image src="images/imagetools2.png" width="600"/></kbd>
 
-#### Step 4
+#### Step 4: threshold criteria
 
 Next, to determine whether an article owes its existence largely to Delpher (or DBNL), I use two threshold criteria:
 
