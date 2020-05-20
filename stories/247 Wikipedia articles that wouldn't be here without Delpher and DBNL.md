@@ -43,23 +43,23 @@ You see this very clearly in the article about *[Hotel De Indes](https://nl.wiki
 Tijdens dit meetproces begon het me op te vallen dat er aardig wat Hotel Des Indes-achtige artikelen zijn: artikelen die opvallend veel links naar met name Delpher en DBNL bevatten. Dat wekte mijn nieuwsgierigheid, dus ik ben er eens wat dieper en systematischer ingedoken.....
 
 
-<image src="images/image_10658527031588781879393.png" width="150"/>
-<image src="images/image_11235458251588782175115.png" width="150"/>
-<image src="images/image_2194896221588784171279.png" width="150"/>
-<image src="images/image_68690689531588266794442.png" width="150"/>
-<image src="images/image_78079566521588266716668.png" width="150"/>
-<image src="images/imagetools0.png" width="150"/>
-<image src="images/imagetools1.png" width="150"/>
-<image src="images/imagetools2.png" width="150"/>
-<image src="images/imagetools3.png" width="150"/>
-<image src="images/imagetools4.png" width="150"/>
+
+
+
+
+<image src="images/imagetools3.png"/>
+<image src="images/imagetools4.png"/>
 
 ### 4 step approach
 #### Step 1
 
 Eerst heb ik een inventarisatie gemaakt van alle artikelen op (de Nederlandstalige) Wikipedia die één of meer links naar Delpher of DBNL bevatten. Dat doe je met dit tooltje, daar stop je een URL (of eigenlijk een URL-patroon) in, en je krijgt dan een lijst van artikelen waarin dat URL-patroon voorkomt. Onderstaande screenshot van dat tooltje is gebaseerd op de URL *[https://www.delpher.nl](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=external-link&start=2018-02-21&end=2020-02-05&project=nl.wikipedia.org&target=https%3A%2F%2Fwww.delpher.nl&sort=views&direction=1&view=list&target=https://www.delpher.nl)* (click for live tool)
 
+<image src="images/image_2194896221588784171279.png" width="800"/>
+
 Als je dit tooltje gebruikt voor alle Delpher-urls (vergeet daarbij resolver-urls zoals http://resolver.kb.nl/resolve?urn=ddd niet!, zie kolom 3 van deze tabel voor alle gebruikte url-patronen) en vervolgens de resulterende lijsten samenvoegt, ontdubbelt en omzet naar Excel, krijg je uiteindelijk een lijst van zo'n 6800 artikelen waarin een of meerdere Delpher-urls voorkomen.
+
+<image src="images/imagetools1.png"/>
 
 Een vergelijkbaar proces voor DBNL (url-patroon http(s)://*.dbnl.org) levert een lijst van ruim 7600 unieke Wikipedia-artikelen op.
 
@@ -67,13 +67,19 @@ Een vergelijkbaar proces voor DBNL (url-patroon http(s)://*.dbnl.org) levert een
 
 Toen ik eenmaal die artikellijsten had, heb ik voor elk artikel bepaald welke (en hoeveel) externe links het precies bevat, en bepaald welke van die links naar Delpher (of DBNL) wijzen. Dit heb ik gedaan m.b.v. van de MediaWiki API en een Python script (voor Delpher en voor DBNL). In onderstaand screenshot van het Delpher-script zie je dat er gefilterd wordt op o.a. de resolver-urls van de Delpher Kranten Basiscollectie.
 
+<image src="images/image_78079566521588266716668.png"/>
+
 Deze stap levert dan uiteindelijk een Excel op die er (voor Delpher) als volgt uitziet:
+
+<image src="images/imagetools0.png"/>
 
 In bv. het artikel [...die_Revolutie_niet_begrepen!...]() zitten dus 16 externe links waarvan er 9 naar Delpher wijzen.
 
 #### Step 3
 
 Omdat we op zoek zijn naar artikelen die geheel of grotendeels gebaseerd op zijn op inhoud uit Delpher (of DBNL), is het vervolgens nuttig om naar de zgn. linkratio te kijken. Dat is de verhouding tussen het totaal aantal externe links, en het aantal daarvan dat naar Delpher verwijst. Een linkratio van 1,00 betekent dat alle externe links in een artikel Delpher-links zijn. Hoe lager de linkratio, deze kleiner het relatief aantal Delpher-links in het artikel.
+
+<image src="images/imagetools2.png"/>
 
 #### Step 4
 
@@ -89,6 +95,8 @@ In de keuze van beide drempels zit enige vrijheid, ik heb de volgende gehanteerd
 
 Voor Delpher krijg je dan dit:
 
+<image src="images/image_10658527031588781879393.png">
+
 ### Bevindingen
 
 De zo gevonden artikelen zijn plekken waar sterke aggregatie en herpublicatie van Delpher-content plaatsvindt. Met andere woorden: In dit soort artikelen wordt informatie uit Delpher over personen, plaatsen, gebeurtenissen en andere onderwerpen voor een miljoenenpubliek samengebracht. Idem voor DBNL.
@@ -99,8 +107,13 @@ Voor Delpher
 
     Er zijn 193 artikelen die hun bestaan (grotendeels) aan Delpher te danken hebben.
     Het artikel Lijst van historische Nederlandse netnummers bevat de meeste Delpher-links, 165 van de 195 externe links, met bovengenoemde Hotel Des Indes op de 2e plaats.
+    
+<image src="images/image_11235458251588782175115.png"/>
+    
     De onderwerpsbreedte van artikelen die Delpher als hoofdbron gebruiken is opvallend groot: van het vuilniswezen tot sjieke hotels, van politici tot ter dood veroordeelden, en van muziekprijzen tot sterrenrestaurants.
     Artikelen over sport - o.a. voetballers, jaaroverzichten van zwemkampioenschappen en korfbal - maken veelvuldig gebruik van Delpher, evenals lijsten van burgemeesters.
+
+<image src="images/image_68690689531588266794442.png"/>
 
 Voor DBNL
 
