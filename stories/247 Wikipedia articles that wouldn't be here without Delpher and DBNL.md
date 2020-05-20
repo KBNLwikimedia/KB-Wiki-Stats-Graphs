@@ -22,7 +22,7 @@ This post ... purpose
 *Or between a [children's song book](https://nl.wikipedia.org/wiki/Kinderliedboek) and the [literary magazine 'Forum' (1932-1935)](https://nl.wikipedia.org/wiki/Forum_(literair_tijdschrift))*?<br/>
 <kbd><image src="images/260px-Heije-kinderliederen-1847.jpg" height="150"/></kbd> <kbd><image src="images/for003193201_01_tpg.jpg" height="150"/></kbd>
 
-### Answer:
+### The answer:
 **The Dutch Wikipedia articles about these things probably wouldn't be there without Delpher or DBNL.** 
 In other words: the contents of these articles is fully (or to a large extent) based on the contents of Delpher and/or DBNL. These articles owe their existence to the KB as the content supplier and the Wikipedia community piecing together all those snippets of Delpher/DBNL content into Wikipedia articles for millions of potential readers.     
 
@@ -33,7 +33,7 @@ To be more specfific, last February I determined
 
 - *Which articles* on Dutch Wikipedia contain one or more references (links, URLs) to websites of the KB, specifically to Delpher and DBNL. In other words: which articles are partially or fully based on the content of KB websites ([more details in Dutch](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9))
 - *How often* these articles are requested every month ([more details in Dutch](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9))
-- *How many references* to KB websites all those articles contain ([more details in Dutch](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5)). After all, one single article can contain multiple references, which is cleary illustrated in the article about *[Hotel De Indes](https://nl.wikipedia.org/wiki/Hotel_Des_Indes_(Den_Haag))*, which contains no fewer than 74 links to Delpher Newspapers.
+- *How many references* to KB websites all those articles contain ([more details in Dutch](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5)). After all, one single article can contain multiple references, which is cleary illustrated in the article about [Hotel De Indes](https://nl.wikipedia.org/wiki/Hotel_Des_Indes_(Den_Haag)), which contains no fewer than 74 links to Delpher Newspapers.
 
 <kbd><image src="images/image_12425167721588761061236.png" width="800"/></kbd>
   
@@ -93,34 +93,30 @@ De zo gevonden artikelen zijn plekken waar sterke aggregatie en herpublicatie va
 
 Als je de zo verkregen overzichten van 'aggregatie-artikelen' bekijkt, zie je
 
-Voor Delpher
+#### [For Delpher](https://github.com/ookgezellig/KB-Wiki-Stats-Graphs/blob/master/KPI9/findExternalAndKBLinks/Delpher/Delpher_AggregationArticlesViews_05-02-2020.xlsx)
 
-    Er zijn 193 artikelen die hun bestaan (grotendeels) aan Delpher te danken hebben.
-    Het artikel Lijst van historische Nederlandse netnummers bevat de meeste Delpher-links, 165 van de 195 externe links, met bovengenoemde Hotel Des Indes op de 2e plaats.
-    
+- 193 articles owe their existence to Delpher to a large extend.
+- The article [Lijst van historische Nederlandse netnummers](https://nl.wikipedia.org/wiki/Lijst_van_historische_Nederlandse_netnummers) holds most Delpher links, 165 out of the [195 external links](https://nl.wikipedia.org/w/api.php?action=query&titles=Lijst%20van%20historische%20Nederlandse%20netnummers&prop=extlinks&format=json&ellimit=500), with the above *Hotel Des Indes* coming second.
 <kbd><image src="images/image_11235458251588782175115.png"/></kbd>
-    
-    De onderwerpsbreedte van artikelen die Delpher als hoofdbron gebruiken is opvallend groot: van het vuilniswezen tot sjieke hotels, van politici tot ter dood veroordeelden, en van muziekprijzen tot sterrenrestaurants.
-    Artikelen over sport - o.a. voetballers, jaaroverzichten van zwemkampioenschappen en korfbal - maken veelvuldig gebruik van Delpher, evenals lijsten van burgemeesters.
+- The subject width of  articles using Delpher as their main source is very large: from the garbage industry to luxury hotels, from politicians to people condemned to death and from music awards to Michelin-starred restaurants.
+- Articles about sports - e.g. soccer players, annual overviews of swimming championships and [korfball](https://en.wikipedia.org/wiki/Korfball) - heavily rely on Delpher, similar to articles listing mayors (*burgemeesters*) of Dutch towns and villages.
 
 <kbd><image src="images/image_2194896221588784171279.png" width="800"/></kbd>
 
+#### [For DBNL](https://github.com/ookgezellig/KB-Wiki-Stats-Graphs/blob/master/KPI9/findExternalAndKBLinks/DBNL/DBNL_AggregationArticlesViews_05-02-2020.xlsx)
 
-Voor DBNL
-
--Er zijn 54 artikelen die hun bestaan grotendeels aan DBNL te danken hebben.
--Joost van den Vondel bevat de meeste DBNL-links, 32 van de 44 in totaal.
+- 54 articles owe their existence to DBNL to a large extend.
+- [Joost van den Vondel](https://nl.wikipedia.org/wiki/Joost_van_den_Vondel) bevat de meeste DBNL-links, 32 van de [44 in totaal](https://nl.wikipedia.org/w/api.php?action=query&titles=Joost%20van%20den%20Vondel&prop=extlinks&format=json&ellimit=500).
 <kbd><image src="images/imagetools3.png"/></kbd>
+- In particular articles related to Dutch literature, writers, poets, books etc. use DBNL as the main source. The subject width of DBNL-based articles is much smaller than those based on Delpher. However, given the contents and theme of DBNL this is hardly a surprise.
 
--Vooral artikelen die te maken hebben met Nederlandse letterkunde, schrijvers, boeken, dichters, literatuur ed. maken gebruik van DBNL als hoofdbron. De onderwerpsbreedte van op DBNL gebaseerde artikelen is een stuk kleiner dan die van Delpher. Dit zijn gezien de inhoud en thematiek van DBNL geen verrassingen.
+### 33.000 views every month
 
-### Elke maand 33.000 views
+All very well these Wikpedia articles heavily based on Delpher and/or DBNL, but are they actually read by the public? I also looked into that.    
 
-    Leuk en aardig, al die Wikipedia-artikelen waarin de inhoud van Delpher (DBNL) voor een breed publiek beschikbaar wordt gemaakt, maar worden die artikelen nou ook een beetje gelezen? Ook dat heb ik uitgezocht.
+The tool mentioned above ovengenoemde tooltje geeft voor elk artikel ook het aantal opvragingen (pageviews) in een bepaalde periode, in dit geval is dat (bijna) 2 jaar van 21-02-2018 t/m 05-02-2020.
 
-    Het bovengenoemde tooltje geeft voor elk artikel ook het aantal opvragingen (pageviews) in een bepaalde periode, in dit geval is dat (bijna) 2 jaar van 21-02-2018 t/m 05-02-2020.
-
-<kbd><image src="images/imagetools4.png"/></kbd>
+<kbd><image src="images/imagetools4.png" width="600"/></kbd>
 
 Hierdoor kunnen we het totaal aantal opvragingen van deze 193 Delpher- en 54 DBNL-aggregatieartikelen in die twee jaar bepalen.
 
@@ -131,12 +127,12 @@ Opgeteld komt dit dus neer op 789.534 pagewiews, oftewel 33.000 opvragingen per 
 
 Omdat dit opvragingen zijn van 'pure, onverdunde' KB-content - weliswaar buiten de eigen diensten - kunnen deze extra pageviews onverkort bij de bestaande KB-indicatoren over publieksbereik opgeteld worden (zie ook hier)
 
-### Raw data
+### Underlying data
 
-Bovenstaande uitleg is ook [beschikbaar op Wikipedia](). De achterliggende data zijn beschikbaar here on Github:
+The approach described above is also [explained on Dutch Wikipedia](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9#Artikelen_sterk_gebaseerd_op_Delpher_en/of_DBNL). The underlying data is available here on Github:
 
--[Lijst van Delpher aggregatieartikelen]()
--[Lijst van DBNL aggregatieartikelen}()
+- [List of Delpher aggregation articles](/KPI9/findExternalAndKBLinks/Delpher/Delpher_AggregationArticlesViews_05-02-2020.xlsx)
+- [List of DBNL aggregation articles](/KPI9/findExternalAndKBLinks/DBNL/DBNL_AggregationArticlesViews_05-02-2020.xlsx)
 
 
 
