@@ -56,18 +56,18 @@ I used a similar workflow for DBNL (URL pattern [*http(s)://\*.dbnl.org*](https:
 #### Step 2
 Once I had those article lists, I determined for each article which (and how many) external links it contains, and which of those links point to Delpher (or DBNL). I did this using the [MediaWiki API](https://www.mediawiki.org/wiki/API:Extlinks) and Python script ([for Delpher](https://github.com/ookgezellig/KB-Wiki-Stats-Graphs/blob/master/KPI9/findExternalAndKBLinks/Delpher/findExternalAndDelpherLinks.py) and [for DBNL](https://github.com/ookgezellig/KB-Wiki-Stats-Graphs/blob/master/KPI9/findExternalAndKBLinks/DBNL/findExternalAndDBNLlinks.py)). In the screenshot below of the Delpher script you can see that filtering is done on the resolver URLs of the [Delpher Newspapers](https://www.delpher.nl/nl/kranten) subset.
 
-<kbd><image src="images/image_78079566521588266716668.png"/></kbd>
+<kbd><image src="images/image_78079566521588266716668.png" width="600"/></kbd>
 
 This step eventually yields an Excel that (for Delpher) looks like this:
 
 <kbd><image src="images/imagetools0.png"/></kbd>
 
-For example, the article [... die_Revolution_niet_bijfers! ...](https://nl.wikipedia.org/wiki/...die_Revolutie_niet_begrepen!...) contains [16 external links](https://nl.wikipedia.org/w/api.php?action=query&titles=...die_Revolutie_niet_begrepen!...&prop=extlinks&format=json&ellimit=500), 9 of which point to Delpher.
+For example, the article ["...die_Revolutie_niet_begrepen!..."](https://nl.wikipedia.org/wiki/...die_Revolutie_niet_begrepen!...) contains [16 external links](https://nl.wikipedia.org/w/api.php?action=query&titles=...die_Revolutie_niet_begrepen!...&prop=extlinks&format=json&ellimit=500), 9 of which point to Delpher.
 
 #### Step 3
 Because we are looking for articles that are entirely or largely based on the contents from Delpher (or DBNL), it is useful to look at the so-called *linkratio* . That is the ratio of the total number of external links, and the number of those that link to Delpher. A linkratio of 1.00 means that *all* external links in an article are Delpher links. The lower the linkratio, the smaller the relative number of Delpher links in the article.
 
-<kbd><image src="images/imagetools2.png"/></kbd>
+<kbd><image src="images/imagetools2.png" width="600"/></kbd>
 
 #### Step 4
 
@@ -82,10 +82,9 @@ There is some freedom in the choice of both thresholds, I have used the followin
 
 This results in the following picture for Delpher
 
-<kbd><image src="images/image_10658527031588781879393.png"></kbd>
+<kbd><image src="images/image_10658527031588781879393.png" width="600"/></kbd>
 
 ### Findings
-
 The articles found in this way are **places where strong aggregation and republication of Delpher content takes place.** In other words: *This type of article brings together information from Delpher related to  people, places, events and other topics for a wide audience, as 80% of the Netherlands reads Wikipedia.* The same goes for DBNL.
 
 If you look at the lists of 'aggregation articles' obtained in this way, you see
@@ -93,32 +92,29 @@ If you look at the lists of 'aggregation articles' obtained in this way, you see
 #### [For Delpher](https://github.com/ookgezellig/KB-Wiki-Stats-Graphs/blob/master/KPI9/findExternalAndKBLinks/Delpher/Delpher_AggregationArticlesViews_05-02-2020.xlsx)
 
 - 193 articles owe their existence to Delpher to a large extend.
-- The article [Lijst van historische Nederlandse netnummers](https://nl.wikipedia.org/wiki/Lijst_van_historische_Nederlandse_netnummers) holds most Delpher links, 165 out of the [195 external links](https://nl.wikipedia.org/w/api.php?action=query&titles=Lijst%20van%20historische%20Nederlandse%20netnummers&prop=extlinks&format=json&ellimit=500), with the above *Hotel Des Indes* coming second.
-<kbd><image src="images/image_11235458251588782175115.png"/></kbd>
+- The article [Lijst van historische Nederlandse netnummers](https://nl.wikipedia.org/wiki/Lijst_van_historische_Nederlandse_netnummers) holds most Delpher links, 165 out of the [195 external links](https://nl.wikipedia.org/w/api.php?action=query&titles=Lijst%20van%20historische%20Nederlandse%20netnummers&prop=extlinks&format=json&ellimit=500), with the above *Hotel Des Indes* coming second.<kbd><image src="images/image_11235458251588782175115.png" width="600"/></kbd>
 - The subject width of  articles using Delpher as their main source is very large: from the garbage industry to luxury hotels, from politicians to people condemned to death and from music awards to Michelin-starred restaurants.
 - Articles about sports - e.g. soccer players, annual overviews of swimming championships and [korfball](https://en.wikipedia.org/wiki/Korfball) - heavily rely on Delpher, similar to articles listing mayors (*burgemeesters*) of Dutch towns and villages.
-
-<kbd><image src="images/image_2194896221588784171279.png" width="800"/></kbd>
+<kbd><image src="images/image_2194896221588784171279.png" width="600"/></kbd>
 
 #### [For DBNL](https://github.com/ookgezellig/KB-Wiki-Stats-Graphs/blob/master/KPI9/findExternalAndKBLinks/DBNL/DBNL_AggregationArticlesViews_05-02-2020.xlsx)
 
 - 54 articles owe their existence to DBNL.
 - [Joost van den Vondel](https://nl.wikipedia.org/wiki/Joost_van_den_Vondel) bevat de meeste DBNL-links, 32 van de [44 in totaal](https://nl.wikipedia.org/w/api.php?action=query&titles=Joost%20van%20den%20Vondel&prop=extlinks&format=json&ellimit=500).
-<kbd><image src="images/imagetools3.png"/></kbd>
+<kbd><image src="images/imagetools3.png" width="600"/></kbd>
 - In particular articles related to Dutch literature, writers, poets, books etc. use DBNL as the main source. The subject width of DBNL-based articles is much smaller than those based on Delpher. However, given the contents and theme of DBNL this is hardly a surprise.
 
 ### 33.000 views every month
 All very well these Wikpedia articles heavily based on Delpher and/or DBNL, but are they actually read by the public? I also looked into that.    
 
 For each article, the tool mentioned above also gives the number of requests (page views) during a certain period, in this case it is (almost) 2 years,  from 21-02-2018 to 05-02-2020.
-
-<kbd><image src="images/imagetools4.png" width="600"/></kbd>
+<kbd><image src="images/imagetools4.png" width="500"/></kbd>
 
 This allows us to determine the total number of requests for these 193 Delpher and 54 DBNL aggregation articles during those two years.
 -For Delpher: 343.821 page views
 -For DBNL: 445.713 page views
 
-In total, this amounts to 789.534 page views, or 33.000 requests per month.
+In total, this amounts to 789.534 page views, or **33.000 requests per month.**
 
 ### Underlying data
 
