@@ -32,29 +32,27 @@ Every two years I measure a number of [indicators about the reach and reuse of K
 
 To be more specfific, last February I determined
 
-- Which articles on Dutch Wikipedia contain one or more references (links, URLs) to websites of the KB, specifically to Delpher and DBNL. De inhoud van deze artikelen is m.a.w. gedeeltelijk of geheel gebaseerd op inhoud uit deze KB-diensten ([more details](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9))
-- Hoe vaak die artikelen gemiddeld per maand worden opgevraagd ([more details](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9))
-- Hoeveel KB-bronvermeldingen er in al die Wikipedia artikelen zitten ([more details](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5)). 
-Eén artikel kan immers meerdere bronvermeldingen bevatten. 
-You see this very clearly in the article about *[Hotel De Indes](https://nl.wikipedia.org/wiki/Hotel_Des_Indes_(Den_Haag))*, containing no fewer than 74 links to Delpher Newspapers.
+- *Which articles* on Dutch Wikipedia contain one or more references (links, URLs) to websites of the KB, specifically to Delpher and DBNL. In other words: which articles are partially or fully based on the content of KB websites ([more details in Dutch](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9))
+- *How often* these articles are requested every month ([more details in Dutch](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9))
+- *How many references* to KB websites all those articles contain ([more details in Dutch](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5)). After all, one single article can contain multiple references, which is cleary illustrated in the article about *[Hotel De Indes](https://nl.wikipedia.org/wiki/Hotel_Des_Indes_(Den_Haag))*, which contains no fewer than 74 links to Delpher Newspapers.
 
 <image src="images/image_12425167721588761061236.png" width="800"/>
   
-Tijdens dit meetproces begon het me op te vallen dat er aardig wat Hotel Des Indes-achtige artikelen zijn: artikelen die opvallend veel links naar met name Delpher en DBNL bevatten. Dat wekte mijn nieuwsgierigheid, dus ik ben er eens wat dieper en systematischer ingedoken.....
+While measuring this I started to notice more *Hotel Des Indes*-like articles: articles containing remarkably many links to especially Delpher and DBNL. This triggered my curiosity, so I decided to investigate deeper.....
 
 
-### 4 step approach
+### Approach in 4 steps
 #### Step 1
 
-Eerst heb ik een inventarisatie gemaakt van alle artikelen op (de Nederlandstalige) Wikipedia die één of meer links naar Delpher of DBNL bevatten. Dat doe je met dit tooltje, daar stop je een URL (of eigenlijk een URL-patroon) in, en je krijgt dan een lijst van artikelen waarin dat URL-patroon voorkomt. Onderstaande screenshot van dat tooltje is gebaseerd op de URL *[https://www.delpher.nl](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=external-link&start=2018-02-21&end=2020-02-05&project=nl.wikipedia.org&target=https%3A%2F%2Fwww.delpher.nl&sort=views&direction=1&view=list&target=https://www.delpher.nl)* (click for live tool)
+I started out by making an overview of all articles on Dutch Wikipedia containing one or more links to Delpher or DBNL. I did this using [this tool](https://tools.wmflabs.org/massviews/), which takes a URL (or rather a URL pattern) as input, and returns a list of articles containing that URL pattern. The screenshot below is based on the URL *[https://www.delpher.nl](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=external-link&start=2018-02-21&end=2020-02-05&project=nl.wikipedia.org&target=https%3A%2F%2Fwww.delpher.nl&sort=views&direction=1&view=list&target=https://www.delpher.nl)* (click for live tool, might take some time)
 
-<image src="images/image_2194896221588784171279.png" width="800"/>
+<image src="images/image_68690689531588266794442.png" width="600"/>
 
-Als je dit tooltje gebruikt voor alle Delpher-urls (vergeet daarbij resolver-urls zoals http://resolver.kb.nl/resolve?urn=ddd niet!, zie kolom 3 van deze tabel voor alle gebruikte url-patronen) en vervolgens de resulterende lijsten samenvoegt, ontdubbelt en omzet naar Excel, krijg je uiteindelijk een lijst van zo'n 6800 artikelen waarin een of meerdere Delpher-urls voorkomen.
+I used this tool for all Delpher URLs (don't forget the persistent KB-resolver URL patterns such as \http://resolver.kb.nl/resolve?urn=ddd\, see [column 3 of this table](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9/KPI9_KB_05-02-2020) for all URL patterns). I merged and de-duplicated the resulting lists, and converted the outcome to Excel, the final result is a [list of approx. 6.800 articles](https://github.com/ookgezellig/KB-Wiki-Stats-Graphs/blob/master/KPI9/KPI9-08-DelpherTotaal_21-02-2018_05-02-2020.xlsx) containing one or more Delpher URLs.
 
-<image src="images/imagetools1.png"/>
+<image src="images/imagetools1.png" width="500"/>
 
-Een vergelijkbaar proces voor DBNL (url-patroon http(s)://*.dbnl.org) levert een lijst van ruim 7600 unieke Wikipedia-artikelen op.
+I used a similar workflow for DBNL (URL pattern [*http(s)://\*.dbnl.org*](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=external-link&target=http://*.dbnl.org&start=2018-02-21&end=2020-02-05&project=nl.wikipedia.org&sort=views&direction=1&view=list)), resulting in a [list of over 7.600 unique Wikipedia articles](https://github.com/ookgezellig/KB-Wiki-Stats-Graphs/blob/master/KPI9/KPI9-09-DBNL_21-02-2018_05-02-2020.xlsx).
 
 #### Step 2
 
@@ -106,7 +104,8 @@ Voor Delpher
     De onderwerpsbreedte van artikelen die Delpher als hoofdbron gebruiken is opvallend groot: van het vuilniswezen tot sjieke hotels, van politici tot ter dood veroordeelden, en van muziekprijzen tot sterrenrestaurants.
     Artikelen over sport - o.a. voetballers, jaaroverzichten van zwemkampioenschappen en korfbal - maken veelvuldig gebruik van Delpher, evenals lijsten van burgemeesters.
 
-<image src="images/image_68690689531588266794442.png"/>
+<image src="images/image_2194896221588784171279.png" width="800"/>
+
 
 Voor DBNL
 
