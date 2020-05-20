@@ -11,17 +11,16 @@ This post ... purpose
 ### OK, let's go: Quiz time!
 
 *What is the connection between a [garbage man](https://nl.wikipedia.org/wiki/Vuilnisman), a [garbage bag](https://nl.wikipedia.org/wiki/Vuilniszak) and a [garbage truck](https://nl.wikipedia.org/wiki/Vuilniswagen)?*<br/>
-<image src="images/garbage-2354422_960_720.jpg" height="150"/> <image src="images/220px-Vuilniszak.jpg" height="150"/>
- <image src="images/260px-Eboueurs_20100508_Aix-en-Provence_1.jpg" height="150"/>
+<kbd><image src="images/garbage-2354422_960_720.jpg" height="150"/></kbd> <kbd><image src="images/220px-Vuilniszak.jpg" height="150"/></kbd> <kbd><image src="images/260px-Eboueurs_20100508_Aix-en-Provence_1.jpg" height="150"/></kbd>
 
 *Or between the Dutch soccer players [Cor van der Gijp](https://nl.wikipedia.org/wiki/Cor_van_der_Gijp), [Gerrie ter Horst](https://nl.wikipedia.org/wiki/Gerrie_ter_Horst) and [Joop van Daele](https://nl.wikipedia.org/wiki/Joop_van_Daele)?*<br/> 
-<image src="images/Cor_van_der_Gijp_1954b.jpg" height="150"/> <image src="images/266px-Sparta_tegen_Ajax_2-1,_Cruijff_in_duel_met_Ter_Horst_(l),_Bestanddeelnr_920-0595.jpg" height="150"/> <image src="images/Joop_van_Daele_(1976).jpg" height="150"/>
+<kbd><image src="images/Cor_van_der_Gijp_1954b.jpg" height="150"/></kbd> <kbd><image src="images/266px-Sparta_tegen_Ajax_2-1,_Cruijff_in_duel_met_Ter_Horst_(l),_Bestanddeelnr_920-0595.jpg" height="150"/></kbd> <kbd><image src="images/Joop_van_Daele_(1976).jpg" height="150"/></kbd>
 
 *Or between [Hotel Des Indes](https://nl.wikipedia.org/wiki/Hotel_Des_Indes_(Den_Haag)) and the [International Press Museum](https://nl.wikipedia.org/wiki/Internationaal_Persmuseum), both located in The Hague, The Netherlands?*<br/>
-<image src="images/DenHaagHotelDesIndes.JPG" height="150"/> <image src="images/266px-Den_Haag_-_Javastraat_32_(2018).jpg" height="150"/>
+<kbd><image src="images/DenHaagHotelDesIndes.JPG" height="150"/></kbd> <kbd><image src="images/266px-Den_Haag_-_Javastraat_32_(2018).jpg" height="150"/></kbd>
 
 *Or between a [children's song book](https://nl.wikipedia.org/wiki/Kinderliedboek) and the [literary magazine 'Forum' (1932-1935)](https://nl.wikipedia.org/wiki/Forum_(literair_tijdschrift))*?<br/>
-<image src="images/260px-Heije-kinderliederen-1847.jpg" height="150"/> <image src="images/for003193201_01_tpg.jpg" height="150"/>
+<kbd><image src="images/260px-Heije-kinderliederen-1847.jpg" height="150"/></kbd> <kbd><image src="images/for003193201_01_tpg.jpg" height="150"/></kbd>
 
 ### Answer:
 **The Dutch Wikipedia articles about these things probably wouldn't be there without Delpher or DBNL.** 
@@ -36,7 +35,7 @@ To be more specfific, last February I determined
 - *How often* these articles are requested every month ([more details in Dutch](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9))
 - *How many references* to KB websites all those articles contain ([more details in Dutch](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5)). After all, one single article can contain multiple references, which is cleary illustrated in the article about *[Hotel De Indes](https://nl.wikipedia.org/wiki/Hotel_Des_Indes_(Den_Haag))*, which contains no fewer than 74 links to Delpher Newspapers.
 
-<image src="images/image_12425167721588761061236.png" width="800"/>
+<kbd><image src="images/image_12425167721588761061236.png" width="800"/></kbd>
   
 While measuring this I started to notice more *Hotel Des Indes*-like articles: articles containing remarkably many links to especially Delpher and DBNL. This triggered my curiosity, so I decided to investigate deeper.....
 
@@ -46,23 +45,23 @@ While measuring this I started to notice more *Hotel Des Indes*-like articles: a
 
 I started out by making an overview of all articles on Dutch Wikipedia containing one or more links to Delpher or DBNL. I did this using [this tool](https://tools.wmflabs.org/massviews/), which takes a URL (or rather a URL pattern) as input, and returns a list of articles containing that URL pattern. The screenshot below is based on the URL *[https://www.delpher.nl](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=external-link&start=2018-02-21&end=2020-02-05&project=nl.wikipedia.org&target=https%3A%2F%2Fwww.delpher.nl&sort=views&direction=1&view=list&target=https://www.delpher.nl)* (click for live tool, might take some time)
 
-<image src="images/image_68690689531588266794442.png" width="600"/>
+<kbd><image src="images/image_68690689531588266794442.png" width="600"/></kbd>
 
-I used this tool for all Delpher URLs (don't forget the persistent KB-resolver URL patterns such as \http://resolver.kb.nl/resolve?urn=ddd\, see [column 3 of this table](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9/KPI9_KB_05-02-2020) for all URL patterns). I merged and de-duplicated the resulting lists, and converted the outcome to Excel, the final result is a [list of approx. 6.800 articles](https://github.com/ookgezellig/KB-Wiki-Stats-Graphs/blob/master/KPI9/KPI9-08-DelpherTotaal_21-02-2018_05-02-2020.xlsx) containing one or more Delpher URLs.
+I used this tool for all Delpher URLs (don't forget the persistent KB-resolver URL patterns such as <span>http://resolver.kb.nl/resolve?urn=ddd</span>, see [column 3 of this table](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9/KPI9_KB_05-02-2020) for all URL patterns). I merged and de-duplicated the resulting lists, and converted the outcome to Excel, the final result is a [list of approx. 6.800 articles](https://github.com/ookgezellig/KB-Wiki-Stats-Graphs/blob/master/KPI9/KPI9-08-DelpherTotaal_21-02-2018_05-02-2020.xlsx) containing one or more Delpher URLs.
 
-<image src="images/imagetools1.png" width="500"/>
+<kbd><image src="images/imagetools1.png" width="400"/></kbd>
 
-I used a similar workflow for DBNL (URL pattern [*http(s)://\*.dbnl.org*](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=external-link&target=http://*.dbnl.org&start=2018-02-21&end=2020-02-05&project=nl.wikipedia.org&sort=views&direction=1&view=list)), resulting in a [list of over 7.600 unique Wikipedia articles](https://github.com/ookgezellig/KB-Wiki-Stats-Graphs/blob/master/KPI9/KPI9-09-DBNL_21-02-2018_05-02-2020.xlsx).
+I used a similar workflow for DBNL (URL pattern [*http(s)://\*.dbnl.org*](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=external-link&target=http://*.dbnl.org&start=2018-02-21&end=2020-02-05&project=nl.wikipedia.org&sort=views&direction=1&view=list)), resulting in a [list of just over 7.600 unique Wikipedia articles](https://github.com/ookgezellig/KB-Wiki-Stats-Graphs/blob/master/KPI9/KPI9-09-DBNL_21-02-2018_05-02-2020.xlsx).
 
 #### Step 2
 
-Toen ik eenmaal die artikellijsten had, heb ik voor elk artikel bepaald welke (en hoeveel) externe links het precies bevat, en bepaald welke van die links naar Delpher (of DBNL) wijzen. Dit heb ik gedaan m.b.v. van de MediaWiki API en een Python script (voor Delpher en voor DBNL). In onderstaand screenshot van het Delpher-script zie je dat er gefilterd wordt op o.a. de resolver-urls van de Delpher Kranten Basiscollectie.
+When I had these article lists, heb ik voor elk artikel bepaald welke (en hoeveel) externe links het precies bevat, en bepaald welke van die links naar Delpher (of DBNL) wijzen. Dit heb ik gedaan m.b.v. van de [MediaWiki API](https://www.mediawiki.org/wiki/API:Extlinks) en een Python script ([for Delpher](https://github.com/ookgezellig/KB-Wiki-Stats-Graphs/blob/master/KPI9/findExternalAndKBLinks/Delpher/findExternalAndDelpherLinks.py) and [for DBNL](https://github.com/ookgezellig/KB-Wiki-Stats-Graphs/blob/master/KPI9/findExternalAndKBLinks/DBNL/findExternalAndDBNLlinks.py)). In onderstaand screenshot van het Delpher-script zie je dat er gefilterd wordt op o.a. de resolver-urls van de Delpher Kranten Basiscollectie.
 
-<image src="images/image_78079566521588266716668.png"/>
+<kbd><image src="images/image_78079566521588266716668.png"/></kbd>
 
 Deze stap levert dan uiteindelijk een Excel op die er (voor Delpher) als volgt uitziet:
 
-<image src="images/imagetools0.png"/>
+<kbd><image src="images/imagetools0.png"/></kbd>
 
 In bv. het artikel [...die_Revolutie_niet_begrepen!...]() zitten dus 16 externe links waarvan er 9 naar Delpher wijzen.
 
@@ -70,7 +69,7 @@ In bv. het artikel [...die_Revolutie_niet_begrepen!...]() zitten dus 16 externe 
 
 Omdat we op zoek zijn naar artikelen die geheel of grotendeels gebaseerd op zijn op inhoud uit Delpher (of DBNL), is het vervolgens nuttig om naar de zgn. linkratio te kijken. Dat is de verhouding tussen het totaal aantal externe links, en het aantal daarvan dat naar Delpher verwijst. Een linkratio van 1,00 betekent dat alle externe links in een artikel Delpher-links zijn. Hoe lager de linkratio, deze kleiner het relatief aantal Delpher-links in het artikel.
 
-<image src="images/imagetools2.png"/>
+<kbd><image src="images/imagetools2.png"/></kbd>
 
 #### Step 4
 
@@ -86,7 +85,7 @@ In de keuze van beide drempels zit enige vrijheid, ik heb de volgende gehanteerd
 
 Voor Delpher krijg je dan dit:
 
-<image src="images/image_10658527031588781879393.png">
+<kbd><image src="images/image_10658527031588781879393.png"></kbd>
 
 ### Bevindingen
 
@@ -99,19 +98,19 @@ Voor Delpher
     Er zijn 193 artikelen die hun bestaan (grotendeels) aan Delpher te danken hebben.
     Het artikel Lijst van historische Nederlandse netnummers bevat de meeste Delpher-links, 165 van de 195 externe links, met bovengenoemde Hotel Des Indes op de 2e plaats.
     
-<image src="images/image_11235458251588782175115.png"/>
+<kbd><image src="images/image_11235458251588782175115.png"/></kbd>
     
     De onderwerpsbreedte van artikelen die Delpher als hoofdbron gebruiken is opvallend groot: van het vuilniswezen tot sjieke hotels, van politici tot ter dood veroordeelden, en van muziekprijzen tot sterrenrestaurants.
     Artikelen over sport - o.a. voetballers, jaaroverzichten van zwemkampioenschappen en korfbal - maken veelvuldig gebruik van Delpher, evenals lijsten van burgemeesters.
 
-<image src="images/image_2194896221588784171279.png" width="800"/>
+<kbd><image src="images/image_2194896221588784171279.png" width="800"/></kbd>
 
 
 Voor DBNL
 
 -Er zijn 54 artikelen die hun bestaan grotendeels aan DBNL te danken hebben.
 -Joost van den Vondel bevat de meeste DBNL-links, 32 van de 44 in totaal.
-<image src="images/imagetools3.png"/>
+<kbd><image src="images/imagetools3.png"/></kbd>
 
 -Vooral artikelen die te maken hebben met Nederlandse letterkunde, schrijvers, boeken, dichters, literatuur ed. maken gebruik van DBNL als hoofdbron. De onderwerpsbreedte van op DBNL gebaseerde artikelen is een stuk kleiner dan die van Delpher. Dit zijn gezien de inhoud en thematiek van DBNL geen verrassingen.
 
@@ -121,7 +120,7 @@ Voor DBNL
 
     Het bovengenoemde tooltje geeft voor elk artikel ook het aantal opvragingen (pageviews) in een bepaalde periode, in dit geval is dat (bijna) 2 jaar van 21-02-2018 t/m 05-02-2020.
 
-<image src="images/imagetools4.png"/>
+<kbd><image src="images/imagetools4.png"/></kbd>
 
 Hierdoor kunnen we het totaal aantal opvragingen van deze 193 Delpher- en 54 DBNL-aggregatieartikelen in die twee jaar bepalen.
 
