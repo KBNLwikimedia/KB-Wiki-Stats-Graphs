@@ -1,10 +1,10 @@
 ## 247 Wikipedia articles that wouldn't be here without Delpher and DBNL, with 33.000 views each month
-Latest update: 20 May 2020
+*Latest update: 20 May 2020*
 
 This post ... purpose 
 ********
 ### Three key players: Delpher, DBNL and KB
-To understand the rest of this post, first a short explantion about three key players:  
+To understand the rest of this post, I'll start with a short introduction of three key players:  
 
 <image src="images/delpher_logo.png" align="left" width="70"/> [Delpher](https://www.delpher.nl) is a website containing over 100 million full-text digitized pages from Dutch [historical newspapers](https://www.delpher.nl/nl/kranten), books and periodicals.<br/> <br/> 
 <image src="images/dbnl_logo.png" align="left" width="70"/> [DBNL](https://www.dbnl.org/) is the Digital Library for Dutch Literature (Dutch: *Digitale Bibliotheek voor de Nederlandse Letteren*, DBNL), a website about Dutch language and Dutch literature. It contains thousands of literary texts, secondary literature and additional information, like biographies, portrayals etcetera, and hyperlinks. <br/> <br/> 
@@ -26,23 +26,21 @@ To understand the rest of this post, first a short explantion about three key pl
 
 ### The answer:
 **The Dutch Wikipedia articles about these things probably wouldn't be there without Delpher or DBNL.** 
-In other words: the contents of these articles is fully (or to a large extent) based on the contents of Delpher and/or DBNL. These articles owe their existence to the KB as the content supplier and the Wikipedia community piecing together all those snippets of Delpher/DBNL content into Wikipedia articles for millions of potential readers.     
+In other words: the contents of these articles is fully (or at least to a large extent) based on the contents of Delpher and/or DBNL. These articles owe their existence to the KB as the content supplier and the Wikipedia community piecing together all those snippets of Delpher/DBNL content into Wikipedia articles for millions of potential readers.     
 
 ### A more detailed look
-Every two years I measure a number of [indicators about the reach and reuse of KB collections via the Wikimedia platforms](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten), most recently in February 2020. I would like to share one of the insights I gained from that analysis: *Dutch Wikipedia contains numerous articles that would not have existed today without Delpher and/or DBNL.*
+Every two years I measure a number of [indicators about the reach and reuse of KB collections via the Wikimedia platforms](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten), most recently in February 2020. I would like to share one of the insights I gained from that analysis: *Dutch Wikipedia contains dozens of articles that would not have existed today without Delpher and/or DBNL.*
 
 To be more specfific, last February I determined
 
 - *Which articles* on Dutch Wikipedia contain one or more references (links, URLs) to websites of the KB, specifically to Delpher and DBNL. In other words: which articles are partially or fully based on the content of KB websites ([more details in Dutch](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9))
 - *How often* these articles are requested every month ([more details in Dutch](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9))
-- *How many references* to KB websites all those articles contain ([more details in Dutch](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5)). After all, one single article can contain multiple references, which is cleary illustrated in the article about [Hotel De Indes](https://nl.wikipedia.org/wiki/Hotel_Des_Indes_(Den_Haag)), which contains no fewer than 74 links to Delpher Newspapers.
+- *How many references* to KB websites all those articles contain ([more details in Dutch](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5)). After all, one single article can contain multiple references. This is cleary illustrated in the article about [Hotel Des Indes](https://nl.wikipedia.org/wiki/Hotel_Des_Indes_(Den_Haag)), which contains no fewer than 74 links to newspaper articles in Delpher.
 
 <kbd><image src="images/image_12425167721588761061236.png" width="800"/></kbd>
-  
-While measuring this I started to notice more *Hotel Des Indes*-like articles: articles containing remarkably many links to especially Delpher and DBNL. This triggered my curiosity, so I decided to investigate deeper.....
-
 
 ### Approach in 4 steps
+During this measurement process I noticed that there are quite a few *Hotel Des Indes*-like articles: articles containing a striking amount of links to Delpher and/or DBNL. That triggered my curiosity, so I went deeper and more systematic, in 4 steps.
 
 #### Step 1
 I started out by making an overview of all articles on Dutch Wikipedia containing one or more links to Delpher or DBNL. I did this using [this tool](https://tools.wmflabs.org/massviews/), which takes a URL (or rather a URL pattern) as input, and returns a list of articles containing that URL pattern. The screenshot below is based on the URL *[https://www.delpher.nl](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=external-link&start=2018-02-21&end=2020-02-05&project=nl.wikipedia.org&target=https%3A%2F%2Fwww.delpher.nl&sort=views&direction=1&view=list&target=https://www.delpher.nl)* (click for live tool, might take some time)
