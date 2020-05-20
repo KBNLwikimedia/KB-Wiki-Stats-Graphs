@@ -24,27 +24,22 @@ This post ... purpose
 <image src="images/260px-Heije-kinderliederen-1847.jpg" height="150"/> <image src="images/for003193201_01_tpg.jpg" height="150"/>
 
 ### Answer:
-The Dutch Wikipedia articles about these things probably wouldn't be there without Delpher or DBNL. In other words: the contents of these articles is fully (or to a large extent) based on the contents of Delpher and/or DBNL. These articles owe their existence to the KB as the content supplier and the Wikipedia community piecing together all those snippets of Delpher/DBNL content into Wikipedia articles for millions of potential readers.     
+**The Dutch Wikipedia articles about these things probably wouldn't be there without Delpher or DBNL.** 
+In other words: the contents of these articles is fully (or to a large extent) based on the contents of Delpher and/or DBNL. These articles owe their existence to the KB as the content supplier and the Wikipedia community piecing together all those snippets of Delpher/DBNL content into Wikipedia articles for millions of potential readers.     
 
 ### A more detailed look
+Every two years I measure a number of [indicators about the reach and reuse of KB collections via the Wikimedia platforms](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten), most recently in February 2020. I would like to share one of the insights I gained from that analysis: *Dutch Wikipedia contains numerous articles that would not have existed today without Delpher and/or DBNL.*
 
-Elke twee jaar meet ik een aantal [indicatoren over het bereik en hergebruik van de KB-collectie via de Wikimedia-platformen](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten). In februari was het weer zover, ik zal daarover in latere Plein-posts nog uitgebreid verslag doen. Maar één van de inzichten die ik kreeg wil ik nu al graag met jullie delen: er staan op Wikipedia tientallen artikelen die er zonder Delpher en DBNL niet zouden zijn geweest.
+To be more specfific, last February I determined
 
-
-
-
-
-Iets specifieker, afgelopen februari heb ik gemeten
-
-    Welke artikelen op de Nederlandstalig Wikipedia één of meer verwijzingen naar KB-diensten bevatten, met name naar Delpher en DBNL. De inhoud van deze artikelen is m.a.w. gedeeltelijk of geheel gebaseerd op inhoud uit deze KB-diensten. (meer info)
-    Hoe vaak die artikelen gemiddeld per maand worden opgevraagd (meer info)
-    Hoeveel KB-bronvermeldingen er in al die Wikipedia artikelen zitten. (meer info)
-    Eén artikel kan immers meerdere bronvermeldingen bevatten. Dit zie je heel duidelijk in het artikel over Hotel De Indes, dat maar liefst 74 verwijzingen naar Delpher Kranten bevat.
+- Which articles on Dutch Wikipedia contain one or more references (links, URLs) to websites of the KB, specifically to Delpher and DBNL. De inhoud van deze artikelen is m.a.w. gedeeltelijk of geheel gebaseerd op inhoud uit deze KB-diensten ([more details](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9))
+- Hoe vaak die artikelen gemiddeld per maand worden opgevraagd ([more details](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9))
+- Hoeveel KB-bronvermeldingen er in al die Wikipedia artikelen zitten ([more details](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI5)). 
+Eén artikel kan immers meerdere bronvermeldingen bevatten. 
+You see this very clearly in the article about *[Hotel De Indes](https://nl.wikipedia.org/wiki/Hotel_Des_Indes_(Den_Haag))*, containing no fewer than 74 links to Delpher Newspapers.
 
 <image src="images/image_12425167721588761061236.png" width="800"/>
-    
-    
-
+  
 Tijdens dit meetproces begon het me op te vallen dat er aardig wat Hotel Des Indes-achtige artikelen zijn: artikelen die opvallend veel links naar met name Delpher en DBNL bevatten. Dat wekte mijn nieuwsgierigheid, dus ik ben er eens wat dieper en systematischer ingedoken.....
 
 
@@ -62,7 +57,7 @@ Tijdens dit meetproces begon het me op te vallen dat er aardig wat Hotel Des Ind
 ### 4 step approach
 #### Step 1
 
-Eerst heb ik een inventarisatie gemaakt van alle artikelen op (de Nederlandstalige) Wikipedia die één of meer links naar Delpher of DBNL bevatten. Dat doe je met dit tooltje, daar stop je een URL (of eigenlijk een URL-patroon) in, en je krijgt dan een lijst van artikelen waarin dat URL-patroon voorkomt. Onderstaande screenshot van dat tooltje is gebaseerd op de URL https://www.delpher.nl (klik voor live tool)
+Eerst heb ik een inventarisatie gemaakt van alle artikelen op (de Nederlandstalige) Wikipedia die één of meer links naar Delpher of DBNL bevatten. Dat doe je met dit tooltje, daar stop je een URL (of eigenlijk een URL-patroon) in, en je krijgt dan een lijst van artikelen waarin dat URL-patroon voorkomt. Onderstaande screenshot van dat tooltje is gebaseerd op de URL *[https://www.delpher.nl](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=external-link&start=2018-02-21&end=2020-02-05&project=nl.wikipedia.org&target=https%3A%2F%2Fwww.delpher.nl&sort=views&direction=1&view=list&target=https://www.delpher.nl)* (click for live tool)
 
 Als je dit tooltje gebruikt voor alle Delpher-urls (vergeet daarbij resolver-urls zoals http://resolver.kb.nl/resolve?urn=ddd niet!, zie kolom 3 van deze tabel voor alle gebruikte url-patronen) en vervolgens de resulterende lijsten samenvoegt, ontdubbelt en omzet naar Excel, krijg je uiteindelijk een lijst van zo'n 6800 artikelen waarin een of meerdere Delpher-urls voorkomen.
 
