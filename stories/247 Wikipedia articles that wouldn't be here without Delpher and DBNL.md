@@ -43,13 +43,6 @@ You see this very clearly in the article about *[Hotel De Indes](https://nl.wiki
 Tijdens dit meetproces begon het me op te vallen dat er aardig wat Hotel Des Indes-achtige artikelen zijn: artikelen die opvallend veel links naar met name Delpher en DBNL bevatten. Dat wekte mijn nieuwsgierigheid, dus ik ben er eens wat dieper en systematischer ingedoken.....
 
 
-
-
-
-
-<image src="images/imagetools3.png"/>
-<image src="images/imagetools4.png"/>
-
 ### 4 step approach
 #### Step 1
 
@@ -117,20 +110,24 @@ Voor Delpher
 
 Voor DBNL
 
-    Er zijn 54 artikelen die hun bestaan grotendeels aan DBNL te danken hebben.
-    Joost van den Vondel bevat de meeste DBNL-links, 32 van de 44 in totaal.
-    Vooral artikelen die te maken hebben met Nederlandse letterkunde, schrijvers, boeken, dichters, literatuur ed. maken gebruik van DBNL als hoofdbron. De onderwerpsbreedte van op DBNL gebaseerde artikelen is een stuk kleiner dan die van Delpher. Dit zijn gezien de inhoud en thematiek van DBNL geen verrassingen.
+-Er zijn 54 artikelen die hun bestaan grotendeels aan DBNL te danken hebben.
+-Joost van den Vondel bevat de meeste DBNL-links, 32 van de 44 in totaal.
+<image src="images/imagetools3.png"/>
 
-    Elke maand 33.000 views
+-Vooral artikelen die te maken hebben met Nederlandse letterkunde, schrijvers, boeken, dichters, literatuur ed. maken gebruik van DBNL als hoofdbron. De onderwerpsbreedte van op DBNL gebaseerde artikelen is een stuk kleiner dan die van Delpher. Dit zijn gezien de inhoud en thematiek van DBNL geen verrassingen.
+
+### Elke maand 33.000 views
 
     Leuk en aardig, al die Wikipedia-artikelen waarin de inhoud van Delpher (DBNL) voor een breed publiek beschikbaar wordt gemaakt, maar worden die artikelen nou ook een beetje gelezen? Ook dat heb ik uitgezocht.
 
     Het bovengenoemde tooltje geeft voor elk artikel ook het aantal opvragingen (pageviews) in een bepaalde periode, in dit geval is dat (bijna) 2 jaar van 21-02-2018 t/m 05-02-2020.
 
+<image src="images/imagetools4.png"/>
+
 Hierdoor kunnen we het totaal aantal opvragingen van deze 193 Delpher- en 54 DBNL-aggregatieartikelen in die twee jaar bepalen.
 
-    Voor Delpher: 343.821 pageviews
-    Voor DBNL: 445.713 pageviews
+-Voor Delpher: 343.821 pageviews
+-Voor DBNL: 445.713 pageviews
 
 Opgeteld komt dit dus neer op 789.534 pagewiews, oftewel 33.000 opvragingen per maand.
 
@@ -138,10 +135,10 @@ Omdat dit opvragingen zijn van 'pure, onverdunde' KB-content - weliswaar buiten 
 
 ### Raw data
 
-Bovenstaande uitleg is ook beschikbaar op Wikipedia. De achterliggende data zijn beschikbaar als Excel in de bijlagen, en op Github:
+Bovenstaande uitleg is ook [beschikbaar op Wikipedia](). De achterliggende data zijn beschikbaar here on Github:
 
-    Lijst van Delpher aggregatieartikelen
-    Lijst van DBNL aggregatieartikelen
+-[Lijst van Delpher aggregatieartikelen]()
+-[Lijst van DBNL aggregatieartikelen}()
 
 
 
