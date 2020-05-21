@@ -1,4 +1,6 @@
-## 247 Wikipedia articles that wouldn't be here without Delpher and DBNL, with 33.000 views each month
+## Detecting Wikipedia articles fully based on single library collections
+##### 247 Wikipedia articles that wouldn't be here without Delpher and DBNL, with 33.000 views each month
+
 *Latest update: 20 May 2020*
 
 This post ... purpose 
@@ -93,7 +95,8 @@ If you look at the lists of the 'aggregation articles' obtained in this way, you
 #### [For Delpher](/KPI9/findExternalAndKBLinks/Delpher/Delpher_AggregationArticlesViews_05-02-2020.xlsx)
 
 - 193 articles owe their existence largely or fully to Delpher.
-- The article [Lijst van historische Nederlandse netnummers](https://nl.wikipedia.org/wiki/Lijst_van_historische_Nederlandse_netnummers) holds most Delpher links, 165 out of the [195 external links](https://nl.wikipedia.org/w/api.php?action=query&titles=Lijst%20van%20historische%20Nederlandse%20netnummers&prop=extlinks&format=json&ellimit=500), with the above *Hotel Des Indes* coming second.<kbd><image src="images/image_11235458251588782175115.png" width="600"/></kbd>
+- The article [Lijst van historische Nederlandse netnummers](https://nl.wikipedia.org/wiki/Lijst_van_historische_Nederlandse_netnummers) holds most Delpher links, 165 out of the [195 external links](https://nl.wikipedia.org/w/api.php?action=query&titles=Lijst%20van%20historische%20Nederlandse%20netnummers&prop=extlinks&format=json&ellimit=500), with the above *Hotel Des Indes* coming second.
+<kbd><image src="images/image_11235458251588782175115.png" width="600"/></kbd>
 - The subject width of  articles using Delpher as their main source is very large: from the garbage industry to luxury hotels, from politicians to people condemned to death and from music awards to Michelin-starred restaurants.
 - Articles about sports - e.g. soccer players, annual overviews of swimming championships and [korfball](https://en.wikipedia.org/wiki/Korfball) - heavily rely on Delpher, similar to articles listing mayors (*burgemeesters*) of Dutch towns and villages.
 <kbd><image src="images/image_2194896221588784171279.png" width="600"/></kbd>
@@ -123,3 +126,7 @@ The approach described above is also [explained on Dutch Wikipedia](https://nl.w
 
 - [List of Delpher aggregation articles](/KPI9/findExternalAndKBLinks/Delpher/Delpher_AggregationArticlesViews_05-02-2020.xlsx)
 - [List of DBNL aggregation articles](/KPI9/findExternalAndKBLinks/DBNL/DBNL_AggregationArticlesViews_05-02-2020.xlsx)
+
+### Reusing this article
+This text of this article is available under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) CC-BY 4.0 License. 
+<kbd><image src="images/cc-by.png" width="100"/></kbd>
