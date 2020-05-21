@@ -121,9 +121,9 @@ This allows us to determine the total number of requests for these 193 Delpher a
 
 In total, this amounts to 789.534 page views in 2 years, or an average of **33.000 requests per month.**
 
-### Underlying data
+### Raw data
 
-The approach described above is also [explained on Dutch Wikipedia](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9#Artikelen_sterk_gebaseerd_op_Delpher_en/of_DBNL). The underlying data is available here on Github:
+The approach described above is also [explained on Dutch Wikipedia](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI9#Artikelen_sterk_gebaseerd_op_Delpher_en/of_DBNL). The Excels from which the above screenshots were created are available here on Github:
 
 - [List of Delpher aggregation articles](/KPI9/findExternalAndKBLinks/Delpher/Delpher_AggregationArticlesViews_05-02-2020.xlsx)
 - [List of DBNL aggregation articles](/KPI9/findExternalAndKBLinks/DBNL/DBNL_AggregationArticlesViews_05-02-2020.xlsx)
