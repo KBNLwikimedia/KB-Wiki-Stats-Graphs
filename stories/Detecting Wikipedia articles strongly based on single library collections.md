@@ -1,9 +1,10 @@
 ## Detecting Wikipedia articles strongly based on single library collections ##
 #### ***247 Dutch Wikipedia articles that wouldn't be here without Delpher and DBNL, with 33.000 views each month***
 
-*Latest update: 21 May 2020*
+<sup>Olaf Janssen, 21 May 2020</sup>
 
-This post illustrates an approach to detect articles in Wikipedia that are fully or largely based on content from for source reference. Dutch Wikipedia two digital collection websites operated by the KB,  the national library of the Netherlands.
+*In this post I will illustrate an approach to detect Wikipedia articles whose contents are fully or largely based on content from a single online source, such as an online newspaper archive or a digital text library. I use Dutch Wikipedia, in which I track down 247 articles that use two full-text collections of the KB, the national library of the Netherlands, as their main sources.*
+
 ********
 ### Three key players: Delpher, DBNL and KB
 To understand the rest of this post, I'll start with a short introduction of three key players:  
@@ -128,11 +129,8 @@ The approach described above is also [explained on Dutch Wikipedia](https://nl.w
 - [List of DBNL aggregation articles](/KPI9/findExternalAndKBLinks/DBNL/DBNL_AggregationArticlesViews_05-02-2020.xlsx)
 
 ### About the author
-<img style="vertical-align:top" src="images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="100"/>
-<div style="text-align: left">Olaf Janssen is the Wikimedia coordinator of the national library of the Netherlands. He contributes to [Wikipedia](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bhttps://nl.wikipedia.org/wiki/Gebruiker:OlafJanssenibliotheek_en_Nationaal_Archief), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Koninklijke_Bibliotheek) and [Wikidata](https://www.wikidata.org/wiki/Wikidata:GLAM/Koninklijke_Bibliotheek_Nederland) as [User:OlafJanssen](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen)
-</div>
-
-
+<img align="right" src="images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="150"/>
+Olaf Janssen is the Wikimedia coordinator of the KB, the national library of the Netherlands. He contributes to [Wikipedia](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bhttps://nl.wikipedia.org/wiki/Gebruiker:OlafJanssenibliotheek_en_Nationaal_Archief), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Koninklijke_Bibliotheek) and [Wikidata](https://www.wikidata.org/wiki/Wikidata:GLAM/Koninklijke_Bibliotheek_Nederland) as [User:OlafJanssen](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen)
 
 ### Reusing this article
 This text of this article is available under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) CC-BY 4.0 License. 
