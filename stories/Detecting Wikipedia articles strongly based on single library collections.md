@@ -1,5 +1,5 @@
-## Detecting Wikipedia articles fully based on single library collections
-##### 247 Wikipedia articles that wouldn't be here without Delpher and DBNL, with 33.000 views each month
+## Detecting Wikipedia articles strongly based on single library collections
+#### 247 Wikipedia articles that wouldn't be here without Delpher and DBNL, with 33.000 views each month
 
 *Latest update: 20 May 2020*
 
