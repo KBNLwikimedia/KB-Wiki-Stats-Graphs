@@ -3,7 +3,7 @@
 
 <sup>Olaf Janssen, 21 May 2020</sup>
 
-*In this post I will illustrate an approach to detect Wikipedia articles whose contents are fully or largely based on content from a single online source, such as an online newspaper archive or a digital text library. Using Dutch Wikipedia I'll track down 247 articles that owe their existence to Delpher and DBNL, two full-text collections operated by the KB, the national library of the Netherlands.*
+*In this post I will illustrate an approach to detect Wikipedia articles whose contents are fully or largely based on content from a single online source, such as a full-text digitized newspaper archive or a digital text library. Using Dutch Wikipedia I'll track down 247 articles that owe their existence to Delpher and DBNL, two full-text collections operated by the KB, the national library of the Netherlands.*
 
 ********
 ### Three key players: Delpher, DBNL and KB
@@ -43,7 +43,7 @@ To be more specfific, last February I determined
 <kbd><image src="images/image_12425167721588761061236.png" width="800"/></kbd>
 
 ### Approach in 4 steps
-During this measurement process I noticed that there are quite a few *Hotel Des Indes*-like articles: articles containing a striking amount of links to Delpher and/or DBNL. That triggered my curiosity, so I went deeper and more systematic, in 4 steps.
+During this measurement process I started to notice that there are quite a few *Hotel Des Indes*-like articles: articles containing a striking amount of links to Delpher and/or DBNL. That triggered my curiosity, so I went deeper and more systematic, in 4 steps.
 
 #### Step 1: article lists
 I started out by making an overview of all articles on Dutch Wikipedia containing one or more links to Delpher or DBNL. I did this using the [Massviews Analysis tool](https://tools.wmflabs.org/massviews/), which takes a URL (or rather: a URL pattern, or base-URL) as input, and returns a list of articles containing that URL pattern. The screenshot below is based on the URL *[https://www.delpher.nl](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=external-link&start=2018-02-21&end=2020-02-05&project=nl.wikipedia.org&target=https%3A%2F%2Fwww.delpher.nl&sort=views&direction=1&view=list&target=https://www.delpher.nl)* (click for live tool, might take some time)
@@ -54,7 +54,7 @@ I used this tool for all Delpher URLs (don't forget the persistent KB-resolver b
 
 <kbd><image src="images/imagetools1.png" width="400"/></kbd>
 
-I used a similar workflow for DBNL (URL pattern [*http(s)://\*.dbnl.org*](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=external-link&target=http://*.dbnl.org&start=2018-02-21&end=2020-02-05&project=nl.wikipedia.org&sort=views&direction=1&view=list)), resulting in a [list of just over 7.600 unique Wikipedia articles](/KPI9/KPI9-09-DBNL_21-02-2018_05-02-2020.xlsx).
+I used a similar workflow for DBNL (URL patterns [*http(s)://\*.dbnl.org*](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=external-link&target=http://*.dbnl.org&start=2018-02-21&end=2020-02-05&project=nl.wikipedia.org&sort=views&direction=1&view=list)), resulting in a [list of just over 7.600 unique Wikipedia articles](/KPI9/KPI9-09-DBNL_21-02-2018_05-02-2020.xlsx).
 
 #### Step 2: external links
 Once I had those article lists, for each article I determined which (and how many) external links it contains, and which of those links point to Delpher (or DBNL). I did this using the [MediaWiki API](https://www.mediawiki.org/wiki/API:Extlinks) and Python script ([for Delpher](/KPI9/findExternalAndKBLinks/Delpher/findExternalAndDelpherLinks.py) and [for DBNL](/KPI9/findExternalAndKBLinks/DBNL/findExternalAndDBNLlinks.py)). In the screenshot below of the Delpher script you can see that filtering is done on the resolver base-URLs of the [Delpher Newspapers](https://www.delpher.nl/nl/kranten) subset.
@@ -83,12 +83,12 @@ There is some freedom in the choice of both thresholds, I have used the followin
 - for Delpher: Number of external links >=6, link ratio>=0.75
 - for DBNL: Number of external links >=4, link ratio>=0.7
 
-This results in the following picture for Delpher
+This results in the following table for Delpher
 
 <kbd><image src="images/image_10658527031588781879393.png" width="600"/></kbd>
 <kbd><image src="images/image_9782572541588781956788.png" width="600"/></kbd>
 
-### Findings
+### Analysis
 The articles found in this way are **places where strong aggregation and republication of Delpher content takes place.** In other words: *These articles bring together information from Delpher related to  people, places, events and other topics for a wide audience, as 80% of the Netherlands reads Wikipedia.* The same goes for DBNL.
 
 If you look at the lists of the 'aggregation articles' obtained in this way, you see
@@ -99,7 +99,7 @@ If you look at the lists of the 'aggregation articles' obtained in this way, you
 - The article [Lijst van historische Nederlandse netnummers](https://nl.wikipedia.org/wiki/Lijst_van_historische_Nederlandse_netnummers) holds most Delpher links, 165 out of the [195 external links](https://nl.wikipedia.org/w/api.php?action=query&titles=Lijst%20van%20historische%20Nederlandse%20netnummers&prop=extlinks&format=json&ellimit=500), with the above *Hotel Des Indes* coming second.
 <kbd><image src="images/image_11235458251588782175115.png" width="600"/></kbd>
 - The subject width of  articles using Delpher as their main source is very large: from the garbage industry to luxury hotels, from politicians to people condemned to death and from music awards to Michelin-starred restaurants.
-- Articles about sports - e.g. soccer players, annual overviews of swimming championships and [korfball](https://en.wikipedia.org/wiki/Korfball) - heavily rely on Delpher, similar to articles listing mayors (*burgemeesters*) of Dutch towns and villages.
+- Quite a few articles about sports - e.g. soccer players, annual overviews of swimming championships and [korfball](https://en.wikipedia.org/wiki/Korfball) - heavily rely on Delpher, similar to articles listing mayors (*burgemeesters*) of Dutch towns and villages.
 <kbd><image src="images/image_2194896221588784171279.png" width="600"/></kbd>
 
 #### [For DBNL](/KPI9/findExternalAndKBLinks/DBNL/DBNL_AggregationArticlesViews_05-02-2020.xlsx)
