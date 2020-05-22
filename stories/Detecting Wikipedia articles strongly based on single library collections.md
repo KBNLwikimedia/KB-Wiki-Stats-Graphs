@@ -5,6 +5,8 @@
 
 *In this post I will illustrate an approach to detect Wikipedia articles whose contents are fully or largely based on content from a single online source, such as a full-text digitized newspaper archive or a digital text library. Using Dutch Wikipedia I'll track down 247 articles that owe their existence to Delpher and DBNL, two full-text collections operated by the KB, the national library of the Netherlands.*
 
+*This approach might be relevant for GLAMs that have digital text collections used by the Wikipedia community to create articles.*
+
 ********
 ### Three key players: Delpher, DBNL and KB
 To understand the rest of this post, I'll start with a short introduction of three key players:  
