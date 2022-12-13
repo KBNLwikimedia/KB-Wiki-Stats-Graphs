@@ -137,5 +137,5 @@ Olaf Janssen is the Wikimedia coordinator of the KB, the national library of the
 [Wikipedia](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Koninklijke_Bibliotheek) and [Wikidata](https://www.wikidata.org/wiki/Wikidata:GLAM/Koninklijke_Bibliotheek_Nederland) as [User:OlafJanssen](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen)<br>
 
 ### Reusing this article
-This article is also available at [Zenodo](https://zenodo.org/record/7433549) and [Wikimedia Commns](https://commons.wikimedia.org/wiki/File:Detecting_Wikipedia_articles_strongly_based_on_single_library_collections_-_Olaf_Janssen,_KB,_21_May_2020.pdf) and the text has been released under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) CC-BY 4.0 License. 
+This article is also available at [Zenodo](https://zenodo.org/record/7433549) and [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Detecting_Wikipedia_articles_strongly_based_on_single_library_collections_-_Olaf_Janssen,_KB,_21_May_2020.pdf) and the text has been released under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) CC-BY 4.0 License. 
 <kbd><img src="images/cc-by.png" width="80"/></kbd>
