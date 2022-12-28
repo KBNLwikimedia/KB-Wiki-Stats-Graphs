@@ -1,4 +1,4 @@
-##Three indicators for KB images in Wikimedia platforms, in a historical perspective (2013-2022)
+# Three reuse indicators for KB images in Wikimedia platforms, in a historical perspective (2013-2022)
 <sup>Olaf Janssen, 21 May 2020</sup>
 
 A very effective way to make images from our (heritage) collections visible all over the world is via Wikipedia. I would like to show this on the basis of three indicators (KPIs) that I measured at the end of December 2022. I also show that over the years (2013 to 2022) our collection images have gained an ever-increasing global audience reach.
