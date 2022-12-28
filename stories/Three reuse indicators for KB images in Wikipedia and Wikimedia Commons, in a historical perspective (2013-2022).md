@@ -80,7 +80,7 @@ Very nice, all those Wikipedia articles containing our KB images, but if they ar
 
 The data on which the numbers in the table are based can also be [displayed graphically](https://glamtools.toolforge.org/baglama2/#gid=139&month=202210):<br clear="all"/>
 
-<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/Baglama2_Koninklijke_Bibliotheek_December_2022.png" align="left"/><br clear="all"/><sub>**Caption**</sub>
+<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/Baglama2_Koninklijke_Bibliotheek_December_2022.png" align="left"/><br clear="all"/><sub>Graph showing the number of monthly requests of pages on Wikipedia (and other Wikimedia sites) that contain [images from the KB](https://commons.wikimedia.org/wiki/Category:Media%20contributed%20by%20Koninklijke%20Bibliotheek). Source: [BaGLAMa2 tool](https://glamtools.toolforge.org/baglama2/#gid=139&month=202210) d.d. 28 December 2022.</sub>
 
 A brief analysis of this graph:
 
