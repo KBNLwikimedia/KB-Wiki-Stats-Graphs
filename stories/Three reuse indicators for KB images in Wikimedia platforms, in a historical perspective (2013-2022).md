@@ -2,6 +2,7 @@
 <sup>Olaf Janssen, 21 May 2020</sup>
 
 *A very effective way to make images from our (heritage) collections visible all over the world is via Wikipedia. I would like to show this on the basis of three indicators (KPIs) that I measured at the end of December 2022. I also show that over the years (2013 to 2022) our collection images have gained an ever-increasing global audience reach.
+
 Een hele effectieve manier om beelden uit onze (erfgoed)collecties over de hele wereld zichtbaar te maken is via Wikipedia. Dit laat ik graag zien aan de hand van drie indicatoren (KPIs) die ik eind december 2022 gemeten heb. Ook laat ik zien dat in de loop van de jaren (2013 t/m 2022) onze collectiebeelden een steeds groter wereldwijd publieksbereik hebben gekregen.*
 
 <img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/301px-001-KW_XKZ_0213-Hoera_we_gaan_op_reis-front.jpg" align="right" width="200"/>
@@ -31,7 +32,7 @@ Omdat ik deze KPIs in het verleden ook gemeten heb, kan ik de cijfers in histori
 In 2014 zijn we begonnen met het doen van beelddonaties aan Wikimedia Commons, in de loop van de jaren is het aantal KB-beelden aldaar gestaag doorgegroeid. Op 20-12-2022 waren er 27.296 afbeeldingen beschikbaar in de KB-verzamelbak. Onderstaande tabel (bron) laat de historische groei zien.
 In 2014 we started making image donations to Wikimedia Commons, over the years the number of KB images there has grown steadily. As of 12/20/2022, there were 27,296 images available in the KB repository. The table below (source) shows the historical growth.<br clear="all"/>
 
-<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/editimage0.png" align="left"/></kbd><br clear="all"/><sub>**Vertaling van de kolomheasders van NL naar EN :** a = a; b = b; c = c; d = d; e = e; f = f</sub>
+<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/editimage0.png" align="left"/></kbd><br clear="all"/><sub>**Translation of column headers:**<br/>1. Datum meting = Date of measurement<br/>2. Aantal KB-gerelateerde media-bestanden op Commons = Number of KB related media files on Wikimedia Commons<br/>3. Groei t.o.v. vorige meting = Growth compared to previous measurement<br/>4. Groei in % = Growth in %</sub>
 
 A brief explanation:
 Een korte duiding:
@@ -57,7 +58,7 @@ De schrijvers van Wikipedia gebruiken onze beelden om artikelen te illustreren. 
 This is further detailed in the article Public outreach and reuse of KB images via Wikipedia, 2014-2022 (December 2022). The table below (source) shows the historical growth.
 Dit wordt verder gedetailleerd in het artikel Public outreach and reuse of KB images via Wikipedia, 2014-2022 (december 2022). Onderstaande tabel (bron) laat de historische groei zien. <br clear="all"/>
 
-<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/image_43952544621672155082557.png" align="left"/></kbd><br clear="all"/><sub>**Vertaling van de kolomheasders van NL naar EN :** a = a; b = b; c = c; d = d; e = e; f = f</sub>
+<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/image_43952544621672155082557.png" align="left"/></kbd><br clear="all"/><sub>**Translation of column headers:**<br/>1. Datum meting =	Date of measurement<br/>2. Aantal unieke Wikipedia-artikelen waarin KB-mediabestanden opgenomen zijn = Number of unique Wikipedia articles that include KB media files = KPI 4<br/>3. Aantal taalversies van Wikipedia waarin KB-mediabestanden opgenomen zijn = Number of language versions of Wikipedia that contain KB media files<br/>4. Aantal hergebruikte KB-mediabestanden in al die taalversies van Wikipedia = Number of reused KB media files in all those language versions of Wikipedia<br/>5. Totaal aantal KB-mediabestanden op Wikimedia Commons, zie KPI2 = Total number of KB media files on Wikimedia Commons, see KPI2<br/>6. Percentage hergebruik van KB-mediabestanden in Wikipedia = Percentage of reuse of KB media files in Wikipedia</sub>
 
 Here's a brief explanation:
 Ook hier een korte duiding:
@@ -82,7 +83,8 @@ Ook hier een korte duiding:
 Nice and nice, all Wikipedia articles with our images in them, but if they are never requested, then our images will never be seen. Fortunately, this is not the case: in the period January 2022 to October 2022 (10 months), there were an average of 10.3 million such page views every month, as column 4 of the table below (source) shows.
 Natuurlijk leuk en aardig, al Wikipedia-artikelen met onze beelden erin, maar als die nooit opgevraagd worden, dan worden onze beelden ook nooit gezien. Gelukkig is dit niet het geval: in de periode januari 2022 t/m oktober 2022 (10 maanden dus) waren er elke maand gemiddeld 10,3 miljoen van dergelijke pageviews, zoals kolom 4 van onderstaande tabel (bron) laat zien. <br clear="all"/>
 
-<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/image_28170068341671639454166.png" align="left"/></kbd><br clear="all"/><sub>**Vertaling van de kolomheasders van NL naar EN :** a = a; b = b; c = c; d = d; e = e; f = f</sub>
+<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/image_28170068341671639454166.png" align="left"/></kbd><br clear="all"/><sub>**Translation of column headers:**<br/>1. Datum meting = Date of measurement<br/>
+2. Meetperiode in maanden = Measurement period in months<br/>3. Totaal aantal opvragingen van Wiki-pagina's met KB-beelden in deze periode = Total queries of Wiki pages containing KB images during this period<br/>4. Gemiddeld aantal paginaopvragingen (page views) per maand in deze period = Average number of page requests (page views) per month in this period<br/></sub>
 
 * We see that the average number of monthly requests for articles containing KB images shows an upward trend over time.
 * We zien dat het gemiddeld aantal maandelijkse opvragingen van artikelen waarin KB-beelden staan een stijgende trend in de tijd vertoont.
