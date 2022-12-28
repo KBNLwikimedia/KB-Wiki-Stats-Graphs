@@ -1,37 +1,32 @@
 # Three reuse indicators for KB images in Wikimedia platforms, in a historical perspective (2013-2022)
-<sup>Olaf Janssen, 21 May 2020</sup>
+<sup>Olaf Janssen, 28 December 2022</sup>
 
 *Wikipedia is a very effective channel to globally improve the findability, visibility and reusability of images from the heritage collections of the KB, the national library of the Netherlands. In this article I illustrate this based on three reuse indicators (KPIs) that I measured in December 2022. I also show that during the period 2013-2022 our image collections have reached an ever-increasing global audience.*
 
 <img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/KB_Nationale-Bibliotheek_Logo_RGB-Zwart-EN.png" align="right" width="400"/>
 
-One of the core tasks the [KB, the national library of the Netherlands]() is to bring as many people as possible into contact with our digitized collection images, including our [collection highlights](https://www.kb.nl/zoeken/content?f%5B0%5D=categorie%3A99), [medieval manuscripts](https://www.kb.nl/onderzoeken-vinden/bijzondere-collecties/middeleeuwse-handschriften), [historical atlases](https://www.kb.nl/zoeken/content?trefwoord=atlas&sort_by=search_api_relevance&sort_order=DESC&f%5B0%5D=categorie%3A99), [alba amicorum](https://www.kb.nl/onderzoeken-vinden/bijzondere-collecties/alba-amicorum), [broadsheet prints](https://geheugen.delpher.nl/en/geheugen/pages/collectie/Plano's:+historische+%C3%A9%C3%A9nbladdrukken), [children's picture books](https://www.kb.nl/onderzoeken-vinden/bijzondere-collecties/collectie-kinderboeken), [flora](https://www.kb.nl/ontdekken-bewonderen/topstukken/metamorphosis-surinaamsche-insecten) and [fauna books](https://www.kb.nl/ontdekken-bewonderen/topstukken/nederlandsche-vogelen) or [catchpenny prints](https://geheugen.delpher.nl/en/geheugen/pages/collectie/Centsprenten+van+de+Koninklijke+Bibliotheek).
+One of the core tasks the [KB, the national library of the Netherlands](https://www.kb.nl/en) is to bring as many people as possible into contact with our digitized collection images, including our [collection highlights](https://www.kb.nl/zoeken/content?f%5B0%5D=categorie%3A99), [medieval manuscripts](https://www.kb.nl/onderzoeken-vinden/bijzondere-collecties/middeleeuwse-handschriften), [historical atlases](https://www.kb.nl/zoeken/content?trefwoord=atlas&sort_by=search_api_relevance&sort_order=DESC&f%5B0%5D=categorie%3A99), [alba amicorum](https://www.kb.nl/onderzoeken-vinden/bijzondere-collecties/alba-amicorum), [broadsheet prints](https://geheugen.delpher.nl/en/geheugen/pages/collectie/Plano's:+historische+%C3%A9%C3%A9nbladdrukken), [children's picture books](https://www.kb.nl/onderzoeken-vinden/bijzondere-collecties/collectie-kinderboeken), [flora](https://www.kb.nl/ontdekken-bewonderen/topstukken/metamorphosis-surinaamsche-insecten) and [fauna books](https://www.kb.nl/ontdekken-bewonderen/topstukken/nederlandsche-vogelen) or [catchpenny prints](https://geheugen.delpher.nl/en/geheugen/pages/collectie/Centsprenten+van+de+Koninklijke+Bibliotheek).
 
-Since 2014, we have structurally used the Wikimedia platforms to fulfill this task. We first place our (royalty-free) collection of images on Wikimedia Commons, the free image bank best known as the place where the writers of Wikipedia (have to) get their images from. These images are then used by the community to illustrate and enrich Wikipedia articles.
-Sinds 2014 gebruiken we structureel de Wikimedia-platformen om invulling aan deze taak te geven. Hierbij plaatsen we eerst onze (rechtenvrije) collectiebeelden op Wikimedia Commons, de vrije beeldbank die het meest bekend is als de plek waar de schrijvers van Wikipedia hun afbeeldingen vandaan (moeten) halen. Vervolgens worden deze beelden door de gemeenschap gebruikt om Wikipedia-artikelen mee te illustreren en verrijken.
+Since 2014, the KB has structurally used the Wikimedia platforms to fulfill this task. First, we upload our (out of copyright, public domain) images to [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), the free and open media repository best known as the place where the writers of Wikipedia (have to) get their images from. These images are then used by the Wikipedia community to illustrate and enrich the encyclopedic articles.
 
-## Three reuse indicators on KB images, 2013-2022
+## Three reuse indicators for KB images, 2013-2022
 <img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/301px-001-KW_XKZ_0213-Hoera_we_gaan_op_reis-front.jpg" align="right" width="200"/>
 
-At the end of December 2022, I measured three coherent indicators (KPIs) about the reuse and audience reach of our images via the Wikimedia platforms:
-Eind december 2022 heb ik drie samenhangende indicatoren (KPIs) over het hergebruik en publieksbereik van onze beelden via de Wikimedia-platformen gemeten:
+At the end of December 2022, I measured three interconnected indicators (KPIs) for the reuse and public outreach of our images via the Wikimedia platforms:
 
-1. The number of KB images on Wikimedia Commons     Het aantal KB-beelden op Wikimedia Commons
-2. The number of unique Wikipedia articles using those KB images    Het aantal unieke Wikipedia-artikelen dat gebruik maakt van die KB-beelden
-3. The number of requests for those Wikipedia articles per month    Het aantal opvragingen van die Wikipedia-artikelen per maand
+1. The number of KB images on Wikimedia Commons
+2. The number of unique Wikipedia articles using those KB images 
+3. The number of requests for those Wikipedia articles per month
 
-Because I have also measured these KPIs in the past, I can place the figures in a historical perspective, from 2013 to 2022.
-Omdat ik deze KPIs in het verleden ook gemeten heb, kan ik de cijfers in historisch perspectief, van 2013 t/m 2022, plaatsen.
+Because I also measured these KPIs in the past, I can put the figures into a historical context, from 2013 to 2022.
 
 ### 1) The number of KB images on Wikimedia Commons
 
-In 2014 zijn we begonnen met het doen van beelddonaties aan Wikimedia Commons, in de loop van de jaren is het aantal KB-beelden aldaar gestaag doorgegroeid. Op 20-12-2022 waren er 27.296 afbeeldingen beschikbaar in de KB-verzamelbak. Onderstaande tabel (bron) laat de historische groei zien.
-In 2014 we started making image donations to Wikimedia Commons, over the years the number of KB images there has grown steadily. As of 12/20/2022, there were 27,296 images available in the KB repository. The table below (source) shows the historical growth.<br clear="all"/>
+In 2014 we started [making image donations](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_donations) to Wikimedia Commons, over the years the number of KB images there has grown steadily. As of 20 December 2022, there were [27.296 images](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI2/KPI2_KB_20-12-2022) available in the [KB Commons repository](https://commons.wikimedia.org/wiki/Category:Media_contributed_by_Koninklijke_Bibliotheek). The table below ([source](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI2#Historische_ontwikkeling_van_KPI_2)) shows the historical growth.<br clear="all"/>
 
-<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/editimage0.png" align="left"/></kbd><br clear="all"/><sub>**Translation of column headers:**<br/>1. Datum meting = Date of measurement<br/>2. Aantal KB-gerelateerde media-bestanden op Commons = Number of KB related media files on Wikimedia Commons<br/>3. Groei t.o.v. vorige meting = Growth compared to previous measurement<br/>4. Groei in % = Growth in %</sub>
+<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/editimage0.png" align="left"/></kbd><br clear="all"/><sub>**Translation of column headers:**<br/>1. Datum meting = Date of measurement<br/>2. Aantal KB-gerelateerde media-bestanden op Commons = Number of KB related media files on Wikimedia Commons<br/>3. Groei t.o.v. vorige meting = Growth compared to previous measurement (absolute numbers)<br/>4. Groei in % = Growth in %</sub>
 
-A brief explanation:
-Een korte duiding:
+A brief analysis of this table:
 
 * We see (in column 2) that over the years more and more open, royalty-free images from the KB collections on Wikimedia Commons are becoming available for reuse. The striking growth of more than 10K images in 2020 is due to the Top Pieces Project in this year.
 * We zien (in kolom 2) dat er in de loop van de jaren steeds meer open, rechtenvrije beelden uit de KB-collecties op Wikimedia Commons beschikbaar komen voor hergebruik. De opvallende groei van meer dan 10K beelden in 2020 is de danken aan het Topstukkenproject in dit jaar.
@@ -40,7 +35,7 @@ Een korte duiding:
 * There is still a lot of room for more image donations in the coming years, because there are still tens of thousands of royalty-free images available in both online and offline KB services that are definitely suitable for Wikimedia Commons. In 2023, for example, many thousands of images of broadsheets, medieval manuscripts, penny prints and alba amicorum are planned. There is therefore still sufficient room for this KPI to grow considerably.
 * Er is in de komende jaren nog veel ruimte voor meer beelddonaties, want er zijn in zowel online als offline KB-diensten nog tienduizenden rechtenvrije beelden beschikbaar die zonder meer geschikt zijn voor Wikimedia Commons. Zo staan in 2023 o.a. nog vele duizenden beelden van plano's, middeleeuwse handschriften, centsprenten en alba amicorum in de planning. Er dus nog voldoende ruimte om deze KPI flink te laten doorgroeien.
 
-### 2) The number of unique Wikipedia articles that use those images
+### 2) The number of unique Wikipedia articles using those KB images
 
 Wikipedia writers use our images to illustrate articles. On 12/20/2022, I measured the number of unique Wikipedia articles (in all language versions) using those images:
 De schrijvers van Wikipedia gebruiken onze beelden om artikelen te illustreren. Op 20-12-2022 heb ik het aantal unieke Wikipedia-artikelen (in alle taalversies) dat gebruik maakt van die beelden gemeten:
@@ -72,7 +67,7 @@ Ook hier een korte duiding:
 * And often that doesn't happen at all and KB images remain unused within Wikipedia. That's not a disadvantage, though, because images on Commons have a broader purpose than just Wikipedia; for example, they are also used in 2,130 Wikidata items (dated 20-12-2022) and on other Wikimedia platforms, and they find their way to other websites (Google Images!), social media, publications, news services, academic research and other types of free and commercial reuse.
 * En vaak gebeurt dat helemaal niet en blijven KB-beelden ongebruikt binnen Wikipedia. Dat is echter geen nadeel, want beelden op Commons hebben een breder doel dan alleen Wikipedia; zo worden ze bv. ook in 2.130 Wikidata-items (d.d. 20-12-2022) en op andere Wikimedia-platformen gebruikt, én vinden ze hun weg naar andere websites (Google Images!), social media, publicaties, nieuwsdiensten, academisch onderzoek en ander soorten vrij en commercieel hergebruik.
     
-### 3) The number of requests of those Wikipedia articles per month
+### 3) The number of requests for those Wikipedia articles per month
 
 Nice and nice, all Wikipedia articles with our images in them, but if they are never requested, then our images will never be seen. Fortunately, this is not the case: in the period January 2022 to October 2022 (10 months), there were an average of 10.3 million such page views every month, as column 4 of the table below (source) shows.
 Natuurlijk leuk en aardig, al Wikipedia-artikelen met onze beelden erin, maar als die nooit opgevraagd worden, dan worden onze beelden ook nooit gezien. Gelukkig is dit niet het geval: in de periode januari 2022 t/m oktober 2022 (10 maanden dus) waren er elke maand gemiddeld 10,3 miljoen van dergelijke pageviews, zoals kolom 4 van onderstaande tabel (bron) laat zien. <br clear="all"/>
