@@ -1,20 +1,17 @@
 # Three reuse indicators for KB images in Wikimedia platforms, in a historical perspective (2013-2022)
 <sup>Olaf Janssen, 21 May 2020</sup>
 
-*A very effective way to make images from our (heritage) collections visible all over the world is via Wikipedia. I would like to show this on the basis of three indicators (KPIs) that I measured at the end of December 2022. I also show that over the years (2013 to 2022) our collection images have gained an ever-increasing global audience reach.
+*Wikipedia is a very effective channel to globally improve the findability, visibility and reusability of images from the heritage collections of the KB, the national library of the Netherlands. In this article I illustrate this based on three reuse indicators (KPIs) that I measured in December 2022. I also show that during the period 2013-2022 our image collections have reached an ever-increasing global audience.*
 
-Een hele effectieve manier om beelden uit onze (erfgoed)collecties over de hele wereld zichtbaar te maken is via Wikipedia. Dit laat ik graag zien aan de hand van drie indicatoren (KPIs) die ik eind december 2022 gemeten heb. Ook laat ik zien dat in de loop van de jaren (2013 t/m 2022) onze collectiebeelden een steeds groter wereldwijd publieksbereik hebben gekregen.*
+<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/KB_Nationale-Bibliotheek_Logo_RGB-Zwart-EN.png" align="right" width="400"/>
 
-<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/301px-001-KW_XKZ_0213-Hoera_we_gaan_op_reis-front.jpg" align="right" width="200"/>
-
-One of our core tasks is to bring as many people as possible into contact with digitized KB collection images: think of our Masterpieces, medieval manuscripts, historical atlases, alba amicorum, broadsheets, children's picture books, flora and fauna books or penny prints.
-Eén van onze kerntaken is om zoveel mogelijk mensen in aanraking te brengen met gedigitaliseerde KB-collectiebeelden: denk onze Topstukken, middeleeuwse handschriften, historische atlassen, alba amicorum, plano's, kinderprentenboeken, flora- en faunaboeken of centsprenten.
+One of the core tasks the [KB, the national library of the Netherlands]() is to bring as many people as possible into contact with our digitized collection images, including our [collection highlights](https://www.kb.nl/zoeken/content?f%5B0%5D=categorie%3A99), [medieval manuscripts](https://www.kb.nl/onderzoeken-vinden/bijzondere-collecties/middeleeuwse-handschriften), [historical atlases](https://www.kb.nl/zoeken/content?trefwoord=atlas&sort_by=search_api_relevance&sort_order=DESC&f%5B0%5D=categorie%3A99), [alba amicorum](https://www.kb.nl/onderzoeken-vinden/bijzondere-collecties/alba-amicorum), [broadsheet prints](https://geheugen.delpher.nl/en/geheugen/pages/collectie/Plano's:+historische+%C3%A9%C3%A9nbladdrukken), [children's picture books](https://www.kb.nl/onderzoeken-vinden/bijzondere-collecties/collectie-kinderboeken), [flora](https://www.kb.nl/ontdekken-bewonderen/topstukken/metamorphosis-surinaamsche-insecten) and [fauna books](https://www.kb.nl/ontdekken-bewonderen/topstukken/nederlandsche-vogelen) or [catchpenny prints](https://geheugen.delpher.nl/en/geheugen/pages/collectie/Centsprenten+van+de+Koninklijke+Bibliotheek).
 
 Since 2014, we have structurally used the Wikimedia platforms to fulfill this task. We first place our (royalty-free) collection of images on Wikimedia Commons, the free image bank best known as the place where the writers of Wikipedia (have to) get their images from. These images are then used by the community to illustrate and enrich Wikipedia articles.
 Sinds 2014 gebruiken we structureel de Wikimedia-platformen om invulling aan deze taak te geven. Hierbij plaatsen we eerst onze (rechtenvrije) collectiebeelden op Wikimedia Commons, de vrije beeldbank die het meest bekend is als de plek waar de schrijvers van Wikipedia hun afbeeldingen vandaan (moeten) halen. Vervolgens worden deze beelden door de gemeenschap gebruikt om Wikipedia-artikelen mee te illustreren en verrijken.
 
-## Three indicators on KB images, 2013-2022
-Drie indicatoren over KB-beelden, 2013-2022
+## Three reuse indicators on KB images, 2013-2022
+<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/301px-001-KW_XKZ_0213-Hoera_we_gaan_op_reis-front.jpg" align="right" width="200"/>
 
 At the end of December 2022, I measured three coherent indicators (KPIs) about the reuse and audience reach of our images via the Wikimedia platforms:
 Eind december 2022 heb ik drie samenhangende indicatoren (KPIs) over het hergebruik en publieksbereik van onze beelden via de Wikimedia-platformen gemeten:
@@ -27,7 +24,6 @@ Because I have also measured these KPIs in the past, I can place the figures in 
 Omdat ik deze KPIs in het verleden ook gemeten heb, kan ik de cijfers in historisch perspectief, van 2013 t/m 2022, plaatsen.
 
 ### 1) The number of KB images on Wikimedia Commons
-1) Het aantal KB-beelden op Wikimedia Commons
 
 In 2014 zijn we begonnen met het doen van beelddonaties aan Wikimedia Commons, in de loop van de jaren is het aantal KB-beelden aldaar gestaag doorgegroeid. Op 20-12-2022 waren er 27.296 afbeeldingen beschikbaar in de KB-verzamelbak. Onderstaande tabel (bron) laat de historische groei zien.
 In 2014 we started making image donations to Wikimedia Commons, over the years the number of KB images there has grown steadily. As of 12/20/2022, there were 27,296 images available in the KB repository. The table below (source) shows the historical growth.<br clear="all"/>
@@ -45,7 +41,6 @@ Een korte duiding:
 * Er is in de komende jaren nog veel ruimte voor meer beelddonaties, want er zijn in zowel online als offline KB-diensten nog tienduizenden rechtenvrije beelden beschikbaar die zonder meer geschikt zijn voor Wikimedia Commons. Zo staan in 2023 o.a. nog vele duizenden beelden van plano's, middeleeuwse handschriften, centsprenten en alba amicorum in de planning. Er dus nog voldoende ruimte om deze KPI flink te laten doorgroeien.
 
 ### 2) The number of unique Wikipedia articles that use those images
-2) Het aantal unieke Wikipedia-artikelen dat gebruik maakt van die beelden
 
 Wikipedia writers use our images to illustrate articles. On 12/20/2022, I measured the number of unique Wikipedia articles (in all language versions) using those images:
 De schrijvers van Wikipedia gebruiken onze beelden om artikelen te illustreren. Op 20-12-2022 heb ik het aantal unieke Wikipedia-artikelen (in alle taalversies) dat gebruik maakt van die beelden gemeten:
@@ -77,8 +72,7 @@ Ook hier een korte duiding:
 * And often that doesn't happen at all and KB images remain unused within Wikipedia. That's not a disadvantage, though, because images on Commons have a broader purpose than just Wikipedia; for example, they are also used in 2,130 Wikidata items (dated 20-12-2022) and on other Wikimedia platforms, and they find their way to other websites (Google Images!), social media, publications, news services, academic research and other types of free and commercial reuse.
 * En vaak gebeurt dat helemaal niet en blijven KB-beelden ongebruikt binnen Wikipedia. Dat is echter geen nadeel, want beelden op Commons hebben een breder doel dan alleen Wikipedia; zo worden ze bv. ook in 2.130 Wikidata-items (d.d. 20-12-2022) en op andere Wikimedia-platformen gebruikt, én vinden ze hun weg naar andere websites (Google Images!), social media, publicaties, nieuwsdiensten, academisch onderzoek en ander soorten vrij en commercieel hergebruik.
     
-### 3) The number of requests for those Wikipedia articles per month
-3) Het aantal opvraging van die Wikipedia-artikelen per maand
+### 3) The number of requests of those Wikipedia articles per month
 
 Nice and nice, all Wikipedia articles with our images in them, but if they are never requested, then our images will never be seen. Fortunately, this is not the case: in the period January 2022 to October 2022 (10 months), there were an average of 10.3 million such page views every month, as column 4 of the table below (source) shows.
 Natuurlijk leuk en aardig, al Wikipedia-artikelen met onze beelden erin, maar als die nooit opgevraagd worden, dan worden onze beelden ook nooit gezien. Gelukkig is dit niet het geval: in de periode januari 2022 t/m oktober 2022 (10 maanden dus) waren er elke maand gemiddeld 10,3 miljoen van dergelijke pageviews, zoals kolom 4 van onderstaande tabel (bron) laat zien. <br clear="all"/>
@@ -104,9 +98,7 @@ Here's a brief explanation: Ook hier een korte duiding:
 * This does not automatically mean that the KB images in those pages are also viewed millions of times (with some attention). Especially if an image is at the bottom of a long page, the chance that it will be seen is small. Still, the more page views, the more public exposure KB collection images receive and the greater the chance that people in the Netherlands and the rest of the world will benefit from them, for education and/or entertainment.
 * Dat betekent overigens niet automatisch dat de KB-beelden in die pagina's ook miljoenen keren (met enige aandacht) bekeken worden. Zeker als een beeld onderaan een lange pagina staat, is de kans dat het gezien wordt klein. Maar toch, hoe meer paginaopvragingen, hoe meer publieksblootstelling KB-collectiebeelden krijgen en hoe groter de kans dat mensen in Nederland en de rest van de wereld er nut van hebben, ter lering en/of vermaak.
 
-## Read further
-Verder lezen
-
+## More details and data
 More extensive analyzes and all underlying data from this article can be found on the project pages of the KB on the Dutch Wikipedia:
 Uitgebreidere analyses en alle onderliggende gegevens uit dit artikel zijn te vinden op de projectpagina's van de KB op de Nederlandstalige Wikipedia:
 
@@ -115,11 +107,11 @@ Uitgebreidere analyses en alle onderliggende gegevens uit dit artikel zijn te vi
 * KPI 8: Het aantal opvraging van die Wikipedia-artikelen per maand      KPI 8: The number of requests for those Wikipedia articles per month 
      
  ## About the author
-<img align="left" src="images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50"/>
+<img align="left" src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50"/>
 
 Olaf Janssen is the Wikimedia coordinator of the KB, the national library of the Netherlands. He contributes to
 [Wikipedia](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Koninklijke_Bibliotheek) and [Wikidata](https://www.wikidata.org/wiki/Wikidata:GLAM/Koninklijke_Bibliotheek_Nederland) as [User:OlafJanssen](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen)<br>
 
 ## Reusing this article
-This article is also available at [Zenodo](https://zenodo.org/record/7433549) and [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Detecting_Wikipedia_articles_strongly_based_on_single_library_collections_-_Olaf_Janssen,_KB,_21_May_2020.pdf) and the text has been released under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) CC-BY 4.0 License. 
-<kbd><img src="images/cc-by.png" width="80"/></kbd>
+This article is also available at [Zenodo](https://zenodo.org/record/xxx) and [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:xxxx.pdf) and the text has been released under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) CC-BY 4.0 License. 
+<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/cc-by.png" width="80"/></kbd>
