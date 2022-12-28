@@ -67,37 +67,32 @@ Also here a brief analysis of this table:
     
 ### 3) The number of requests for those Wikipedia articles per month
 
-Nice and nice, all Wikipedia articles with our images in them, but if they are never requested, then our images will never be seen. Fortunately, this is not the case: in the period January 2022 to October 2022 (10 months), there were an average of 10.3 million such page views every month, as column 4 of the table below (source) shows.
-Natuurlijk leuk en aardig, al Wikipedia-artikelen met onze beelden erin, maar als die nooit opgevraagd worden, dan worden onze beelden ook nooit gezien. Gelukkig is dit niet het geval: in de periode januari 2022 t/m oktober 2022 (10 maanden dus) waren er elke maand gemiddeld 10,3 miljoen van dergelijke pageviews, zoals kolom 4 van onderstaande tabel (bron) laat zien. <br clear="all"/>
+Very nice, all those Wikipedia articles containing our KB images, but if they are never requested, then our images will also never be seen. Fortunately for the KB, this is not the case: in the [period January 2022 to October 2022](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI8/KPI8_KB_20-12-2022) (10 months), there were 10.3 million such page request on average every month, as column 4 of the table below ([source](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI8#Historische_ontwikkeling_van_KPI_8)) shows.<br clear="all"/>
 
-<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/image_28170068341671639454166.png" align="left"/></kbd><br clear="all"/><sub>**Translation of column headers:**<br/>1. Datum meting = Date of measurement<br/>
-2. Meetperiode in maanden = Measurement period in months<br/>3. Totaal aantal opvragingen van Wiki-pagina's met KB-beelden in deze periode = Total queries of Wiki pages containing KB images during this period<br/>4. Gemiddeld aantal paginaopvragingen (page views) per maand in deze period = Average number of page requests (page views) per month in this period<br/></sub>
+<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/image_28170068341671639454166.png" align="left"/></kbd><br clear="all"/><sub>**Translation of column headers:**<br/>
+    1. Datum meting = Date of measurement<br/>
+    2. Meetperiode in maanden = Measurement period in months<br/>
+    3. Totaal aantal opvragingen van Wiki-pagina's met KB-beelden in deze periode = Total number of requests of Wiki pages containing KB images during this period<br/>
+    4. Gemiddeld aantal paginaopvragingen (page views) per maand in deze period = Average number of page requests (page views) per month in this period (*=this KPI*)</sub>
 
-* We see that the average number of monthly requests for articles containing KB images shows an upward trend over time.
-* We zien dat het gemiddeld aantal maandelijkse opvragingen van artikelen waarin KB-beelden staan een stijgende trend in de tijd vertoont.
-* The spectacular increase in 2018-2019 (164M) compared to 2017 should be commented on. This is mainly because some KB images are included in widely read articles on the English Wikipedia.
-* De spectaculaire stijging in 2018-2019 (164M) t.o.v. 2017 moet van een kanttekening voorzien worden. Dit komt vooral doordat enkele KB-beelden zijn opgenomen in veelgelezen artikelen op de Engelstalige Wikipedia.
+* We see an upward trend over time in the average number of monthly views of Wikipedia articles containing KB images.
+* The seemingly spectacular increase of 164M views during 2018-2019 compared to 2017 is mainly because some KB images were included in widely read articles on the English Wikipedia.
 
-The data on which the figures in the table are based can also be displayed graphically:
-De gegevens waarop de cijfers in de tabel gebaseerd zijn kunnen ook grafisch weergegeven worden:<br clear="all"/>
+The data on which the numbers in the table are based can also be [displayed graphically](https://glamtools.toolforge.org/baglama2/#gid=139&month=202210):<br clear="all"/>
+
 <img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/Baglama2_Koninklijke_Bibliotheek_December_2022.png" align="left"/><br clear="all"/><sub>**Caption**</sub>
 
-Here's a brief explanation: Ook hier een korte duiding:
+A brief analysis of this graph:
 
-* Since measurements began in February 2014, there have been a total of 475 million page requests over 105 months. We see that the average hovers around 10M page views in 2022, in line with the data in the table.
-* Sinds het begin van de metingen in februari 2014 zijn er gedurende 105 maanden in totaal 475 miljoen paginaopvragingen geweest. We zien dat het gemiddelde in 2022 rond de 10M pageviews schommelt, in overeenstemming met de gegevens in de tabel.
-* During 9 years a clear upward trend in how often KB-images-containing-Wikipedia articles are requested by people every month. This growth can be explained by the fact that the KB places more and more images on Wikimedia Commons (see first KPI), which are then processed by Wikipedia writers in more and more articles (see second KPI), which are requested by more and more people (this KPI) .
-* Gedurende 9 jaar een duidelijk stijgende trend te zien in hoe vaak KB-beelden-bevattende-Wikipedia-artikelen maandelijks door mensen worden opgevraagd. Deze groei is te verklaren doordat de KB steeds meer beeldmateriaal op Wikimedia Commons plaats (zie eerste KPI), dat vervolgens door Wikipedia-schrijvers in steeds meer artikelen verwerkt wordt (zie tweede KPI), die door steeds meer mensen opgevraagd worden (deze KPI).
-* This does not automatically mean that the KB images in those pages are also viewed millions of times (with some attention). Especially if an image is at the bottom of a long page, the chance that it will be seen is small. Still, the more page views, the more public exposure KB collection images receive and the greater the chance that people in the Netherlands and the rest of the world will benefit from them, for education and/or entertainment.
-* Dat betekent overigens niet automatisch dat de KB-beelden in die pagina's ook miljoenen keren (met enige aandacht) bekeken worden. Zeker als een beeld onderaan een lange pagina staat, is de kans dat het gezien wordt klein. Maar toch, hoe meer paginaopvragingen, hoe meer publieksblootstelling KB-collectiebeelden krijgen en hoe groter de kans dat mensen in Nederland en de rest van de wereld er nut van hebben, ter lering en/of vermaak.
+* Since the start of the measurements in February 2014, there have been a total of 475 million page requests over a period of 105 months. We see that during 2022 the average hovers around 10M page views, in line with the data in the table above.
+* During 9 years a clear upward trend can be identified in how often KB-image-containing-Wikipedia articles are requested by people. This growth can be explained by the fact that during this period the KB has uploaded more images to Wikimedia Commons (see first KPI), which Wikipedia writers have included in more articles (see second KPI), which have been viewed by more people (this KPI) .
+* However, this does not automatically mean that the KB images in those articles are also viewed (with certain amounts of attention) millions of times; especially if an image is located near the bottom of a long article, the chances that it will be actually viewed are rather small. Still, the more article requests, the more exposure KB collection images get and the greater the likelyhood that people all over the world will benefit from them, for educational and/or entertainment purposes.
 
 ## More details and data
-More extensive analyzes and all underlying data from this article can be found on the project pages of the KB on the Dutch Wikipedia:
-Uitgebreidere analyses en alle onderliggende gegevens uit dit artikel zijn te vinden op de projectpagina's van de KB op de Nederlandstalige Wikipedia:
-
-* KPI 2 : Het aantal KB-beelden op Wikimedia Commons      KPI 2 : The number of KB images on Wikimedia Commons
-* KPI 4 : Het aantal unieke Wikipedia-artikelen dat gebruik maakt van die beelden      KPI 4 : The number of unique Wikipedia articles that use those images
-* KPI 8: Het aantal opvraging van die Wikipedia-artikelen per maand      KPI 8: The number of requests for those Wikipedia articles per month 
+More detailed analyses and all underlying data used for this article can be found on the project pages of the KB on the Dutch Wikipedia:
+* KPI 2: [The number of KB images on Wikimedia Commons](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI2)
+* KPI 4: [The number of unique Wikipedia articles using those images](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI4)
+* KPI 8: [The number of requests for those Wikipedia articles per month](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI8) 
      
  ## About the author
 <img align="left" src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50"/>
