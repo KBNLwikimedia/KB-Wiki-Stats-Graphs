@@ -24,7 +24,11 @@ Because I also measured these KPIs in the past, I can put the figures into a his
 
 In 2014 we started [making image donations](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_donations) to Wikimedia Commons, over the years the number of KB images has grown steadily. As of 20 December 2022, there were [27.296 images](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI2/KPI2_KB_20-12-2022) available in the [KB Commons repository](https://commons.wikimedia.org/wiki/Category:Media_contributed_by_Koninklijke_Bibliotheek). The table below ([source](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI2#Historische_ontwikkeling_van_KPI_2)) shows the historical growth.<br clear="all"/>
 
-<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/editimage0.png" align="left"/></kbd><br clear="all"/><sub>**Translation of column headers:**<br/>1. Datum meting = Date of measurement<br/>2. Aantal KB-gerelateerde media-bestanden op Commons = Number of KB related media files on Wikimedia Commons<br/>3. Groei t.o.v. vorige meting = Growth compared to previous measurement (absolute numbers)<br/>4. Groei in % = Growth in %</sub>
+<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/editimage0.png" align="left"/></kbd><br clear="all"/><sub>**Translation of column headers:**<br/>
+    1. Datum meting = Date of measurement<br/>
+    2. Aantal KB-gerelateerde media-bestanden op Commons = Number of KB related media files on Wikimedia Commons<br/>
+    3. Groei t.o.v. vorige meting = Growth compared to previous measurement (absolute numbers)<br/>
+    4. Groei in % = Growth in %</sub>
 
 A brief analysis of this table:
 
@@ -34,35 +38,32 @@ A brief analysis of this table:
 
 ### 2) The number of unique Wikipedia articles using those KB images
 
-Wikipedia writers use our images to illustrate articles. On 12/20/2022, I measured the number of unique Wikipedia articles (in all language versions) using those images:
-De schrijvers van Wikipedia gebruiken onze beelden om artikelen te illustreren. Op 20-12-2022 heb ik het aantal unieke Wikipedia-artikelen (in alle taalversies) dat gebruik maakt van die beelden gemeten:
+Wikipedia writers use our images to illustrate articles. On 20 December 2022 I [measured the number of unique Wikipedia articles ](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI4/KPI4_KB_20-12-2022) (in all language versions) using those images:
 
-* of the 27,296 available images (see above).     van de 27.296 beschikbare afbeeldingen (zie hierboven) worden
-* a total of 1,737 unique images used 6,010 times     in totaal 1.737 unieke afbeeldingen 6.010 keer gebruikt
-* in 4,607 unique WP articles (=this KPI)     in 4.607 unieke WP-artikelen (=deze KPI)
-* in 136 language versions.     in 136 taalversies.
+* of the 27.296 available KB images on Commons (see above)    
+* a total of 1.737 unique images are used 6.010 times
+* in 4.607 unique Wikipedia articles (*=this KPI*) 
+* in 136 distinct language versions of the encyclopedia.
 
-This is further detailed in the article Public outreach and reuse of KB images via Wikipedia, 2014-2022 (December 2022). The table below (source) shows the historical growth.
-Dit wordt verder gedetailleerd in het artikel Public outreach and reuse of KB images via Wikipedia, 2014-2022 (december 2022). Onderstaande tabel (bron) laat de historische groei zien. <br clear="all"/>
+These figures are further detailed in the article *[Public outreach and reuse of KB images via Wikipedia, 2014-2022](https://github.com/KBNLwikimedia/GLAMorousToHTML/blob/main/stories/Public%20outreach%20and%20reuse%20of%20KB%20images%20via%20Wikipedia,%202014-2022.md)* (December 2022). The table below ([source](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI4#Historische_ontwikkeling_van_KPI_4)) shows the historical development.
+ <br clear="all"/>
 
-<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/image_43952544621672155082557.png" align="left"/></kbd><br clear="all"/><sub>**Translation of column headers:**<br/>1. Datum meting =	Date of measurement<br/>2. Aantal unieke Wikipedia-artikelen waarin KB-mediabestanden opgenomen zijn = Number of unique Wikipedia articles that include KB media files = KPI 4<br/>3. Aantal taalversies van Wikipedia waarin KB-mediabestanden opgenomen zijn = Number of language versions of Wikipedia that contain KB media files<br/>4. Aantal hergebruikte KB-mediabestanden in al die taalversies van Wikipedia = Number of reused KB media files in all those language versions of Wikipedia<br/>5. Totaal aantal KB-mediabestanden op Wikimedia Commons, zie KPI2 = Total number of KB media files on Wikimedia Commons, see KPI2<br/>6. Percentage hergebruik van KB-mediabestanden in Wikipedia = Percentage of reuse of KB media files in Wikipedia</sub>
+<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/image_43952544621672155082557.png" align="left"/></kbd><br clear="all"/><sub>**Translation of column headers:**<br/>
+    1. Datum meting = Date of measurement<br/>
+    2. Aantal unieke Wikipedia-artikelen waarin KB-mediabestanden opgenomen zijn = Number of unique Wikipedia articles that include KB media files (*=this KPI*) <br/>
+    3. Aantal taalversies van Wikipedia waarin KB-mediabestanden opgenomen zijn = Number of language versions of Wikipedia that contain KB media files<br/>
+    4. Aantal hergebruikte KB-mediabestanden in al die taalversies van Wikipedia = Number of reused KB media files in all those language versions of Wikipedia<br/>
+    5. Totaal aantal KB-mediabestanden op Wikimedia Commons, zie KPI2 = Total number of KB media files on Wikimedia Commons (*see first KPI above*)<br/>
+    6. Percentage hergebruik van KB-mediabestanden in Wikipedia = Percentage of reuse of KB media files in Wikipedia</sub>
 
-Here's a brief explanation:
-Ook hier een korte duiding:
-
-* Column 2: The unique number of Wikipedia articles containing KB images has grown from 1,153 in 2013 to 4,607 in December 2022. This is a growth of 300%.
-* Kolom 2: Het uniek aantal Wikipedia-artikelen waarin KB-beelden opgenomen zijn is gegroeid van 1.153 in 2013 naar 4.607 in december 2022. Dit is een groei van 300%.
-* Column 3: KB images can be found in more and more language versions, with (on 20-12-2022) the English language at the top (993 articles), followed by the Dutch (620), French, German and Russian Wikipedias.
-* Kolom 3: KB-beelden zijn in steeds meer taalversies te vinden, met (op 20-12-2022) de Engelstalige op kop (993 artikelen), gevolgd door de Nederlandstalige (620), Franse, Duitse en Russische Wikipedia's.
-* Column 4: The number of KB images that find their way from Wikimedia Commons to Wikipedia is also growing steadily and has increased almost sixfold since the measurements started in 2013.
-* Kolom 4: Het aantal KB-afbeeldingen dat vanaf Wikimedia Commons zijn weg weet te vinden richting Wikipedia groeit ook gestaag door en is sinds het begin van de metingen in 2013 bijna verzesvoudigd.
-* Column 6: Relative reuse has fallen sharply over the years, however, from 40% in 2013 to 6.36% in December 2022. This can be explained by the fact that the KB made image donations during that period, which meant that the total number of KB media files (column 5, see also first KPI) has grown strongly. However, it may take years for the Wikipedia community to 'discover' all these images and turn them into articles.
-* Kolom 6: Het relatieve hergebruik is in de loop van de jaren echter flink gedaald, van 40% in 2013 naar 6,36% in december 2022. Dit is te verklaren doordat de KB in die periode beelddonaties heeft gedaan, waardoor het totaal aantal KB-mediabestanden (kolom 5, zie ook eerste KPI) sterk gegroeid is. Het kan echter jaren duren voordat de Wikipedia-gemeenschap al deze beelden 'ontdekt' en in artikelen verwerkt heeft.
-* But even then there is in practice an upper limit to the number of images that can be usefully incorporated into an article: whether the KB puts 20 or 500 images from, say, a medieval manuscript on Commons, in the Wikipedia article about that handwriting can typically only process a maximum of 10 images in a meaningful way.
+Also here a brief analysis of this table:
 <img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/image_52831813131672155727015.png" align="right" width="200"/>
-* Maar zelfs dan is er in de praktijk een bovengrens aan het aantal afbeeldingen dat op een zinvolle manier in een artikel verwerkt kan worden: of de KB nou 20 of 500 afbeeldingen uit bv. een middeleeuwse handschrift op Commons zet, in het Wikipedia-artikel over dat handschrift kun je typisch maar maximaal 10 beelden op een zinvolle manier verwerken.
-* And often that doesn't happen at all and KB images remain unused within Wikipedia. That's not a disadvantage, though, because images on Commons have a broader purpose than just Wikipedia; for example, they are also used in 2,130 Wikidata items (dated 20-12-2022) and on other Wikimedia platforms, and they find their way to other websites (Google Images!), social media, publications, news services, academic research and other types of free and commercial reuse.
-* En vaak gebeurt dat helemaal niet en blijven KB-beelden ongebruikt binnen Wikipedia. Dat is echter geen nadeel, want beelden op Commons hebben een breder doel dan alleen Wikipedia; zo worden ze bv. ook in 2.130 Wikidata-items (d.d. 20-12-2022) en op andere Wikimedia-platformen gebruikt, én vinden ze hun weg naar andere websites (Google Images!), social media, publicaties, nieuwsdiensten, academisch onderzoek en ander soorten vrij en commercieel hergebruik.
+* Column 2: The unique number of Wikipedia articles containing KB images has grown from 1.153 in 2013 to [4.607 in December 2022](https://kbnlwikimedia.github.io/GLAMorousToHTML/GLAMorous_MediacontributedbyKoninklijkeBibliotheek_Wikipedia_Mainnamespace_20122022.html). This is a growth of 300%.
+* Column 3: KB images can be found in increasingly more language versions, with ([on 20 December 2022](https://kbnlwikimedia.github.io/GLAMorousToHTML/GLAMorous_MediacontributedbyKoninklijkeBibliotheek_Wikipedia_Mainnamespace_20122022.html)) the English language at the top (993 articles), followed by the Dutch (620), French, German and Russian Wikipedias.
+* Column 4: The number of KB images that find their way from Wikimedia Commons into Wikipedia is also growing steadily and has increased almost sixfold since the measurements started in 2013.
+* Column 6: Relative reuse has dropped quite sharply over the years, from 40% in 2013 to 6.36% in December 2022. This can be explained by the fact that the KB has made [image donations](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_donations) during that period, which means that the total number of KB media files (column 5, see also the first KPI above) has grown strongly. However, it may take years for the Wikipedia community to 'discover' all these images and incorporate them into articles.
+* But even then there is a practical upper limit to the number of images that can be usefully incorporated into an article: whether the KB puts 20 or 500 images from, for example, a [medieval manuscript on Commons](https://commons.wikimedia.org/wiki/Category:Psalter_of_Eleanor_of_Aquitaine_(ca._1185)_-_KB_76F13), the [Wikipedia article about that manuscript](https://nl.wikipedia.org/wiki/F%C3%A9camp_psalter) can typically only contain a maximum of around 10 images in a meaningful way.
+* And often that doesn't happen at all and KB images are never used in Wikipedia articles. This is not a disadvantage though, because KB images on Commons serve broader purposes than just Wikipedia; they are also used on other Wikimedia platforms (e.g. [2.130 times on Wikidata](https://glamtools.toolforge.org/glamorous.php?doit=1&category=Media_contributed_by_Koninklijke_Bibliotheek&use_globalusage=1&ns0=1&show_details=1&projects[wikidata]=1)) and they find their way to other websites (Google Images!), social media, publications, news services, academic research and other types of free or [commercial](https://www.alamy.com/stock-photo-atlas-ortelius-kb-ppn369376781-001av-001br-142472824.html) reuse.   
     
 ### 3) The number of requests for those Wikipedia articles per month
 
