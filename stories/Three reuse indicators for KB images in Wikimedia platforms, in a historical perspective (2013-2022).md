@@ -1,7 +1,7 @@
 # Three reuse indicators for KB images in Wikimedia platforms, in a historical perspective (2013-2022)
-<sup>Olaf Janssen, 28 December 2022</sup>
+<sup>Olaf Janssen, 29 December 2022</sup>
 
-*Wikipedia is a very effective channel to globally improve the findability, visibility and reusability of images from the heritage collections of the KB, the national library of the Netherlands. In this article I illustrate this based on three reuse indicators (KPIs) that I measured in December 2022. I also show that during the period 2013-2022 our image collections have reached an ever-increasing global audience.*
+*Wikipedia is a very effective channel to globally improve the findability, visibility and reusability of images from the heritage collections of the KB, the national library of the Netherlands. In this article I will illustrate this, based on three reuse indicators (KPIs) that I measured in December 2022. I will also show that during the period 2013-2022 our image collections have reached an ever-increasing global audience.*
 
 <img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/KB_Nationale-Bibliotheek_Logo_RGB-Zwart-EN.png" align="right" width="400"/>
 
