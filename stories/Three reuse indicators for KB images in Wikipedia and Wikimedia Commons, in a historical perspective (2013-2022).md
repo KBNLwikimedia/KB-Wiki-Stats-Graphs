@@ -18,7 +18,7 @@ At the end of December 2022, I measured three interconnected indicators (KPIs) f
 2. The number of unique Wikipedia articles using those KB images 
 3. The number of requests for those Wikipedia articles per month
 
-Because I also measured these KPIs in the past, I can put the figures into a historical context, from 2013 to 2022.
+Because I have also measured these KPIs in the past, I am able to put these figures into a historical context, from 2013 to 2022.
 
 ### 1) The number of KB images on Wikimedia Commons
 
