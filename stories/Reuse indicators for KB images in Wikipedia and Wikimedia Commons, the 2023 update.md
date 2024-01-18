@@ -1,5 +1,8 @@
 https://plein.kb.nl/thoughts/28030
 
+# Three reuse indicators for KB images in Wikipedia and Wikimedia Commons, in a historical perspective (2013-2022)
+<sup>Olaf Janssen, 29 December 2022</sup>
+
 Een jaar geleden schreef ik een uitgebreid artikel over drie samenhangende indicatoren die het hergebruik en publieksbereik van KB-collectiebeelden via Wikipedia in historisch perspectief (2013-2022) lieten zien (zie ook dit Plein-bericht).
 Dit artikel toonde aan dat Wikipedia een hele effectieve manier is om beelden uit onze (erfgoed)collecties over de hele wereld zichtbaar te maken. Ook liet het zien dat in de loop van de jaren onze collectiebeelden een steeds groter wereldwijd publieksbereik hebben gekregen.
 
@@ -48,3 +51,14 @@ Uitgebreidere analyses en alle onderliggende gegevens uit dit artikel zijn te vi
     KPI 8: Het aantal opvraging van die Wikipedia-artikelen per maand
 
 (de wellicht wat onlogische nummering van deze KPIs is een historisch dingetje)
+
+ ## About the author
+<img align="left" src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50"/>
+
+Olaf Janssen is the Wikimedia coordinator of the KB, the national library of the Netherlands. He contributes to
+[Wikipedia](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek) and [Wikidata](https://www.wikidata.org/wiki/Wikidata:GLAM/Koninklijke_Bibliotheek_Nederland) as [User:OlafJanssen](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen)<br>
+
+## Reusing this article
+This article is available at [Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/blob/master/stories/Three%20reuse%20indicators%20for%20KB%20images%20in%20Wikipedia%20and%20Wikimedia%20Commons,%20in%20a%20historical%20perspective%20(2013-2022).md), [Zenodo](https://zenodo.org/record/7491592) and [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Three_reuse_indicators_for_KB_images_in_Wikipedia_and_Wikimedia_Commons,_in_a_historical_perspective_(2013-2022).pdf) and the text has been released under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) CC-BY 4.0 License. The preferred attribution is: KB, national library of the Netherlands/Olaf Janssen. 
+
+<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/cc-by.png" width="80"/></kbd>
