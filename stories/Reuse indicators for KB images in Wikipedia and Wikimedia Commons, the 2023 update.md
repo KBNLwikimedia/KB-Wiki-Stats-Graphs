@@ -1,7 +1,7 @@
 https://plein.kb.nl/thoughts/28030
 
-# Three reuse indicators for KB images in Wikipedia and Wikimedia Commons, in a historical perspective (2013-2022)
-<sup>Olaf Janssen, 29 December 2022</sup>
+# Reuse indicators for KB images in Wikipedia and Wikimedia Commons, the 2023 update
+<sup>Olaf Janssen, 18 January 2024</sup>
 
 Een jaar geleden schreef ik een uitgebreid artikel over drie samenhangende indicatoren die het hergebruik en publieksbereik van KB-collectiebeelden via Wikipedia in historisch perspectief (2013-2022) lieten zien (zie ook dit Plein-bericht).
 Dit artikel toonde aan dat Wikipedia een hele effectieve manier is om beelden uit onze (erfgoed)collecties over de hele wereld zichtbaar te maken. Ook liet het zien dat in de loop van de jaren onze collectiebeelden een steeds groter wereldwijd publieksbereik hebben gekregen.
