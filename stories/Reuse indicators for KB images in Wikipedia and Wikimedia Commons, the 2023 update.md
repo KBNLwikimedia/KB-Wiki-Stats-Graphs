@@ -1,25 +1,38 @@
-https://plein.kb.nl/thoughts/28030
-
 # Reuse indicators for KB images in Wikipedia and Wikimedia Commons, the 2023 update
-<sup>Olaf Janssen, 18 January 2024</sup>
+<sup>Olaf Janssen, 19 January 2024</sup>
 
-Een jaar geleden schreef ik een uitgebreid artikel over drie samenhangende indicatoren die het hergebruik en publieksbereik van KB-collectiebeelden via Wikipedia in historisch perspectief (2013-2022) lieten zien (zie ook dit Plein-bericht).
-Dit artikel toonde aan dat Wikipedia een hele effectieve manier is om beelden uit onze (erfgoed)collecties over de hele wereld zichtbaar te maken. Ook liet het zien dat in de loop van de jaren onze collectiebeelden een steeds groter wereldwijd publieksbereik hebben gekregen.
+<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/KB_Nationale-Bibliotheek_Logo_RGB-Zwart-EN.png" align="right" width="400"/>
 
-Begin januari 2024 heb ik deze drie indicatoren opnieuw gemeten, dit keer over het jaar 2023. Het gaat hierbij om:
+A year ago I wrote an extensive article about three related indicators that showed [the reuse and public reach of KB collection images via Wikipedia]() in a historical perspective (2013-2022). This article showed that Wikipedia is a very effective way to make images from our (heritage) collections visible all over the world. It also showed that over the years our collection images have gained steadily growing global audiences.
 
-    Het aantal KB-collectiebeelden op Wikimedia Commons
-    Het aantal unieke Wikipedia-artikelen dat gebruik maakt van die KB-collectiebeelden
-    Het aantal opvragingen van die Wikipedia-artikelen per maand.
+<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/xxxx" align="right" width="300"/>
 
-In dit artikel deel ik graag de resultaten en inzichten van deze metingen.
-1) Het aantal KB-beelden op Wikimedia Commons
+## Three reuse indicators for KB images, 2023
 
-Begin januari 2024 waren er 30.626 afbeeldingen beschikbaar in de KB-verzamelbak op Commons. In 2023 zijn er per saldo 3.330 KB-bestanden bijgekomen. Dit is een toename van 12,1%. Dit komt o.a. doordat alle pagina's van de eerste 4 delen van de Flora Batava via Commons beschikbaar zijn gemaakt. Zie deze toelichting voor meer details.
+At the beginning of January 2024, I measured these three indicators again, this time covering the year 2023. These are:
 
-Onderstaande tabel laat de historische groei zien. Zie deze pagina voor een uitgebreidere duiding van deze historische cijfers.
+1. The number of KB collection images on Wikimedia Commons
+2. The number of unique Wikipedia articles that use those KB collection images
+3. The number of requests for those Wikipedia articles per month.
 
-2) Het aantal unieke Wikipedia-artikelen dat gebruik maakt van die KB-collectiebeelden
+In this article I would like to share the results and insights from these 2023 measurements.
+
+-----------------------------------------------------
+
+### 1) The number of KB collection images on Wikimedia Commons
+
+<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/xxxx" align="right" width="300"/>
+
+At the beginning of January 2024, there were [30,626 images](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI2/KPI2_KB_10-01-2024) available in the [KB Commons media repository](https://commons.wikimedia.org/wiki/Category:Media_contributed_by_Koninklijke_Bibliotheek). This means that in 2023 3,330 KB files were. This is an increase of 12.1% [compared to last year](). This can be partially explained by the addition of all pages of the [first 4 volumes of the Flora Batava](https://commons.wikimedia.org/wiki/Flora_Batava_-_KB_copy) to Commons. See [these notes](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI2/KPI2_KB_10-01-2024#Analyse) for more details.
+
+The table below shows the historical growth. See [this page](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI2#Historische_ontwikkeling_van_KPI_2) for a more detailed explanation of these historical figures.
+
+<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/xxxx" align="right" width="300"/>
+
+-----------------------------------------------------
+
+
+### 2) The number of unique Wikipedia articles using those KB images
 
 De contentmakers van Wikipedia gebruiken onze beelden om artikelen te illustreren. Begin januari 2024 heb ik het aantal unieke Wikipedia-artikelen (in alle taalversies) dat gebruik maakt van onze beelden gemeten:
 
@@ -34,6 +47,28 @@ Als je exact wilt weten in weIke Wikipedia-artikelen en in welke taalversies onz
 
 Onderstaande tabel laat de historische groei van deze indicator zien. Zie deze pagina voor een uitgebreidere duiding van deze historische cijfers.
 
+     The number of unique Wikipedia articles that use those KB collection images
+
+Wikipedia's content creators use our images to illustrate articles. At the beginning of January 2024, I measured the number of unique Wikipedia articles (in all language versions) that use our images:
+
+of the 30,626 available images (see above).
+a total of 1,872 unique images used 6,615 times (6.1% reuse)
+in 5,135 unique WP articles (= this KPI)
+in 145 language versions, with the English language leading (1,125 articles), followed by the Dutch (708), French (366), German and Russian Wikipedias.
+
+See this page for a further analysis of these figures.
+
+If you want to know exactly which Wikipedia articles and which language versions our KB images are used in, you can view this full overview. Did you know, for example, that an image of the fort on Goeree from the Atlas of Mutual Hertitage illustrates the article about Senegal in ChiTumbuka?
+
+<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/xxxx" align="right" width="300"/>
+
+The table below shows the historical growth of this indicator. See this page for a more detailed explanation of these historical figures.
+
+<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/xxxx" align="right" width="300"/>
+
+-----------------------------------------------------
+
+
 3) Het aantal opvraging van die Wikipedia-artikelen per maand
 
 Natuurlijk leuk en aardig, al die Wikipedia-artikelen met onze beelden erin, maar als die nooit opgevraagd worden, dan worden onze beelden ook nooit gezien. Gelukkig is dit niet het geval: in de periode november 2022 t/m december 2023 (14 maanden dus) waren er elke maand gemiddeld 12,9 miljoen van dergelijke paginaopvragingen, zoals onderstaande tabel (bron) laat zien.
@@ -41,6 +76,25 @@ Natuurlijk leuk en aardig, al die Wikipedia-artikelen met onze beelden erin, maa
 Voor (de 12 maanden van) het jaar 2023 komt dit (geïnterpoleerd) neer op 153 miljoen opvragingen. Als we dit aantal afzetten tegen de 123 miljoen opvragingen in 2022, dan betekent dat een groei van 24%.
 
 Zie deze pagina voor een uitgebreidere duiding van de historische ontwikkeling van deze KPI.
+
+### 3) The number of requests for those Wikipedia articles per month
+
+Of course, all those Wikipedia articles with our images in them are all well and good, but if they are never requested, then our images will never be seen. Fortunately, this is not the case: in the period November 2022 to December 2023 (i.e. 14 months), there were an average of 12.9 million such page requests every month, as the table below (source) shows.
+
+For (the 12 months of) the year 2023, this (interpolated) amounts to 153 million requests. If we compare this number to the 123 million requests in 2022, this means a growth of 24%.
+
+See this page for a more detailed explanation of the historical development of this KPI.
+
+<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/xxxx" align="right" width="300"/>
+
+---------------------------------------------------------
+Read further
+
+More extensive analyzes and all underlying data from this article can be found on the KB project pages on the Dutch Wikipedia:
+
+KPI 2: The number of KB images on Wikimedia Commons
+KPI 4: The number of unique Wikipedia articles that use those KB collection images
+KPI 8: The number of requests for those Wikipedia articles per month
 
 Verder lezen
 
@@ -50,7 +104,7 @@ Uitgebreidere analyses en alle onderliggende gegevens uit dit artikel zijn te vi
     KPI 4 : Het aantal unieke Wikipedia-artikelen dat gebruik maakt van die KB-collectiebeelden
     KPI 8: Het aantal opvraging van die Wikipedia-artikelen per maand
 
-(de wellicht wat onlogische nummering van deze KPIs is een historisch dingetje)
+
 
  ## About the author
 <img align="left" src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50"/>
