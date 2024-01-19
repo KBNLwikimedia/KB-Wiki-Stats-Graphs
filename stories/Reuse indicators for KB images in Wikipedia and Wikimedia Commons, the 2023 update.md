@@ -5,9 +5,9 @@
 
 A year ago I wrote an extensive article about three related indicators that showed [the reuse and public reach of KB collection images via Wikipedia]() in a historical perspective (2013-2022). This article showed that Wikipedia is a very effective way to make images from our (heritage) collections visible all over the world. It also showed that over the years our collection images have gained steadily growing global audiences.
 
-<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/xxxx" align="right" width="300"/>
-
 ## Three reuse indicators for KB images, 2023
+
+<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/icon_wp.png" align="right" width="130"/>
 
 At the beginning of January 2024, I measured these three indicators again, this time covering the year 2023. These are:
 
@@ -16,8 +16,6 @@ At the beginning of January 2024, I measured these three indicators again, this 
 3. The number of requests for those Wikipedia articles per month.
 
 In this article I would like to share the results and insights from these 2023 measurements.
-
------------------------------------------------------
 
 ### 1) The number of KB collection images on Wikimedia Commons
 
@@ -28,9 +26,6 @@ At the beginning of January 2024, there were [30,626 images](https://nl.wikipedi
 The table below shows the historical growth. See [this page](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI2#Historische_ontwikkeling_van_KPI_2) for a more detailed explanation of these historical figures.
 
 <img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/xxxx" align="right" width="300"/>
-
------------------------------------------------------
-
 
 ### 2) The number of unique Wikipedia articles using those KB images
 
@@ -66,17 +61,6 @@ The table below shows the historical growth of this indicator. See this page for
 
 <img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/xxxx" align="right" width="300"/>
 
------------------------------------------------------
-
-
-3) Het aantal opvraging van die Wikipedia-artikelen per maand
-
-Natuurlijk leuk en aardig, al die Wikipedia-artikelen met onze beelden erin, maar als die nooit opgevraagd worden, dan worden onze beelden ook nooit gezien. Gelukkig is dit niet het geval: in de periode november 2022 t/m december 2023 (14 maanden dus) waren er elke maand gemiddeld 12,9 miljoen van dergelijke paginaopvragingen, zoals onderstaande tabel (bron) laat zien.
-
-Voor (de 12 maanden van) het jaar 2023 komt dit (geïnterpoleerd) neer op 153 miljoen opvragingen. Als we dit aantal afzetten tegen de 123 miljoen opvragingen in 2022, dan betekent dat een groei van 24%.
-
-Zie deze pagina voor een uitgebreidere duiding van de historische ontwikkeling van deze KPI.
-
 ### 3) The number of requests for those Wikipedia articles per month
 
 Of course, all those Wikipedia articles with our images in them are all well and good, but if they are never requested, then our images will never be seen. Fortunately, this is not the case: in the period November 2022 to December 2023 (i.e. 14 months), there were an average of 12.9 million such page requests every month, as the table below (source) shows.
@@ -87,24 +71,21 @@ See this page for a more detailed explanation of the historical development of t
 
 <img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/xxxx" align="right" width="300"/>
 
----------------------------------------------------------
-Read further
+3) Het aantal opvraging van die Wikipedia-artikelen per maand
+
+Natuurlijk leuk en aardig, al die Wikipedia-artikelen met onze beelden erin, maar als die nooit opgevraagd worden, dan worden onze beelden ook nooit gezien. Gelukkig is dit niet het geval: in de periode november 2022 t/m december 2023 (14 maanden dus) waren er elke maand gemiddeld 12,9 miljoen van dergelijke paginaopvragingen, zoals onderstaande tabel (bron) laat zien.
+
+Voor (de 12 maanden van) het jaar 2023 komt dit (geïnterpoleerd) neer op 153 miljoen opvragingen. Als we dit aantal afzetten tegen de 123 miljoen opvragingen in 2022, dan betekent dat een groei van 24%.
+
+Zie deze pagina voor een uitgebreidere duiding van de historische ontwikkeling van deze KPI.
+
+### More details and data
 
 More extensive analyzes and all underlying data from this article can be found on the KB project pages on the Dutch Wikipedia:
 
-KPI 2: The number of KB images on Wikimedia Commons
-KPI 4: The number of unique Wikipedia articles that use those KB collection images
-KPI 8: The number of requests for those Wikipedia articles per month
-
-Verder lezen
-
-Uitgebreidere analyses en alle onderliggende gegevens uit dit artikel zijn te vinden op de projectpagina's van de KB op de Nederlandstalige Wikipedia:
-
-    KPI 2 : Het aantal KB-beelden op Wikimedia Commons
-    KPI 4 : Het aantal unieke Wikipedia-artikelen dat gebruik maakt van die KB-collectiebeelden
-    KPI 8: Het aantal opvraging van die Wikipedia-artikelen per maand
-
-
+* KPI 2: [The number of KB collection images on Wikimedia Commons](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI2)
+* KPI 4: [The number of unique Wikipedia articles that use those KB collection images](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI4)
+* KPI 8: [The number of requests for those Wikipedia articles per month](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI8)
 
  ## About the author
 <img align="left" src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50"/>
@@ -113,6 +94,6 @@ Olaf Janssen is the Wikimedia coordinator of the KB, the national library of the
 [Wikipedia](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek) and [Wikidata](https://www.wikidata.org/wiki/Wikidata:GLAM/Koninklijke_Bibliotheek_Nederland) as [User:OlafJanssen](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen)<br>
 
 ## Reusing this article
-This article is available at [Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/blob/master/stories/xxx) and [Zenodo](https://zenodo.org/record/xxx) and the text has been released under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) CC-BY 4.0 License. The preferred attribution is: *KB, national library of the Netherlands / Olaf Janssen* . 
+This article is available at [Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/blob/master/stories/Reuse%20indicators%20for%20KB%20images%20in%20Wikipedia%20and%20Wikimedia%20Commons%2C%20the%202023%20update.md) and [Zenodo](https://zenodo.org/record/xxx) and the text has been released under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) CC-BY 4.0 License. The preferred attribution is: *KB, national library of the Netherlands / Olaf Janssen* . 
 
 <kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/cc-by.png" width="80"/></kbd>
