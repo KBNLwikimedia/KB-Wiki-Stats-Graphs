@@ -19,13 +19,18 @@ In this article I would like to share the results and insights from these 2023 m
 
 ### 1) The number of KB collection images on Wikimedia Commons
 
-<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/xxxx" align="right" width="300"/>
+<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/image_56932145521705575562417.png" align="right" width="300"/>
 
 At the beginning of January 2024, there were [30,626 images](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI2/KPI2_KB_10-01-2024) available in the [KB Commons media repository](https://commons.wikimedia.org/wiki/Category:Media_contributed_by_Koninklijke_Bibliotheek). This means that in 2023 3,330 KB files were. This is an increase of 12.1% [compared to last year](). This can be partially explained by the addition of all pages of the [first 4 volumes of the Flora Batava](https://commons.wikimedia.org/wiki/Flora_Batava_-_KB_copy) to Commons. See [these notes](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI2/KPI2_KB_10-01-2024#Analyse) for more details.
 
 The table below shows the historical growth. See [this page](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI2#Historische_ontwikkeling_van_KPI_2) for a more detailed explanation of these historical figures.
 
-<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/xxxx" align="right" width="300"/>
+<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/image_65514679441705576720267.png" align="left"/></kbd><br clear="all"/><sub>**Translation of column headers:**<br/>
+    1. Datum meting = Date of measurement<br/>
+    2. Aantal KB-gerelateerde media-bestanden op Commons = Number of KB related media files on Wikimedia Commons<br/>
+    3. Groei t.o.v. vorige meting = Growth compared to previous measurement (absolute numbers)<br/>
+    4. Groei in % = Growth in %</sub>
+
 
 ### 2) The number of unique Wikipedia articles using those KB images
 
@@ -55,11 +60,18 @@ See this page for a further analysis of these figures.
 
 If you want to know exactly which Wikipedia articles and which language versions our KB images are used in, you can view this full overview. Did you know, for example, that an image of the fort on Goeree from the Atlas of Mutual Hertitage illustrates the article about Senegal in ChiTumbuka?
 
-<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/xxxx" align="right" width="300"/>
+<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/image_34572057961705578394761.png" align="right" width="300"/>
 
 The table below shows the historical growth of this indicator. See this page for a more detailed explanation of these historical figures.
 
-<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/xxxx" align="right" width="300"/>
+<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/image_763717871705580165642.png" align="left"/></kbd><br clear="all"/><sub>**Translation of column headers:**<br/>
+    1. Datum meting = Date of measurement<br/>
+    2. Aantal unieke Wikipedia-artikelen waarin KB-mediabestanden opgenomen zijn = Number of unique Wikipedia articles that include KB media files (*=this KPI*) <br/>
+    3. Aantal taalversies van Wikipedia waarin KB-mediabestanden opgenomen zijn = Number of language versions of Wikipedia that contain KB media files<br/>
+    4. Aantal hergebruikte KB-mediabestanden in al die taalversies van Wikipedia = Number of reused KB media files in all those language versions of Wikipedia<br/>
+    5. Totaal aantal KB-mediabestanden op Wikimedia Commons, zie KPI2 = Total number of KB media files on Wikimedia Commons (*see first KPI above*)<br/>
+    6. Percentage hergebruik van KB-mediabestanden in Wikipedia = Percentage of reuse of KB media files in Wikipedia</sub>
+
 
 ### 3) The number of requests for those Wikipedia articles per month
 
@@ -69,7 +81,12 @@ For (the 12 months of) the year 2023, this (interpolated) amounts to 153 million
 
 See this page for a more detailed explanation of the historical development of this KPI.
 
-<img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/xxxx" align="right" width="300"/>
+<kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/image_48780918441705583122494.png" align="left"/></kbd><br clear="all"/><sub>**Translation of column headers:**<br/>
+    1. Datum meting = Date of measurement<br/>
+    2. Meetperiode in maanden = Measurement period in months<br/>
+    3. Totaal aantal opvragingen van Wiki-pagina's met KB-beelden in deze periode = Total number of requests of Wiki pages containing KB images during this period<br/>
+    4. Gemiddeld aantal paginaopvragingen (page views) per maand in deze period = Average number of page requests (page views) per month in this period (*=this KPI*)</sub>
+
 
 3) Het aantal opvraging van die Wikipedia-artikelen per maand
 
