@@ -1,5 +1,5 @@
 # Reuse indicators for KB images in Wikipedia and Wikimedia Commons, the 2023 update
-<sup>Olaf Janssen, 19 January 2024</sup>
+<sup>Olaf Janssen, 22 January 2024</sup>
 
 <img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/KB_Nationale-Bibliotheek_Logo_RGB-Zwart-EN.png" align="right" width="400"/>
 
