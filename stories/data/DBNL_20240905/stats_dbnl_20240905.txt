@@ -1,0 +1,15 @@
+reports\DBNL_20240905\WPNLarticlesAndKBUrls_20240905_combined_DBNL.xlsx
+
+Number of (non-unique) DBNL urls = number of (non-unique) WP articles = number of rows : 30768
+
+Number of unique WP articles: 18458
+
+Number of unique DBNL urls: 27875
+
+List of KBservices: ['DBNL']
+Number of unique KBservices: 1
+Check via len() function: 1
+
+List of KBcategories: ['DBNL']
+Number of unique KBcategories: 1
+Check via len() function: 1
