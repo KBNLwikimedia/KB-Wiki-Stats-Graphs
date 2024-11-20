@@ -16,6 +16,13 @@ DBNL logo topevoegen
 
 dbnl.nl, . be. en .org
 
+
+### Voorbeelden DNL links in WPNL
+* Auteurs Besopreek DNNb Nl links in artikel albert Verwij
+* Teksten
+* Titels
+* Overige : homepage, colofin etc
+
 ## sectie overall astat
 Op 5 september 2024
 Number of (non-unique) DBNL urls = number of (non-unique) WP articles = number of rows : 30.768
@@ -25,22 +32,17 @@ Number of unique DBNL urls in WP:NL: 27.875
 ## Sectie 1 Titel
 DBNL Urls in WpNL gfegeroepeerd in 3 hoofdcats DBNL
 
-<img src="data/DBNL_20240905/visuals-datawrapper/V8Mmy-links-naar-dbnl-vanuit-de-nederlandstalige-wikipedia-per-categorie.png" align="right" width="430"/>
-
-<div style="min-height:924px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="" /></noscript></div>
+<div style="min-height:903px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia naar DBNL, gegroepeerd per DBNL-hoofdcategorie: Auteurs, Teksten en Titels " /></noscript></div>
 <br/>
 
-## Sectie 2 Titel
+## Artikelen in Nederlandstalige Wikipedia met meeste links naar DBNL
 Top 20 WP
-<div style="min-height:625px" id="datawrapper-vis-jaUXc"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/jaUXc/embed.js" charset="utf-8" data-target="#datawrapper-vis-jaUXc"></script><noscript><img src="https://datawrapper.dwcdn.net/jaUXc/full.png" alt="" /></noscript></div>
+<div style="min-height:625px" id="datawrapper-vis-jaUXc"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/jaUXc/embed.js" charset="utf-8" data-target="#datawrapper-vis-jaUXc"></script><noscript><img src="https://datawrapper.dwcdn.net/jaUXc/full.png" alt="Barchart van de top 20 van artikelen in de Nederlandstalige Wikipedia die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten." /></noscript></div>
 
-
-
-## Sectie 3 Titel
+## Pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia
 Top 20 DBNL
-<div style="min-height:643px" id="datawrapper-vis-oek1t"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oek1t/embed.js" charset="utf-8" data-target="#datawrapper-vis-oek1t"></script><noscript><img src="https://datawrapper.dwcdn.net/oek1t/full.png" alt="" /></noscript></div>
+<div style="min-height:643px" id="datawrapper-vis-oek1t"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oek1t/embed.js" charset="utf-8" data-target="#datawrapper-vis-oek1t"></script><noscript><img src="https://datawrapper.dwcdn.net/oek1t/full.png" alt="Barchart van de top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia" /></noscript></div>
 
-Live datawrapper invoegen
 
 ## Sectie 4 Titel
 aggegatieartieklen
@@ -56,11 +58,11 @@ Excel file [WPNLarticlesAndDBNLUrls_20240905.xlsx](data/DBNL_20240905/WPNLarticl
 
 
 ## Presentatie DBNLdag 2024
+Dit dataverhaal is gebruikt in de presenttie "Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar tijdens de DBNLdag op 8 November2024
 https://zenodo.org/records/14041711 and https://doi.org/10.5281/zenodo.14041711
 https://commons.wikimedia.org/wiki/File:Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar_-_DBNLdag_-_8November2024.pdf
 
-
- ## Over de auteur
+## Over de auteur
 <img align="left" src="images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50"/>
 
 Olaf Janssen is the Wikimedia coordinator of the KB, the national library of the Netherlands. He contributes to
