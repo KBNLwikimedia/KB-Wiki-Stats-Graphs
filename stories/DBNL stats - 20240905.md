@@ -32,7 +32,7 @@ Number of unique DBNL urls in WP:NL: 27.875
 ## Sectie 1 Titel
 DBNL Urls in WpNL gfegeroepeerd in 3 hoofdcats DBNL
 
-<div style="min-height:903px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia naar DBNL, gegroepeerd per DBNL-hoofdcategorie: Auteurs, Teksten en Titels " /></noscript></div>
+<div style="min-height:503px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia naar DBNL, gegroepeerd per DBNL-hoofdcategorie: Auteurs, Teksten en Titels " /></noscript></div>
 <br/>
 
 ## Artikelen in Nederlandstalige Wikipedia met meeste links naar DBNL
