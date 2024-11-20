@@ -34,6 +34,17 @@ Wikipedia is a very effective channel to globally improve the findability, visib
 <br clear="all"/>
 
 -------------
+
+### [Public outreach and reuse of KB images via Wikipedia, 2014-2022](https://kbnlwikimedia.github.io/GLAMorousToHTML/stories/Public%20outreach%20and%20reuse%20of%20KB%20images%20via%20Wikipedia%2C%202014-2022.html)
+*20 December 2022*
+
+The KB regularly uploads images from its heritage collections - atlases, medieval manuscripts, friendship books, picture books, etc - to Wikimedia Commons. This open media repository is used by the writers of Wikipedia for illustrating articles. In this article I discuss this type of reuse of KB collections, and how it helps to increase their public outreach. If you are interested in the exact (and highly diverse) Wikipedia articles illustated by KB images, please check out the overview at the bottom of this article.
+
+<img src="stories/images/Public_outreach_and_reuse_of_KB_images_via_Wikipedia_2014-2022.png" align="left">
+<br clear="all"/>
+
+-------------
+
 ### [Detecting Wikipedia articles strongly based on single library collections](stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html)
 *21 May 2020* 
 
