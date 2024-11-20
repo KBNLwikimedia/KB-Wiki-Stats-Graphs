@@ -27,16 +27,18 @@ DBNL Urls in WpNL gfegeroepeerd in 3 hoofdcats DBNL
 
 <img src="data/DBNL_20240905/visuals-datawrapper/V8Mmy-links-naar-dbnl-vanuit-de-nederlandstalige-wikipedia-per-categorie.png" align="right" width="430"/>
 
-<div style="min-height:918px" id="datawrapper-vis-1wP5w"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/1wP5w/embed.js" charset="utf-8" data-target="#datawrapper-vis-1wP5w"></script><noscript><img src="https://datawrapper.dwcdn.net/1wP5w/full.png" alt="This table shows key figures on how images from the collections of the partner institutions of the Netwerk Digitaal Erfgoed (NDE, the Dutch network for digital heritage) are being used in Wikimedia Commons and Wikipedia, per 4 September 2024." /></noscript></div>
+<div style="min-height:924px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="" /></noscript></div>
 <br/>
+
 ## Sectie 2 Titel
 Top 20 WP
-<img src="data/DBNL_20240905/visuals-datawrapper/jaUXc-artikelen-in-nederlandstalige-wikipedia-met-meeste-links-naar-dbnl-top-20.png" align="right" width="430"/>
+<div style="min-height:625px" id="datawrapper-vis-jaUXc"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/jaUXc/embed.js" charset="utf-8" data-target="#datawrapper-vis-jaUXc"></script><noscript><img src="https://datawrapper.dwcdn.net/jaUXc/full.png" alt="" /></noscript></div>
+
 
 
 ## Sectie 3 Titel
 Top 20 DBNL
-<img src="data/DBNL_20240905/visuals-datawrapper/oek1t-pagina-s-in-dbnl-waarnaar-het-vaakst-verwezen-wordt-vanuit-de-nederlandstalige-wikipedia-top-20.png" align="right" width="430"/>
+<div style="min-height:643px" id="datawrapper-vis-oek1t"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oek1t/embed.js" charset="utf-8" data-target="#datawrapper-vis-oek1t"></script><noscript><img src="https://datawrapper.dwcdn.net/oek1t/full.png" alt="" /></noscript></div>
 
 Live datawrapper invoegen
 
