@@ -1,4 +1,4 @@
-# 
+# Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024 
 <sup>Olaf Janssen, 20 november 2024</sup>
 
 <img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/icon_wp.png" align="right" width="110"  hspace="20"/>
