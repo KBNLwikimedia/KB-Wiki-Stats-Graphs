@@ -1,6 +1,7 @@
 # Data stories for Wikimedia reuse indicators of the KB, national library of the Netherlands.
-
+<img src="stories/images/icon_wp.png" align="right" width="110" hspace="30"/>
 <img src="stories/images/KB_Nationale-Bibliotheek_Logo_RGB-Zwart-EN.png" align="right" width="300"/>
+
 
 
 ### [DBNL Wiki stat]((stories/xcccccc.html))
@@ -13,6 +14,7 @@ Summary
 <br clear="all"/> --> 
 
 -------------
+
 
 ### [Reuse indicators for KB images in Wikipedia and Wikimedia Commons, the 2023 update](stories/Reuse%20indicators%20for%20KB%20images%20in%20Wikipedia%20and%20Wikimedia%20Commons%2C%20the%202023%20update.html)
 *24 January 2024*
@@ -28,7 +30,7 @@ At the beginning of January 2024, we measured these three indicators again, this
 ### [Three reuse indicators for KB images in Wikipedia and Wikimedia Commons, in a historical perspective (2013-2022)](stories/Three%20reuse%20indicators%20for%20KB%20images%20in%20Wikipedia%20and%20Wikimedia%20Commons,%20in%20a%20historical%20perspective%20(2013-2022).html)
 *29 December 2022*
 
-Wikipedia is a very effective channel to globally improve the findability, visibility and reusability of images from the heritage collections of the KB. This article will illustrate this, based on three reuse indicators (KPIs) that the KB measured in December 2022. It will also show that during the period 2013-2022 our KB's collections have reached ever-increasing global audiences.
+Wikipedia is a very effective channel to globally improve the findability, visibility and reusability of images from the heritage collections of the KB. This article will illustrate this, based on three reuse indicators (KPIs) that the KB measured in December 2022. It will also show that during the period 2013-2022 our KB collections have reached ever-increasing global audiences.
 
 <!-- <img src="stories/images/Three_reuse_indicators_for_KB_images_in_Wikipedia_and_Wikimedia_Commons_in_a_historical_perspective_(2013-2022).png" align="left">
 <br clear="all"/>  -->
