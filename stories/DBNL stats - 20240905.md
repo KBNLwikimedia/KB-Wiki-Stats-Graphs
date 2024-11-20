@@ -42,9 +42,15 @@ Top 20 DBNL
 <div style="min-height:643px" id="datawrapper-vis-oek1t"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oek1t/embed.js" charset="utf-8" data-target="#datawrapper-vis-oek1t"></script><noscript><img src="https://datawrapper.dwcdn.net/oek1t/full.png" alt="Barchart van de top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia" /></noscript></div>
 
 
-## Sectie 4 Titel
-aggegatieartieklen
+## Nederlandstalige Wikipedia-artikelen die grotendeels op DBNL gebaseerd zijn
+
+<div style="min-height:514px" id="datawrapper-vis-LDBua"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/LDBua/embed.js" charset="utf-8" data-target="#datawrapper-vis-LDBua"></script><noscript><img src="https://datawrapper.dwcdn.net/LDBua/full.png" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL- bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL." /></noscript></div>
+
 Verwijs naar eerder artilel: [Detecting Wikipedia articles strongly based on single library collections.md](Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.md)
+
+extlinks_treshhold = 6
+linkratio_treshhold = 0.75
+
 
 ## Onderliggende data
 Excel file [WPNLarticlesAndDBNLUrls_20240905.xlsx](data/DBNL_20240905/WPNLarticlesAndDBNLUrls_20240905.xlsx)
