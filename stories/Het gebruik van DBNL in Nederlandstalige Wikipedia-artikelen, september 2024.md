@@ -1,4 +1,4 @@
-# Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024
+# 
 <sup>Olaf Janssen, 20 november 2024</sup>
 
 <img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/icon_wp.png" align="right" width="110"  hspace="20"/>
@@ -14,7 +14,7 @@ dbnl.nl, . be. en .org
 
 ### Voorbeelden DNL links in WPNL
 valt uiteen in 4 groepen
-* Auteurs:  Besopreek DNNb Nl links in artikel albert Verwij
+* Auteurs:  Besopreek DNNb Nl links in artikel albert Verwij - 3 sjablonen
 * Teksten: 
 * Titels:
 * Overige : homepage, colofin etc

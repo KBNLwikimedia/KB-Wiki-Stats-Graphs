@@ -3,17 +3,13 @@
 
 # Data stories for Wikimedia reuse indicators of the KB, national library of the Netherlands
 
-### [DBNL Wiki stat](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/xcccccc.html)
+### [Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html)
 
 *Nov 2024*
 
 Summary
 
-<!-- <img src="stories/images/xxxxx" align="left">
-<br clear="all"/> --> 
-
 -------------
-
 
 ### [Reuse indicators for KB images in Wikipedia and Wikimedia Commons, the 2023 update](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Reuse%20indicators%20for%20KB%20images%20in%20Wikipedia%20and%20Wikimedia%20Commons%2C%20the%202023%20update.html)
 *24 January 2024*

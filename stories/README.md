@@ -3,7 +3,7 @@
 
 # Data stories for Wikimedia reuse indicators of the KB, national library of the Netherlands
 
-### [DBNL Wiki stats](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/DBNL%20stats%20-%2020240905.html)
+### [Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html)
 
 *Nov 2024*
 
