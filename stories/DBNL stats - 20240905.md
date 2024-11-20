@@ -1,13 +1,11 @@
-# Gebruik van DBNL in de Nederlandstalige Wikipedia
+# Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024
 <sup>Olaf Janssen, 20 november 2024</sup>
 
+<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/icon_wp.png" align="right" width="110"  hspace="20"/>
 
+<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_logo.png" align="right" width="170" hspace="20"/>
 
-<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_logo.png" align="left" width="170"/>
-
-<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/icon_wp.png" align="right" width="130"/>
-
-<Korte samevatting van het artikel in 1-2 regels>
+* De Digitale Bibliotheek voor de Nederlandse Letteren ([DBNL](https://www.dbnl.org/)) is een veelgebruikte bron voor artikelen in de Nederlandstalige Wikipedia. In dit artikel kijk ik hoe links (URLs) naar de DBNL-URLs..*
 
 ## Sectie over contexct/methode meting URLs in WP, extlinksfidner
 
@@ -15,9 +13,10 @@ dbnl.nl, . be. en .org
 
 
 ### Voorbeelden DNL links in WPNL
-* Auteurs Besopreek DNNb Nl links in artikel albert Verwij
-* Teksten
-* Titels
+valt uiteen in 4 groepen
+* Auteurs:  Besopreek DNNb Nl links in artikel albert Verwij
+* Teksten: 
+* Titels:
 * Overige : homepage, colofin etc
 
 ## sectie overall astat
@@ -53,7 +52,7 @@ linkratio_treshhold = 0.75
 
 
 ## Onderliggende data op Github
-Alle data die gebruikt is in de visualisaties en analyses in dit artikel is beschikbaar op [Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905). Je kunt het Excel-bestand [direct downloaden](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/WPNLarticlesAndDBNLUrls_20240905.xlsx).
+Alle data die gebruikt is in de visualisaties en analyses in dit artikel is beschikbaar op [Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905). Je kunt het Excel-bestand ook [direct downloaden](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/WPNLarticlesAndDBNLUrls_20240905.xlsx).
 
 ## Bijbehorende presentatie
 <img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar-DBNLdag-8November2024.jpg" align="right" width="200"/>
