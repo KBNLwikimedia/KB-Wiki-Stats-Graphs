@@ -5,7 +5,7 @@
 
 <img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_logo.png" align="right" width="170" hspace="20"/>
 
-* De Digitale Bibliotheek voor de Nederlandse Letteren ([DBNL](https://www.dbnl.org/)) is een veelgebruikte bron voor artikelen in de Nederlandstalige Wikipedia. In dit artikel kijk ik hoe links (URLs) naar de DBNL-URLs..*
+*De Digitale Bibliotheek voor de Nederlandse Letteren ([DBNL](https://www.dbnl.org/)) is een veelgebruikte bron voor artikelen in de Nederlandstalige Wikipedia. In dit artikel kijk ik hoe links (URLs) naar de DBNL-URLs..*
 
 ## Sectie over contexct/methode meting URLs in WP, extlinksfidner
 

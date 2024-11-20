@@ -94,7 +94,7 @@ More detailed analyses and all underlying data used for this article can be foun
 * KPI 4: [The number of unique Wikipedia articles using those images](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI4)
 * KPI 8: [The number of requests for those Wikipedia articles per month](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/KPIs/KPI8) 
      
- ## About the author
+## About the author
 <img align="left" src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50"/>
 
 Olaf Janssen is the Wikimedia coordinator of the KB, the national library of the Netherlands. He contributes to
