@@ -3,9 +3,9 @@
 
 
 
-<img src="images/dbnl_logo.png" align="left" width="170"/>
+<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_logo.png" align="left" width="170"/>
 
-<img src="images/icon_wp.png" align="right" width="130"/>
+<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/icon_wp.png" align="right" width="130"/>
 
 <Korte samevatting van het artikel in 1-2 regels>
 
@@ -41,7 +41,7 @@ Top 20 DBNL
 
 ## Nederlandstalige Wikipedia-artikelen die grotendeels op DBNL gebaseerd zijn
 
-<img src="images/Slide_DBNLaggregatieartikelen_05092024.jpg" align="right" width="200"/>
+<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Slide_DBNLaggregatieartikelen_05092024.jpg" align="right" width="200"/>
 
 <div style="min-height:514px" id="datawrapper-vis-LDBua"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/LDBua/embed.js" charset="utf-8" data-target="#datawrapper-vis-LDBua"></script><noscript><img src="https://datawrapper.dwcdn.net/LDBua/full.png" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL- bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL." /></noscript></div>
 
@@ -52,29 +52,29 @@ extlinks_treshhold = 6
 linkratio_treshhold = 0.75
 
 
-## Onderliggende data
-Excel file [WPNLarticlesAndDBNLUrls_20240905.xlsx](data/DBNL_20240905/WPNLarticlesAndDBNLUrls_20240905.xlsx)
+## Onderliggende data op Github
+Alle data die gebruikt is in de visualisaties en analyses in dit artikel is beschikbaar op [Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905). Je kunt het Excel-bestand [direct downloaden](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/WPNLarticlesAndDBNLUrls_20240905.xlsx).
 
 ## Bijbehorende presentatie
-<img src="images/Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar-DBNLdag-8November2024.jpg" align="right" width="200"/>
+<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar-DBNLdag-8November2024.jpg" align="right" width="200"/>
 
 Dit dataverhaal is gebruikt in de presentatie *[Wat betekenen DBNL en Wikipedia voor elkaar?](https://doi.org/10.5281/zenodo.14041711)* tijdens de [viering van 25-jarige bestaan van de DBNL](https://web.archive.org/web/20241105153730/https://www.dbnl.org/dbnldag/) op 8 november 2024. Deze presentatie is beschikbaar op [Zenodo](https://doi.org/10.5281/zenodo.14041711) en [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar_-_DBNLdag_-_8November2024.pdf).
 
 ## Over de auteur
-<img align="left" src="images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50" hspace="10"/>
+<img align="left" src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50" hspace="5"/>
 
-<img src="images/kblogo.png" align="right" width="150"/>
+<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/kblogo.png" align="right" width="150"/>
 
 Olaf Janssen is de [Wikimedia-coördinator](https://www.kb.nl/over-ons/experts/olaf-janssen) van de KB, de nationale bibliotheek van Nederland. Hij draagt bij aan [Wikipedia](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek) en [Wikidata](https://www.wikidata.org/wiki/Wikidata:GLAM/Koninklijke_Bibliotheek_Nederland) als [Gebruiker:OlafJanssen](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen). ORCID: [0000-0002-9058-9941](https://orcid.org/0000-0002-9058-9941).
 
 ## Hergebruik van dit artikel 
 De tekst van dit artikel is vrijgegeven onder de [Creative Commons Naamsvermelding](https://creativecommons.org/licenses/by/4.0/deed.nl) CC-BY 4.0 licentie.<br/> 
-<img src="images/cc-by.png" width="80" align="right"/>
-Citatie: Janssen, Olaf. ‘xxxxxxxxxxx’. Zenodo, 22 november 2024. https://doi.org/10.5281/zenodo.1xxxx. <br/> 
+<img src="images/cc-by.png" width="120" align="right"/>
+Citatie: Janssen, Olaf. ‘xxxxxxxxxxx’. Zenodo, 22 november 2024. [https://doi.org/10.5281/zenodo.1xxxx](https://doi.org/10.5281/zenodo.1xxxx). <br/> 
 Naamsvermelding: *KB, nationale bibliotheek van Nederland / Olaf Janssen, CC-BY 4.0*
 
 ## Persistente identifiers en URLs voor dit artikel
-* DOI (Zenodo): https://doi.org/10.5281/zenodo.xxxxx
-* Wikimedia Commons: https://commons.wikimedia.org/entity/Mxxxxx
-* Github: https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/xxxxxxxxxxx.html
+* DOI (Zenodo): [https://doi.org/10.5281/zenodo.xxxxx](https://doi.org/10.5281/zenodo.xxxxx)
+* Wikimedia Commons: [https://commons.wikimedia.org/entity/Mxxxxx](https://commons.wikimedia.org/entity/Mxxxxx)
+* Github: [https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/xxxxxxxxxxx.html](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/xxxxxxxxxxx.html)
 
