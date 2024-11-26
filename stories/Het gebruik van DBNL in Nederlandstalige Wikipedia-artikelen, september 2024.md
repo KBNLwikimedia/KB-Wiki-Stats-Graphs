@@ -42,32 +42,32 @@ https://www.wikidata.org/wiki/Q586323#P723
 
 
 ## Aantal verwijzingen naar DBNL vanuit de Nederlandstalige Wikipedia
-Als eerste kunnen we kijken hoe vaak er in Nederlandstalige Wikipedia-artikelen verwezen wordt naar pagina's in elk van de drie DBNL-hoofdcategorieën Auteurs, Teksten en Titels.<br/> 
-Onderstaande grafiek laat bijvoorbeeld zien dat er (op 5 september 2024) 16.591 URLs in Wikipedia staan die uitkomen op een DBNL-auteurspagina.<br/>
-In totaal bevat de Nederlandse Wikipedia 30.768 (niet-unieke) URLs die naar de DBNL linken.
+Als eerste kunnen we kijken hoe vaak er in Nederlandstalige Wikipedia-artikelen verwezen wordt naar pagina's in elk van de drie DBNL-hoofdcategorieën Auteurs, Teksten en Titels.
+
+Onderstaande grafiek laat bijvoorbeeld zien dat er (op 5 september 2024) 16.591 URLs in Wikipedia staan die uitkomen op een DBNL-auteurspagina.
+
+In totaal bevat de Nederlandse Wikipedia op die datum 30.768 (niet-unieke) URLs die naar de DBNL linken.
 
 <div style="min-height:652px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten en Titels" /></noscript></div>
 <br/>
 
 ## Artikelen in Nederlandstalige Wikipedia met meeste links naar DBNL
-Top 20 van 18.458 Wikipedia-artikelen
+Als we iets dieper op [de data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905) inzoomen zien we dat er op 5 september 2024 in totaal 18.458 verschillende Wikipedia-artikelen zijn die één of meerdere links (URLs) naar de DBNL bevatten.   
 
-<div style="min-height:625px" id="datawrapper-vis-jaUXc"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/jaUXc/embed.js" charset="utf-8" data-target="#datawrapper-vis-jaUXc"></script><noscript><img src="https://datawrapper.dwcdn.net/jaUXc/full.png" alt="Barchart van de top 20 van artikelen in de Nederlandstalige Wikipedia die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten." /></noscript></div>
+Onderstaande grafiek toont de Top 20 van die artikelen. Zo bevat [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen) maar liefst 442 verwijzingen, en het artikel over [Israël Querido](https://nl.wikipedia.org/wiki/Isra%C3%ABl_Querido) bevat er 23.
 
-Het artikel [de grootr schuowburg]() bevat 442 verwijzingen (URls) naar DBNL
-Isreael Querido  23 verwijzingen naar DBNL
-
-
-
-
+<div style="min-height:625px" id="datawrapper-vis-jaUXc"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/jaUXc/embed.js" charset="utf-8" data-target="#datawrapper-vis-jaUXc"></script><noscript><img src="https://datawrapper.dwcdn.net/jaUXc/full.png" alt="Barchart van de top 20 van Nederlandstalige Wikipedia-artikelen die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten. Peildatum is 5 september 2024."/></noscript></div>
 
 ## Pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia
-Top 20 van 27.875 DBNL-pagina’s
+Vervolgens kunnen we ook kijken naar de in totaal 27.875 unieke DBNL-pagina’s waar Nederlandstalige Wikipedia-artikelen naar verwijzen. De staafgrafiek hieronder laat de Top 20 van DBNL-pagina’s zien waarnaar het meest verwezen wordt. 
 
-<div style="min-height:643px" id="datawrapper-vis-oek1t"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oek1t/embed.js" charset="utf-8" data-target="#datawrapper-vis-oek1t"></script><noscript><img src="https://datawrapper.dwcdn.net/oek1t/full.png" alt="Barchart van de top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia" /></noscript></div>
-
+Naar de indec van het ALL wordt 229 keer verwezen, en naar
 naar de [ALL homepage]() wordt 229x verwijzen vanuit WP:NL
 [Onze sporyelden deel 3]() 17 verwijzingen vanuit WP:NL
+
+<div style="min-height:643px" id="datawrapper-vis-oek1t"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oek1t/embed.js" charset="utf-8" data-target="#datawrapper-vis-oek1t"></script><noscript><img src="https://datawrapper.dwcdn.net/oek1t/full.png" alt="Barchart van de Top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum is 5 september 2024." /></noscript></div>
+
+
 
 
 
