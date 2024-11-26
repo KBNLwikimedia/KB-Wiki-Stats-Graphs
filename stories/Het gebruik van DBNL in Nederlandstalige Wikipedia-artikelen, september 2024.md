@@ -7,18 +7,11 @@
 
 *De Digitale Bibliotheek voor de Nederlandse Letteren ([DBNL](https://www.dbnl.org/)) is een veelgebruikte bron voor artikelen in de Nederlandstalige Wikipedia. In dit artikel kijk ik hoe links (URLs) naar de DBNL-URLs.xxxxx.*
 
-## Sectie over contexct/methode meting URLs in WP, extlinksfidner
-
-dbnl.nl, . be. en .org
-
-https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken&limit=100&offset=0&target=https://www.dbnl.org
-https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.dbnl.org
+## Links naar DBNL in Nederlandstalige Wikipedia-artikelen 
 
 
- This function queries the MediaWiki API to find pages in the main namespace
-    that contain external URLs matching a specified query.
 
-### Voorbeelden DNL links in WPNL
+
 valt uiteen in 4 groepen
 #### Auteurs:  Besopreek DNNb Nl links in artikel albert Verwij 
 https://nl.wikipedia.org/wiki/Albert_Verwey 
@@ -35,11 +28,20 @@ Wikidata : verw008 worst vanuit Wikidata betrokken
 https://www.wikidata.org/wiki/Q586323#P723  
 
 
+
 #### Teksten: 
 #### Titels:
 #### Overige : homepage, colofin etc
 
+## Hoe hebben we gemeten?
 
+Hoe kunnen we dit soort DBNL-links opsporen? Daar biedt Wikipedia een handig tooltje voor, genaamd *[Externe koppelingen zoeken](https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken)*. Daarmee vind je Wikipedia-pagina's die een bepaald URL-patroon bevatten. 
+
+Zo kunt je bijvoorbeeld zoeken naar [pagina's die de URL *https://www.dbnl.org* bevatten](https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken&limit=100&offset=0&target=https://www.dbnl.org). Je vindt hierbij niet alleen de reguliere artikelen, maar ook pagina's in de 'achterkant' van Wikipedia, zoals Overleg- en Gebruikerspagina's.
+
+Je kunt dit op een gelijkwaardige manier ook via de Wikipedia API uitvragen, waarbij je dan meteen kunt filteren op alleen de artikelen (*eunamespace=0*). Dit doe je met de API-call https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.dbnl.org
+
+Met behulp van een stuk Python-code en dit soort API-calls hebben we alle artikelen in de Nederlandstalige Wikipedia kunnen bepalen die één of meer keer verwijzen naar http(s)://*.dbnl.org en dbnl.nl. De 5 artikelen die [verwijzen naar dbnl.be](https://nl.wikipedia.org/wiki/Speciaal:VerwijzingenZoeken?target=dbnl.be) zijn in deze metingen niet meegenomen.  
 
 ## Aantal verwijzingen naar DBNL vanuit de Nederlandstalige Wikipedia
 Als eerste kunnen we kijken hoe vaak er in Nederlandstalige Wikipedia-artikelen verwezen wordt naar pagina's in elk van de drie DBNL-hoofdcategorieën Auteurs, Teksten en Titels.
@@ -51,24 +53,20 @@ In totaal bevat de Nederlandse Wikipedia op die datum 30.768 (niet-unieke) URLs 
 <div style="min-height:652px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten en Titels" /></noscript></div>
 <br/>
 
-## Artikelen in Nederlandstalige Wikipedia met meeste links naar DBNL
+## Nederlandstalige Wikipedia-artikelen met meeste links naar DBNL
 Als we iets dieper op [de data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905) inzoomen zien we dat er op 5 september 2024 in totaal 18.458 verschillende Wikipedia-artikelen zijn die één of meerdere links (URLs) naar de DBNL bevatten.   
 
 Onderstaande grafiek toont de Top 20 van die artikelen. Zo bevat [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen) maar liefst 442 verwijzingen, en het artikel over [Israël Querido](https://nl.wikipedia.org/wiki/Isra%C3%ABl_Querido) bevat er 23.
 
 <div style="min-height:625px" id="datawrapper-vis-jaUXc"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/jaUXc/embed.js" charset="utf-8" data-target="#datawrapper-vis-jaUXc"></script><noscript><img src="https://datawrapper.dwcdn.net/jaUXc/full.png" alt="Barchart van de top 20 van Nederlandstalige Wikipedia-artikelen die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten. Peildatum is 5 september 2024."/></noscript></div>
 
-## Pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia
-Vervolgens kunnen we ook kijken naar de in totaal 27.875 unieke DBNL-pagina’s waar Nederlandstalige Wikipedia-artikelen naar verwijzen. De staafgrafiek hieronder laat de Top 20 van DBNL-pagina’s zien waarnaar het meest verwezen wordt. 
+## DBNL-pagina's waarnaar het vaakst verwezen wordt vanuit Nederlandstalige Wikipedia-artikelen
+Vervolgens kunnen we ook kijken naar de in totaal 27.875 unieke DBNL-pagina’s waar Nederlandstalige Wikipedia-artikelen op peildatum 5 september 2024 naar verwijzen. De staafgrafiek hieronder laat de Top 20 van deze DBNL-pagina’s zien. 
 
-Naar de indec van het ALL wordt 229 keer verwezen, en naar
-naar de [ALL homepage]() wordt 229x verwijzen vanuit WP:NL
-[Onze sporyelden deel 3]() 17 verwijzingen vanuit WP:NL
+De [inhoudsopgave van het Algemeen letterkundig lexicon](https://www.dbnl.org/tekst/dela012alge01_01/) staat met 229 verwijzingen bovenaan deze lijst, terwijl bijvoorbeeld 17 verschillende Wikipedia-artikelen verwijzen naar het lemma over de [taekwondo-grootmeester
+Eric Lie](https://www.dbnl.org/tekst/hoen042spor03_01/hoen042spor03_01_0038.php) in het derde deel van [Onze sporthelden](https://www.dbnl.org/tekst/hoen042spor03_01/index.php) van Guno Hoen uit 1999. 
 
 <div style="min-height:643px" id="datawrapper-vis-oek1t"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oek1t/embed.js" charset="utf-8" data-target="#datawrapper-vis-oek1t"></script><noscript><img src="https://datawrapper.dwcdn.net/oek1t/full.png" alt="Barchart van de Top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum is 5 september 2024." /></noscript></div>
-
-
-
 
 
 ## Nederlandstalige Wikipedia-artikelen die grotendeels op DBNL gebaseerd zijn
