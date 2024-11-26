@@ -46,7 +46,7 @@ Als eerste kunnen we kijken hoe vaak er in Nederlandstalige Wikipedia-artikelen 
 Onderstaande grafiek laat bijvoorbeeld zien dat er (op 5 september 2024) 16.591 URLs in Wikipedia staan die uitkomen op een DBNL-auteurspagina.<br/>
 In totaal bevat de Nederlandse Wikipedia 30.768 (niet-unieke) URLs die naar de DBNL linken.
 
-<div style="min-height:652px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, gegroepeerd per DBNL-hoofdcategorie: Auteurs, Teksten en Titels " /></noscript></div>
+<div style="min-height:652px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten en Titels " /></noscript></div>
 <br/>
 
 ## Artikelen in Nederlandstalige Wikipedia met meeste links naar DBNL
