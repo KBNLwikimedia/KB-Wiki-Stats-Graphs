@@ -1,41 +1,74 @@
 # Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024 
-<sup>Olaf Janssen, 20 november 2024</sup>
+<sup>Olaf Janssen, 27 november 2024</sup>
 
 <img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/icon_wp.png" align="right" width="110"  hspace="20"/>
 
 <img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_logo.png" align="right" width="170" hspace="20"/>
 
-*De Digitale Bibliotheek voor de Nederlandse Letteren ([DBNL](https://www.dbnl.org/)) is een veelgebruikte bron voor artikelen in de Nederlandstalige Wikipedia. In dit artikel kijk ik hoe links (URLs) naar de DBNL-URLs..*
+*De Digitale Bibliotheek voor de Nederlandse Letteren ([DBNL](https://www.dbnl.org/)) is een veelgebruikte bron voor artikelen in de Nederlandstalige Wikipedia. In dit artikel kijk ik hoe links (URLs) naar de DBNL-URLs.xxxxx.*
 
 ## Sectie over contexct/methode meting URLs in WP, extlinksfidner
 
 dbnl.nl, . be. en .org
 
+https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken&limit=100&offset=0&target=https://www.dbnl.org
+https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.dbnl.org
+
+
+ This function queries the MediaWiki API to find pages in the main namespace
+    that contain external URLs matching a specified query.
 
 ### Voorbeelden DNL links in WPNL
 valt uiteen in 4 groepen
-* Auteurs:  Besopreek DNNb Nl links in artikel albert Verwij - 3 sjablonen
-* Teksten: 
-* Titels:
-* Overige : homepage, colofin etc
+#### Auteurs:  Besopreek DNNb Nl links in artikel albert Verwij 
+https://nl.wikipedia.org/wiki/Albert_Verwey 
 
-## sectie overall astat
-Op 5 september 2024
-Number of (non-unique) DBNL urls = number of (non-unique) WP articles = number of rows : 30.768
-Number of unique WP:NL articles dat 1 of meerdere links naar DBNL bevat: 18.458
-Number of unique DBNL urls in WP:NL: 27.875
+ https://www.dbnl.org/auteurs/auteur.php?id=verw008
 
-## Aantal verwijzingen naar DBNL vanuit de Nederlandstalige Wikipedia, gegroepeerd per DBNL-hoofdcategorie
-<div style="min-height:503px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia naar DBNL, gegroepeerd per DBNL-hoofdcategorie: Auteurs, Teksten en Titels " /></noscript></div>
+- 
+- 3 sjablonen - 
+- https://nl.wikipedia.org/wiki/Sjabloon:Infobox_auteur 
+- https://nl.wikipedia.org/wiki/Sjabloon:Link_dbnl_auteur 
+- https://nl.wikipedia.org/wiki/Sjabloon:Bibliografische_informatie
+ 
+Wikidata : verw008 worst vanuit Wikidata betrokken
+https://www.wikidata.org/wiki/Q586323#P723  
+
+
+#### Teksten: 
+#### Titels:
+#### Overige : homepage, colofin etc
+
+
+
+## Aantal verwijzingen naar DBNL vanuit de Nederlandstalige Wikipedia, gegroepeerd naar DBNL-hoofdcategorie
+Als eerste kunnen we kijken hoe vaak er in Nederlandstalige Wikipedia-artikelen verwezen wordt naar pagina's in elk van de drie DBNL-hoofdcategorieën Auteurs, Teksten en Titels.<br/> 
+Onderstaande grafiek laat bijvoorbeeld zien dat er (op 5 september 2024) 16.591 URLs in Wikipedia staan die uitkomen op een DBNL-auteurspagina.<br/>
+In totaal bevat de Nederlandse Wikipedia 30.768 (niet-unieke) URLs die naar de DBNL linken.
+
+<div style="min-height:652px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, gegroepeerd per DBNL-hoofdcategorie: Auteurs, Teksten en Titels " /></noscript></div>
 <br/>
 
 ## Artikelen in Nederlandstalige Wikipedia met meeste links naar DBNL
-Top 20 WP
+Top 20 van 18.458 Wikipedia-artikelen
+
 <div style="min-height:625px" id="datawrapper-vis-jaUXc"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/jaUXc/embed.js" charset="utf-8" data-target="#datawrapper-vis-jaUXc"></script><noscript><img src="https://datawrapper.dwcdn.net/jaUXc/full.png" alt="Barchart van de top 20 van artikelen in de Nederlandstalige Wikipedia die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten." /></noscript></div>
 
+Het artikel [de grootr schuowburg]() bevat 442 verwijzingen (URls) naar DBNL
+Isreael Querido  23 verwijzingen naar DBNL
+
+
+
+
+
 ## Pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia
-Top 20 DBNL
+Top 20 van 27.875 DBNL-pagina’s
+
 <div style="min-height:643px" id="datawrapper-vis-oek1t"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oek1t/embed.js" charset="utf-8" data-target="#datawrapper-vis-oek1t"></script><noscript><img src="https://datawrapper.dwcdn.net/oek1t/full.png" alt="Barchart van de top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia" /></noscript></div>
+
+naar de [ALL homepage]() wordt 229x verwijzen vanuit WP:NL
+[Onze sporyelden deel 3]() 17 verwijzingen vanuit WP:NL
+
 
 
 ## Nederlandstalige Wikipedia-artikelen die grotendeels op DBNL gebaseerd zijn
@@ -49,6 +82,10 @@ Verwijs naar eerder artilel: [Detecting Wikipedia articles strongly based on sin
 
 extlinks_treshhold = 6
 linkratio_treshhold = 0.75
+
+Notenapparaaat van CAJ van Dishoeck https://nl.wikipedia.org/w/index.php?title=C.A.J._van_Dishoeck&action=edit 
+Dit artikel is geschreven o.b.v. (bijna) alleen maar DBNL- bronnen!
+
 
 
 ## Onderliggende data op Github
