@@ -26,6 +26,9 @@ valt uiteen in 4 groepen
 
 [artikel over Albert Verwey](https://nl.wikipedia.org/wiki/Albert_Verwey) 
 
+
+https://www.dbnl.org/auteurs/auteur.php?id=verw008
+
 3 sjablonen - 
 - [Sjabloon:Infobox_auteur](https://nl.wikipedia.org/wiki/Sjabloon:Infobox_auteur) - toont een overzichtelijke, uniforme box met de belangrijkste gegevens over een auteur. 
 
