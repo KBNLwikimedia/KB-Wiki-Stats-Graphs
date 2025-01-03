@@ -30,7 +30,7 @@ valt uiteen in 4 groepen
 
 https://www.dbnl.org/auteurs/auteur.php?id=verw008
 
-3 sjablonen - 
+3 sjablonen 
 - [Sjabloon:Infobox_auteur](https://nl.wikipedia.org/wiki/Sjabloon:Infobox_auteur) - toont een overzichtelijke, uniforme box met de belangrijkste gegevens over een auteur. 
 
 - [Link_dbnl_auteur](https://nl.wikipedia.org/wiki/Sjabloon:Link_dbnl_auteur) 
@@ -41,16 +41,16 @@ Geeft de regel
     [Biografieën, werken en teksten] bij de [Digitale Bibliotheek voor de Nederlandse Letteren] (dbnl)
 
 - [Sjabloon:Bibliografische_informatie](https://nl.wikipedia.org/wiki/Sjabloon:Bibliografische_informatie) 
-- Dit sjabloon toont in een artikel – afhankelijk van gegevens in het bijbehorende Wikidata-item – een uitklapbaar kader "Bibliografische informatie", met daarin een lijstje van verwijzingen naar webpagina's over het betreffende onderwerp op websites die middels een authority control-proces hun bibliografische informatie organiseren. 
-- 
+Dit sjabloon toont in een artikel – afhankelijk van gegevens in het bijbehorende Wikidata-item – een uitklapbaar kader "Bibliografische informatie", met daarin een lijstje van verwijzingen naar webpagina's over het betreffende onderwerp op websites die middels een authority control-proces hun bibliografische informatie organiseren. 
+ 
 - icm [Module:Authority_control](https://nl.wikipedia.org/wiki/Module:Authority_control)
 Door middel van deze module wordt er een box gemaakt waarin bibliografische informatie wordt getoond. 
 - 
 De URLs die deze sjablonen voortbrengen verwijzen alle drie naar de [DBNL-ateurspagina van Albert Verwey](https://www.dbnl.org/auteurs/auteur.php?id=verw008)
 
-<voeg afbeelding vna die pagina in>
+<!-- voeg afbeelding vna die pagina in -->
 
-- Wikidata : verw008 worst vanuit Wikidata betrokken
+Wikidata : verw008 worst vanuit Wikidata betrokken
 https://www.wikidata.org/wiki/Q586323#P723  
 
 ### Teksten: 
