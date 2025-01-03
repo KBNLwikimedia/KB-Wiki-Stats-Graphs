@@ -53,11 +53,14 @@ De URLs die deze sjablonen voortbrengen verwijzen alle drie naar de [DBNL-ateurs
 - Wikidata : verw008 worst vanuit Wikidata betrokken
 https://www.wikidata.org/wiki/Q586323#P723  
 
-
-
 ### Teksten: 
+aa
+
 ### Titels:
+aa
+
 ### Overige : homepage, colofin etc
+aa
 
 ## Hoe hebben we gemeten?
 
@@ -80,7 +83,6 @@ In totaal bevat de Nederlandse Wikipedia op die datum 30.768 (niet-unieke) URLs 
 <div style="min-height:652px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten en Titels" /></noscript></div>
 <br/>
 
-
 ## Nederlandstalige Wikipedia-artikelen met de meeste links naar DBNL
 
 Als we iets dieper op [de data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905) inzoomen zien we dat er op 5 september 2024 in totaal 18.458 verschillende Wikipedia-artikelen zijn die één of meerdere links (URLs) naar de DBNL bevatten.   
@@ -89,7 +91,6 @@ Onderstaande grafiek toont de Top 20 van die artikelen. Zo bevat [De groote scho
 
 
 <div style="min-height:625px" id="datawrapper-vis-jaUXc"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/jaUXc/embed.js" charset="utf-8" data-target="#datawrapper-vis-jaUXc"></script><noscript><img src="https://datawrapper.dwcdn.net/jaUXc/full.png" alt="Barchart van de top 20 van Nederlandstalige Wikipedia-artikelen die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten. Peildatum is 5 september 2024."/></noscript></div>
-
 
 ## DBNL-pagina's waarnaar het vaakst verwezen wordt vanuit Nederlandstalige Wikipedia-artikelen
 
@@ -100,13 +101,11 @@ Eric Lie](https://www.dbnl.org/tekst/hoen042spor03_01/hoen042spor03_01_0038.php)
 
 <div style="min-height:643px" id="datawrapper-vis-oek1t"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oek1t/embed.js" charset="utf-8" data-target="#datawrapper-vis-oek1t"></script><noscript><img src="https://datawrapper.dwcdn.net/oek1t/full.png" alt="Barchart van de Top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum is 5 september 2024." /></noscript></div>
 
-
 ## Nederlandstalige Wikipedia-artikelen die grotendeels op DBNL gebaseerd zijn
 
 <img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Slide_DBNLaggregatieartikelen_05092024.jpg" align="right" width="200"/>
 
 <div style="min-height:514px" id="datawrapper-vis-LDBua"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/LDBua/embed.js" charset="utf-8" data-target="#datawrapper-vis-LDBua"></script><noscript><img src="https://datawrapper.dwcdn.net/LDBua/full.png" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL- bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL." /></noscript></div>
-
 
 Verwijs naar eerder artilel: [Detecting Wikipedia articles strongly based on single library collections.md](Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.md)
 
@@ -115,8 +114,6 @@ linkratio_treshhold = 0.75
 
 Notenapparaaat van CAJ van Dishoeck https://nl.wikipedia.org/w/index.php?title=C.A.J._van_Dishoeck&action=edit 
 Dit artikel is geschreven o.b.v. (bijna) alleen maar DBNL- bronnen!
-
-
 
 ## Onderliggende data op Github
 Alle data die gebruikt is in de visualisaties en analyses in dit artikel is beschikbaar op [Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905). Je kunt het Excel-bestand ook [direct downloaden](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/WPNLarticlesAndDBNLUrls_20240905.xlsx).
