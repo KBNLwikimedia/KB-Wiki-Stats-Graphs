@@ -1,5 +1,5 @@
 # Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024 
-<sup>Olaf Janssen, 27 november 2024</sup>
+<sup>Olaf Janssen, 19 december 2024</sup>
 
 <img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/icon_wp.png" align="right" width="110"  hspace="20"/>
 
@@ -9,20 +9,21 @@
 
 ## Links naar DBNL in Nederlandstalige Wikipedia-artikelen 
 
-Aantal voorbeelden
+In de Nederlandstalige Wikipedia wordt informatie uit de DBNL veel gebruikt om artikelen te schrijven. Vanuit deze lemma's wordt dan door middel van URLs terugverwezen naar de DBNL. Dit kan bijvoorbeeld een link zijn naar een DBNL-profiel van een auteur, naar een gedigitaliseerd boek of naar een specifieke pagina in een boek. Een aantal voorbeelden:
 
 * In het artikel over [André Breton](https://nl.wikipedia.org/wiki/Andr%C3%A9_Breton#:~:text=Dbnl-profiel) staat onder de portretfoto een link naar [zijn DBNL-profiel](https://www.dbnl.org/auteurs/auteur.php?id=bret007). 
 * Het artikel over [Geertruida Bosboom-Toussaint](https://nl.wikipedia.org/wiki/Geertruida_Bosboom-Toussaint#:~:text=Gedigitaliseerde%20versies%20van%20Bosboom%2DToussaints%27%20boeken) verwijst naar meerdere gedigitaliseerde boeken van haar op DBNL , bijvoorbeeld *[Graaf Pepoli, de roman van een rijk edelman](https://www.dbnl.org/titels/titel.php?id=bosb002graa03)*. Bovendien bevat de uitklaplijst onder [Bibliografische informatie](https://nl.wikipedia.org/wiki/Geertruida_Bosboom-Toussaint#:~:text=Bibliografische%20informatie) onder *bosb002* een verwijzing naar [haar DBNL-auteursprofiel](https://www.dbnl.org/auteurs/auteur.php?id=bosb002).
 * Het lemma over [Arthur van Schendel](https://nl.wikipedia.org/wiki/Arthur_van_Schendel_(schrijver)) bevat onder [Externe links](https://nl.wikipedia.org/wiki/Arthur_van_Schendel_(schrijver)#:~:text=Schendel.%201936-,Externe%20links) de regel *[Biografieën, werken en teksten](https://www.dbnl.org/auteurs/auteur.php?id=sche034) bij de [Digitale Bibliotheek voor de Nederlandse Letteren](https://nl.wikipedia.org/wiki/Digitale_Bibliotheek_voor_de_Nederlandse_Letteren)*.
 * In het Wikipedia-artikel [Encyclopedie](https://nl.wikipedia.org/wiki/Encyclopedie) staat in de voetnoeten een verwijzing naar het lemma *[Encyclopedie-1](https://www.dbnl.org/tekst/dela012alge01_01/dela012alge01_01_00502.php)* in het *[Algemeen Letterkundig Lexicon](https://www.dbnl.org/tekst/dela012alge01_01/)* op DBNL.
-* Het artikel over [Liesbeth List](https://nl.wikipedia.org/wiki/Liesbeth_List) legt aan de hand van een [levenschets van de zangers op DBNL](https://www.dbnl.org/tekst/_nee003200201_01/_nee003200201_01_0032.php#:~:text=En%20ineens%20was%20daar%20de%20comeback%20van%20Liesbeth%20List%2C%20bewerkstelligd%20door%20Frank%20Boeijen)  uit dat 
-ze in 1994, na een periode van afnemend succes, [opnieuw op de kaart](https://nl.wikipedia.org/wiki/Liesbeth_List#:~:text=Chanson%20Knokkefestival%20zette%20haar%20carri%C3%A8re%20op%20gang%20Liesbeth%20List%3A%20een%20voorlopig%20leven%20met%20vallen%20en%20opstaan) werd gezet door Frank Boeijen. 
+* Het artikel over [Liesbeth List](https://nl.wikipedia.org/wiki/Liesbeth_List) legt aan de hand van een [levenschets van de zangers op DBNL](https://www.dbnl.org/tekst/_nee003200201_01/_nee003200201_01_0032.php#:~:text=En%20ineens%20was%20daar%20de%20comeback%20van%20Liesbeth%20List%2C%20bewerkstelligd%20door%20Frank%20Boeijen) uit dat ze in 1994, na een periode van afnemend succes, [opnieuw op de kaart](https://nl.wikipedia.org/wiki/Liesbeth_List#:~:text=Chanson%20Knokkefestival%20zette%20haar%20carri%C3%A8re%20op%20gang%20Liesbeth%20List%3A%20een%20voorlopig%20leven%20met%20vallen%20en%20opstaan) werd gezet door Frank Boeijen. 
 * Het artikel [Basisbibliotheek - Duizend sleutelteksten uit de cultuurgeschiedenis van de Lage Landen](https://nl.wikipedia.org/wiki/Basisbibliotheek) bestaat uit een selectie van de 1000 werken uit de Nederlandse literatuur die belangrijk zijn voor het Nederlandstalige erfgoed, in 2008 [gepubliceerd op de DBNL](https://www.dbnl.org/basisbibliotheek/index.php?o=ca). 
 
+## Vier hoofdgroepen etc...
 
 Als we deze verwijznen proberen te groperen, komen er 4 groepen naar voren 
 valt uiteen in 4 groepen
-#### Auteurs:  Besopreek DNNb Nl links in artikel albert Verwij 
+
+### Auteurs:  Besopreek DNNb Nl links in artikel albert Verwij 
 
 [artikel over Albert Verwey](https://nl.wikipedia.org/wiki/Albert_Verwey) 
 
@@ -54,9 +55,9 @@ https://www.wikidata.org/wiki/Q586323#P723
 
 
 
-#### Teksten: 
-#### Titels:
-#### Overige : homepage, colofin etc
+### Teksten: 
+### Titels:
+### Overige : homepage, colofin etc
 
 ## Hoe hebben we gemeten?
 
@@ -86,6 +87,7 @@ Als we iets dieper op [de data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-G
 Onderstaande grafiek toont de Top 20 van die artikelen. Zo bevat [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen) maar liefst 442 verwijzingen, en het artikel over [Israël Querido](https://nl.wikipedia.org/wiki/Isra%C3%ABl_Querido) bevat er 23.
 
 <div style="min-height:625px" id="datawrapper-vis-jaUXc"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/jaUXc/embed.js" charset="utf-8" data-target="#datawrapper-vis-jaUXc"></script><noscript><img src="https://datawrapper.dwcdn.net/jaUXc/full.png" alt="Barchart van de top 20 van Nederlandstalige Wikipedia-artikelen die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten. Peildatum is 5 september 2024."/></noscript></div>
+
 
 ## DBNL-pagina's waarnaar het vaakst verwezen wordt vanuit Nederlandstalige Wikipedia-artikelen
 
