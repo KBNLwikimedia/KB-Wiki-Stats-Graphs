@@ -1,5 +1,5 @@
 # Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024 
-<sup>Olaf Janssen, 3 januari 2025</sup>
+<sup>Olaf Janssen, 30 januari 2025</sup>
 
 <img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/icon_wp.png" align="right" width="110"  hspace="20"/>
 
@@ -9,12 +9,14 @@
 
 ## Links naar DBNL in Nederlandstalige Wikipedia-artikelen 
 
-In de Nederlandstalige Wikipedia wordt informatie uit de DBNL veel gebruikt om in artikelen te verwerken. Vanuit deze lemma's wordt dan door middel van URLs terugverwezen naar de DBNL. Dit kan bijvoorbeeld een link zijn naar een DBNL-profiel van een auteur, naar een gedigitaliseerd boek of naar een specifieke pagina in een boek. Een aantal voorbeelden:
+In de Nederlandstalige Wikipedia wordt informatie uit de DBNL veel gebruikt om in artikelen te verwerken. 
+
+De Nederlandstalige Wikipedia maakt veelvuldig gebruik van informatie uit de DBNL om in artikelen te verwerken. Vanuit deze lemma's wordt dan door middel van een URL terugverwezen naar de DBNL. Dit kan bijvoorbeeld een link zijn naar een profiel van een auteur, naar een gedigitaliseerd boek of naar een specifieke artikel in een tijdschrift. Een aantal voorbeelden:
 
 * In het artikel over [André Breton](https://nl.wikipedia.org/wiki/Andr%C3%A9_Breton#:~:text=Dbnl-profiel) staat onder de portretfoto een link naar [zijn DBNL-profiel](https://www.dbnl.org/auteurs/auteur.php?id=bret007). 
 * Het artikel over [Geertruida Bosboom-Toussaint](https://nl.wikipedia.org/wiki/Geertruida_Bosboom-Toussaint#:~:text=Gedigitaliseerde%20versies%20van%20Bosboom%2DToussaints%27%20boeken) verwijst naar meerdere gedigitaliseerde boeken van haar op DBNL , bijvoorbeeld *[Graaf Pepoli, de roman van een rijk edelman](https://www.dbnl.org/titels/titel.php?id=bosb002graa03)*. Bovendien bevat de uitklaplijst onder [Bibliografische informatie](https://nl.wikipedia.org/wiki/Geertruida_Bosboom-Toussaint#:~:text=Bibliografische%20informatie) onder *bosb002* een verwijzing naar [haar DBNL-auteursprofiel](https://www.dbnl.org/auteurs/auteur.php?id=bosb002).
 * Het lemma over [Arthur van Schendel](https://nl.wikipedia.org/wiki/Arthur_van_Schendel_(schrijver)) bevat onder [Externe links](https://nl.wikipedia.org/wiki/Arthur_van_Schendel_(schrijver)#:~:text=Schendel.%201936-,Externe%20links) de regel *[Biografieën, werken en teksten](https://www.dbnl.org/auteurs/auteur.php?id=sche034) bij de [Digitale Bibliotheek voor de Nederlandse Letteren](https://nl.wikipedia.org/wiki/Digitale_Bibliotheek_voor_de_Nederlandse_Letteren)*.
-* In het Wikipedia-artikel [Encyclopedie](https://nl.wikipedia.org/wiki/Encyclopedie) staat in de voetnoeten een verwijzing naar het lemma *[Encyclopedie-1](https://www.dbnl.org/tekst/dela012alge01_01/dela012alge01_01_00502.php)* in het *[Algemeen Letterkundig Lexicon](https://www.dbnl.org/tekst/dela012alge01_01/)* op DBNL.
+* In het Wikipedia-artikel [Encyclopedie](https://nl.wikipedia.org/wiki/Encyclopedie) staat in de voetnoeten een verwijzing naar het lemma *[Encyclopedie-1](https://www.dbnl.org/tekst/dela012alge01_01/dela012alge01_01_00502.php)* in het *[Algemeen letterkundig lexicon](https://www.dbnl.org/tekst/dela012alge01_01/)* op DBNL.
 * Het artikel over [Liesbeth List](https://nl.wikipedia.org/wiki/Liesbeth_List) legt aan de hand van een [levenschets van de zangers op DBNL](https://www.dbnl.org/tekst/_nee003200201_01/_nee003200201_01_0032.php#:~:text=En%20ineens%20was%20daar%20de%20comeback%20van%20Liesbeth%20List%2C%20bewerkstelligd%20door%20Frank%20Boeijen) uit dat ze in 1994, na een periode van afnemend succes, [opnieuw op de kaart](https://nl.wikipedia.org/wiki/Liesbeth_List#:~:text=Chanson%20Knokkefestival%20zette%20haar%20carri%C3%A8re%20op%20gang%20Liesbeth%20List%3A%20een%20voorlopig%20leven%20met%20vallen%20en%20opstaan) werd gezet door Frank Boeijen. 
 * Het artikel [Basisbibliotheek - Duizend sleutelteksten uit de cultuurgeschiedenis van de Lage Landen](https://nl.wikipedia.org/wiki/Basisbibliotheek) bestaat uit een selectie van de 1000 werken uit de Nederlandse literatuur die belangrijk zijn voor het Nederlandstalige erfgoed, in 2008 [gepubliceerd op de DBNL](https://www.dbnl.org/basisbibliotheek/index.php?o=ca). 
 <br clear="all"/>
@@ -22,39 +24,45 @@ In de Nederlandstalige Wikipedia wordt informatie uit de DBNL veel gebruikt om i
 <a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg" align="left" width="800" hspace="20"/></a>
 <br clear="all"/><sub>*Illustratie van hoe informatie uit de DBNL verwerkt wordt in de Nederlandstalige Wikipedia. Screenshot november 2024. Zie de tekst hierboven voor nadere uitleg. (Klik voor vergroting)*</sub>
 
-## Vier hoofdgroepen van DBNL-verwijzingen in Wikipedia
+## Vijf hoofdgroepen van DBNL-verwijzingen in Wikipedia
 
-Als we deze diverse soorten verwijzingen in Wikipedia proberen te groeperen, komen er 4 groepen naar voren:  
+Als we deze diverse soorten verwijzingen in Wikipedia proberen te groeperen, komen er vijf groepen naar voren:  
 
 ### 1) Auteurs 
 
 <a href="https://nl.wikipedia.org/wiki/Albert_Verwey" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/albert_verwey_wikipedia_jan2025.jpg" align="right" width="400" hspace="20"/></a>
 
-De meest voorkomende verwijzingen zijn die naar [DBNL-auteurspagina's](https://www.dbnl.org/zoek/solr/auteurZoek.php?zoek=&prefilter=auteurs&subform_values=&f_id=&size=10&sort=relevantie&weergave=lijst), zoals bijvoorbeeld [die van Albert Verwey](https://www.dbnl.org/auteurs/auteur.php?id=verw008). Dit soort pagina's bevat typisch overzichten van oorspronkelijke publicaties, teksten en vertalingen van de auteur, biografieën en secundaire literatuur over de auteur, of brieven die geschreven of ontvangen zijn door de auteur. Als we kijken naar het [Wikipedia-artikel over Albert Verwey](https://nl.wikipedia.org/wiki/Albert_Verwey), dan zien we dat er op drie plaatsen naar zijn DBNL-auteurspagina wordt verwezen:  
+De meest voorkomende verwijzingen zijn die naar [DBNL-auteurspagina's](https://www.dbnl.org/zoek/solr/auteurZoek.php?zoek=&prefilter=auteurs&subform_values=&f_id=&size=10&sort=relevantie&weergave=lijst), bijvoorbeeld [die van Albert Verwey](https://www.dbnl.org/auteurs/auteur.php?id=verw008). Dit soort pagina's bevat typisch overzichten van oorspronkelijke publicaties, teksten en vertalingen van de auteur, biografieën en secundaire literatuur over de auteur, of brieven die geschreven of ontvangen zijn door de auteur. Als we kijken naar het [Wikipedia-artikel over Albert Verwey](https://nl.wikipedia.org/wiki/Albert_Verwey), dan zien we dat er op drie plaatsen naar zijn DBNL-auteurspagina wordt verwezen:  
 
-1) Onder de portretfoto staat een link genaamd _[Dbnl-profiel](https://www.dbnl.org/auteurs/auteur.php?id=verw008)_. Als we in de [broncode van het artikel](https://nl.wikipedia.org/w/index.php?title=Albert_Verwey&action=edit) kijken, dan zien we dat deze link wordt gemaakt met behulp van het [Sjabloon:Infobox auteur](https://nl.wikipedia.org/wiki/Sjabloon:Infobox_auteur), waar in het veld *dbnl* de waarde *verw008* is ingevuld. 
+a) Onder de portretfoto staat een link genaamd _[Dbnl-profiel](https://www.dbnl.org/auteurs/auteur.php?id=verw008)_. Als we in de [broncode van het artikel](https://nl.wikipedia.org/w/index.php?title=Albert_Verwey&action=edit) kijken, dan zien we dat deze link wordt gemaakt met behulp van het [Sjabloon:Infobox auteur](https://nl.wikipedia.org/wiki/Sjabloon:Infobox_auteur), waar in het veld *dbnl* de waarde *verw008* is ingevuld. 
 
-2) In de uitklaplijst onder *Externe links* staat de regel "[Biografieën, werken en teksten](https://www.dbnl.org/auteurs/auteur.php?id=verw008) bij de [Digitale Bibliotheek voor de Nederlandse Letteren](https://nl.wikipedia.org/wiki/Digitale_Bibliotheek_voor_de_Nederlandse_Letteren)". Deze regel [wordt gemaakt](https://nl.wikipedia.org/w/index.php?title=Albert_Verwey&action=edit&section=12) met behulp van het [Sjabloon:Link dbnl auteur](https://nl.wikipedia.org/wiki/Sjabloon:Link_dbnl_auteur), waarin de waarde *verw008* is ingevuld.
+b) In de lijst onder *Externe links* staat de regel "[Biografieën, werken en teksten](https://www.dbnl.org/auteurs/auteur.php?id=verw008) bij de [Digitale Bibliotheek voor de Nederlandse Letteren (dbnl)](https://nl.wikipedia.org/wiki/Digitale_Bibliotheek_voor_de_Nederlandse_Letteren)". Deze regel [wordt gemaakt](https://nl.wikipedia.org/w/index.php?title=Albert_Verwey&action=edit&section=12) met behulp van het [Sjabloon:Link dbnl auteur](https://nl.wikipedia.org/wiki/Sjabloon:Link_dbnl_auteur), waarin de waarde *id=verw008* is ingevuld.
 
-3) Helemaal onderaan het artikel staat een uitklaplijst met [Bibliografische informatie](https://nl.wikipedia.org/wiki/Albert_Verwey#:~:text=Bibliografische%20informatie). Als je deze openklapt, zie je daar een lijst met identifiers van Verwey in andere (bibliografische) databases en websites, waaronder de DBNL, met als waarde *[verw008](https://www.dbnl.org/auteurs/auteur.php?id=verw008)*. Deze lijst wordt gegenereerd door het [Sjabloon:Bibliografische informatie](https://nl.wikipedia.org/wiki/Sjabloon:Bibliografische_informatie), dat op zijn beurt weer gebruik maakt van de [Module:Authority control](https://nl.wikipedia.org/wiki/Module:Authority_control). Hierin zit [een stukje code zit](https://nl.wikipedia.org/wiki/Module:Authority_control#:~:text=function%20p.dbnlLink(%20id%20)) dat de URL naar de DBNL-auteurspagina van Verwey genereert.
+c) Helemaal onderaan het artikel staat een uitklaplijst met [Bibliografische informatie](https://nl.wikipedia.org/wiki/Albert_Verwey#:~:text=Bibliografische%20informatie). Als je deze openklapt, zie je daar een lijst met identifiers van Verwey in allerlei (bibliografische) databases en websites, waaronder de DBNL, met als waarde *[verw008](https://www.dbnl.org/auteurs/auteur.php?id=verw008)*. Deze lijst wordt gegenereerd door het [Sjabloon:Bibliografische informatie](https://nl.wikipedia.org/wiki/Sjabloon:Bibliografische_informatie), dat op zijn beurt weer gebruik maakt van de [Module:Authority control](https://nl.wikipedia.org/wiki/Module:Authority_control). Hierin zit [een stukje code](https://nl.wikipedia.org/wiki/Module:Authority_control#:~:text=function%20p.dbnlLink(%20id%20)) dat de URL naar de DBNL-auteurspagina van Verwey genereert.
 
-Bij alle drie sjablonen wordt de waarde *verw008* uit het [Wikidata-item van Albert Verwey](https://www.wikidata.org/wiki/Q586323#P723) gehaald. 
+Bij al deze sjablonen wordt de waarde *verw008* uit het [Wikidata-item over Albert Verwey](https://www.wikidata.org/wiki/Q586323#P723) gehaald. 
 
 Het voordeel van het gebruik van deze sjablonen in Wikipedia is dat ze zorgen voor een uniforme uitstraling van artikelen over auteurs en andere personen die in de DBNL voorkomen.
 
 ### 2) Teksten  
-De tweede grote groep van verwijzingen in Wikipedia zijn die naar specifieke [teksten in DBNL](https://www.dbnl.org/zoek/solr/corpusZoek.php?zoek=&prefilter=teksten&subform_values=showfacet_geslacht%3D1%26geslacht%3D%26showfacet_periode_g%3D1%26showfacet_periode_o%3D1%26showfacet_landtype_g%3D1%26showfacet_landtype_o%3D1%26showfacet_deelcollectie%3D1%26showfacet_rol%3D1&f_id=&size=10&sort=relevantie&weergave=lijst), zoals boeken, tijdschrfiten, artikelen, biografieën, gedichten, toneelstukken of brieven. 
-Deze verwijzingen zitten niet alleen op auteursniveau in bovengenoemde "Biografieën, werken en teksten bij de Digitale Bibliotheek voor de Nederlandse Letteren" maar kunnen ook elders in een artikel gebruikt worden, bijvoorbeeld in het notenapparaat, zoals bij bovengenoemde gedigitaliseerde DBNL-boeken in het artikel over [Geertruida Bosboom-Toussaint](https://nl.wikipedia.org/wiki/Geertruida_Bosboom-Toussaint#:~:text=Gedigitaliseerde%20versies%20van%20Bosboom%2DToussaints%27%20boeken).    
+De tweede grote groep van verwijzingen in Wikipedia zijn die naar specifieke [teksten in DBNL](https://www.dbnl.org/zoek/solr/corpusZoek.php?zoek=&prefilter=teksten), zoals boeken, tijdschrfiten, artikelen, biografieën, gedichten, toneelstukken of brieven. 
+Deze verwijzingen zitten niet alleen op auteursniveau in bovengenoemde "Biografieën, werken en teksten bij de Digitale Bibliotheek voor de Nederlandse Letteren (dbnl)" maar kunnen ook elders in een artikel gebruikt worden. Bijvoorbeeld in het notenapparaat, zoals bij bovengenoemde gedigitaliseerde DBNL-boeken in het artikel over [Geertruida Bosboom-Toussaint](https://nl.wikipedia.org/wiki/Geertruida_Bosboom-Toussaint#:~:text=Gedigitaliseerde%20versies%20van%20Bosboom%2DToussaints%27%20boeken).    
 
 ### 3) Titels
-De [beschikbare titels in DBNL](https://www.dbnl.org/zoek/solr/titelZoek.php?zoek=&prefilter=titels&subform_values=&f_id=&size=10&sort=relevantie&weergave=lijst) varieren van proza, bloemlezingen en poezië, via naslagwerken, jeugdliteratuur of drama, tot brieven, toneelstukken en essays, en nog veel meer. Zo zien we bijvoorbeeld in het [artikel over Jacob van Lennep](https://nl.wikipedia.org/wiki/Jacob_van_Lennep) verwijzingen naar de titels *[Dagboek van mijne reis](https://www.dbnl.org/titels/titel.php?id=lenn006dagb01)* uit 1823, *[Elizabeth Musch (3 delen)](https://www.dbnl.org/titels/titel.php?id=lenn006eliz01)* uit 1850-1851, *[Zeemansliedtjens](https://www.dbnl.org/titels/titel.php?id=lenn006zeem01)* uit 1852, *[Zeemans-woordenboek](https://www.dbnl.org/titels/titel.php?id=lenn006zeem02)* uit 1856, *[De vermakelijke spraakkunst](https://www.dbnl.org/titels/titel.php?id=lenn006verm01)* uit 1865 en *[De lotgevallen van Klaasje Zevenster](https://www.dbnl.org/titels/titel.php?id=lenn006lotg02)* uit 1866.
+De [beschikbare titels in DBNL](https://www.dbnl.org/zoek/solr/titelZoek.php?zoek=&prefilter=titels) varieren van proza, bloemlezingen en poezië, via naslagwerken, jeugdliteratuur of drama, tot brieven, toneelstukken en essays, en nog veel meer. Zo zien we bijvoorbeeld in het [artikel over Jacob van Lennep](https://nl.wikipedia.org/wiki/Jacob_van_Lennep) verwijzingen naar de titels *[Dagboek van mijne reis](https://www.dbnl.org/titels/titel.php?id=lenn006dagb01)* uit 1823, *[Elizabeth Musch (3 delen)](https://www.dbnl.org/titels/titel.php?id=lenn006eliz01)* uit 1850-1851, *[Zeemansliedtjens](https://www.dbnl.org/titels/titel.php?id=lenn006zeem01)* uit 1852, *[Zeemans-woordenboek](https://www.dbnl.org/titels/titel.php?id=lenn006zeem02)* uit 1856, *[De vermakelijke spraakkunst](https://www.dbnl.org/titels/titel.php?id=lenn006verm01)* uit 1865 en *[De lotgevallen van Klaasje Zevenster](https://www.dbnl.org/titels/titel.php?id=lenn006lotg02)* uit 1866.
 
 Maar ook buiten de context van letterkundige auteurs of teksten kunnen DBNL-titels in Wikipedia voorkomen. Zo wordt in het artikel [Lijst van vaktermen in de vestingbouwkunde](https://nl.wikipedia.org/wiki/Lijst_van_vaktermen_in_de_vestingbouwkunde) verwezen naar het *[Militair woordenboek](https://www.dbnl.org/titels/titel.php?id=land016mili01)* van H.M.F. Landholt uit 1861-1862. En in het artikel over [Techniekgeschiedenis](https://nl.wikipedia.org/wiki/Techniekgeschiedenis) wordt verwezen naar *[Geschiedenis van de techniek in Nederland](https://www.dbnl.org/titels/titel.php?id=lint011gesc00)* uit 1992-1995.
 
-### 4) Overige : homepage, colofin etc
+### 4) Resultaten van zoekacties
+Soms wil een schrijver van een Wikipedia-artikel weten waar in de DBNL een bepaalde zoekterm voorkomt. Kijk bijvoorbeeld naar het artikel over de 17eeuws Amsterdamse boekdrukker [Tymon Houthaeck](https://nl.wikipedia.org/wiki/Tymon_Houthaeck). Dit bevat helemaal onderaan, onder het kopje [*Literatuur*](https://nl.wikipedia.org/wiki/Tymon_Houthaeck#:~:text=Literatuur), een verwijzing naar de zoekvraag in welke titels en teksten in de DBNL de woorden ["Amsterdamse boekhandel"](https://www.dbnl.org/zoeken/zoekeninteksten/index.php?zoek=Amsterdamse+boekhandel) voorkomt.
+
+
+### 5) Overige pagina's
 De laatste groep 
 
-## Hoe hebben we gemeten?
+omepage, colofon etc
+
+## Een complete analyse
 
 een comopleet beeld van alle DBNL-links in WP
 
@@ -67,6 +75,13 @@ Zo kunt je bijvoorbeeld zoeken naar [pagina's die de URL *https://www.dbnl.org* 
 Je kunt dit op een gelijkwaardige manier ook via de Wikipedia API uitvragen, waarbij je dan meteen kunt filteren op alleen de artikelen (*eunamespace=0*). Dit doe je met de API-call https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.dbnl.org
 
 Met behulp van een stuk Python-code en dit soort API-calls hebben we alle artikelen in de Nederlandstalige Wikipedia kunnen bepalen die één of meer keer verwijzen naar http(s)://*.dbnl.org en dbnl.nl. De 5 artikelen die [verwijzen naar dbnl.be](https://nl.wikipedia.org/wiki/Speciaal:VerwijzingenZoeken?target=dbnl.be) zijn in deze metingen niet meegenomen.  
+
+Groep Auteurs, URL bevat /auteurs/
+Groe Teksten, URL bevat /teksten/
+Groep Titels, URL bevat /titels/
+Grope Zoeken, URL bevat /zoeken/
+Groep Overige, URL bevat /home, /colofon, /zoek/solr/corpusZoek.php, /zoek/solr/titelZoek.php, /zoek/solr/auteurZoek.php
+
 
 ## Aantal verwijzingen naar DBNL vanuit de Nederlandstalige Wikipedia
 
