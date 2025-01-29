@@ -19,7 +19,7 @@ In de Nederlandstalige Wikipedia wordt informatie uit de DBNL veel gebruikt om i
 * Het artikel [Basisbibliotheek - Duizend sleutelteksten uit de cultuurgeschiedenis van de Lage Landen](https://nl.wikipedia.org/wiki/Basisbibliotheek) bestaat uit een selectie van de 1000 werken uit de Nederlandse literatuur die belangrijk zijn voor het Nederlandstalige erfgoed, in 2008 [gepubliceerd op de DBNL](https://www.dbnl.org/basisbibliotheek/index.php?o=ca). 
 <br clear="all"/>
 
-<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg" align="left" width="400" hspace="20"/></a>
+<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg" align="left" width="800" hspace="20"/></a>
 <br clear="all"/><sub>*Illustratie van hoe informatie uit de DBNL verwerkt wordt in de Nederlandstalige Wikipedia. Screenshot november 2024. Zie de tekst hierboven voor nadere uitleg. (Klik voor vergroting)*</sub>
 
 ## Vier hoofdgroepen van DBNL-verwijzingen in Wikipedia
