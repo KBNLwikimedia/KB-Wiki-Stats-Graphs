@@ -92,16 +92,16 @@ Zo zien we bijvoorbeeld zien dat er (op 5 september 2024)
 
 ## Nederlandstalige Wikipedia-artikelen met de meeste links naar DBNL
 
-Als we iets dieper op [de data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905) inzoomen zien we dat er op 5 september 2024 in totaal 18.458 verschillende Wikipedia-artikelen zijn die één of meerdere links (URLs) naar de DBNL bevatten.   
+Als we iets dieper op [de data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905) inzoomen zien we dat er op 5 september 2024 in totaal 18.458 verschillende Wikipedia-artikelen waren die één of meerdere links (URLs) naar de DBNL bevatten.   
 
-Onderstaande grafiek toont de Top 20 van die artikelen. Zo bevat [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen) maar liefst 442 verwijzingen, en het artikel over [Israël Querido](https://nl.wikipedia.org/wiki/Isra%C3%ABl_Querido) bevat er 23.
+Onderstaande grafiek toont de Top 20 van die artikelen. Zo bevatte [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen) maar liefst 442 verwijzingen, en het artikel over [Israël Querido](https://nl.wikipedia.org/wiki/Isra%C3%ABl_Querido) bevatte er 23.
 
 
 <div style="min-height:625px" id="datawrapper-vis-jaUXc"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/jaUXc/embed.js" charset="utf-8" data-target="#datawrapper-vis-jaUXc"></script><noscript><img src="https://datawrapper.dwcdn.net/jaUXc/full.png" alt="Barchart van de top 20 van Nederlandstalige Wikipedia-artikelen die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten. Peildatum is 5 september 2024."/></noscript></div>
 
 ## DBNL-pagina's waarnaar het vaakst verwezen wordt vanuit Nederlandstalige Wikipedia-artikelen
 
-Vervolgens kunnen we ook kijken naar de in totaal 27.875 unieke DBNL-pagina’s waar Nederlandstalige Wikipedia-artikelen op peildatum 5 september 2024 naar verwijzen. De staafgrafiek hieronder laat de Top 20 van deze DBNL-pagina’s zien. 
+Vervolgens kunnen we ook kijken naar de in totaal 27.875 unieke DBNL-pagina’s waar Nederlandstalige Wikipedia-artikelen op peildatum 5 september 2024 naar verwezen. De staafgrafiek hieronder laat de Top 20 van deze DBNL-pagina’s zien. 
 
 De [inhoudsopgave van het Algemeen letterkundig lexicon](https://www.dbnl.org/tekst/dela012alge01_01/) staat met 229 verwijzingen bovenaan deze lijst, terwijl bijvoorbeeld 17 verschillende Wikipedia-artikelen verwijzen naar het lemma over de [taekwondo-grootmeester
 Eric Lie](https://www.dbnl.org/tekst/hoen042spor03_01/hoen042spor03_01_0038.php) in het derde deel van [Onze sporthelden](https://www.dbnl.org/tekst/hoen042spor03_01/index.php) van Guno Hoen uit 1999. 
