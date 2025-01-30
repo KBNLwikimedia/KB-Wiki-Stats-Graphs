@@ -34,7 +34,7 @@ De meest voorkomende verwijzingen zijn die naar [DBNL-auteurspagina's](https://w
 
 a) Onder de portretfoto staat een link genaamd _[Dbnl-profiel](https://www.dbnl.org/auteurs/auteur.php?id=verw008)_. Als we in de [broncode van het artikel](https://nl.wikipedia.org/w/index.php?title=Albert_Verwey&action=edit) kijken, dan zien we dat deze link wordt gemaakt met behulp van het [Sjabloon:Infobox auteur](https://nl.wikipedia.org/wiki/Sjabloon:Infobox_auteur), waar in het veld *dbnl* de waarde *verw008* is ingevuld. 
 
-b) In de lijst onder *Externe links* staat de regel "[Biografieën, werken en teksten](https://www.dbnl.org/auteurs/auteur.php?id=verw008) bij de [Digitale Bibliotheek voor de Nederlandse Letteren (dbnl)](https://nl.wikipedia.org/wiki/Digitale_Bibliotheek_voor_de_Nederlandse_Letteren)". Deze regel [wordt gemaakt](https://nl.wikipedia.org/w/index.php?title=Albert_Verwey&action=edit&section=12) met behulp van het [Sjabloon:Link dbnl auteur](https://nl.wikipedia.org/wiki/Sjabloon:Link_dbnl_auteur), waarin de waarde *id=verw008* is ingevuld.
+b) In de lijst onder *Externe links* staat de regel *[Biografieën, werken en teksten](https://www.dbnl.org/auteurs/auteur.php?id=verw008) bij de [Digitale Bibliotheek voor de Nederlandse Letteren (dbnl)](https://nl.wikipedia.org/wiki/Digitale_Bibliotheek_voor_de_Nederlandse_Letteren)*. Deze regel [wordt gemaakt](https://nl.wikipedia.org/w/index.php?title=Albert_Verwey&action=edit&section=12) met behulp van het [Sjabloon:Link dbnl auteur](https://nl.wikipedia.org/wiki/Sjabloon:Link_dbnl_auteur), waarin de waarde *id=verw008* is ingevuld.
 
 c) Helemaal onderaan het artikel staat een uitklaplijst met [Bibliografische informatie](https://nl.wikipedia.org/wiki/Albert_Verwey#:~:text=Bibliografische%20informatie). Als je deze openklapt, zie je daar een lijst met identifiers van Verwey in allerlei (bibliografische) databases en websites, waaronder de DBNL, met als waarde *[verw008](https://www.dbnl.org/auteurs/auteur.php?id=verw008)*. Deze lijst wordt gegenereerd door het [Sjabloon:Bibliografische informatie](https://nl.wikipedia.org/wiki/Sjabloon:Bibliografische_informatie), dat op zijn beurt weer gebruik maakt van de [Module:Authority control](https://nl.wikipedia.org/wiki/Module:Authority_control). Hierin zit [een stukje code](https://nl.wikipedia.org/wiki/Module:Authority_control#:~:text=function%20p.dbnlLink(%20id%20)) dat de URL naar de DBNL-auteurspagina van Verwey genereert.
 
@@ -44,7 +44,7 @@ Het voordeel van het gebruik van deze sjablonen in Wikipedia is dat ze zorgen vo
 
 ### 2) Teksten  
 De tweede grote groep van verwijzingen in Wikipedia zijn die naar specifieke [teksten in DBNL](https://www.dbnl.org/zoek/solr/corpusZoek.php?zoek=&prefilter=teksten), zoals boeken, tijdschrfiten, artikelen, biografieën, gedichten, toneelstukken of brieven. 
-Deze verwijzingen zitten niet alleen op auteursniveau in bovengenoemde "Biografieën, werken en teksten bij de Digitale Bibliotheek voor de Nederlandse Letteren (dbnl)" maar kunnen ook elders in een artikel gebruikt worden. Bijvoorbeeld in het notenapparaat, zoals bij bovengenoemde gedigitaliseerde DBNL-boeken in het artikel over [Geertruida Bosboom-Toussaint](https://nl.wikipedia.org/wiki/Geertruida_Bosboom-Toussaint#:~:text=Gedigitaliseerde%20versies%20van%20Bosboom%2DToussaints%27%20boeken).    
+Deze verwijzingen zitten niet alleen op auteursniveau in bovengenoemde *Biografieën, werken en teksten bij de Digitale Bibliotheek voor de Nederlandse Letteren (dbnl)*, maar kunnen ook elders in een artikel gebruikt worden. Bijvoorbeeld in het notenapparaat, zoals bij bovengenoemde gedigitaliseerde DBNL-boeken in het artikel over [Geertruida Bosboom-Toussaint](https://nl.wikipedia.org/wiki/Geertruida_Bosboom-Toussaint#:~:text=Gedigitaliseerde%20versies%20van%20Bosboom%2DToussaints%27%20boeken).    
 
 <a href="https://nl.wikipedia.org/wiki/Albert_Verwey" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/lint011gesc01_01_tpg.gif" align="right" width="200" hspace="20" alt="Cover van het boek: Geschiedenis van de techniek in Nederland. De wording van een moderne samenleving 1800-1890. Deel I"/></a>
 
@@ -72,31 +72,31 @@ Je kunt dit op een gelijkwaardige manier ook via de [Wikipedia API](https://www.
 
 Met behulp van dit soort API-calls een stukje Python-code kunnen we alle artikelen in de Nederlandstalige Wikipedia die (één of meer keer) verwijzen naar _http(s)://\*.dbnl.org\|.nl_ opsporen. 
 
-Deze meting hebben we begin september 2024 gedaan. De vijf artikelen die [verwijzen naar *dbnl.be*](https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euquery=dbnl.be) zijn hierbij niet meegenomen, omdat de auteur toen niet op de hoogte was van het bestaan van dit domein.  
+Dit hebben we begin september 2024 gedaan. De vijf artikelen die [verwijzen naar *dbnl.be*](https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euquery=dbnl.be) zijn hierbij niet meegenomen, omdat de auteur toen niet op de hoogte was van het bestaan van dit domein.  
 
 ## Aantal verwijzingen naar DBNL vanuit de Nederlandstalige Wikipedia
 
-Als eerste kunnen we kijken hoe vaak er in Nederlandstalige Wikipedia-artikelen verwezen wordt naar pagina's in de bovengenoemde DBNL-groepen. Dit laat onderstaande grafiek zien. Deze visualisatie onderscheidt vier (niet: vijf) hoofdcategorieën: 
+Als eerste kunnen we kijken hoe vaak er in Wikipedia-artikelen verwezen wordt naar pagina's in de eerder genoemde DBNL-groepen. Dit laat onderstaande donutgrafiek zien. Deze visualisatie onderscheidt vier (niet: vijf) hoofdcategorieën: 
 
-1) *Auteurs* (rood): Deze bevat de URLs van DBNL-auteurspagina's. In deze URLs komt het patroon _/auteurs/_ voor, typisch met een syntax als *https://www.dbnl.org/auteurs/auteur.php?id=*. Komt overeen met de hierboven genoemde groep *Auteurs*. 
+1) *Auteurs* (rood): Deze bevat de URLs van DBNL-auteurspagina's. In deze URLs komt het patroon _/auteurs/_ voor, typisch met de *https://www.dbnl.org/auteurs/auteur.php?id=*. Komt overeen met de hierboven genoemde groep *1) Auteurs*. 
 
-2) *Teksten* (groen): Deze bevat de URLs van specifieke teksten in DBNL. In deze URLs komt het patroon _/tekst/_ voor, typisch met een syntax als *https://www.dbnl.org/tekst/*. Komt overeen met de hierboven genoemde groep *Teksten*.
+2) *Teksten* (groen): Deze bevat de URLs van specifieke teksten in DBNL. In deze URLs komt het patroon _/tekst/_ voor, typisch met de syntax *https://www.dbnl.org/tekst/*. Komt overeen met de hierboven genoemde groep *2) Teksten*.
  
-3) *Titels* (lichtblauw): Deze bevat de URLs van DBNL-titels. In deze URLs komt het patroon _/titels/_ voor, typisch met een syntax als *https://www.dbnl.org/titels/titel.php?id=*. Komt overeen met de hierboven genoemde groep *Titels*.
+3) *Titels* (lichtblauw): Deze bevat de URLs van DBNL-titels. In deze URLs komt het patroon _/titels/_ voor, typisch met de syntax *https://www.dbnl.org/titels/titel.php?id=*. Komt overeen met de hierboven genoemde groep *3) Titels*.
  
-4) *Overige* (donkerblauw): Deze bevat de URLs van de overige pagina's in de DBNL, bijvoorbeeld die met zoekresultaten of de homepage. In deze URLs komen o.a. de patronen _/zoeken/zoekeninteksten/_, _/letterkunde/_, _/atlas/_ of _/overdbnl/_ voor. Is een samenvoeging van de hierboven genoemde groepen *Resultaten van zoekacties* en *Overige pagina's*. Het aantal pagina's in deze groepen was te klein om ze elk een eigen segment in de donut te geven, dus zijn ze samengevoegd tot één segment.
+4) *Overige* (donkerblauw): Deze bevat de URLs van de overige pagina's in de DBNL, bijvoorbeeld die met zoekresultaten of de homepage. In deze URLs komen o.a. de patronen _/zoeken/zoekeninteksten/_, _/letterkunde/_, _/atlas/_ of _/overdbnl/_ voor. Is een samenvoeging van de hierboven genoemde groepen *4) Resultaten van zoekacties* en *5) Overige pagina's*. Het aantal URLs in deze groepen was te klein om ze elk een eigen segment in de donut te geven, dus zijn ze samengevoegd tot één segment.
 
 Zo zien we bijvoorbeeld zien dat er (op 5 september 2024) 
 * 16.591 URLs in Wikipedia stonden die uitkomen op een DBNL-auteurspagina, en dat er
 * 13.835 keer naar een tekst in DBNL werd verwezen. 
-* In totaal bevatte de Nederlandse Wikipedia op die datum 30.768 (niet-unieke) URLs die naar de DBNL linken.
+* In totaal bevatte Nederlandstalige Wikipedia-artikelen op die datum 30.768 (niet-unieke) URLs die naar de DBNL linken.
 
-<div style="min-height:652px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten en Titels" /></noscript></div>
+<div style="min-height:652px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten, Titels en Overige." /></noscript></div>
 <br/>
 
 ## Nederlandstalige Wikipedia-artikelen met de meeste links naar DBNL
 
-Als we iets dieper op [de data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905) inzoomen zien we dat er op 5 september 2024 in totaal 18.458 verschillende Wikipedia-artikelen waren die één of meerdere links (URLs) naar de DBNL bevatten.   
+Wanneer we iets dieper op [de data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905) inzoomen zien we dat er op 5 september 2024 in totaal 18.458 verschillende Wikipedia-artikelen waren die één of meerdere links (URLs) naar de DBNL bevatten.   
 
 Onderstaande grafiek toont de Top 20 van die artikelen. Zo bevatte [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen) maar liefst 442 verwijzingen, en het artikel over [Israël Querido](https://nl.wikipedia.org/wiki/Isra%C3%ABl_Querido) bevatte er 23.
 
