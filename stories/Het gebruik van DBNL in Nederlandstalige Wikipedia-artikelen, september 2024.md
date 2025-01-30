@@ -1,9 +1,9 @@
 # Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024 
 <sup>Olaf Janssen, 30 januari 2025</sup>
 
-<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/icon_wp.png" align="right" width="110"  hspace="20"/>
+<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/icon_wp.png" align="right" width="110"  hspace="20" alt="Logo Wikipedia"/>
 
-<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_logo.png" align="right" width="170" hspace="20"/>
+<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_logo.png" align="right" width="170" hspace="20" alt="Logo DBNL"/>
 
 *De Digitale Bibliotheek voor de Nederlandse Letteren ([DBNL](https://www.dbnl.org/)) is een veelgebruikte bron voor artikelen in de Nederlandstalige Wikipedia. In dit artikel kijk ik hoe links (URLs) naar de DBNL-URLs.xxxxx. - nog afmaken----*
 
@@ -21,7 +21,7 @@ De Nederlandstalige Wikipedia maakt veelvuldig gebruik van informatie uit de DBN
 * Het artikel [Basisbibliotheek - Duizend sleutelteksten uit de cultuurgeschiedenis van de Lage Landen](https://nl.wikipedia.org/wiki/Basisbibliotheek) bestaat uit een selectie van de 1000 werken uit de Nederlandse literatuur die belangrijk zijn voor het Nederlandstalige erfgoed, in 2008 [gepubliceerd op de DBNL](https://www.dbnl.org/basisbibliotheek/index.php?o=ca). 
 <br clear="all"/>
 
-<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg" align="left" width="800" hspace="20"/></a>
+<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg" align="left" width="800" hspace="0" alt="Illustratie van hoe informatie uit de DBNL verwerkt wordt in de Nederlandstalige Wikipedia."/></a>
 <br clear="all"/><sub>*Illustratie van hoe informatie uit de DBNL verwerkt wordt in de Nederlandstalige Wikipedia. Screenshot november 2024. Zie de tekst hierboven voor nadere uitleg. (Klik voor vergroting)*</sub>
 
 ## Vijf hoofdgroepen van DBNL-verwijzingen in Wikipedia
@@ -30,7 +30,7 @@ Als we deze diverse soorten verwijzingen in Wikipedia proberen te groeperen, kom
 
 ### 1) Auteurs 
 
-<a href="https://nl.wikipedia.org/wiki/Albert_Verwey" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/albert_verwey_wikipedia_jan2025.jpg" align="right" width="400" hspace="20"/></a>
+<a href="https://nl.wikipedia.org/wiki/Albert_Verwey" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/albert_verwey_wikipedia_jan2025.jpg" align="right" width="400" hspace="20" alt="Screenshot van Wikipedia-artikel over de Nederlandse auteur Albert_Verwey (1865 – 1937)"/></a>
 
 De meest voorkomende verwijzingen zijn die naar [DBNL-auteurspagina's](https://www.dbnl.org/zoek/solr/auteurZoek.php?zoek=&prefilter=auteurs&subform_values=&f_id=&size=10&sort=relevantie&weergave=lijst), bijvoorbeeld [die van Albert Verwey](https://www.dbnl.org/auteurs/auteur.php?id=verw008). Dit soort pagina's bevat typisch overzichten van oorspronkelijke publicaties, teksten en vertalingen van de auteur, biografieën en secundaire literatuur over de auteur, of brieven die geschreven of ontvangen zijn door de auteur. Als we kijken naar het [Wikipedia-artikel over Albert Verwey](https://nl.wikipedia.org/wiki/Albert_Verwey), dan zien we dat er op drie plaatsen naar zijn DBNL-auteurspagina wordt verwezen:  
 
@@ -47,6 +47,8 @@ Het voordeel van het gebruik van deze sjablonen in Wikipedia is dat ze zorgen vo
 ### 2) Teksten  
 De tweede grote groep van verwijzingen in Wikipedia zijn die naar specifieke [teksten in DBNL](https://www.dbnl.org/zoek/solr/corpusZoek.php?zoek=&prefilter=teksten), zoals boeken, tijdschrfiten, artikelen, biografieën, gedichten, toneelstukken of brieven. 
 Deze verwijzingen zitten niet alleen op auteursniveau in bovengenoemde "Biografieën, werken en teksten bij de Digitale Bibliotheek voor de Nederlandse Letteren (dbnl)" maar kunnen ook elders in een artikel gebruikt worden. Bijvoorbeeld in het notenapparaat, zoals bij bovengenoemde gedigitaliseerde DBNL-boeken in het artikel over [Geertruida Bosboom-Toussaint](https://nl.wikipedia.org/wiki/Geertruida_Bosboom-Toussaint#:~:text=Gedigitaliseerde%20versies%20van%20Bosboom%2DToussaints%27%20boeken).    
+
+<a href="https://nl.wikipedia.org/wiki/Albert_Verwey" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/lint011gesc01_01_tpg.gif" align="right" width="100%" hspace="20" alt="Cover van het boek: Geschiedenis van de techniek in Nederland. De wording van een moderne samenleving 1800-1890. Deel I"/></a>
 
 ### 3) Titels
 De [beschikbare titels in DBNL](https://www.dbnl.org/zoek/solr/titelZoek.php?zoek=&prefilter=titels) varieren van proza, bloemlezingen en poezië, via naslagwerken, jeugdliteratuur of drama, tot brieven, toneelstukken en essays, en nog veel meer. Zo zien we bijvoorbeeld in het [artikel over Jacob van Lennep](https://nl.wikipedia.org/wiki/Jacob_van_Lennep) verwijzingen naar de titels *[Dagboek van mijne reis](https://www.dbnl.org/titels/titel.php?id=lenn006dagb01)* uit 1823, *[Elizabeth Musch (3 delen)](https://www.dbnl.org/titels/titel.php?id=lenn006eliz01)* uit 1850-1851, *[Zeemansliedtjens](https://www.dbnl.org/titels/titel.php?id=lenn006zeem01)* uit 1852, *[Zeemans-woordenboek](https://www.dbnl.org/titels/titel.php?id=lenn006zeem02)* uit 1856, *[De vermakelijke spraakkunst](https://www.dbnl.org/titels/titel.php?id=lenn006verm01)* uit 1865 en *[De lotgevallen van Klaasje Zevenster](https://www.dbnl.org/titels/titel.php?id=lenn006lotg02)* uit 1866.
@@ -131,20 +133,20 @@ Dit artikel is geschreven o.b.v. (bijna) alleen maar DBNL- bronnen!
 Alle data die gebruikt is in de visualisaties en analyses in dit artikel is beschikbaar op [Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905). Je kunt het Excel-bestand ook [direct downloaden](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/WPNLarticlesAndDBNLUrls_20240905.xlsx).
 
 ## Bijbehorende presentatie
-<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar-DBNLdag-8November2024.jpg" align="right" width="200"/>
+<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar-DBNLdag-8November2024.jpg" align="right" width="200" alt="Screenshot van de openingsdia van een presentatie met de titel 'Wat betekenen DBNL en Wikipedia voor elkaar?', ter gelegenheid van de viering van 25-jarige bestaan van de DBNL op 8 november 2024."/>
 
 Dit dataverhaal is gebruikt in de presentatie *[Wat betekenen DBNL en Wikipedia voor elkaar?](https://doi.org/10.5281/zenodo.14041711)* tijdens de [viering van 25-jarige bestaan van de DBNL](https://web.archive.org/web/20241105153730/https://www.dbnl.org/dbnldag/) op 8 november 2024. Deze presentatie is beschikbaar op [Zenodo](https://doi.org/10.5281/zenodo.14041711) en [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar_-_DBNLdag_-_8November2024.pdf).
 
 ## Over de auteur
-<img align="left" src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50" hspace="5"/>
+<img align="left" src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50" hspace="5" alt="Afbeelding van Olaf Janssen in Tel Aviv in 2018."/>
 
-<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/kblogo.png" align="right" width="150"/>
+<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/kblogo.png" align="right" width="150" alt="Logo van de KB, de nationale bibliotheek van Nederland"/>
 
 Olaf Janssen is de [Wikimedia-coördinator](https://www.kb.nl/over-ons/experts/olaf-janssen) van de KB, de nationale bibliotheek van Nederland. Hij draagt bij aan [Wikipedia](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek) en [Wikidata](https://www.wikidata.org/wiki/Wikidata:GLAM/Koninklijke_Bibliotheek_Nederland) als [Gebruiker:OlafJanssen](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen). ORCID: [0000-0002-9058-9941](https://orcid.org/0000-0002-9058-9941).
 
 ## Hergebruik van dit artikel 
 De tekst van dit artikel is vrijgegeven onder de [Creative Commons Naamsvermelding](https://creativecommons.org/licenses/by/4.0/deed.nl) CC-BY 4.0 licentie.<br/> 
-<img src="images/cc-by.png" width="120" align="right"/>
+<img src="images/cc-by.png" width="120" align="right" alt="Logo van de CC-BY licentie"/>
 Citatie: Janssen, Olaf. ‘xxxxxxxxxxx’. Zenodo, 30 januari 2025. [https://doi.org/10.5281/zenodo.1xxxx](https://doi.org/10.5281/zenodo.1xxxx). <br/> 
 Naamsvermelding: *KB, nationale bibliotheek van Nederland / Olaf Janssen, CC-BY 4.0*
 
