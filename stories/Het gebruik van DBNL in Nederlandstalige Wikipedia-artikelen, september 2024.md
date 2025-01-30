@@ -70,16 +70,20 @@ Hoe kunnen we alle DBNL-links in Wikipedia systematisch opsporen? Daar biedt Wik
 
 Je kunt dit op een gelijkwaardige manier ook via de [Wikipedia API](https://www.mediawiki.org/w/api.php?action=help&modules=query%2Bexturlusage) uitvragen. Hierbij kun je dan meteen filteren op alleen de artikelen (*eunamespace=0*), waarbij dus (o.a.) Overleg- en Gebruikerspagina's niet worden meegenomen. Dit doe je met de API-call [https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.dbnl.org](https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.dbnl.org).
 
-Met behulp van dit soort API-calls een stukje Python-code kunnen we alle artikelen in de Nederlandstalige Wikipedia die (één of meer keer) verwijzen naar _http(s)://\*.dbnl.org|.nl_ opsporen. 
+Met behulp van dit soort API-calls een stukje Python-code kunnen we alle artikelen in de Nederlandstalige Wikipedia die (één of meer keer) verwijzen naar _http(s)://\*.dbnl.org\|.nl_ opsporen. 
 
 Deze meting hebben we begin september 2024 gedaan. De vijf artikelen die [verwijzen naar *dbnl.be*](https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euquery=dbnl.be) zijn hierbij niet meegenomen, omdat de auteur toen niet op de hoogte was van het bestaan van dit domein.  
 
 ## Aantal verwijzingen naar DBNL vanuit de Nederlandstalige Wikipedia
 
 Als eerste kunnen we kijken hoe vaak er in Nederlandstalige Wikipedia-artikelen verwezen wordt naar pagina's in de bovengenoemde DBNL-groepen. Dit laat onderstaande grafiek zien. Deze visualisatie onderscheidt vier (niet: vijf) hoofdcategorieën: 
+
 1) *Auteurs* (rood): Deze bevat de URLs van DBNL-auteurspagina's. In deze URLs komt het patroon _/auteurs/_ voor, typisch met een syntax als *https://www.dbnl.org/auteurs/auteur.php?id=*. Komt overeen met de hierboven genoemde groep *Auteurs*. 
+
 2) *Teksten* (groen): Deze bevat de URLs van specifieke teksten in DBNL. In deze URLs komt het patroon _/tekst/_ voor, typisch met een syntax als *https://www.dbnl.org/tekst/*. Komt overeen met de hierboven genoemde groep *Teksten*.
+ 
 3) *Titels* (lichtblauw): Deze bevat de URLs van DBNL-titels. In deze URLs komt het patroon _/titels/_ voor, typisch met een syntax als *https://www.dbnl.org/titels/titel.php?id=*. Komt overeen met de hierboven genoemde groep *Titels*.
+ 
 4) *Overige* (donkerblauw): Deze bevat de URLs van de overige pagina's in de DBNL, bijvoorbeeld die met zoekresultaten of de homepage. In deze URLs komen o.a. de patronen _/zoeken/zoekeninteksten/_, _/letterkunde/_, _/atlas/_ of _/overdbnl/_ voor. Is een samenvoeging van de hierboven genoemde groepen *Resultaten van zoekacties* en *Overige pagina's*. Het aantal pagina's in deze groepen was te klein om ze elk een eigen segment in de donut te geven, dus zijn ze samengevoegd tot één segment.
 
 Zo zien we bijvoorbeeld zien dat er (op 5 september 2024) 
