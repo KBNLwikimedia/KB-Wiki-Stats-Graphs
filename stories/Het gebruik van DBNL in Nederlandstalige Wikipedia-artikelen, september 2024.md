@@ -54,13 +54,14 @@ De [beschikbare titels in DBNL](https://www.dbnl.org/zoek/solr/titelZoek.php?zoe
 Maar ook buiten de context van letterkundige auteurs of teksten kunnen DBNL-titels in Wikipedia voorkomen. Zo wordt in het artikel [Lijst van vaktermen in de vestingbouwkunde](https://nl.wikipedia.org/wiki/Lijst_van_vaktermen_in_de_vestingbouwkunde) verwezen naar het *[Militair woordenboek](https://www.dbnl.org/titels/titel.php?id=land016mili01)* van H.M.F. Landholt uit 1861-1862. En in het artikel over [Techniekgeschiedenis](https://nl.wikipedia.org/wiki/Techniekgeschiedenis) wordt verwezen naar *[Geschiedenis van de techniek in Nederland](https://www.dbnl.org/titels/titel.php?id=lint011gesc00)* uit 1992-1995.
 
 ### 4) Resultaten van zoekacties
-Soms wil een schrijver van een Wikipedia-artikel weten waar in de DBNL een bepaalde zoekterm voorkomt. Kijk bijvoorbeeld naar het artikel over de 17eeuws Amsterdamse boekdrukker [Tymon Houthaeck](https://nl.wikipedia.org/wiki/Tymon_Houthaeck). Dit bevat helemaal onderaan, onder het kopje [*Literatuur*](https://nl.wikipedia.org/wiki/Tymon_Houthaeck#:~:text=Literatuur), een verwijzing naar de zoekvraag in welke titels en teksten in de DBNL de woorden ["Amsterdamse boekhandel"](https://www.dbnl.org/zoeken/zoekeninteksten/index.php?zoek=Amsterdamse+boekhandel) voorkomt.
+Soms wil een schrijver van een Wikipedia-artikel weten waar in de DBNL een bepaalde zoekterm voorkomt. Kijk bijvoorbeeld naar het artikel over de 17eeuws Amsterdamse boekdrukker [Tymon Houthaeck](https://nl.wikipedia.org/wiki/Tymon_Houthaeck). Dit bevat helemaal onderaan, onder het kopje [*Literatuur*](https://nl.wikipedia.org/wiki/Tymon_Houthaeck#:~:text=Literatuur), een verwijzing naar de zoekvraag in welke titels en teksten in de DBNL de frase ["Amsterdamse boekhandel"](https://www.dbnl.org/zoeken/zoekeninteksten/index.php?zoek=Amsterdamse+boekhandel) voorkomt.
 
 
 ### 5) Overige pagina's
-De laatste groep 
+De laatste groep verwijzingen zijn die naar de overige pagina's van de DBNL, zoals de [homepage](https://www.dbnl.org/), [Over DBNL](https://www.dbnl.org/overdbnl/organisatie.php), de [Basisbibliotheek](https://www.dbnl.org/basisbibliotheek/index.php), de letterkundige collecties over [Friesland](https://www.dbnl.org/letterkunde/fries), [Limburg](https://www.dbnl.org/letterkunde/limburg), [Suriname](https://www.dbnl.org/letterkunde/suriname) en [Zuid-Afrika](https://www.dbnl.org/letterkunde/zuidafrika), of de [DBNL-atlas](https://www.dbnl.org/atlas/index.php).
 
-omepage, colofon etc
+Zo bevat het Wikipedia-artikel over de Belgische schrijver [Paul Verrept](https://nl.wikipedia.org/wiki/Paul_Verrept) een verwijzing naar een overzicht van [auteurs die in de Vlaamse plaats Deurne geboren](https://www.dbnl.org/atlas/plaats.php?id=deurn002) danwel overleden zijn. Of kijk bijvoorbeeld naar de [Lijst van rederijkerskamers](https://nl.wikipedia.org/wiki/Lijst_van_rederijkerskamers), dat artikel leunt sterk op de alfabetisch [lijst van Vlaamse, Frans-Vlaamse, Brabantse, Limburgse en Nederlandse rederijkerskamers](https://www.dbnl.org/organisaties/rederijkerskamers/) uit de DBNL.
+
 
 ## Een complete analyse
 
