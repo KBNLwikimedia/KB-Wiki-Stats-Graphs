@@ -72,7 +72,9 @@ Je kunt dit op een gelijkwaardige manier ook via de [Wikipedia API](https://www.
 
 Met behulp van dit soort API-calls een stukje Python-code kunnen we alle artikelen in de Nederlandstalige Wikipedia die (één of meer keer) verwijzen naar _http(s)://\*.dbnl.org\|.nl_ opsporen. 
 
-Dit hebben we begin september 2024 gedaan. De vijf artikelen die [verwijzen naar *dbnl.be*](https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euquery=dbnl.be) zijn hierbij niet meegenomen, omdat de auteur toen niet op de hoogte was van het bestaan van dit domein.  
+Begin september 2024 hebben we deze speurtocht uitgevoerd en de [ruwe data gepubliceerd](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905). De vijf artikelen die [verwijzen naar *dbnl.be*](https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euquery=dbnl.be) zijn hierbij niet meegenomen, omdat de auteur toen niet op de hoogte was van het bestaan van dit domein. 
+
+In de rest van dit artikel zullen we met behulp van een aantal datavisualisaties de resultaten van deze analyse presenteren.
 
 ## Aantal verwijzingen naar DBNL vanuit de Nederlandstalige Wikipedia
 
