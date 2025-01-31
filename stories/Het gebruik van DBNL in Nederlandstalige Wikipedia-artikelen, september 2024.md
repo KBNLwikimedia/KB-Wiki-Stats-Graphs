@@ -153,15 +153,14 @@ Dat levert onderstaande lijst op van 17 artikelen op.
 <a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/LDBua-nederlandstalige-wikipedia-artikelen-die-grotendeels-op-dbnl-gebaseerd-zijn.png" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/LDBua-nederlandstalige-wikipedia-artikelen-die-grotendeels-op-dbnl-gebaseerd-zijn.png" border="1" align="left" width="90%" hspace="0" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL-bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL."/></a>
 <br clear="all"/>
 
-<br/>
-In kolom 3 zien we dat het aantal externe URLs (*NrOfExternalUrls* ) groter of gelijk is aan de drempelwaarde van 6. De LinkRatio in kolom 4 is de verhouding tussen de waarden in kolommen 2 en 3. 
+In kolom 3 zien we dat het aantal externe URLs (*NrOfExternalUrls* ) groter of gelijk is aan de drempelwaarde van 6. De LinkRatio in kolom 4 is de verhouding tussen de waarden in kolommen 2 en 3, en dus steeds groter dan 0.75. 
 
 We zien dat het artikel over [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen) alleen maar DBNL-URLs bevat, evenals dat over [Jozef van Walleghem](https://nl.wikipedia.org/wiki/Jozef%20van%20Walleghem) en dat over [Drogon](https://nl.wikipedia.org/wiki/Drogon%20%28Van%20Schendel%29), de debuutroman van Arthur van Schendel.
 
-Het artikel uit 2020 bevat een vergelijkbaar [overzicht van 54 Wikipedia-artikelen](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html#for-dbnl) die geheel of grotendeels op DBNL gebaseerd zijn. Destijds zijn de volgende drempelwaarden gekozen: *Number of external links >= 4* , *Link ratio >= 0.7*. Het is interessant - tevens een oefening voor de lezer - om de overeenkomsten en verschillen te vergelijken tussen die tabel en de lijst van 17 artikelen die we hierboven hebben gevonden.
+Het artikel uit 2020 bevat een vergelijkbaar [overzicht van 54 Wikipedia-artikelen](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html#for-dbnl) die geheel of grotendeels op DBNL gebaseerd zijn. Destijds zijn de volgende drempelwaarden gekozen: *Number of external links >= 4* , *Link ratio >= 0.7*. Het is interessant - tevens een oefening voor de lezer - om de overeenkomsten en verschillen te zoeken tussen die tabel en de lijst van 17 artikelen hierboven.
 
 ## Ruwe data
-Alle data die gebruikt is in de visualisaties en analyses in dit artikel is [beschikbaar op Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905). Je kunt het Excel-bestand ook [direct downloaden](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/WPNLarticlesAndDBNLUrls_20240905_DBNL.xlsx).
+Alle data gebruikt voor de visualisaties en analyses in dit artikel is [beschikbaar op Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905). Je kunt het Excel-bestand ook [direct downloaden](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/WPNLarticlesAndDBNLUrls_20240905_DBNL.xlsx).
 
 ## Bijbehorende presentatie
 <a href="https://doi.org/10.5281/zenodo.14041711" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar-DBNLdag-8November2024.jpg" align="right" width="200" alt="Screenshot van de openingsdia van een presentatie met de titel 'Wat betekenen DBNL en Wikipedia voor elkaar?', ter gelegenheid van de viering van 25-jarige bestaan van de DBNL op 8 november 2024."/></a>
@@ -179,11 +178,11 @@ Olaf Janssen is de [Wikimedia-coördinator](https://www.kb.nl/over-ons/experts/o
 De tekst van dit artikel is vrijgegeven onder de [Creative Commons Naamsvermelding](https://creativecommons.org/licenses/by/4.0/deed.nl) CC-BY 4.0 licentie.<br/> 
 <img src="images/cc-by.png" width="120" align="right" alt="Logo van de CC-BY licentie"/>
 
-Citatie: Janssen, O.D. (2025). ‘Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024’. Zenodo, 31 januari 2025. [https://doi.org/10.5281/zenodo.14779865](https://doi.org/10.5281/zenodo.14779865).<br/> 
+*Citatie*: Janssen, O.D. (2025). ‘Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024’. Zenodo, 31 januari 2025. [https://doi.org/10.5281/zenodo.14779865](https://doi.org/10.5281/zenodo.14779865).<br/> 
 
 Naamsvermelding: *KB, nationale bibliotheek van Nederland / Olaf Janssen, CC-BY 4.0*
 
-### Identifiers en URLs
+### Identifiers en URLs van dit artikel
 Persistent:
 * DOI (Zenodo): [https://doi.org/10.5281/zenodo.14779865](https://doi.org/10.5281/zenodo.14779865)
 * Wikimedia Commons: [https://commons.wikimedia.org/entity/M158850603](https://commons.wikimedia.org/entity/M158850603)
