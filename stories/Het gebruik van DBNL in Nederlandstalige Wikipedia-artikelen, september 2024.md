@@ -150,9 +150,8 @@ Dat levert onderstaande lijst op van 17 artikelen op.
 
 In kolom 3 zien we dat het aantal externe URLs (*NrOfExternalUrls* ) groter of gelijk is aan de drempelwaarde van 6. De LinkRatio in kolom 4 is de verhouding tussen de waarden in kolommen 2 en 3. 
 
-<div style="min-height:514px" id="datawrapper-vis-LDBua"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/LDBua/embed.js" charset="utf-8" data-target="#datawrapper-vis-LDBua"></script><noscript><img src="https://datawrapper.dwcdn.net/LDBua/full.png" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL-bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL." /></noscript></div>
-
-
+<div style="min-height:514px" id="datawrapper-vis-LDBua"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/LDBua/embed.js" charset="utf-8" data-target="#datawrapper-vis-LDBua"></script><noscript><img src="https://datawrapper.dwcdn.net/LDBua/full.png" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL-bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL." /></noscript></div><br/>
+<br/>
 We zien dat het artikel over [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen) alleen maar DBNL-URLs bevat, evenals dat over [Jozef van Walleghem](https://nl.wikipedia.org/wiki/Jozef%20van%20Walleghem) en dat over [Drogon](https://nl.wikipedia.org/wiki/Drogon%20%28Van%20Schendel%29), de debuutroman van Arthur van Schendel.
 
 Het artikel uit 2020 bevat een vergelijkbaar [overzicht van 54 Wikipedia-artikelen](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html#for-dbnl) die geheel of grotendeels op DBNL gebaseerd zijn. Destijds zijn de drempelwaarden als volgt gekozen: *Number of external links >= 4* , *Link ratio >= 0.7*. Het is interessant - en een oefening voor de lezer- om de overeenkomsten en verschillen te vergelijken tussen die tabel en de lijst van 17 artikelen die we hierboven hebben gevonden.
