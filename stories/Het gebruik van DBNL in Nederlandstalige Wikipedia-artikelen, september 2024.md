@@ -112,17 +112,22 @@ Wanneer we iets dieper op [de data](https://github.com/KBNLwikimedia/KB-Wiki-Sta
 
 Onderstaande grafiek toont de Top 20 van die artikelen. Zo bevatte [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen) maar liefst 442 verwijzingen, en het artikel over [Israël Querido](https://nl.wikipedia.org/wiki/Isra%C3%ABl_Querido) bevatte er 23.
 
+<!-- <div style="min-height:625px" id="datawrapper-vis-jaUXc"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/jaUXc/embed.js" charset="utf-8" data-target="#datawrapper-vis-jaUXc"></script><noscript><img src="https://datawrapper.dwcdn.net/jaUXc/full.png" alt="Barchart van de top 20 van Nederlandstalige Wikipedia-artikelen die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten. Peildatum is 5 september 2024."/></noscript></div> -->
 
-<div style="min-height:625px" id="datawrapper-vis-jaUXc"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/jaUXc/embed.js" charset="utf-8" data-target="#datawrapper-vis-jaUXc"></script><noscript><img src="https://datawrapper.dwcdn.net/jaUXc/full.png" alt="Barchart van de top 20 van Nederlandstalige Wikipedia-artikelen die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten. Peildatum is 5 september 2024."/></noscript></div>
+<img src="https://datawrapper.dwcdn.net/jaUXc/full.png" border="1" align="left" width="90%" hspace="0" alt="Barchart van de top 20 van Nederlandstalige Wikipedia-artikelen die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten. Peildatum is 5 september 2024."/>
+<br clear="all"/>
 
 ### 3) DBNL-pagina's waarnaar het vaakst verwezen wordt vanuit Nederlandstalige Wikipedia-artikelen
 
 Vervolgens kunnen we ook kijken naar de in totaal 27.875 unieke DBNL-pagina’s waar Nederlandstalige Wikipedia-artikelen op peildatum 5 september 2024 naar verwezen. De staafgrafiek hieronder laat de Top 20 van deze DBNL-pagina’s zien. 
 
-De [inhoudsopgave van het *Algemeen letterkundig lexicon*](https://www.dbnl.org/tekst/dela012alge01_01/) staat met 229 verwijzingen bovenaan deze lijst, terwijl bijvoorbeeld 17 verschillende Wikipedia-artikelen verwijzen naar het lemma over de [taekwondo-grootmeester
+De [inhoudsopgave van het *Algemeen letterkundig lexicon*](https://www.dbnl.org/tekst/dela012alge01_01/) staat met 229 verwijzingen bovenaan deze lijst, terwijl er bijvoorbeeld 17 keer verwezen wordt naar het lemma over de [taekwondo-grootmeester
 Eric Lie](https://www.dbnl.org/tekst/hoen042spor03_01/hoen042spor03_01_0038.php) in het derde deel van *[Onze sporthelden](https://www.dbnl.org/tekst/hoen042spor03_01/index.php)* van Guno Hoen uit 1999. 
 
-<div style="min-height:643px" id="datawrapper-vis-oek1t"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oek1t/embed.js" charset="utf-8" data-target="#datawrapper-vis-oek1t"></script><noscript><img src="https://datawrapper.dwcdn.net/oek1t/full.png" alt="Barchart van de Top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum is 5 september 2024." /></noscript></div>
+<!-- <div style="min-height:643px" id="datawrapper-vis-oek1t"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oek1t/embed.js" charset="utf-8" data-target="#datawrapper-vis-oek1t"></script><noscript><img src="https://datawrapper.dwcdn.net/oek1t/full.png" alt="Barchart van de Top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum is 5 september 2024." /></noscript></div> --> 
+
+<img src="https://datawrapper.dwcdn.net/oek1t/full.png" border="1" align="left" width="90%" hspace="0" alt="Barchart van de Top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum is 5 september 2024."/>
+<br clear="all"/>
 
 ### 4) Wikipedia-artikelen die grotendeels op DBNL gebaseerd zijn
 
@@ -142,7 +147,11 @@ Om te beoordelen of een artikel grotendeels op de DBNL is gebaseerd, hebben we d
 
 Dat levert onderstaande lijst op van 17 artikelen op. 
 
-<div style="min-height:514px" id="datawrapper-vis-LDBua"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/LDBua/embed.js" charset="utf-8" data-target="#datawrapper-vis-LDBua"></script><noscript><img src="https://datawrapper.dwcdn.net/LDBua/full.png" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL-bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL." /></noscript></div><br/>
+<!-- <div style="min-height:514px" id="datawrapper-vis-LDBua"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/LDBua/embed.js" charset="utf-8" data-target="#datawrapper-vis-LDBua"></script><noscript><img src="https://datawrapper.dwcdn.net/LDBua/full.png" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL-bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL." /></noscript></div><br/> --> 
+
+<img src="https://datawrapper.dwcdn.net/LDBua/full.png" border="1" align="left" width="90%" hspace="0" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL-bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL."/>
+<br clear="all"/>
+
 <br/>
 In kolom 3 zien we dat het aantal externe URLs (*NrOfExternalUrls* ) groter of gelijk is aan de drempelwaarde van 6. De LinkRatio in kolom 4 is de verhouding tussen de waarden in kolommen 2 en 3. 
 
