@@ -153,7 +153,7 @@ We zien dat het artikel over [De groote schouburgh der Nederlantsche konstschild
 Het artikel uit 2020 bevat een vergelijkbaar [overzicht van 54 Wikipedia-artikelen](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html#for-dbnl) die geheel of grotendeels op DBNL gebaseerd zijn. Destijds zijn de volgende drempelwaarden gekozen: *Number of external links >= 4* , *Link ratio >= 0.7*. Het is interessant - tevens een oefening voor de lezer - om de overeenkomsten en verschillen te vergelijken tussen die tabel en de lijst van 17 artikelen die we hierboven hebben gevonden.
 
 ## Ruwe data
-Alle data die gebruikt is in de visualisaties en analyses in dit artikel is [beschikbaar op Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905). Je kunt het Excel-bestand ook [direct downloaden](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/WPNLarticlesAndDBNLUrls_20240905.xlsx).
+Alle data die gebruikt is in de visualisaties en analyses in dit artikel is [beschikbaar op Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905). Je kunt het Excel-bestand ook [direct downloaden](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/WPNLarticlesAndDBNLUrls_20240905_DBNL.xlsx).
 
 ## Bijbehorende presentatie
 <img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar-DBNLdag-8November2024.jpg" align="right" width="200" alt="Screenshot van de openingsdia van een presentatie met de titel 'Wat betekenen DBNL en Wikipedia voor elkaar?', ter gelegenheid van de viering van 25-jarige bestaan van de DBNL op 8 november 2024."/>
@@ -170,11 +170,13 @@ Olaf Janssen is de [Wikimedia-coördinator](https://www.kb.nl/over-ons/experts/o
 ## Hergebruik van dit artikel 
 De tekst van dit artikel is vrijgegeven onder de [Creative Commons Naamsvermelding](https://creativecommons.org/licenses/by/4.0/deed.nl) CC-BY 4.0 licentie.<br/> 
 <img src="images/cc-by.png" width="120" align="right" alt="Logo van de CC-BY licentie"/>
-Citatie: Janssen, Olaf. ‘xxxxxxxxxxx’. Zenodo, 31 januari 2025. [https://doi.org/10.5281/zenodo.1xxxx](https://doi.org/10.5281/zenodo.1xxxx). <br/> 
+Citatie: Janssen, O.D. (2025). ‘Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024’. Zenodo, 31 januari 2025. [https://doi.org/10.5281/zenodo.14779865](https://doi.org/10.5281/zenodo.14779865).<br/> 
 Naamsvermelding: *KB, nationale bibliotheek van Nederland / Olaf Janssen, CC-BY 4.0*
 
-### Persistente identifiers en URLs
-* DOI (Zenodo): [https://doi.org/10.5281/zenodo.xxxxx](https://doi.org/10.5281/zenodo.xxxxx)
-* Wikimedia Commons: [https://commons.wikimedia.org/entity/Mxxxxx](https://commons.wikimedia.org/entity/Mxxxxx)
-* Github: [https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/xxxxxxxxxxx.html](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/xxxxxxxxxxx.html)
+### Identifiers en URLs
+Persistent:
+* DOI (Zenodo): [https://doi.org/10.5281/zenodo.14779865](https://doi.org/10.5281/zenodo.14779865)
+* Wikimedia Commons: [https://commons.wikimedia.org/entity/M158850603](https://commons.wikimedia.org/entity/M158850603)
 
+Niet-persistent: 
+* Github: [https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html)
