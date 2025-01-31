@@ -5,7 +5,7 @@
 
 ### [Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html)
 
-*Janaury 2025*
+* 31 January 2025*
 
 Summary
 

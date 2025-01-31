@@ -5,9 +5,15 @@
 
 <img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_logo.png" align="right" width="170" hspace="20" alt="Logo DBNL"/>
 
-*De Digitale Bibliotheek voor de Nederlandse Letteren ([DBNL](https://www.dbnl.org/)) is een veelgebruikte bron voor artikelen in de Nederlandstalige Wikipedia. In dit artikel kijk ik hoe links (URLs) naar de DBNL-URLs.xxxxx. - nog afmaken----*
+*De [Digitale Bibliotheek voor de Nederlandse Letteren](https://www.dbnl.org/) (DBNL) is een veelgebruikte bron voor artikelen in de Nederlandstalige Wikipedia. In dit artikel bekijken we hoe  vaak er in welke Wikipedia-artikelen verwezen wordt naar de DBNL, en welke DBNL-pagina's het vaakst worden geciteerd. Ook speuren we naar artikelen die geheel of grotendeels op de DBNL zijn gebaseerd.* 
 
-
+De belangrijkste punten (per 5 september 2024) uit dit artikel zijn:
+* 18.458 verschillende Wikipedia-artikelen bevatten gezamenlijk 30.768 links naar 27.875 verschillende pagina's in de DBNL. 
+* Deze verwijzingen zijn voornamelijk naar DBNL-auteurspagina's (16.591 URLs), gevolgd door teksten (13.835 URLs) en titels (240 URLs).
+* Het artikel [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen) bevat met 442 de meeste links naar de DBNL, gevolgd door het artikel [Schilder-boeck](https://nl.wikipedia.org/wiki/Schilder-boeck), met 70 DBNL-URLs. 
+* Naar de [inhoudsopgave van het *Algemeen letterkundig lexicon*](https://www.dbnl.org/tekst/dela012alge01_01/) wordt vanuit Wikipedia maar liefst 229 keer verwezen, met op de tweede plek de PDF van *[De eerste Surinaamse sportencyclopedie (1893-1988) ](https://www.dbnl.org/tekst/stut004eers01_01/stut004eers01_01.pdf)* van Ricky W. Stutgard, met 147 verwijzingen.
+* Er zijn er 17 Wikipedia-artikelen die (bijna) geheel op basis van DBNL-inhoud geschreven zijn; m.a.w.: zij danken hun bestaan aan de DBNL. 
+* De onderliggende [ruwe data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905) van dit artikel is beschikbaar op GitHub.
 
 ---------------
 
