@@ -7,6 +7,18 @@
 
 *De Digitale Bibliotheek voor de Nederlandse Letteren ([DBNL](https://www.dbnl.org/)) is een veelgebruikte bron voor artikelen in de Nederlandstalige Wikipedia. In dit artikel kijk ik hoe links (URLs) naar de DBNL-URLs.xxxxx. - nog afmaken----*
 
+Belangrijkste punten:
+* In de Nederlandstalige Wikipedia wordt veelvuldig verwezen naar de DBNL.
+* De meeste verwijzingen zijn naar DBNL-auteurspagina's, gevolgd door teksten en titels.
+* In totaal bevatte Nederlandstalige Wikipedia-artikelen op 5 september 2024 30.768 (niet-unieke) URLs die naar de DBNL linken.
+* De Top 20 van Wikipedia-artikelen met de meeste links naar de DBNL wordt aangevoerd door [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen), gevolgd door []()
+* In totaal zijn er xxx unieke DBNL-pagina’s waarnaar Nederlandstalige Wikipedia-artikelen op 5 september 2024 verwijzen. De Top 20 van deze DBNL-pagina’s wordt aangevoerd door [inhoudsopgave van het *Algemeen letterkundig lexicon*](https://www.dbnl.org/tekst/dela012alge01_01/).
+* De Top 20 van DBNL-pagina’s waarnaar het vaakst verwezen wordt vanuit Nederlandstalige Wikipedia-artikelen wordt aangevoerd door de [inhoudsopgave van het *Algemeen letterkundig lexicon*](https://www.dbnl.org/tekst/dela012alge01_01/).
+* Er zijn 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn, zoals het artikel over [C.A.J. van Dishoeck](https://nl.wikipedia.org/wiki/C.A.J._van_Dishoeck).
+* De ruwe data is [beschikbaar op Github](
+
+---------------
+
 ## Links naar DBNL in Nederlandstalige Wikipedia-artikelen 
 
 De Nederlandstalige Wikipedia maakt veelvuldig gebruik van informatie uit de DBNL om in artikelen te verwerken. Vanuit deze lemma's wordt dan door middel van een URL terugverwezen naar de DBNL. Dit kan bijvoorbeeld een link zijn naar een profiel van een auteur, naar een gedigitaliseerd boek of naar een specifieke artikel in een tijdschrift. Een aantal voorbeelden:
@@ -21,6 +33,8 @@ De Nederlandstalige Wikipedia maakt veelvuldig gebruik van informatie uit de DBN
 
 <a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg" align="left" width="800" hspace="0" alt="Illustratie van hoe informatie uit de DBNL verwerkt wordt in de Nederlandstalige Wikipedia."/></a>
 <br clear="all"/><sub>*Illustratie van hoe informatie uit de DBNL verwerkt wordt in de Nederlandstalige Wikipedia. Screenshot november 2024. Zie de tekst hierboven voor nadere uitleg. (Klik voor vergroting)*</sub>
+
+---------------
 
 ## Vijf hoofdgroepen van DBNL-verwijzingen in Wikipedia
 
@@ -62,8 +76,9 @@ De laatste groep verwijzingen zijn die naar de overige pagina's van de DBNL, zoa
 
 Zo bevat het Wikipedia-artikel over de Belgische schrijver [Paul Verrept](https://nl.wikipedia.org/wiki/Paul_Verrept) een verwijzing naar een overzicht van [auteurs die in de Vlaamse plaats Deurne geboren](https://www.dbnl.org/atlas/plaats.php?id=deurn002) danwel overleden zijn. Of kijk bijvoorbeeld naar de [Lijst van rederijkerskamers](https://nl.wikipedia.org/wiki/Lijst_van_rederijkerskamers), dat artikel leunt sterk op de alfabetisch [lijst van Vlaamse, Frans-Vlaamse, Brabantse, Limburgse en Nederlandse rederijkerskamers](https://www.dbnl.org/organisaties/rederijkerskamers/) uit de DBNL.
 
+---------------
 
-## Een complete analyse
+## De volledige analyse
 Naar aanleiding van bovenstaande anekdotische voorbeelden, is het interessant om een complete analyse van verwijzingen naar de DBNL in de Nederlandstalige Wikipedia te maken. We krijgen daarmee precies inzicht welke Wikipedia-artikelen hoe vaak naar de DBNL verwijzen, en welke DBNL-pagina's het vaakst worden geciteerd.  
 
 Hoe kunnen we alle DBNL-links in Wikipedia systematisch opsporen? Daar biedt Wikipedia een handig hulpmiddel voor, genaamd *[Externe koppelingen zoeken](https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken)*. Hiermee vind je Wikipedia-pagina's die een bepaald URL-patroon bevatten. Zo kunt je bijvoorbeeld zoeken naar [pagina's die het patroon *www.dbnl.org* bevatten](https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken&limit=100&offset=0&target=www.dbnl.org). Je vindt hierbij niet alleen de reguliere artikelen, maar ook pagina's in de 'achterkant' van Wikipedia, zoals Overleg- en Gebruikerspagina's.
@@ -76,17 +91,17 @@ Begin september 2024 hebben we deze speurtocht uitgevoerd en de [ruwe data gepub
 
 In de rest van dit artikel zullen we met behulp van vier datavisualisaties de resultaten van deze analyse presenteren.
 
-## 1) Aantal verwijzingen naar DBNL vanuit de Nederlandstalige Wikipedia
+### 1) Aantal verwijzingen naar DBNL vanuit de Nederlandstalige Wikipedia
 
 Als eerste kijken we hoe vaak er in Wikipedia-artikelen verwezen wordt naar pagina's in de eerder genoemde DBNL-groepen. Dit laat onderstaande donutgrafiek zien. Deze visualisatie onderscheidt vier (niet: vijf) hoofdcategorieën: 
 
-1) *Auteurs* (rood): Deze bevat de URLs van DBNL-auteurspagina's. In deze URLs komt het patroon _/auteurs/_ voor, typisch met de *https://www.dbnl.org/auteurs/auteur.php?id=*. Komt overeen met de hierboven genoemde groep *1) Auteurs*. 
+1) **Auteurs** (rood): Deze bevat de URLs van DBNL-auteurspagina's. In deze URLs komt het patroon _/auteurs/_ voor, typisch met de *https://www.dbnl.org/auteurs/auteur.php?id=*. Komt overeen met de hierboven genoemde groep *1) Auteurs*. 
 
-2) *Teksten* (groen): Deze bevat de URLs van specifieke teksten in DBNL. In deze URLs komt het patroon _/tekst/_ voor, typisch met de syntax *https://www.dbnl.org/tekst/*. Komt overeen met de hierboven genoemde groep *2) Teksten*.
+2) **Teksten** (groen): Deze bevat de URLs van specifieke teksten in DBNL. In deze URLs komt het patroon _/tekst/_ voor, typisch met de syntax *https://www.dbnl.org/tekst/*. Komt overeen met de hierboven genoemde groep *2) Teksten*.
  
-3) *Titels* (lichtblauw): Deze bevat de URLs van DBNL-titels. In deze URLs komt het patroon _/titels/_ voor, typisch met de syntax *https://www.dbnl.org/titels/titel.php?id=*. Komt overeen met de hierboven genoemde groep *3) Titels*.
+3) **Titels** (lichtblauw): Deze bevat de URLs van DBNL-titels. In deze URLs komt het patroon _/titels/_ voor, typisch met de syntax *https://www.dbnl.org/titels/titel.php?id=*. Komt overeen met de hierboven genoemde groep *3) Titels*.
  
-4) *Overige* (donkerblauw): Deze bevat de URLs van de overige pagina's in de DBNL, bijvoorbeeld die met zoekresultaten of de homepage. In deze URLs komen o.a. de patronen _/zoeken/zoekeninteksten/_, _/letterkunde/_, _/atlas/_ of _/overdbnl/_ voor. Is een samenvoeging van de hierboven genoemde groepen *4) Resultaten van zoekacties* en *5) Overige pagina's*. Het aantal URLs in deze groepen was te klein om ze elk een eigen segment in de donut te geven, dus zijn ze samengevoegd tot één segment.
+4) **Overige** (donkerblauw): Deze bevat de URLs van de overige pagina's in de DBNL, bijvoorbeeld die met zoekresultaten of de homepage. In deze URLs komen o.a. de patronen _/zoeken/zoekeninteksten/_, _/letterkunde/_, _/atlas/_ of _/overdbnl/_ voor. Is een samenvoeging van de hierboven genoemde groepen *4) Resultaten van zoekacties* en *5) Overige pagina's*. Het aantal URLs in deze groepen was te klein om ze elk een eigen segment in de donut te geven, dus zijn ze samengevoegd tot één segment.
 
 Zo zien we bijvoorbeeld zien dat er (op 5 september 2024) 
 * 16.591 URLs in Wikipedia stonden die uitkomen op een DBNL-auteurspagina, en dat er
@@ -96,7 +111,7 @@ Zo zien we bijvoorbeeld zien dat er (op 5 september 2024)
 <div style="min-height:652px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten, Titels en Overige." /></noscript></div>
 <br/>
 
-## 2) Nederlandstalige Wikipedia-artikelen met de meeste links naar DBNL
+### 2) Nederlandstalige Wikipedia-artikelen met de meeste links naar DBNL
 
 Wanneer we iets dieper op [de data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905) inzoomen zien we dat er op 5 september 2024 in totaal 18.458 verschillende Wikipedia-artikelen waren die één of meerdere links (URLs) naar de DBNL bevatten.   
 
@@ -105,7 +120,7 @@ Onderstaande grafiek toont de Top 20 van die artikelen. Zo bevatte [De groote sc
 
 <div style="min-height:625px" id="datawrapper-vis-jaUXc"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/jaUXc/embed.js" charset="utf-8" data-target="#datawrapper-vis-jaUXc"></script><noscript><img src="https://datawrapper.dwcdn.net/jaUXc/full.png" alt="Barchart van de top 20 van Nederlandstalige Wikipedia-artikelen die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten. Peildatum is 5 september 2024."/></noscript></div>
 
-## 3) DBNL-pagina's waarnaar het vaakst verwezen wordt vanuit Nederlandstalige Wikipedia-artikelen
+### 3) DBNL-pagina's waarnaar het vaakst verwezen wordt vanuit Nederlandstalige Wikipedia-artikelen
 
 Vervolgens kunnen we ook kijken naar de in totaal 27.875 unieke DBNL-pagina’s waar Nederlandstalige Wikipedia-artikelen op peildatum 5 september 2024 naar verwezen. De staafgrafiek hieronder laat de Top 20 van deze DBNL-pagina’s zien. 
 
@@ -114,7 +129,7 @@ Eric Lie](https://www.dbnl.org/tekst/hoen042spor03_01/hoen042spor03_01_0038.php)
 
 <div style="min-height:643px" id="datawrapper-vis-oek1t"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oek1t/embed.js" charset="utf-8" data-target="#datawrapper-vis-oek1t"></script><noscript><img src="https://datawrapper.dwcdn.net/oek1t/full.png" alt="Barchart van de Top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum is 5 september 2024." /></noscript></div>
 
-## 4) Nederlandstalige Wikipedia-artikelen die grotendeels op DBNL gebaseerd zijn
+### 4) Nederlandstalige Wikipedia-artikelen die grotendeels op DBNL gebaseerd zijn
 
 <img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Slide_DBNLaggregatieartikelen_05092024.jpg" align="right" width="200"/>
 
@@ -128,13 +143,19 @@ linkratio_treshhold = 0.75
 Notenapparaaat van CAJ van Dishoeck https://nl.wikipedia.org/w/index.php?title=C.A.J._van_Dishoeck&action=edit 
 Dit artikel is geschreven o.b.v. (bijna) alleen maar DBNL- bronnen!
 
-## Ruwe data op Github
+---------------
+
+## Ruwe data
 Alle data die gebruikt is in de visualisaties en analyses in dit artikel is [beschikbaar op Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905). Je kunt het Excel-bestand ook [direct downloaden](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/WPNLarticlesAndDBNLUrls_20240905.xlsx).
+
+---------------
 
 ## Bijbehorende presentatie
 <img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar-DBNLdag-8November2024.jpg" align="right" width="200" alt="Screenshot van de openingsdia van een presentatie met de titel 'Wat betekenen DBNL en Wikipedia voor elkaar?', ter gelegenheid van de viering van 25-jarige bestaan van de DBNL op 8 november 2024."/>
 
 Dit dataverhaal is gebruikt in de presentatie *[Wat betekenen DBNL en Wikipedia voor elkaar?](https://doi.org/10.5281/zenodo.14041711)* tijdens de [viering van 25-jarige bestaan van de DBNL](https://web.archive.org/web/20241105153730/https://www.dbnl.org/dbnldag/) op 8 november 2024. Deze presentatie is beschikbaar op [Zenodo](https://doi.org/10.5281/zenodo.14041711) en [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar_-_DBNLdag_-_8November2024.pdf).
+
+---------------
 
 ## Over de auteur
 <img align="left" src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50" hspace="5" alt="Afbeelding van Olaf Janssen in Tel Aviv in 2018."/>
@@ -143,13 +164,15 @@ Dit dataverhaal is gebruikt in de presentatie *[Wat betekenen DBNL en Wikipedia 
 
 Olaf Janssen is de [Wikimedia-coördinator](https://www.kb.nl/over-ons/experts/olaf-janssen) van de KB, de nationale bibliotheek van Nederland. Hij draagt bij aan [Wikipedia](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek) en [Wikidata](https://www.wikidata.org/wiki/Wikidata:GLAM/Koninklijke_Bibliotheek_Nederland) als [Gebruiker:OlafJanssen](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen). ORCID: [0000-0002-9058-9941](https://orcid.org/0000-0002-9058-9941).
 
+---------------
+
 ## Hergebruik van dit artikel 
 De tekst van dit artikel is vrijgegeven onder de [Creative Commons Naamsvermelding](https://creativecommons.org/licenses/by/4.0/deed.nl) CC-BY 4.0 licentie.<br/> 
 <img src="images/cc-by.png" width="120" align="right" alt="Logo van de CC-BY licentie"/>
 Citatie: Janssen, Olaf. ‘xxxxxxxxxxx’. Zenodo, 30 januari 2025. [https://doi.org/10.5281/zenodo.1xxxx](https://doi.org/10.5281/zenodo.1xxxx). <br/> 
 Naamsvermelding: *KB, nationale bibliotheek van Nederland / Olaf Janssen, CC-BY 4.0*
 
-## Persistente identifiers en URLs voor dit artikel
+### Persistente identifiers en URLs
 * DOI (Zenodo): [https://doi.org/10.5281/zenodo.xxxxx](https://doi.org/10.5281/zenodo.xxxxx)
 * Wikimedia Commons: [https://commons.wikimedia.org/entity/Mxxxxx](https://commons.wikimedia.org/entity/Mxxxxx)
 * Github: [https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/xxxxxxxxxxx.html](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/xxxxxxxxxxx.html)
