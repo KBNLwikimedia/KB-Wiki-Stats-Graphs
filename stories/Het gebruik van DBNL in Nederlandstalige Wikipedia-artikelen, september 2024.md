@@ -85,7 +85,7 @@ Begin september 2024 hebben we deze speurtocht uitgevoerd en de [ruwe data gepub
 
 In de rest van dit artikel zullen we met behulp van vier datavisualisaties de resultaten van deze analyse presenteren.
 
-### 1) Aantal verwijzingen naar DBNL vanuit de Nederlandstalige Wikipedia
+### 1) Aantal verwijzingen naar DBNL vanuit Wikipedia
 
 Als eerste kijken we hoe vaak er in Wikipedia-artikelen verwezen wordt naar pagina's in de eerder genoemde DBNL-groepen. Dit laat onderstaande donutgrafiek zien. Deze visualisatie onderscheidt vier (niet: vijf) hoofdcategorieën: 
 
@@ -104,10 +104,10 @@ Zo zien we bijvoorbeeld dat er (op 5 september 2024)
 
 <!-- <div style="min-height:600px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten, Titels en Overige." /></noscript></div> -->
 
-<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/V8Mmy-aantal-verwijzingen-urls-naar-dbnl-in-nederlandstalige-wikipedia-artikelen-gegroepeerd-naar-dbnl-hoofdcategorie.png" border="1" align="left" width="90%" hspace="30" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten, Titels en Overige."/>
+<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/V8Mmy-aantal-verwijzingen-urls-naar-dbnl-in-nederlandstalige-wikipedia-artikelen-gegroepeerd-naar-dbnl-hoofdcategorie.png" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/V8Mmy-aantal-verwijzingen-urls-naar-dbnl-in-nederlandstalige-wikipedia-artikelen-gegroepeerd-naar-dbnl-hoofdcategorie.png" border="1" align="left" width="90%" hspace="30" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten, Titels en Overige."/></a>
 <br clear="all"/>
 
-### 2) Nederlandstalige Wikipedia-artikelen met de meeste links naar DBNL
+### 2) Wikipedia-artikelen met de meeste links naar DBNL
 
 Wanneer we iets dieper op [de data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905) inzoomen zien we dat er op 5 september 2024 in totaal 18.458 verschillende Wikipedia-artikelen waren die één of meerdere links (URLs) naar de DBNL bevatten. 
 
@@ -115,10 +115,10 @@ Onderstaande grafiek toont de Top 20 van die artikelen. Zo bevatte [De groote sc
 
 <!-- <div style="min-height:625px" id="datawrapper-vis-jaUXc"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/jaUXc/embed.js" charset="utf-8" data-target="#datawrapper-vis-jaUXc"></script><noscript><img src="https://datawrapper.dwcdn.net/jaUXc/full.png" alt="Barchart van de top 20 van Nederlandstalige Wikipedia-artikelen die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten. Peildatum is 5 september 2024."/></noscript></div> -->
 
-<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/jaUXc-artikelen-in-nederlandstalige-wikipedia-met-meeste-links-naar-dbnl-top-20.png" border="1" align="left" width="90%" hspace="0" alt="Barchart van de top 20 van Nederlandstalige Wikipedia-artikelen die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten. Peildatum is 5 september 2024."/>
+<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/jaUXc-artikelen-in-nederlandstalige-wikipedia-met-meeste-links-naar-dbnl-top-20.png" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/jaUXc-artikelen-in-nederlandstalige-wikipedia-met-meeste-links-naar-dbnl-top-20.png" border="1" align="left" width="90%" hspace="0" alt="Barchart van de top 20 van Nederlandstalige Wikipedia-artikelen die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten. Peildatum is 5 september 2024."/></a>
 <br clear="all"/>
 
-### 3) DBNL-pagina's waarnaar het vaakst verwezen wordt vanuit Nederlandstalige Wikipedia-artikelen
+### 3) DBNL-pagina's waarnaar het vaakst verwezen wordt vanuit Wikipedia-artikelen
 
 Vervolgens kunnen we ook kijken naar de in totaal 27.875 unieke DBNL-pagina’s waar Wikipedia-artikelen op peildatum 5 september 2024 naar verwezen. De staafgrafiek hieronder laat de Top 20 van deze DBNL-pagina’s zien. 
 
@@ -127,7 +127,7 @@ Eric Lie](https://www.dbnl.org/tekst/hoen042spor03_01/hoen042spor03_01_0038.php)
 
 <!-- <div style="min-height:643px" id="datawrapper-vis-oek1t"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oek1t/embed.js" charset="utf-8" data-target="#datawrapper-vis-oek1t"></script><noscript><img src="https://datawrapper.dwcdn.net/oek1t/full.png" alt="Barchart van de Top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum is 5 september 2024." /></noscript></div> --> 
 
-<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/oek1t-pagina-s-in-dbnl-waarnaar-het-vaakst-verwezen-wordt-vanuit-de-nederlandstalige-wikipedia-top-20.png" border="1" align="left" width="90%" hspace="0" alt="Barchart van de Top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum is 5 september 2024."/>
+<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/oek1t-pagina-s-in-dbnl-waarnaar-het-vaakst-verwezen-wordt-vanuit-de-nederlandstalige-wikipedia-top-20.png" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/oek1t-pagina-s-in-dbnl-waarnaar-het-vaakst-verwezen-wordt-vanuit-de-nederlandstalige-wikipedia-top-20.png" border="1" align="left" width="90%" hspace="0" alt="Barchart van de Top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum is 5 september 2024."/></a>
 <br clear="all"/>
 
 ### 4) Wikipedia-artikelen die grotendeels op DBNL gebaseerd zijn
@@ -150,7 +150,7 @@ Dat levert onderstaande lijst op van 17 artikelen op.
 
 <!-- <div style="min-height:514px" id="datawrapper-vis-LDBua"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/LDBua/embed.js" charset="utf-8" data-target="#datawrapper-vis-LDBua"></script><noscript><img src="https://datawrapper.dwcdn.net/LDBua/full.png" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL-bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL." /></noscript></div><br/> --> 
 
-<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/LDBua-nederlandstalige-wikipedia-artikelen-die-grotendeels-op-dbnl-gebaseerd-zijn.png" border="1" align="left" width="90%" hspace="0" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL-bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL."/>
+<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/LDBua-nederlandstalige-wikipedia-artikelen-die-grotendeels-op-dbnl-gebaseerd-zijn.png" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/LDBua-nederlandstalige-wikipedia-artikelen-die-grotendeels-op-dbnl-gebaseerd-zijn.png" border="1" align="left" width="90%" hspace="0" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL-bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL."/></a>
 <br clear="all"/>
 
 <br/>
