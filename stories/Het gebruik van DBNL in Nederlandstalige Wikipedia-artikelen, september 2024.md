@@ -16,6 +16,8 @@ Belangrijkste punten:
 * De Top 20 van DBNL-pagina’s waarnaar het vaakst verwezen wordt vanuit Nederlandstalige Wikipedia-artikelen wordt aangevoerd door de [inhoudsopgave van het *Algemeen letterkundig lexicon*](https://www.dbnl.org/tekst/dela012alge01_01/).
 * Er zijn 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn, zoals het artikel over [C.A.J. van Dishoeck](https://nl.wikipedia.org/wiki/C.A.J._van_Dishoeck).
 * De ruwe data is [beschikbaar op Github](
+* Wanneer we iets dieper op de data inzoomen zien we dat er op 5 september 2024 in totaal 18.458 verschillende Wikipedia-artikelen waren die één of meerdere links (URLs) naar de DBNL bevatten.
+* Vervolgens kunnen we ook kijken naar de in totaal 27.875 unieke DBNL-pagina’s waar Nederlandstalige Wikipedia-artikelen op peildatum 5 september 2024 naar verwezen. 
 
 ---------------
 
@@ -70,7 +72,6 @@ Maar ook buiten de context van letterkundige auteurs of teksten kunnen DBNL-tite
 ### 4) Resultaten van zoekacties
 Soms wil een schrijver van een Wikipedia-artikel weten waar in de DBNL een bepaalde zoekterm voorkomt. Kijk bijvoorbeeld naar het artikel over de 17eeuws Amsterdamse boekdrukker [Tymon Houthaeck](https://nl.wikipedia.org/wiki/Tymon_Houthaeck). Dit bevat helemaal onderaan, onder het kopje [*Literatuur*](https://nl.wikipedia.org/wiki/Tymon_Houthaeck#:~:text=Literatuur), een verwijzing naar de zoekvraag in welke titels en teksten in de DBNL de frase ["Amsterdamse boekhandel"](https://www.dbnl.org/zoeken/zoekeninteksten/index.php?zoek=Amsterdamse+boekhandel) voorkomt.
 
-
 ### 5) Overige pagina's
 De laatste groep verwijzingen zijn die naar de overige pagina's van de DBNL, zoals de [homepage](https://www.dbnl.org/), [Over DBNL](https://www.dbnl.org/overdbnl/organisatie.php), de [Basisbibliotheek](https://www.dbnl.org/basisbibliotheek/index.php), de letterkundige collecties over [Friesland](https://www.dbnl.org/letterkunde/fries), [Limburg](https://www.dbnl.org/letterkunde/limburg), [Suriname](https://www.dbnl.org/letterkunde/suriname) en [Zuid-Afrika](https://www.dbnl.org/letterkunde/zuidafrika), of de [DBNL-atlas](https://www.dbnl.org/atlas/index.php).
 
@@ -108,7 +109,7 @@ Zo zien we bijvoorbeeld zien dat er (op 5 september 2024)
 * 13.835 keer naar een tekst in DBNL werd verwezen. 
 * In totaal bevatte Nederlandstalige Wikipedia-artikelen op die datum 30.768 (niet-unieke) URLs die naar de DBNL linken.
 
-<div style="min-height:600px;border:8px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten, Titels en Overige." /></noscript></div>
+<div style="min-height:600px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten, Titels en Overige." /></noscript></div>
 <br/>
 
 ### 2) Nederlandstalige Wikipedia-artikelen met de meeste links naar DBNL
@@ -129,19 +130,31 @@ Eric Lie](https://www.dbnl.org/tekst/hoen042spor03_01/hoen042spor03_01_0038.php)
 
 <div style="min-height:643px" id="datawrapper-vis-oek1t"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oek1t/embed.js" charset="utf-8" data-target="#datawrapper-vis-oek1t"></script><noscript><img src="https://datawrapper.dwcdn.net/oek1t/full.png" alt="Barchart van de Top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum is 5 september 2024." /></noscript></div>
 
-### 4) Nederlandstalige Wikipedia-artikelen die grotendeels op DBNL gebaseerd zijn
+### 4) Wikipedia-artikelen die grotendeels op DBNL gebaseerd zijn
 
-<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Slide_DBNLaggregatieartikelen_05092024.jpg" align="right" width="200"/>
+Bij punt 2) hebben we gekeken naar de Wikipedia-artikelen die veel links naar de DBNL bevatten. In het verlengde hiervan is het ook interessant om te onderzoeken of er artikelen bestaan waarin alle of bijna alle externe koppelingen naar de DBNL verwijzen. 
 
-<div style="min-height:514px" id="datawrapper-vis-LDBua"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/LDBua/embed.js" charset="utf-8" data-target="#datawrapper-vis-LDBua"></script><noscript><img src="https://datawrapper.dwcdn.net/LDBua/full.png" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL- bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL." /></noscript></div>
+Als je bijvoorbeeld kijkt naar het artikel over de Nederlandse uitgeverij [C.A.J. van Dishoeck](https://nl.wikipedia.org/wiki/C.A.J._van_Dishoeck), dan zie je dat de [bronvermeldingen onderaan](https://nl.wikipedia.org/w/index.php?title=C.A.J._van_Dishoeck&action=edit&section=3) vrijwel allemaal naar de DBNL linken. Je zou dus kunnen zeggen dat dit artikel grotendeels op de inhoud van de DBNL is gebaseerd, of dat het zijn bestaan dankt aan de DBNL als contentleverancier en de Wikipedia-gemeenschap die vele stukjes DBNL-content heeft samengevoegd tot dit artikel.
 
-Verwijs naar eerder artilel: [Detecting Wikipedia articles strongly based on single library collections.md](Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.md)
+Hoe kunnen we dit soort artikelen systematisch opsporen? Daarvoor verwijs ik graag naar het artikel *[Detecting Wikipedia articles strongly based on single library collections](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html)* uit 2020. Hierin wordt een methode beschreven om Wikipedia-artikelen te vinden die geheel of grotendeels gebaseerd op inhoud uit één online bron, zoals een digitaal krantenarchief met volledige tekst (bv. [Delpher](https://www.delpher.nl/kranten)) of een digitale tekstbibliotheek zoals de DBNL.
 
-extlinks_treshhold = 6
-linkratio_treshhold = 0.75
+Samengevat kijken we bij deze methode naar twee parameters:
+* *External link treshhold*: Het artikel moet een minimum aantal externe koppelingen bevatten, aangezien de inhoud ervan voldoende gebaseerd moet zijn op externe bronnen.
+* *Link ratio*: De verhouding tussen het totale aantal externe URLs en het aantal daarvan dat naar DBNL verwijst. Een link ratio van 1,00 betekent dat alle externe links in een artikel DBNL-links zijn. Hoe lager de link ratio, hoe kleiner het relatieve aantal DBNL-URLs in het artikel.
 
-Notenapparaaat van CAJ van Dishoeck https://nl.wikipedia.org/w/index.php?title=C.A.J._van_Dishoeck&action=edit 
-Dit artikel is geschreven o.b.v. (bijna) alleen maar DBNL- bronnen!
+Om te beoordelen of een artikel grotendeels op de DBNL is gebaseerd, hebben we de volgende drempelwaarden gekozen:  
+* *External link treshhold = 6*: Het artikel bevat minimaal 6 externe URLs.
+* *Link ratio >= 0.75*: Minimaal 75% van deze externe URLs verwijst naar de DBNL. 
+
+Dat levert onderstaande lijst op van 17 artikelen op. 
+
+In kolom 3 zien we dat het aantal externe URLs (*NrOfExternalUrls* ) groter of gelijk is aan de drempelwaarde van 6. De LinkRatio in kolom 4 is de verhouding tussen de waarden in kolommen 2 en 3. 
+
+We zien dat het artikel over [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen) alleen maar DBNL-URLs bevat, evenals dat over [Jozef van Walleghem](https://nl.wikipedia.org/wiki/Jozef%20van%20Walleghem) en dat over [Drogon](https://nl.wikipedia.org/wiki/Drogon%20%28Van%20Schendel%29), de debuutroman van Arthur van Schendel.
+
+Het artikel uit 2020 bevat een vergelijkbaar [overzicht van 54 Wikipedia-artikelen](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html#for-dbnl) die geheel of grotendeels op DBNL gebaseerd zijn. Destijds zijn de drempelwaarden als volgt gekozen: *Number of external links >= 4* , *Link ratio >= 0.7*. Het is interessant - en een oefening voor de lezer- om de overeenkomsten en verschillen te vergelijken tussen die tabel en de lijst van 17 artikelen die we hierboven hebben gevonden.
+
+<div style="min-height:514px" id="datawrapper-vis-LDBua"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/LDBua/embed.js" charset="utf-8" data-target="#datawrapper-vis-LDBua"></script><noscript><img src="https://datawrapper.dwcdn.net/LDBua/full.png" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL-bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL." /></noscript></div>
 
 ---------------
 
