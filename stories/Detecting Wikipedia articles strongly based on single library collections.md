@@ -14,7 +14,9 @@ To understand the rest of this post, I'll start with a short introduction of thr
 <img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/delpher_logo.png" align="left" width="70"/> [Delpher](https://www.delpher.nl) is a website containing over 100 million full-text digitized pages from Dutch [historical newspapers](https://www.delpher.nl/nl/kranten), books and periodicals.<br/> <br/> 
 <img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/dbnl_logo.png" align="left" width="70"/> [DBNL](https://www.dbnl.org/) is the Digital Library for Dutch Literature (Dutch: *Digitale Bibliotheek voor de Nederlandse Letteren*, DBNL), a website about Dutch language and Dutch literature. It contains thousands of literary texts, secondary literature and additional information, like biographies, portrayals etcetera, and hyperlinks. <br/> <br/> 
 <img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/kb_logo.png" align="left" width="70"/>The [Koninklijke Bibliotheek](https://www.kb.nl) (KB) is the national library of the Netherlands. Both Delpher and DBNL are services operated by the KB.<br/> <br/> 
-*********
+
+--------------
+
 ### OK, let's go: Quiz time!
 
 *What is the connection between a [garbage man](https://nl.wikipedia.org/wiki/Vuilnisman), a [garbage bag](https://nl.wikipedia.org/wiki/Vuilniszak) and a [garbage truck](https://nl.wikipedia.org/wiki/Vuilniswagen)?*<br/>
@@ -98,7 +100,7 @@ If you look at the lists of the 'aggregation articles' obtained in this way, you
 #### [For Delpher](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/blob/master/KPI9/findExternalAndKBLinks/Delpher/Delpher_AggregationArticlesViews_05-02-2020.xlsx?raw=true)
 
 - 193 articles owe their existence largely or fully to Delpher.
-- The article [Lijst van historische Nederlandse netnummers](https://nl.wikipedia.org/wiki/Lijst_van_historische_Nederlandse_netnummers) holds most Delpher links, 165 out of the [195 external links](https://nl.wikipedia.org/w/api.php?action=query&titles=Lijst%20van%20historische%20Nederlandse%20netnummers&prop=extlinks&format=json&ellimit=500), with the above *Hotel Des Indes* coming second.
+- The article [Lijst van historische Nederlandse netnummers](https://nl.wikipedia.org/wiki/Lijst_van_historische_Nederlandse_netnummers) holds most Delpher links, 165 out of the [195 external links](https://nl.wikipedia.org/w/api.php?action=query&titles=Lijst%20van%20historische%20Nederlandse%20netnummers&prop=extlinks&format=json&ellimit=500), with the above *Hotel Des Indes* coming second.<br/>
 <kbd><img src="https://raw.githubusercontent.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/master/stories/images/image_11235458251588782175115.png" width="600"/></kbd>
 - The subject width of  articles using Delpher as their main source is very large: from the garbage industry to luxury hotels, from politicians to people condemned to death and from music awards to Michelin-starred restaurants.
 - Quite a few articles about sports - e.g. soccer players, annual overviews of swimming championships and [korfball](https://en.wikipedia.org/wiki/Korfball) - heavily rely on Delpher, similar to articles listing mayors (*burgemeesters*) of Dutch towns and villages.
