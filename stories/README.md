@@ -5,9 +5,9 @@
 
 ### [Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html)
 
-* 31 January 2025*
+*31 January 2025*
 
-Summary
+The [Digital Library for Dutch Literature]((https://www.dbnl.org/)) (DBNL) is a frequently used source in Dutch Wikipedia. In this article, we will examine how often DBNL is referred to and from which Wikipedia articles. We will also discover which pages in DBNL are cited most often. Finally, we will search for articles that are entirely or largely based on DBNL. (This article is in Dutch)
 
 <!-- <img src="images/xxxxx" align="left">
 <br clear="all"/> --> 
