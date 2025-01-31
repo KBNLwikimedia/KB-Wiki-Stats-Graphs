@@ -12,8 +12,8 @@ De belangrijkste punten (per 5 september 2024) uit dit artikel zijn:
 * Deze verwijzingen zijn voornamelijk naar DBNL-auteurspagina's (16.591 URLs), gevolgd door teksten (13.835 URLs) en titels (240 URLs).
 * Het artikel [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen) bevat met 442 de meeste links naar de DBNL, gevolgd door het artikel [Schilder-boeck](https://nl.wikipedia.org/wiki/Schilder-boeck), met 70 DBNL-URLs. 
 * Naar de [inhoudsopgave van het *Algemeen letterkundig lexicon*](https://www.dbnl.org/tekst/dela012alge01_01/) wordt vanuit Wikipedia maar liefst 229 keer verwezen, met op de tweede plek de PDF van *[De eerste Surinaamse sportencyclopedie (1893-1988) ](https://www.dbnl.org/tekst/stut004eers01_01/stut004eers01_01.pdf)* van Ricky W. Stutgard, met 147 verwijzingen.
-* Er zijn er 17 Wikipedia-artikelen die (bijna) geheel op basis van DBNL-inhoud geschreven zijn; m.a.w.: zij danken hun bestaan aan de DBNL. 
-* De onderliggende [ruwe data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905) van dit artikel is beschikbaar op GitHub.
+* Er zijn er 17 Wikipedia-artikelen die (bijna) geheel op basis van DBNL-inhoud geschreven zijn. M.a.w.: zij danken hun bestaan aan de DBNL. 
+ * De onderliggende [ruwe data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905) waar dit artikel gebruik van maakt is beschikbaar op GitHub.
 
 ---------------
 
@@ -29,7 +29,7 @@ De Nederlandstalige Wikipedia maakt veelvuldig gebruik van informatie uit de DBN
 * Het artikel [Basisbibliotheek - Duizend sleutelteksten uit de cultuurgeschiedenis van de Lage Landen](https://nl.wikipedia.org/wiki/Basisbibliotheek) bestaat uit een selectie van de 1000 werken uit de Nederlandse literatuur die belangrijk zijn voor het Nederlandstalige erfgoed, in 2008 [gepubliceerd op de DBNL](https://www.dbnl.org/basisbibliotheek/index.php?o=ca). 
 <br clear="all"/>
 
-<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg" align="left" width="800" hspace="0" alt="Illustratie van hoe informatie uit de DBNL verwerkt wordt in de Nederlandstalige Wikipedia."/></a>
+<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg" align="left" width="800" hspace="30" alt="Illustratie van hoe informatie uit de DBNL verwerkt wordt in de Nederlandstalige Wikipedia."/></a>
 <br clear="all"/><sub>*Illustratie van hoe informatie uit de DBNL verwerkt wordt in de Nederlandstalige Wikipedia. Screenshot november 2024. Zie de tekst hierboven voor nadere uitleg. (Klik voor vergroting)*</sub>
 
 ## Vijf hoofdgroepen van DBNL-verwijzingen in Wikipedia
@@ -101,8 +101,10 @@ Zo zien we bijvoorbeeld zien dat er (op 5 september 2024)
 * 13.835 keer naar een tekst in DBNL werd verwezen. 
 * In totaal bevatte Nederlandstalige Wikipedia-artikelen op die datum 30.768 (niet-unieke) URLs die naar de DBNL linken.
 
-<div style="min-height:600px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten, Titels en Overige." /></noscript></div>
-<br/>
+<!-- <div style="min-height:600px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten, Titels en Overige." /></noscript></div> -->
+
+<img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" border="1" align="left" width="90%" hspace="30" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten, Titels en Overige."/>
+<br clear="all"/>
 
 ### 2) Nederlandstalige Wikipedia-artikelen met de meeste links naar DBNL
 
