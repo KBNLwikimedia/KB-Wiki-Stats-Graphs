@@ -115,7 +115,7 @@ Onderstaande grafiek toont de Top 20 van die artikelen. Zo bevatte [De groote sc
 
 <!-- <div style="min-height:625px" id="datawrapper-vis-jaUXc"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/jaUXc/embed.js" charset="utf-8" data-target="#datawrapper-vis-jaUXc"></script><noscript><img src="https://datawrapper.dwcdn.net/jaUXc/full.png" alt="Barchart van de top 20 van Nederlandstalige Wikipedia-artikelen die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten. Peildatum is 5 september 2024."/></noscript></div> -->
 
-<img src="https://datawrapper.dwcdn.net/jaUXc/full.png" border="1" align="left" width="90%" hspace="0" alt="Barchart van de top 20 van Nederlandstalige Wikipedia-artikelen die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten. Peildatum is 5 september 2024."/>
+<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/jaUXc-artikelen-in-nederlandstalige-wikipedia-met-meeste-links-naar-dbnl-top-20.png" border="1" align="left" width="90%" hspace="0" alt="Barchart van de top 20 van Nederlandstalige Wikipedia-artikelen die de meeste verwijzingen (URLs) naar dbnl.org en dbnl.nl bevatten. Peildatum is 5 september 2024."/>
 <br clear="all"/>
 
 ### 3) DBNL-pagina's waarnaar het vaakst verwezen wordt vanuit Nederlandstalige Wikipedia-artikelen
@@ -127,7 +127,7 @@ Eric Lie](https://www.dbnl.org/tekst/hoen042spor03_01/hoen042spor03_01_0038.php)
 
 <!-- <div style="min-height:643px" id="datawrapper-vis-oek1t"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oek1t/embed.js" charset="utf-8" data-target="#datawrapper-vis-oek1t"></script><noscript><img src="https://datawrapper.dwcdn.net/oek1t/full.png" alt="Barchart van de Top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum is 5 september 2024." /></noscript></div> --> 
 
-<img src="https://datawrapper.dwcdn.net/oek1t/full.png" border="1" align="left" width="90%" hspace="0" alt="Barchart van de Top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum is 5 september 2024."/>
+<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/oek1t-pagina-s-in-dbnl-waarnaar-het-vaakst-verwezen-wordt-vanuit-de-nederlandstalige-wikipedia-top-20.png" border="1" align="left" width="90%" hspace="0" alt="Barchart van de Top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum is 5 september 2024."/>
 <br clear="all"/>
 
 ### 4) Wikipedia-artikelen die grotendeels op DBNL gebaseerd zijn
@@ -150,7 +150,7 @@ Dat levert onderstaande lijst op van 17 artikelen op.
 
 <!-- <div style="min-height:514px" id="datawrapper-vis-LDBua"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/LDBua/embed.js" charset="utf-8" data-target="#datawrapper-vis-LDBua"></script><noscript><img src="https://datawrapper.dwcdn.net/LDBua/full.png" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL-bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL." /></noscript></div><br/> --> 
 
-<img src="https://datawrapper.dwcdn.net/LDBua/full.png" border="1" align="left" width="90%" hspace="0" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL-bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL."/>
+<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/visuals-datawrapper/LDBua-nederlandstalige-wikipedia-artikelen-die-grotendeels-op-dbnl-gebaseerd-zijn.png" border="1" align="left" width="90%" hspace="0" alt="Tabel met 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar DBNL-bronnen. Ze danken hun bestaan (grotendeels) aan de DBNL."/>
 <br clear="all"/>
 
 <br/>
