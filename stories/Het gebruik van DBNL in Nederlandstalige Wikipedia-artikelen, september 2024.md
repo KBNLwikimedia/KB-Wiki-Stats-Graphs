@@ -108,7 +108,7 @@ Zo zien we bijvoorbeeld zien dat er (op 5 september 2024)
 * 13.835 keer naar een tekst in DBNL werd verwezen. 
 * In totaal bevatte Nederlandstalige Wikipedia-artikelen op die datum 30.768 (niet-unieke) URLs die naar de DBNL linken.
 
-<div style="min-height:600px" id="datawrapper-vis-V8Mmy" border="1px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten, Titels en Overige." /></noscript></div>
+<div style="min-height:600px;border:1px" id="datawrapper-vis-V8Mmy"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8Mmy/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8Mmy"></script><noscript><img src="https://datawrapper.dwcdn.net/V8Mmy/full.png" alt="Donutchart van het aantal verwijzingen (URLs) in Nederlandstalige Wikipedia-artikelen naar DBNL, d.d. 5 september 2024, gegroepeerd naar DBNL-hoofdcategorie: Auteurs, Teksten, Titels en Overige." /></noscript></div>
 <br/>
 
 ### 2) Nederlandstalige Wikipedia-artikelen met de meeste links naar DBNL
