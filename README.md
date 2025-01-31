@@ -5,9 +5,9 @@
 
 ### [Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html)
 
-*Nov 2024*
+*31 January 2025*
 
-Summary
+The [Digital Library for Dutch Literature]((https://www.dbnl.org/)) (DBNL) is a frequently used source in Dutch Wikipedia. In this article, we will examine how often DBNL is referred to and from which Wikipedia articles. We will also discover which pages in DBNL are cited most often. Finally, we will search for articles that are entirely or largely based on DBNL. (This article is in Dutch)
 
 -------------
 
@@ -49,3 +49,11 @@ This article illustrates an approach to detect Wikipedia articles whose contents
 
 <!-- <img src="stories/images/Detecting_Wikipedia_articles_strongly_based_on_single_library_collections.png" align="left">
 <br clear="all"/>  -->
+
+### [Impactmeting beelddonatie *Nederlandsche Vogelen*](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/ImpactBeelddonatieNederlandscheVogelen)
+*2016*
+
+In mei 2015 heeft de Koninklijke Bibliotheek i.s.m. de Wikipedia-gemeenschap 250 historische afbeeldingen van Nederlandse vogels aan Wikimedia Commons gedoneerd. Het ging hierbij om de afbeeldingen uit (de 5 delen van) het boek [Nederlandsche Vogelen](https://www.kb.nl/ontdekken-bewonderen/topstukken/nederlandsche-vogelen) (1770-1829) uit de collectie van de KB. 
+In de maanden na de beelddonatie hebben redacteuren van Wikipedia de [vogelafbeeldingen](https://commons.wikimedia.org/wiki/Category:Nederlandsche_vogelen_van_Nozeman_en_Sepp) in vele artikelen verwerkt. Dit heeft geleid tot een enorme vergroting (meer dan 100x) van de zichtbaarheid van deze erfgoedcollectie, ook buiten Nederland, zoals deze impactmeting over het jaar 2016 laat zien. 
+
+[Bekijk de video](https://commons.wikimedia.org/wiki/File:Het_effect_van_beelddonaties_door_de_KB_-_Publiek_Domeindag_2020,_Beeld_en_Geluid,_Hilversum_10-01-2020.webm)
