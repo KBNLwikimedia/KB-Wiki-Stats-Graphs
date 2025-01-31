@@ -7,17 +7,7 @@
 
 *De Digitale Bibliotheek voor de Nederlandse Letteren ([DBNL](https://www.dbnl.org/)) is een veelgebruikte bron voor artikelen in de Nederlandstalige Wikipedia. In dit artikel kijk ik hoe links (URLs) naar de DBNL-URLs.xxxxx. - nog afmaken----*
 
-Belangrijkste punten:
-* In de Nederlandstalige Wikipedia wordt veelvuldig verwezen naar de DBNL.
-* De meeste verwijzingen zijn naar DBNL-auteurspagina's, gevolgd door teksten en titels.
-* In totaal bevatte Nederlandstalige Wikipedia-artikelen op 5 september 2024 30.768 (niet-unieke) URLs die naar de DBNL linken.
-* De Top 20 van Wikipedia-artikelen met de meeste links naar de DBNL wordt aangevoerd door [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen), gevolgd door []()
-* In totaal zijn er xxx unieke DBNL-pagina’s waarnaar Nederlandstalige Wikipedia-artikelen op 5 september 2024 verwijzen. De Top 20 van deze DBNL-pagina’s wordt aangevoerd door [inhoudsopgave van het *Algemeen letterkundig lexicon*](https://www.dbnl.org/tekst/dela012alge01_01/).
-* De Top 20 van DBNL-pagina’s waarnaar het vaakst verwezen wordt vanuit Nederlandstalige Wikipedia-artikelen wordt aangevoerd door de [inhoudsopgave van het *Algemeen letterkundig lexicon*](https://www.dbnl.org/tekst/dela012alge01_01/).
-* Er zijn 17 Nederlandstalige Wikipedia-artikelen die grotendeels op de DBNL gebaseerd zijn, zoals het artikel over [C.A.J. van Dishoeck](https://nl.wikipedia.org/wiki/C.A.J._van_Dishoeck).
-* De ruwe data is [beschikbaar op Github](
-* Wanneer we iets dieper op de data inzoomen zien we dat er op 5 september 2024 in totaal 18.458 verschillende Wikipedia-artikelen waren die één of meerdere links (URLs) naar de DBNL bevatten.
-* Vervolgens kunnen we ook kijken naar de in totaal 27.875 unieke DBNL-pagina’s waar Nederlandstalige Wikipedia-artikelen op peildatum 5 september 2024 naar verwezen. 
+
 
 ---------------
 
@@ -156,7 +146,7 @@ Het artikel uit 2020 bevat een vergelijkbaar [overzicht van 54 Wikipedia-artikel
 Alle data die gebruikt is in de visualisaties en analyses in dit artikel is [beschikbaar op Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905). Je kunt het Excel-bestand ook [direct downloaden](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/DBNL_20240905/WPNLarticlesAndDBNLUrls_20240905_DBNL.xlsx).
 
 ## Bijbehorende presentatie
-<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar-DBNLdag-8November2024.jpg" align="right" width="200" alt="Screenshot van de openingsdia van een presentatie met de titel 'Wat betekenen DBNL en Wikipedia voor elkaar?', ter gelegenheid van de viering van 25-jarige bestaan van de DBNL op 8 november 2024."/>
+<a href="https://doi.org/10.5281/zenodo.14041711" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar-DBNLdag-8November2024.jpg" align="right" width="200" alt="Screenshot van de openingsdia van een presentatie met de titel 'Wat betekenen DBNL en Wikipedia voor elkaar?', ter gelegenheid van de viering van 25-jarige bestaan van de DBNL op 8 november 2024."/></a>
 
 Dit dataverhaal is gebruikt in de presentatie *[Wat betekenen DBNL en Wikipedia voor elkaar?](https://doi.org/10.5281/zenodo.14041711)* tijdens de [viering van 25-jarige bestaan van de DBNL](https://web.archive.org/web/20241105153730/https://www.dbnl.org/dbnldag/) op 8 november 2024. Deze presentatie is beschikbaar op [Zenodo](https://doi.org/10.5281/zenodo.14041711) en [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar_-_DBNLdag_-_8November2024.pdf).
 
@@ -170,7 +160,9 @@ Olaf Janssen is de [Wikimedia-coördinator](https://www.kb.nl/over-ons/experts/o
 ## Hergebruik van dit artikel 
 De tekst van dit artikel is vrijgegeven onder de [Creative Commons Naamsvermelding](https://creativecommons.org/licenses/by/4.0/deed.nl) CC-BY 4.0 licentie.<br/> 
 <img src="images/cc-by.png" width="120" align="right" alt="Logo van de CC-BY licentie"/>
+
 Citatie: Janssen, O.D. (2025). ‘Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024’. Zenodo, 31 januari 2025. [https://doi.org/10.5281/zenodo.14779865](https://doi.org/10.5281/zenodo.14779865).<br/> 
+
 Naamsvermelding: *KB, nationale bibliotheek van Nederland / Olaf Janssen, CC-BY 4.0*
 
 ### Identifiers en URLs
