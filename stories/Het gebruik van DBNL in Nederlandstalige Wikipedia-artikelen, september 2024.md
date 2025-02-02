@@ -1,6 +1,9 @@
 # Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024 
 <sup>Olaf Janssen, 31 januari 2025</sup>
 
+
+Dit artikel is ook [beschikbaar als PDF](Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen%2C%20september%202024.pdf).
+
 <img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/icon_wp.png" align="right" width="110" hspace="20" alt="Logo Wikipedia"/>
 
 <img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_logo.png" align="right" width="170" hspace="20" alt="Logo DBNL"/>
