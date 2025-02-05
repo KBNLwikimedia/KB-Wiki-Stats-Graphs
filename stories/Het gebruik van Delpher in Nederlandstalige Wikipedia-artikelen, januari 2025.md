@@ -156,54 +156,65 @@ Eric Lie](https://www.dbnl.org/tekst/hoen042spor03_01/hoen042spor03_01_0038.php)
 <a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/Delpher_20250117/visuals-datawrapper/R4I9s-pagina-s-in-delpher-waarnaar-het-vaakst-verwezen-wordt-vanuit-de-nederlandstalige-wikipedia-top-25.png" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/Delpher_20250117/visuals-datawrapper/R4I9s-pagina-s-in-delpher-waarnaar-het-vaakst-verwezen-wordt-vanuit-de-nederlandstalige-wikipedia-top-25.png" border="1" align="left" width="90%" hspace="0" alt="Barchart van de top 25 van pagina's in Delpher waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum: 17 januari 2025."/></a>
 <br clear="all"/>
 
-### 4) Wikipedia-artikelen die grotendeels op DBNL gebaseerd zijn
+### 4) Wikipedia-artikelen die grotendeels op Delpher gebaseerd zijn
 
-Bij punt 2) hebben we gekeken naar de Wikipedia-artikelen die veel links naar de DBNL bevatten. In het verlengde hiervan is het ook interessant om te onderzoeken of er artikelen bestaan waarin alle, of bijna alle externe koppelingen naar de DBNL verwijzen. 
+Bij punt 2) hebben we gekeken naar de Wikipedia-artikelen die veel links naar de Delpher bevatten. In het verlengde hiervan is het ook interessant om te onderzoeken of er artikelen bestaan waarin alle, of bijna alle externe koppelingen naar de Delpher verwijzen. 
 
-Als je bijvoorbeeld kijkt naar het artikel over de Nederlandse uitgeverij [C.A.J. van Dishoeck](https://nl.wikipedia.org/wiki/C.A.J._van_Dishoeck), dan zie je dat de [bronvermeldingen onderaan](https://nl.wikipedia.org/w/index.php?title=C.A.J._van_Dishoeck&action=edit&section=3) vrijwel allemaal naar de DBNL linken. Je zou dus kunnen zeggen dat dit artikel grotendeels op de inhoud van de DBNL is gebaseerd, of dat het zijn bestaan dankt aan de DBNL als contentleverancier en aan de Wikipedia-gemeenschap die al die stukjes DBNL-content heeft samengevoegd tot dit artikel.
+<a href="https://nl.wikipedia.org/wiki/Vuilnisman" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/603px-Stadsarchief_Amsterdam,_Afb_ANWR00186000001.jpg" align="right" width="200" hspace="20" alt="Foto van een vuilnisman in Amsterdam die een vuilnisemmer in een vuilniswagen leegt; circa 1930."/></a>
 
-Hoe kunnen we dit soort artikelen systematisch opsporen? Daarvoor verwijs ik graag naar het artikel *[Detecting Wikipedia articles strongly based on single library collections](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html)* uit 2020. Hierin wordt een methode beschreven om Wikipedia-artikelen te vinden die geheel of grotendeels gebaseerd op inhoud uit één online bron, zoals een digitaal krantenarchief met volledige tekst (bv. [Delpher](https://www.delpher.nl/kranten)) of een digitale tekstbibliotheek zoals de DBNL.
+Als je bijvoorbeeld kijkt naar het artikel [Vuilnisman](https://nl.wikipedia.org/wiki/Vuilnisman), dan zie je onderaan bij de [Bronnen, noten en/of referenties](https://nl.wikipedia.org/wiki/Vuilnisman#:~:text=Bronnen,%20noten%20en/of%20referenties) allemaal naar krantenberichten in Delpher linken. Je zou dus kunnen zeggen dat dit artikel grotendeels op de inhoud van Delpher is gebaseerd, of dat het zijn bestaan dankt aan Delpher als contentleverancier en aan de Wikipedia-gemeenschap die al die stukjes Delpher-krantencontent heeft samengevoegd tot dit artikel.
+
+Hoe kunnen we dit soort artikelen systematisch opsporen? Daarvoor verwijs ik graag naar het artikel *[Detecting Wikipedia articles strongly based on single library collections](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html)* uit 2020. Hierin wordt een methode beschreven om Wikipedia-artikelen te vinden die geheel of grotendeels gebaseerd op inhoud uit één online bron, zoals een digitaal krantenarchief met volledige tekst (Delpher), of een digitale tekstbibliotheek zoals de [Digitale Bibliotheek voor de Nederlandse Letteren](https://www.dbnl.org) (DBNL).
 
 Samengevat kijken we bij deze methode naar twee parameters:
 * *External link treshhold*: Het artikel moet een minimum aantal externe koppelingen bevatten, aangezien de inhoud ervan voldoende gebaseerd moet zijn op externe bronnen.
-* *Link ratio*: De verhouding tussen het totale aantal externe URLs en het aantal daarvan dat naar DBNL verwijst. Een link ratio van 1,00 betekent dat alle externe links in een artikel DBNL-links zijn. Hoe lager de link ratio, hoe kleiner het relatieve aantal DBNL-URLs in het artikel.
+* *Link ratio*: De verhouding tussen het totale aantal externe URLs en het aantal daarvan dat naar DBNL verwijst. Een link ratio van 1,00 betekent dat alle externe links in een artikel Delpher-links zijn. Hoe lager de link ratio, hoe kleiner het relatieve aantal Delpher-URLs in het artikel.
 
-Om te beoordelen of een artikel grotendeels op de DBNL is gebaseerd, hebben we de volgende drempelwaarden gekozen: 
-* *External link treshhold = 6*: Het artikel bevat minimaal 6 externe URLs.
-* *Link ratio >= 0.75*: Minimaal 75% van deze externe URLs verwijst naar de DBNL. 
+Om te beoordelen of een artikel grotendeels op Delpher is gebaseerd, hebben we de volgende drempelwaarden gekozen: 
+* *External link treshhold = 20*: Het artikel bevat minimaal 20 externe URLs.
+* *Link ratio >= 0.80*: Minimaal 80% van deze externe URLs verwijst naar Delpher. 
 
-Dat levert onderstaande lijst op van 17 artikelen op. 
+Dat levert onderstaande lijst op van 61 artikelen op. 
 
 <div style="min-height:793px" id="datawrapper-vis-gzMJE"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/gzMJE/embed.js" charset="utf-8" data-target="#datawrapper-vis-gzMJE"></script><noscript><img src="https://datawrapper.dwcdn.net/gzMJE/full.png" alt="Tabel met 61 Nederlandstalige Wikipedia-artikelen die grotendeels op Delpher-inhoud gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar Delpher- bronnen. Ze danken hun bestaan (grotendeels) aan de Delpher. Peildatum is 17 januari 2025." /></noscript></div>
 
 <a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/Delpher_20250117/visuals-datawrapper/gzMJE-nederlandstalige-wikipedia-artikelen-die-grotendeels-op-delpher-gebaseerd-zijn.png" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/Delpher_20250117/visuals-datawrapper/gzMJE-nederlandstalige-wikipedia-artikelen-die-grotendeels-op-delpher-gebaseerd-zijn.png" border="1" align="left" width="90%" hspace="0" alt="Tabel met 61 Nederlandstalige Wikipedia-artikelen die grotendeels op Delpher-inhoud gebaseerd zijn. Deze artikel zijn geschreven o.b.v. (bijna) alleen maar Delpher- bronnen. Ze danken hun bestaan (grotendeels) aan de Delpher. Peildatum is 17 januari 2025."/></a>
 <br clear="all"/>
 
-In kolom 3 zien we dat het aantal externe URLs (*NrOfExternalUrls* ) groter of gelijk is aan de drempelwaarde van 6. De LinkRatio in kolom 4 is de verhouding tussen de waarden in kolommen 2 en 3, en dus steeds groter dan 0.75. 
+In kolom 3 zien we dat het aantal externe URLs (*NrOfExternalUrls* ) groter of gelijk is aan de drempelwaarde van 20. De LinkRatio in kolom 4 is de verhouding tussen de waarden in kolommen 2 en 3, en dus steeds groter dan of gelijk aan  0.80. 
 
-We zien dat het artikel over [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen) alleen maar DBNL-URLs bevat, evenals dat over [Jozef van Walleghem](https://nl.wikipedia.org/wiki/Jozef%20van%20Walleghem) en dat over [Drogon](https://nl.wikipedia.org/wiki/Drogon%20%28Van%20Schendel%29), de debuutroman van Arthur van Schendel.
+We zien dat de top 3 gevorm wordt door de artikelen over [Jacques Anquetil](https://nl.wikipedia.org/wiki/Jacques_Anquetil), [Les Grandes Galeries Belges](https://nl.wikipedia.org/wiki/Les_Grandes_Galeries_Belges) en de [Ontstaansgeschiedenis van het Wilhelminakanaal](https://nl.wikipedia.org/wiki/Ontstaansgeschiedenis_van_het_Wilhelminakanaal).
 
-Het artikel uit 2020 bevat een vergelijkbaar [overzicht van 54 Wikipedia-artikelen](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html#for-dbnl) die geheel of grotendeels op DBNL gebaseerd zijn. Destijds zijn de volgende drempelwaarden gekozen: *Number of external links >= 4* , *Link ratio >= 0.7*. Het is interessant - tevens een oefening voor de lezer - om de overeenkomsten en verschillen te zoeken tussen die tabel en de lijst van 17 artikelen hierboven.
+Voorts zien we dat er meerdere artikelen zijn volledig op Delpher (veelal kranten) gebaseerd zijn:  
+* [Toon van den Enden](https://nl.wikipedia.org/wiki/Toon_van_den_Enden)
+* [Vuilnisman](https://nl.wikipedia.org/wiki/Vuilnisman)
+* [Splendor (wielerploeg)](https://nl.wikipedia.org/wiki/Splendor_%28wielerploeg%29)
+* [Johan Jacob Donner](https://nl.wikipedia.org/wiki/Johan_Jacob_Donner)
+* [Nederlands-Indische kentekens](https://nl.wikipedia.org/wiki/Nederlands-Indische_kentekens)
+* [Lijst van burgemeesters van Aengwirden](https://nl.wikipedia.org/wiki/Lijst_van_burgemeesters_van_Aengwirden)
+
+Het artikel uit 2020 bevat een vergelijkbaar [overzicht van 193 Wikipedia-artikelen](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html#for-delpher) die geheel of grotendeels op DBNL gebaseerd zijn. Destijds zijn de volgende drempelwaarden gekozen: *Number of external links >= 6* , *Link ratio >= 0.75*. Dit levert een stuk bredere artikelselectie op dan de hierboven gehanteerde drempelwaarden van 20 en 0.8.
+Het is interessant - en tevens een oefening voor de lezer - om de overeenkomsten en verschillen te zoeken tussen die tabel en de lijst van 61 artikelen hierboven.
 
 ## Ruwe data
-Alle data gebruikt voor de visualisaties en analyses in dit artikel is [beschikbaar op Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_202501xx). Je kunt het Excel-bestand ook [direct downloaden](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/Delpher_202501xx/WPNLarticlesAndDelpherUrls_202501xx_Delpher.xlsx).
+Alle data gebruikt voor de visualisaties en analyses in dit artikel is [beschikbaar op Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_20250117). Je kunt het Excel-bestand ook [direct downloaden](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/Delpher_20250117/WPNLarticlesAndDelpherUrls_20250117_Delpher.xlsx).
 
-## Vergelijkbaar artiekle over DBNL en Wikipedia
+## Vergelijkbaar artikel over DBNL en Wikipedia
 
-https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html
+<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Het-gebruik-van-DBNL-in-Nederlandstalige-Wikipedia-artikelen_Sept2024.jpg" align="right" width="300" hspace="20" alt="Screenshot van het artikel 'Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024' op Github."/></a>
 
-<a href="https://doi.org/10.5281/zenodo.14779865" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar-DBNLdag-8November2024.jpg" align="right" width="200" alt="Screenshot van de openingsdia van een presentatie met de titel 'Wat betekenen DBNL en Wikipedia voor elkaar?', ter gelegenheid van de viering van 25-jarige bestaan van de DBNL op 8 november 2024."/></a>
+In januari 2025 publiceerden we een soortgelijk artikel getiteld [Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html). Hierin bekijken we hoe vaak er in welke Wikipedia-artikelen verwezen wordt naar de [Digitale Bibliotheek voor de Nederlandse Letteren](https://www.dbnl.org) (DBNL), en welke DBNL-pagina’s het vaakst worden geciteerd. Ook speuren we naar Wikipedia-artikelen die geheel of grotendeels op de DBNL zijn gebaseerd.
 
 ## Over de auteur
 <img align="left" src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50" hspace="5" alt="Afbeelding van Olaf Janssen in Tel Aviv in 2018."/>
 
-<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/kblogo.png" align="right" width="150" alt="Logo van de KB, de nationale bibliotheek van Nederland"/>
+<img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/kblogo.png" align="right" hspace="20" width="150" alt="Logo van de KB, de nationale bibliotheek van Nederland"/>
 
 Olaf Janssen is de [Wikimedia-coördinator](https://www.kb.nl/over-ons/experts/olaf-janssen) van de KB, de nationale bibliotheek van Nederland. Hij draagt bij aan [Wikipedia](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek) en [Wikidata](https://www.wikidata.org/wiki/Wikidata:GLAM/Koninklijke_Bibliotheek_Nederland) als [Gebruiker:OlafJanssen](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen). ORCID: [0000-0002-9058-9941](https://orcid.org/0000-0002-9058-9941).
 
 ## Hergebruik van dit artikel 
 De tekst van dit artikel is vrijgegeven onder de [Creative Commons Naamsvermelding](https://creativecommons.org/licenses/by/4.0/deed.nl) CC-BY 4.0 licentie.<br/> 
-<img src="images/cc-by.png" width="120" align="right" alt="Logo van de CC-BY licentie"/>
+<img src="images/cc-by.png" width="120" hspace="20" align="right" alt="Logo van de CC-BY licentie"/>
 
 *Citatie*: Janssen, O.D. (2025). ‘Het gebruik van Delpher in Nederlandstalige Wikipedia-artikelen, januari 2025’. Zenodo, xxx februari 2025. [https://doi.org/10.5281/zenodo.xxx](https://doi.org/10.5281/zenodo.xxx).<br/> 
 
@@ -215,4 +226,4 @@ Persistent:
 * Wikimedia Commons: [https://commons.wikimedia.org/entity/Mxxxx](https://commons.wikimedia.org/entity/Mxxx)
 
 Niet-persistent: 
-* Github: [https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen,%20januari%202025.html](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html)
+* Github: [https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen,%20januari%202025.html](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen,%20januari%202025.html)
