@@ -1,0 +1,19 @@
+reports\Delpher_20250117\WPNLarticlesAndKBUrls_20250117_combined_Delpher.xlsx
+
+Number of (non-unique) KBurls = number of (non-unique) WP articles = number of rows : 45409
+
+Number of unique WP articles: 15569
+
+Number of unique KBurls: 43063
+
+List of KBservices: ['Kranten 1618-1995 (Basiscollectie)' 'Tijdschriften 19e en 20e eeuw'
+ 'Boeken 17e t/m 20e eeuw (Basiscollectie)' 'Delpher statische paginas'
+ 'Boeken Google' 'Radiobulletins van het ANP']
+Number of unique KBservices: 6
+Check via len() function: 6
+
+List of KBcategories: ['Delpher']
+Number of unique KBcategories: 1
+
+Check via len() function: 1
+
