@@ -162,13 +162,13 @@ Bij punt 2) hebben we gekeken naar de Wikipedia-artikelen die veel links naar de
 
 <a href="https://nl.wikipedia.org/wiki/Vuilnisman" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/603px-Stadsarchief_Amsterdam,_Afb_ANWR00186000001.jpg" align="right" width="200" hspace="20" alt="Foto van een vuilnisman in Amsterdam die een vuilnisemmer in een vuilniswagen leegt; circa 1930."/></a>
 
-Als je bijvoorbeeld kijkt naar het artikel [Vuilnisman](https://nl.wikipedia.org/wiki/Vuilnisman), dan zie je onderaan bij de [Bronnen, noten en/of referenties](https://nl.wikipedia.org/wiki/Vuilnisman#:~:text=Bronnen,%20noten%20en/of%20referenties) allemaal naar krantenberichten in Delpher linken. Je zou dus kunnen zeggen dat dit artikel grotendeels op de inhoud van Delpher is gebaseerd, of dat het zijn bestaan dankt aan Delpher als contentleverancier en aan de Wikipedia-gemeenschap die al die stukjes Delpher-krantencontent heeft samengevoegd tot dit artikel.
+Als je bijvoorbeeld kijkt naar het artikel [Vuilnisman](https://nl.wikipedia.org/wiki/Vuilnisman), dan zie je onderaan dat de [Bronnen, noten en/of referenties](https://nl.wikipedia.org/wiki/Vuilnisman#:~:text=Bronnen,%20noten%20en/of%20referenties) allemaal naar krantenberichten in Delpher linken. Je zou dus kunnen zeggen dat dit artikel grotendeels op de inhoud van Delpher is gebaseerd, of dat het zijn bestaan dankt aan Delpher als contentleverancier en aan de Wikipedia-gemeenschap die al die stukjes Delpher-krantencontent heeft samengevoegd tot dit artikel.
 
 Hoe kunnen we dit soort artikelen systematisch opsporen? Daarvoor verwijs ik graag naar het artikel *[Detecting Wikipedia articles strongly based on single library collections](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html)* uit 2020. Hierin wordt een methode beschreven om Wikipedia-artikelen te vinden die geheel of grotendeels gebaseerd op inhoud uit één online bron, zoals een digitaal krantenarchief met volledige tekst (Delpher), of een digitale tekstbibliotheek zoals de [Digitale Bibliotheek voor de Nederlandse Letteren](https://www.dbnl.org) (DBNL).
 
 Samengevat kijken we bij deze methode naar twee parameters:
 * *External link treshhold*: Het artikel moet een minimum aantal externe koppelingen bevatten, aangezien de inhoud ervan voldoende gebaseerd moet zijn op externe bronnen.
-* *Link ratio*: De verhouding tussen het totale aantal externe URLs en het aantal daarvan dat naar DBNL verwijst. Een link ratio van 1,00 betekent dat alle externe links in een artikel Delpher-links zijn. Hoe lager de link ratio, hoe kleiner het relatieve aantal Delpher-URLs in het artikel.
+* *Link ratio*: De verhouding tussen het totale aantal externe URLs en het aantal daarvan dat naar Delpher verwijst. Een link ratio van 1,00 betekent dat alle externe links in een artikel Delpher-links zijn. Hoe lager de link ratio, hoe kleiner het relatieve aantal Delpher-URLs in het artikel.
 
 Om te beoordelen of een artikel grotendeels op Delpher is gebaseerd, hebben we de volgende drempelwaarden gekozen: 
 * *External link treshhold = 20*: Het artikel bevat minimaal 20 externe URLs.
@@ -185,7 +185,9 @@ In kolom 3 zien we dat het aantal externe URLs (*NrOfExternalUrls* ) groter of g
 
 We zien dat de top 3 gevorm wordt door de artikelen over [Jacques Anquetil](https://nl.wikipedia.org/wiki/Jacques_Anquetil), [Les Grandes Galeries Belges](https://nl.wikipedia.org/wiki/Les_Grandes_Galeries_Belges) en de [Ontstaansgeschiedenis van het Wilhelminakanaal](https://nl.wikipedia.org/wiki/Ontstaansgeschiedenis_van_het_Wilhelminakanaal).
 
-Voorts zien we dat er meerdere artikelen zijn volledig op Delpher (veelal kranten) gebaseerd zijn:  
+<a href="https://nl.wikipedia.org/wiki/Splendor_%28wielerploeg%29" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/WalterDalgal-Splendor.jpg" align="right" width="200" hspace="20" alt="Foto van de wielrenner Walter Dalgal in het Splendor-tenue"/></a>
+
+Voorts zien we dat er meerdere artikelen volledig op Delpher (veelal kranten) gebaseerd zijn (_LinkRatio=1.00_):  
 * [Toon van den Enden](https://nl.wikipedia.org/wiki/Toon_van_den_Enden)
 * [Vuilnisman](https://nl.wikipedia.org/wiki/Vuilnisman)
 * [Splendor (wielerploeg)](https://nl.wikipedia.org/wiki/Splendor_%28wielerploeg%29)
@@ -193,7 +195,7 @@ Voorts zien we dat er meerdere artikelen zijn volledig op Delpher (veelal krante
 * [Nederlands-Indische kentekens](https://nl.wikipedia.org/wiki/Nederlands-Indische_kentekens)
 * [Lijst van burgemeesters van Aengwirden](https://nl.wikipedia.org/wiki/Lijst_van_burgemeesters_van_Aengwirden)
 
-Het artikel uit 2020 bevat een vergelijkbaar [overzicht van 193 Wikipedia-artikelen](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html#for-delpher) die geheel of grotendeels op DBNL gebaseerd zijn. Destijds zijn de volgende drempelwaarden gekozen: *Number of external links >= 6* , *Link ratio >= 0.75*. Dit levert een stuk bredere artikelselectie op dan de hierboven gehanteerde drempelwaarden van 20 en 0.8.
+Het eerder genoemde artikel uit 2020 bevat een vergelijkbaar [overzicht van 193 Wikipedia-artikelen](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html#for-delpher) die geheel of grotendeels op DBNL gebaseerd zijn. Destijds zijn de volgende drempelwaarden gekozen: *Number of external links >= 6* , *Link ratio >= 0.75*. Dit levert een stuk bredere artikelselectie op dan de hierboven gehanteerde drempelwaarden van 20 en 0.8.
 Het is interessant - en tevens een oefening voor de lezer - om de overeenkomsten en verschillen te zoeken tussen die tabel en de lijst van 61 artikelen hierboven.
 
 ## Ruwe data
@@ -203,7 +205,7 @@ Alle data gebruikt voor de visualisaties en analyses in dit artikel is [beschikb
 
 <a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Het-gebruik-van-DBNL-in-Nederlandstalige-Wikipedia-artikelen_Sept2024.jpg" align="right" width="300" hspace="20" alt="Screenshot van het artikel 'Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024' op Github."/></a>
 
-In januari 2025 publiceerden we een soortgelijk artikel getiteld [Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html). Hierin bekijken we hoe vaak er in welke Wikipedia-artikelen verwezen wordt naar de [Digitale Bibliotheek voor de Nederlandse Letteren](https://www.dbnl.org) (DBNL), en welke DBNL-pagina’s het vaakst worden geciteerd. Ook speuren we naar Wikipedia-artikelen die geheel of grotendeels op de DBNL zijn gebaseerd.
+In januari 2025 publiceerden we een soortgelijk artikel getiteld _[Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html)_. Hierin bekijken we hoe vaak er in welke Wikipedia-artikelen verwezen wordt naar de [Digitale Bibliotheek voor de Nederlandse Letteren](https://www.dbnl.org) (DBNL), en welke DBNL-pagina’s het vaakst worden geciteerd. Ook speuren we naar Wikipedia-artikelen die geheel of grotendeels op de DBNL zijn gebaseerd.
 
 ## Over de auteur
 <img align="left" src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50" hspace="5" alt="Afbeelding van Olaf Janssen in Tel Aviv in 2018."/>
