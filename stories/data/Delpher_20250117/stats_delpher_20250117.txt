@@ -4,7 +4,7 @@ Number of (non-unique) KBurls = number of (non-unique) WP articles = number of r
 
 Number of unique WP articles: 15569
 
-Number of unique KBurls: 43063
+Number of unique KBurls: 43063  (= number of unique Delpher pages)
 
 List of KBservices: ['Kranten 1618-1995 (Basiscollectie)' 'Tijdschriften 19e en 20e eeuw'
  'Boeken 17e t/m 20e eeuw (Basiscollectie)' 'Delpher statische paginas'
