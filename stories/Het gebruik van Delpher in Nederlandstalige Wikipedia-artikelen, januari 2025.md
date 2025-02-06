@@ -9,27 +9,37 @@ Dit artikel is ook [beschikbaar als PDF](Het%20gebruik%20van%20Delpher%20in%20Ne
 
 <img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/delpher_logo_new.png" align="right" width="170" hspace="20" alt="Logo Delpher"/>
 
-*Het Nederlandse full-text historische kranten-, boeken- en tijdschriftenarchief [Delpher](https://www.delpher.nl) is een veelgebruikte bron in de Nederlandstalige Wikipedia. In dit artikel bekijken we hoe vaak er in welke Wikipedia-artikelen verwezen wordt naar de Delpher, en welke Delpher-pagina's het vaakst worden geciteerd. Ook speuren we naar Wikipedia-artikelen die geheel of grotendeels op de Delpher zijn gebaseerd.* 
+''[https://www.delpher.nl/ Delpher] biedt toegang tot miljoenen gedigitaliseerde pagina's uit Nederlandse historische kranten, boeken en tijdschriften. Het is een veelgebruikte bron in de Nederlandstalige Wikipedia. In dit artikel bekijken we hoe vaak er in welke Wikipedia-artikelen verwezen wordt naar Delpher, en welke Delpher-pagina’s het vaakst worden geciteerd. Ook speuren we naar Wikipedia-artikelen die geheel of grotendeels op Delpher zijn gebaseerd.''
 
 De belangrijkste punten (per 17 januari 2025) uit dit artikel zijn:
-* 15.569 verschillende Wikipedia-artikelen bevatten gezamenlijk 45.409 links naar 43.063 verschillende pagina's in de Delpher. 
 
-* Deze verwijzingen zijn voornamelijk naar DBNL-auteurspagina's (16.591 URLs), gevolgd door teksten (13.835 URLs) en titels (240 URLs). --> Voor delpher: boeke, kanten, tijdscrfiten, radiobulletins
+* 15.569 verschillende Wikipedia-artikelen bevatten gezamenlijk 45.409 links naar 43.063 verschillende pagina’s in de Delpher.
 
-* Het artikel [](https://nl.wikipedia.org/wiki/) bevat met xx de meeste links naar de Delpher, gevolgd door het artikel [](), met xx Delpher-URLs, met op plek drie []() met XX links. 
-[Lijst van rampen in Nederland] 182
-[Lijst van historische Nederlandse netnummers] 175
-[Jacques Anquetil] 130
+* Deze verwijzingen zijn voornamelijk naar kranten (38.530 URLs), gevolgd door boeken (4.923 URLs) en tijdschriften (1872 URLs).
 
+* Het artikel [[:nl:Lijst van rampen in Nederland|Lijst van rampen in Nederland]] bevat met 182 de meeste links naar Delpher, gevolgd door het artikel [[:nl:Lijst van historische Nederlandse netnummers|Lijst van historische Nederlandse netnummers]], met 175 Delpher-URLs. Het artikel over [[:nl:Jacques Anquetil|Jacques Anquetil]] sluit met 130 verwijzingen de top 3 af. 
 
-* Naar de [inhoudsopgave van het *Algemeen letterkundig lexicon*](https://www.dbnl.org/tekst/dela012alge01_01/) wordt vanuit Wikipedia maar liefst XX keer verwezen, met op de tweede plek de PDF van *[De eerste Surinaamse sportencyclopedie (1893-1988) ](https://www.dbnl.org/tekst/stut004eers01_01/stut004eers01_01.pdf)* van Ricky W. Stutgard, met 147 verwijzingen, en op de derde plaats []() met 147 inkomende links.
+* Wanneer we de [https://www.delpher.nl/nl/kranten Kranten homepage] en de [https://www.delpher.nl/ Delpher homepage] buiten beschouwing laten, wordt naar de illustratie ''[https://delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010237771:mpeg21:a0208 Afstandsaanduidingen langs Rijkswegen]'' in de ''Nieuwe Tilburgsche Courant'' van 12-02-1937 het vaakst, nl. in 13 Wikipedia-artikelen verwezen. Op de tweede plek staat [https://resolver.kb.nl/resolve?urn=KBDDD02:000212802:mpeg21:p002 pagina 2] van de krant ''Suriname'' van 02-09-1933 met verwijzingen vanuit 12 artikelen.
 
-* Er zijn xx Wikipedia-artikelen die (bijna) geheel op basis van Delpher-inhoud geschreven zijn. M.a.w.: zij danken hun bestaan voor een belangrijk deel aan de DBNL. 
- * De onderliggende [ruwe data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905) waar dit artikel gebruik van maakt is beschikbaar op GitHub.
+* Er zijn 61 Wikipedia-artikelen die (bijna) geheel op basis van Delpher-inhoud geschreven zijn. M.a.w.: zij danken hun bestaan voor een belangrijk deel aan Delpher.
+
+* De onderliggende [https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_20250117 ruwe data] waar dit artikel gebruik van maakt is beschikbaar op GitHub.
 
 ## Links naar Delpher in Nederlandstalige Wikipedia-artikelen 
 
 De Nederlandstalige Wikipedia maakt veelvuldig gebruik van informatie uit de Delpher om in artikelen te verwerken. Vanuit zo'n lemma wordt dan door middel van één of meerdere URLs terugverwezen naar de gebruikte broninformatie in de Delpher. Dit kunnen bijvoorbeeld links zijn naar een kranteenatiekel, hel boeke, radiobulletinf ... profiel van een auteur, naar een gedigitaliseerd boek of naar een specifieke artikel in een tijdschrift. Een aantal voorbeelden:
+
+### Voorbeelden Kranten
+
+- (titels, afleveringen, pagina's en artikelen)
+- of resultaten van zoekactiesi n kranten via uitergebreid zoeken
+- Of PDF's OCR, jpg's, etc. van krantenpagina's
+
+### Voorbeelden boeken      
+
+### Voorbeelden tijdscriften
+
+### Voorbeelden Radiobulletins
 
 * In het artikel over [André Breton](https://nl.wikipedia.org/wiki/Andr%C3%A9_Breton#:~:text=Dbnl-profiel) staat onder de portretfoto een link naar [zijn DBNL-profiel](https://www.dbnl.org/auteurs/auteur.php?id=bret007). 
 * Het artikel over [Geertruida Bosboom-Toussaint](https://nl.wikipedia.org/wiki/Geertruida_Bosboom-Toussaint#:~:text=Gedigitaliseerde%20versies%20van%20Bosboom%2DToussaints%27%20boeken) verwijst naar meerdere gedigitaliseerde boeken van haar op DBNL , bijvoorbeeld *[Graaf Pepoli, de roman van een rijk edelman](https://www.dbnl.org/titels/titel.php?id=bosb002graa03)*. Bovendien bevat de uitklaplijst onder [Bibliografische informatie](https://nl.wikipedia.org/wiki/Geertruida_Bosboom-Toussaint#:~:text=Bibliografische%20informatie) onder *bosb002* een verwijzing naar [haar DBNL-auteursprofiel](https://www.dbnl.org/auteurs/auteur.php?id=bosb002).
@@ -46,11 +56,17 @@ De Nederlandstalige Wikipedia maakt veelvuldig gebruik van informatie uit de Del
 
 Zijn er op WPNL Delpher-sjablonen??
 
-Als we deze diverse soorten verwijzingen in Wikipedia proberen te groeperen, komen er vijf hoofdgroepen naar voren: 
+Als we deze diverse soorten verwijzingen in Wikipedia proberen te groeperen, komen er vijf materiaalsoorten naar voren: 
 
 voor Delpher: boeken (basis en google) , kranten (basis en externe), tijdschriften, radiobulletins
 
-### 1) Auteurs 
+### 1) Kranten 
+
+
+
+In deze URLs komt het patroon _/tekst/_ voor, typisch met de syntax *www.dbnl.org/tekst/*. Komt overeen met de hierboven genoemde groep 
+https://resolver.kb.nl/resolve?urn=ddd:011015958:mpeg21:a0385
+https://delpher.nl/nl/kranten/view?coll=ddd&identifier=ABCDDD:010831738:mpeg21:p019
 
 <a href="https://nl.wikipedia.org/wiki/Albert_Verwey" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/albert_verwey_wikipedia_jan2025.jpg" align="right" width="400" hspace="20" alt="Screenshot van het Nederlandstalige Wikipedia-artikel over de Nederlandse auteur Albert_Verwey (1865–1937)"/></a>
 
@@ -86,38 +102,38 @@ De laatste groep verwijzingen zijn die naar de overige pagina's van de DBNL, zoa
 
 Zo bevat het Wikipedia-artikel over de Belgische schrijver [Paul Verrept](https://nl.wikipedia.org/wiki/Paul_Verrept) een verwijzing naar een overzicht van [auteurs die in de Vlaamse plaats Deurne geboren](https://www.dbnl.org/atlas/plaats.php?id=deurn002) danwel overleden zijn. Of kijk bijvoorbeeld naar de [Lijst van rederijkerskamers](https://nl.wikipedia.org/wiki/Lijst_van_rederijkerskamers), dat artikel leunt sterk op de alfabetisch [lijst van Vlaamse, Frans-Vlaamse, Brabantse, Limburgse en Nederlandse rederijkerskamers](https://www.dbnl.org/organisaties/rederijkerskamers/) uit de DBNL.
 
-
 ## De volledige analyse
-Naar aanleiding van bovenstaande anekdotische voorbeelden, is het interessant om een complete analyse van verwijzingen naar de Delpher in de Nederlandstalige Wikipedia te maken. We krijgen daarmee precies inzicht welke Wikipedia-artikelen hoe vaak naar Delpher verwijzen, en welke Delpher-pagina's het vaakst worden geciteerd. 
+Naar aanleiding van bovenstaande anekdotische voorbeelden, is het interessant om een complete analyse van verwijzingen naar Delpher in de Nederlandstalige Wikipedia te maken. We krijgen daarmee precies inzicht welke Wikipedia-artikelen hoe vaak naar Delpher verwijzen, en welke Delpher-pagina's het vaakst worden geciteerd. 
 
 Hoe kunnen we alle Delpher-links in Wikipedia systematisch opsporen? Daar biedt Wikipedia een handig hulpmiddel voor, genaamd *[Externe koppelingen zoeken](https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken)*. Hiermee vind je Wikipedia-pagina's die een bepaald URL-patroon bevatten. Zo kunt je bijvoorbeeld zoeken naar [pagina's die het patroon *www.delpher.nl* bevatten](https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken&limit=100&offset=0&target=www.delpher.nl). Je vindt hierbij niet alleen de reguliere artikelen, maar ook pagina's in de 'achterkant' van Wikipedia, zoals Overleg- en Gebruikerspagina's.
 
-Je kunt dit op een gelijkwaardige manier ook via de [Wikipedia API](https://www.mediawiki.org/w/api.php?action=help&modules=query%2Bexturlusage) uitvragen. Hierbij kun je dan meteen filteren op alleen de artikelen (*eunamespace=0*), waarbij dus (o.a.) Overleg- en Gebruikerspagina's niet worden meegenomen. Dit doe je met de API-call [https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.dbnl.org](https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.dbnl.org).
+Je kunt dit op een gelijkwaardige manier ook via de [Wikipedia API](https://www.mediawiki.org/w/api.php?action=help&modules=query%2Bexturlusage) uitvragen. Hierbij kun je dan meteen filteren op alleen de artikelen (*eunamespace=0*), waarbij dus (o.a.) Overleg- en Gebruikerspagina's niet worden meegenomen. Dit doe je met de API-call [https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.delpher.nl](https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.delpher.nl).
 
-Met behulp van dit soort API-calls een stukje Python-code kunnen we alle artikelen in de Nederlandstalige Wikipedia die (één of meer keer) verwijzen naar _http(s)://\*.dbnl.org\|.nl_ opsporen. 
+Met behulp van dit soort API-calls een stukje Python-code kunnen we alle artikelen in de Nederlandstalige Wikipedia die (één of meer keer) verwijzen naar _http(s)://www.delpher.nl_ opsporen. 
 
 ### Speciale aandacht Duurzame links naar Delpher
 
 Alleen zoeken op delpher.nl is niet voldioende, want er worst (geullikg) veel persistent verwezen naar delpher middels resolver.kb plinks, Die resolver-URLS herken je aan <<pateroon, waarbij dan de idnetiefir>> . zo geeft "ddd" bv aan dat het om kranten gaat.  bepaalt of het hier omeen boeke, kranteo f tijdcriodft gaat.
 Er zijn heel veel verschillende idsntitifdrs die naar tijfscriften verwinzen, maar ook naar boeken en kranten.
 
-
 Het gaat voor dit artiekel wat te ver om alle identoefis te neoem per materiaalsoort, maar op http://services.kb.nl/mdo/oai?verb=ListSets lun je een indruk krijgen
 
 ==> speciale aandacht voor alle resolver links!! 
 
-
-In janauri 2025 hebben we deze speurtocht uitgevoerd en de [ruwe data gepubliceerd](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_202501xx). 
+In februari 2025 hebben we deze speurtocht uitgevoerd en de [ruwe data gepubliceerd](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_202501xx). 
 
 In de rest van dit artikel zullen we met behulp van datavisualisaties de resultaten van deze analyse presenteren.
 
 ### 1) Aantal verwijzingen naar Delpher vanuit Wikipedia
 
-Als eerste kijken we hoe vaak er in Wikipedia-artikelen verwezen wordt naar pagina's in de eerder genoemde DBNL-groepen. Dit laat onderstaande donutgrafiek zien. Deze visualisatie onderscheidt vier (niet: vijf) hoofdcategorieën: 
+Als eerste kijken we hoe vaak er in Wikipedia-artikelen verwezen wordt naar pagina's in de eerder genoemde DBNL-materiaalsoorten. Dit laat onderstaande donutgrafiek zien. Deze visualisatie onderscheidt vijf groepen materiaalsoorten: 
+
+1) **Kranten** (rood): Deze bevat de URLs van kranten (titels, afleveringen artikelen)  in Delpher. 
+
 
 1) **Boeken** (rood): Deze bevat de URLs van DBNL-auteurspagina's. In deze URLs komt het patroon _/auteurs/_ voor, typisch met de syntax *www.dbnl.org/auteurs/auteur.php?id=*. Komt overeen met de hierboven genoemde groep *1) Auteurs*. 
 
-2) **Kranten** (groen): Deze bevat de URLs van specifieke teksten in DBNL. In deze URLs komt het patroon _/tekst/_ voor, typisch met de syntax *www.dbnl.org/tekst/*. Komt overeen met de hierboven genoemde groep *2) Teksten*.
+
  
 3) **Tijdschriften** (lichtblauw): Deze bevat de URLs van DBNL-titels. In deze URLs komt het patroon _/titels/_ voor, typisch met de syntax *www.dbnl.org/titels/titel.php?id=*. Komt overeen met de hierboven genoemde groep *3) Titels*.
  
@@ -135,21 +151,36 @@ Zo zien we bijvoorbeeld dat er (op 5 september 2024)
 
 ### 2) Wikipedia-artikelen met de meeste links naar DBNL
 
-Wanneer we iets dieper op [de data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905) inzoomen zien we dat er op 5 september 2024 in totaal 18.458 verschillende Wikipedia-artikelen waren die één of meerdere links (URLs) naar de DBNL bevatten. 
+Wanneer we iets dieper op [de data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_20250117) inzoomen zien we dat er op 17 januari 2025 in totaal 15.569 verschillende Wikipedia-artikelen waren die één of meerdere links (URLs) naar Delpher bevatten. 
 
-Onderstaande grafiek toont de Top 20 van die artikelen. Zo bevatte [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen) maar liefst 442 verwijzingen, en het artikel over [Israël Querido](https://nl.wikipedia.org/wiki/Isra%C3%ABl_Querido) bevatte er 23.
+Onderstaande grafiek toont de Top 25 van die artikelen. Zo bevat de [Lijst van rampen in Nederland](https://nl.wikipedia.org/wiki/Lijst_van_rampen_in_Nederland) maar liefst 182 verwijzingen naar veelal krantenberichten, en het artikel over de [Geschiedenis van Feyenoord](https://nl.wikipedia.org/wiki/Geschiedenis_van_Feyenoord) bevat er 63, tevens meestal naar krantenberichten.
 
 <div style="min-height:760px" id="datawrapper-vis-ZXAFB"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/ZXAFB/embed.js" charset="utf-8" data-target="#datawrapper-vis-ZXAFB"></script><noscript><img src="https://datawrapper.dwcdn.net/ZXAFB/full.png" alt="Barchart van de top 25 van artikelen in de Nederlandstalige Wikipedia die de meeste verwijzingen (URLs) naar Delpher bevatten. Peildatum: 17 januari 2025."/></noscript></div>
 
 <a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/Delpher_20250117/visuals-datawrapper/ZXAFB-artikelen-in-nederlandstalige-wikipedia-met-meeste-links-naar-delpher-top-25.png" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/Delpher_20250117/visuals-datawrapper/ZXAFB-artikelen-in-nederlandstalige-wikipedia-met-meeste-links-naar-delpher-top-25.png" border="1" align="left" width="90%" hspace="0" alt="Barchart van de top 25 van artikelen in de Nederlandstalige Wikipedia die de meeste verwijzingen (URLs) naar Delpher bevatten. Peildatum: 17 januari 2025."/></a>
 <br clear="all"/>
 
-### 3) DBNL-pagina's waarnaar het vaakst verwezen wordt vanuit Wikipedia-artikelen
+### 3) Delpher-pagina's waarnaar het vaakst verwezen wordt vanuit Wikipedia-artikelen
 
-Vervolgens kunnen we ook kijken naar de in totaal 27.875 unieke DBNL-pagina’s waar Wikipedia-artikelen op peildatum 5 september 2024 naar verwezen. De staafgrafiek hieronder laat de Top 20 van deze DBNL-pagina’s zien. 
 
-De [inhoudsopgave van het *Algemeen letterkundig lexicon*](https://www.dbnl.org/tekst/dela012alge01_01/) staat met 229 verwijzingen bovenaan deze lijst, terwijl er bijvoorbeeld 17 keer verwezen wordt naar het lemma over de [taekwondo-grootmeester
-Eric Lie](https://www.dbnl.org/tekst/hoen042spor03_01/hoen042spor03_01_0038.php) in het derde deel van *[Onze sporthelden](https://www.dbnl.org/tekst/hoen042spor03_01/index.php)* van Guno Hoen uit 1999. 
+Uileg geven over wat we in dit kader onder pagina's verstaan.
+
+- (titels, afleveringen, pagina's en artikelen)
+- of resultaten van zoekactiesi n kranten via uitergebreid zoeken
+- Of PDF's OCR, jpg's, etc. van krantenpagina's
+
+Dit ook in de grafiek opnemen!
+
+Vervolgens kunnen we ook kijken naar de in totaal 43.063 unieke Delpher-pagina’s waar Wikipedia-artikelen op peildatum 17 januari 2025 naar verwezen. De staafgrafiek hieronder laat de Top 25 van deze Delpher-pagina’s zien. 
+
+
+Wanneer we de [Kranten homepage ](https://www.delpher.nl/nl/kranten) en [Delpher homepage](https://www.delpher.nl/) buiten beschouwing laten, dan staat de illustratie _[Afstandsaanduidingen langs Rijkswegen](https://delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010237771:mpeg21:a0208)_ in de _Nieuwe Tilburgsche Courant_ van 12-02-1937 
+
+VERKEERDE FORMULERING!!!
+met 13 verwijzingen bovenaan deze lijst. Met op de tweede plek [pagina 2](https://resolver.kb.nl/resolve?urn=KBDDD02:000212802:mpeg21:p002) van de krant _Suriname_ van 02-09-1933
+met 12 verwijzingen.
+JUISTE FORMULERING
+nl. in 13 Wikipedia-artikelen verwezen. Op de tweede plek staat [https://resolver.kb.nl/resolve?urn=KBDDD02:000212802:mpeg21:p002 pagina 2] van de krant ''Suriname'' van 02-09-1933 met verwijzingen vanuit 12 artikelen.
 
 <div style="min-height:935px" id="datawrapper-vis-R4I9s"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/R4I9s/embed.js" charset="utf-8" data-target="#datawrapper-vis-R4I9s"></script><noscript><img src="https://datawrapper.dwcdn.net/R4I9s/full.png" alt="Barchart van de top 25 van pagina's in Delpher waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum: 17 januari 2025." /></noscript></div> 
 
@@ -185,7 +216,7 @@ In kolom 3 zien we dat het aantal externe URLs (*NrOfExternalUrls* ) groter of g
 
 We zien dat de top 3 gevorm wordt door de artikelen over [Jacques Anquetil](https://nl.wikipedia.org/wiki/Jacques_Anquetil), [Les Grandes Galeries Belges](https://nl.wikipedia.org/wiki/Les_Grandes_Galeries_Belges) en de [Ontstaansgeschiedenis van het Wilhelminakanaal](https://nl.wikipedia.org/wiki/Ontstaansgeschiedenis_van_het_Wilhelminakanaal).
 
-<a href="https://nl.wikipedia.org/wiki/Splendor_%28wielerploeg%29" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/WalterDalgal-Splendor.jpg" align="right" width="200" hspace="20" alt="Foto van de wielrenner Walter Dalgal in het Splendor-tenue"/></a>
+<a href="https://nl.wikipedia.org/wiki/Splendor_%28wielerploeg%29" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/WalterDalgal-Splendor.jpg" align="right" width="150" hspace="20" alt="Foto van de wielrenner Walter Dalgal in het Splendor-tenue"/></a>
 
 Voorts zien we dat er meerdere artikelen volledig op Delpher (veelal kranten) gebaseerd zijn (_LinkRatio=1.00_):  
 * [Toon van den Enden](https://nl.wikipedia.org/wiki/Toon_van_den_Enden)
@@ -225,7 +256,7 @@ Naamsvermelding: *KB, nationale bibliotheek van Nederland / Olaf Janssen, CC-BY 
 ### Identifiers en URLs van dit artikel
 Persistent:
 * DOI (Zenodo): [https://doi.org/10.5281/zenodo.xxx](https://doi.org/10.5281/zenodo.1xxx)
-* Wikimedia Commons: [https://commons.wikimedia.org/entity/Mxxxx](https://commons.wikimedia.org/entity/Mxxx)
+* Wikimedia Commons: [https://commons.wikimedia.org/entity/M159206027](https://commons.wikimedia.org/entity/M159206027)
 
 Niet-persistent: 
 * Github: [https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen,%20januari%202025.html](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen,%20januari%202025.html)
