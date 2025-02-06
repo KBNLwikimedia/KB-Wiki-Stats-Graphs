@@ -1,7 +1,5 @@
 # Het gebruik van Delpher in Nederlandstalige Wikipedia-artikelen, januari 2025 
-<sup>Olaf Janssen, xx februari 2025</sup>
-
-NOG HERSCHRIJVEN EN AANPASSEN VOOR DELPHER!!!
+<sup>Olaf Janssen, 15 februari 2025</sup>
 
 Dit artikel is ook [beschikbaar als PDF](Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen%2C%20januari%202025.pdf).
 
@@ -22,17 +20,14 @@ De belangrijkste punten (per 17 januari 2025) uit dit artikel zijn:
 
 ## Links naar Delpher in Nederlandstalige Wikipedia-artikelen 
 
-De Nederlandstalige Wikipedia maakt veelvuldig gebruik van informatie uit Delpher om in artikelen te verwerken. Vanuit zo'n lemma wordt dan door middel van één of meerdere URLs terugverwezen naar de gebruikte broninformatie in de Delpher. Dit kan bijvoorbeeld een link zijn naar een specifiek krantenartikel, een gedigitaliseerd boek, een specifieke pagina in een tijdschrift, of een bepaalde zoekopdracht in radiobulletins. Laten we een aantal voorbeelden bekijken:
+De Nederlandstalige Wikipedia maakt veelvuldig gebruik van informatie uit Delpher om in artikelen te verwerken. Vanuit zo'n lemma wordt dan door middel van één of meerdere URLs terugverwezen naar de gebruikte broninformatie in de Delpher. Dit kan bijvoorbeeld een link zijn naar een specifiek krantenartikel, een gedigitaliseerd boek, een bepaalde pagina in een tijdschrift, of een zoekopdracht in radiobulletins. Laten we een aantal voorbeelden bekijken:
 
 _In kranten:_
  
 * Het artikel [Aethernieuws](https://nl.wikipedia.org/wiki/Aethernieuws) verwijst naar een [overzicht van 67 afleveringen](https://www.delpher.nl/nl/kranten/results/index?page=1&cql%5B%5D=ppn%3D046286330&coll=dddtitel) op Delpher van dit verzetsblad uit de Tweede Wereldoorlog.
-
 * In het lemma over [Abraham Asscher (1884-1926)](https://nl.wikipedia.org/wiki/Abraham_Asscher_(1884-1926)) staat een link naar een [PDF van de aflevering van 14 maart 1919](https://resolver.kb.nl/resolve?urn=ddd:010859722:mpeg21:pdf) van het _Nieuw Israëlietisch Weekblad_, waarin een artikel over Opperrabbijn A. Asscher te lezen is.
-
 * [Pagina 8 van de _Amigoe_ van 04-07-1985](https://resolver.kb.nl/resolve?urn=ddd:010643132:mpeg21:p008) bevat informatie (over een expositie van Surinaamse kunstenaars in Curaçao) die in het artikel over de Amsterdamse decorontwerper, tekenaar, schilder en journalist [Nic Loning](https://nl.wikipedia.org/wiki/Nic_Loning) is verwerkt.
-
-* Het artikel over [10 jaar Bassie & Adriaan](https://nl.wikipedia.org/wiki/10_jaar_Bassie_%26_Adriaan) verwijst naar een [krantenartikel van 19-10-1984](https://resolver.kb.nl/resolve?urn=ddd:010593326:mpeg21:a0154) in het _Limburgsch dagblad_ waarin een optreden van het duo in _[De Blufshow](https://kindertvgeheugen.nl/series/serie-overzicht/5915-blufkwis-de-blufshow-de-1983-1987)_ van [Hans Kazàn](https://nl.wikipedia.org/wiki/Hans_Kaz%C3%A0n) wordt aangekondigd
+* Het artikel over [10 jaar Bassie & Adriaan](https://nl.wikipedia.org/wiki/10_jaar_Bassie_%26_Adriaan) verwijst naar een [krantenartikel van 19-10-1984](https://resolver.kb.nl/resolve?urn=ddd:010593326:mpeg21:a0154) in het _Limburgsch dagblad_ waarin een optreden van het duo in _[De Blufshow](https://kindertvgeheugen.nl/series/serie-overzicht/5915-blufkwis-de-blufshow-de-1983-1987)_ van [Hans Kazàn](https://nl.wikipedia.org/wiki/Hans_Kaz%C3%A0n) wordt aangekondigd.
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXX
 
