@@ -168,6 +168,12 @@ Alle data gebruikt voor de visualisaties en analyses in dit artikel is [beschikb
 
 Dit dataverhaal is gebruikt in de presentatie *[Wat betekenen DBNL en Wikipedia voor elkaar?](https://doi.org/10.5281/zenodo.14041711)* tijdens de [viering van 25-jarige bestaan van de DBNL](https://web.archive.org/web/20241105153730/https://www.dbnl.org/dbnldag/) op 8 november 2024. Deze presentatie is beschikbaar op [Zenodo](https://doi.org/10.5281/zenodo.14041711) en [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wat_betekenen_DBNL_en_Wikipedia_voor_elkaar_-_DBNLdag_-_8November2024.pdf).
 
+## Vergelijkbaar artikel over Delpher en Wikipedia
+
+<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen,%20januari%202025.html" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Het-gebruik-van-Delpher-in-Nederlandstalige-Wikipedia-artikelen_Jan2025.jpg" align="right" width="300" hspace="20" alt="Screenshot van het artikel 'Het gebruik van Delpher in Nederlandstalige Wikipedia-artikelen, januari 2025' op Github."/></a>
+
+In februari 2025 publiceerden we een soortgelijk artikel getiteld _[Het gebruik van Delpher in Nederlandstalige Wikipedia-artikelen, januari 2025](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen,%20januari%202025.html)_. Hierin bekijken we hoe vaak er in welke Wikipedia-artikelen verwezen wordt naar [Delpher](https://www.delpher.nl), en welke Delpher-pagina’s het vaakst worden geciteerd. Ook speuren we naar Wikipedia-artikelen die geheel of grotendeels op Delpher zijn gebaseerd.
+
 ## Over de auteur
 <img align="left" src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50" hspace="5" alt="Afbeelding van Olaf Janssen in Tel Aviv in 2018."/>
 
