@@ -13,37 +13,39 @@ _**Delpher** biedt toegang tot miljoenen gedigitaliseerde pagina's uit Nederland
 
 De belangrijkste punten (per 17 januari 2025) uit dit artikel zijn:
 
-<div style="background-color:#323d4d; box-sizing: border-box; padding: 10px;">
-
 * 15.569 verschillende Wikipedia-artikelen bevatten gezamenlijk 45.409 links naar 43.063 verschillende pagina’s in de Delpher.
-
 * Deze verwijzingen zijn voornamelijk naar kranten (38.530 URLs), gevolgd door boeken (4.923 URLs) en tijdschriften (1872 URLs). Zie [de details](#1-aantal-verwijzingen-naar-delpher-vanuit-wikipedia).
-
 * Het artikel [Lijst van rampen in Nederland](https://nl.wikipedia.org/wiki/Lijst_van_rampen_in_Nederland) bevat met 182 de meeste links naar Delpher, gevolgd door het artikel [Lijst van historische Nederlandse netnummers](https://nl.wikipedia.org/wiki/Lijst_van_historische_Nederlandse_netnummers), met 175 Delpher-URLs. Het artikel over [Jacques Anquetil](https://nl.wikipedia.org/wiki/Jacques_Anquetil) sluit met 130 verwijzingen de top 3 af. Zie [de details](#2-wikipedia-artikelen-met-de-meeste-links-naar-delpher).
-
 * Wanneer we de [Kranten homepage](https://www.delpher.nl/nl/kranten) en de [Delpher homepage](https://www.delpher.nl/) buiten beschouwing laten, wordt naar de illustratie _[Afstandsaanduidingen langs Rijkswegen](https://delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010237771:mpeg21:a0208)_ in de _Nieuwe Tilburgsche Courant_ van 12-02-1937 het vaakst, nl. vanuit 13 Wikipedia-artikelen verwezen. Op de tweede plek staat [pagina 2](https://resolver.kb.nl/resolve?urn=KBDDD02:000212802:mpeg21:p002) van de krant _Suriname_ van 02-09-1933 met verwijzingen in 12 artikelen. Zie [de details](#3-delpher-paginas-waarnaar-het-vaakst-verwezen-wordt-vanuit-wikipedia-artikelen).
-
 * Er zijn 61 Wikipedia-artikelen die (bijna) geheel op basis van Delpher-inhoud geschreven zijn. M.a.w.: zij danken hun bestaan voor een belangrijk deel aan Delpher. Zie [de details](#4-wikipedia-artikelen-die-grotendeels-op-delpher-gebaseerd-zijn).
-
 * De onderliggende [ruwe data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_20250117) waar dit artikel gebruik van maakt is beschikbaar op GitHub.
-
-</div>
 
 ## Links naar Delpher in Nederlandstalige Wikipedia-artikelen 
 
-De Nederlandstalige Wikipedia maakt veelvuldig gebruik van informatie uit de Delpher om in artikelen te verwerken. Vanuit zo'n lemma wordt dan door middel van één of meerdere URLs terugverwezen naar de gebruikte broninformatie in de Delpher. Dit kunnen bijvoorbeeld links zijn naar een kranteenatiekel, hel boeke, radiobulletinf ... profiel van een auteur, naar een gedigitaliseerd boek of naar een specifieke artikel in een tijdschrift. Een aantal voorbeelden:
+De Nederlandstalige Wikipedia maakt veelvuldig gebruik van informatie uit Delpher om in artikelen te verwerken. Vanuit zo'n lemma wordt dan door middel van één of meerdere URLs terugverwezen naar de gebruikte broninformatie in de Delpher. Dit kan bijvoorbeeld een link zijn naar een specifiek krantenartikel, een gedigitaliseerd boek, een specifieke pagina in een tijdschrift, of een bepaalde zoekopdracht in radiobulletins. Laten we een aantal voorbeelden bekijken:
 
-### Voorbeelden Kranten
+_In kranten:_
+ 
+* Het artikel [Aethernieuws](https://nl.wikipedia.org/wiki/Aethernieuws) verwijst naar een [overzicht van 67 afleveringen](https://www.delpher.nl/nl/kranten/results/index?page=1&cql%5B%5D=ppn%3D046286330&coll=dddtitel) op Delpher van dit verzetsblad uit de Tweede Wereldoorlog.
 
-- (titels, afleveringen, pagina's en artikelen)
-- of resultaten van zoekactiesi n kranten via uitergebreid zoeken
-- Of PDF's OCR, jpg's, etc. van krantenpagina's
+* In het lemma over [Abraham Asscher (1884-1926)](https://nl.wikipedia.org/wiki/Abraham_Asscher_(1884-1926)) staat een link naar een [PDF van de aflevering van 14 maart 1919](https://resolver.kb.nl/resolve?urn=ddd:010859722:mpeg21:pdf) van het _Nieuw Israëlietisch Weekblad_, waarin een artikel over Opperrabbijn A. Asscher te lezen is.
 
-### Voorbeelden boeken      
+* [Pagina 8 van de _Amigoe_ van 04-07-1985](https://resolver.kb.nl/resolve?urn=ddd:010643132:mpeg21:p008) bevat informatie (over een expositie van Surinaamse kunstenaars in Curaçao) die in het artikel over de Amsterdamse decorontwerper, tekenaar, schilder en journalist [Nic Loning](https://nl.wikipedia.org/wiki/Nic_Loning) is verwerkt.
 
-### Voorbeelden tijdscriften
+* Het artikel over [10 jaar Bassie & Adriaan](https://nl.wikipedia.org/wiki/10_jaar_Bassie_%26_Adriaan) verwijst naar een [krantenartikel van 19-10-1984](https://resolver.kb.nl/resolve?urn=ddd:010593326:mpeg21:a0154) in het _Limburgsch dagblad_ waarin een optreden van het duo in _[De Blufshow](https://kindertvgeheugen.nl/series/serie-overzicht/5915-blufkwis-de-blufshow-de-1983-1987)_ van [Hans Kazàn](https://nl.wikipedia.org/wiki/Hans_Kaz%C3%A0n) wordt aangekondigd
 
-### Voorbeelden Radiobulletins
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ * resultaten van zoekactiesi n kranten via uitergebreid zoeken Geheime Dienst Nederland	https://www.delpher.nl/nl/kranten/results?query=miki+max+rechtbank+utrecht&coll=ddd&sortfield=date
+
+* OCR, Nico Bolkestein	https://resolver.kb.nl/resolve?urn=ddd:010628816:mpeg21:a0108:ocr
+
+
+_In boeken_
+
+_In tijdschriften_
+
+_In radiobulletins_
 
 * In het artikel over [André Breton](https://nl.wikipedia.org/wiki/Andr%C3%A9_Breton#:~:text=Dbnl-profiel) staat onder de portretfoto een link naar [zijn DBNL-profiel](https://www.dbnl.org/auteurs/auteur.php?id=bret007). 
 * Het artikel over [Geertruida Bosboom-Toussaint](https://nl.wikipedia.org/wiki/Geertruida_Bosboom-Toussaint#:~:text=Gedigitaliseerde%20versies%20van%20Bosboom%2DToussaints%27%20boeken) verwijst naar meerdere gedigitaliseerde boeken van haar op DBNL , bijvoorbeeld *[Graaf Pepoli, de roman van een rijk edelman](https://www.dbnl.org/titels/titel.php?id=bosb002graa03)*. Bovendien bevat de uitklaplijst onder [Bibliografische informatie](https://nl.wikipedia.org/wiki/Geertruida_Bosboom-Toussaint#:~:text=Bibliografische%20informatie) onder *bosb002* een verwijzing naar [haar DBNL-auteursprofiel](https://www.dbnl.org/auteurs/auteur.php?id=bosb002).
