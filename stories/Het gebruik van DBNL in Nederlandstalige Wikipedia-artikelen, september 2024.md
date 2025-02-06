@@ -14,7 +14,7 @@ De belangrijkste punten (per 5 september 2024) uit dit artikel zijn:
 * 18.458 verschillende Wikipedia-artikelen bevatten gezamenlijk 30.768 links naar 27.875 verschillende pagina's in de DBNL. 
 * Deze verwijzingen zijn voornamelijk naar DBNL-auteurspagina's (16.591 URLs), gevolgd door teksten (13.835 URLs) en titels (240 URLs).
 * Het artikel [De groote schouburgh der Nederlantsche konstschilders en schilderessen](https://nl.wikipedia.org/wiki/De_groote_schouburgh_der_Neder%C2%ADlantsche_konstschilders_en_schilderessen) bevat met 442 de meeste links naar de DBNL, gevolgd door het artikel [Schilder-boeck](https://nl.wikipedia.org/wiki/Schilder-boeck), met 70 DBNL-URLs. 
-* Naar de [inhoudsopgave van het *Algemeen letterkundig lexicon*](https://www.dbnl.org/tekst/dela012alge01_01/) wordt vanuit Wikipedia maar liefst 229 keer verwezen, met op de tweede plek de PDF van *[De eerste Surinaamse sportencyclopedie (1893-1988) ](https://www.dbnl.org/tekst/stut004eers01_01/stut004eers01_01.pdf)* van Ricky W. Stutgard, met 147 verwijzingen.
+* Naar de [inhoudsopgave van het *Algemeen letterkundig lexicon*](https://www.dbnl.org/tekst/dela012alge01_01/) wordt vanuit maar liefst 229 Wikipedia-artikelen verwezen, met op de tweede plek de PDF van *[De eerste Surinaamse sportencyclopedie (1893-1988) ](https://www.dbnl.org/tekst/stut004eers01_01/stut004eers01_01.pdf)* van Ricky W. Stutgard, met een URL hiernaar in 147 artikelen.
 * Er zijn 17 Wikipedia-artikelen die (bijna) geheel op basis van DBNL-inhoud geschreven zijn. M.a.w.: zij danken hun bestaan voor een belangrijk deel aan de DBNL. 
  * De onderliggende [ruwe data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905) waar dit artikel gebruik van maakt is beschikbaar op GitHub.
 
@@ -123,7 +123,7 @@ Onderstaande grafiek toont de Top 20 van die artikelen. Zo bevatte [De groote sc
 
 Vervolgens kunnen we ook kijken naar de in totaal 27.875 unieke DBNL-pagina’s waar Wikipedia-artikelen op peildatum 5 september 2024 naar verwezen. De staafgrafiek hieronder laat de Top 20 van deze DBNL-pagina’s zien. 
 
-De [inhoudsopgave van het *Algemeen letterkundig lexicon*](https://www.dbnl.org/tekst/dela012alge01_01/) staat met 229 verwijzingen bovenaan deze lijst, terwijl er bijvoorbeeld 17 keer verwezen wordt naar het lemma over de [taekwondo-grootmeester
+De [inhoudsopgave van het *Algemeen letterkundig lexicon*](https://www.dbnl.org/tekst/dela012alge01_01/) staat met verwijzingen vanuit 229 Wikipedia-artikelen bovenaan deze lijst, terwijl er bijvoorbeeld in 17 artikelen verwezen wordt naar het lemma over de [taekwondo-grootmeester
 Eric Lie](https://www.dbnl.org/tekst/hoen042spor03_01/hoen042spor03_01_0038.php) in het derde deel van *[Onze sporthelden](https://www.dbnl.org/tekst/hoen042spor03_01/index.php)* van Guno Hoen uit 1999. 
 
  <div style="min-height:643px" id="datawrapper-vis-oek1t"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oek1t/embed.js" charset="utf-8" data-target="#datawrapper-vis-oek1t"></script><noscript><img src="https://datawrapper.dwcdn.net/oek1t/full.png" alt="Barchart van de Top 20 van pagina's in DBNL waarnaar het vaakst verwezen wordt vanuit de Nederlandstalige Wikipedia. Peildatum is 5 september 2024." /></noscript></div> 
