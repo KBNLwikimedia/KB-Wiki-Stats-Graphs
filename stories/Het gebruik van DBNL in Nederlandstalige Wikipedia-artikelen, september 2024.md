@@ -31,7 +31,7 @@ De Nederlandstalige Wikipedia maakt veelvuldig gebruik van informatie uit de DBN
 <br clear="all"/>
 
 <a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg" align="left" width="800" hspace="30" alt="Illustratie van hoe informatie uit de DBNL verwerkt wordt in de Nederlandstalige Wikipedia."/></a>
-<br clear="all"/><sub>*Illustratie van hoe informatie uit de DBNL verwerkt wordt in de Nederlandstalige Wikipedia. Screenshot november 2024. Zie de tekst hierboven voor nadere uitleg. (Klik voor vergroting)*</sub>
+<br clear="all"/><sub>*Illustratie van hoe informatie uit de DBNL verwerkt wordt in de Nederlandstalige Wikipedia. Screenshot november 2024. Zie de tekst hierboven voor nadere uitleg. (Klik voor vergroting).<br/>Licentie beeld: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.nl" target="_blank">CC-BY-SA 4.0</a> / Olaf Janssen, KB nationale bibliotheek.*</sub>
 
 ## Vijf hoofdgroepen van DBNL-verwijzingen
 
