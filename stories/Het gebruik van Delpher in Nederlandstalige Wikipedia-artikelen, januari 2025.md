@@ -154,6 +154,8 @@ Zo zien we bijvoorbeeld dat er (op 5 september 2024)
 
 ### 2) Wikipedia-artikelen met de meeste links naar Delpher
 
+><big>***15.569 verschillende Wikipedia-artikelen bevatten gezamenlijk 45.409 links naar 43.063 verschillende pagina’s in de Delpher.***</big>
+
 Wanneer we iets dieper op [de data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_20250117) inzoomen zien we dat er op 17 januari 2025 in totaal 15.569 verschillende Wikipedia-artikelen waren die één of meerdere links (URLs) naar Delpher bevatten. 
 
 Onderstaande grafiek toont de Top 25 van die artikelen. Zo bevat de [Lijst van rampen in Nederland](https://nl.wikipedia.org/wiki/Lijst_van_rampen_in_Nederland) maar liefst 182 verwijzingen naar veelal krantenberichten, en het artikel over de [Geschiedenis van Feyenoord](https://nl.wikipedia.org/wiki/Geschiedenis_van_Feyenoord) bevat er 63, tevens meestal naar krantenberichten.
@@ -164,7 +166,6 @@ Onderstaande grafiek toont de Top 25 van die artikelen. Zo bevat de [Lijst van r
 <br clear="all"/>
 
 ### 3) Delpher-pagina's waarnaar het vaakst verwezen wordt vanuit Wikipedia-artikelen
-
 
 Uileg geven over wat we in dit kader onder pagina's verstaan.
 
