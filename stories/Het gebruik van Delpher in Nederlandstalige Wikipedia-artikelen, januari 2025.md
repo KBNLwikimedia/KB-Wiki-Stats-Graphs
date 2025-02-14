@@ -9,7 +9,7 @@ Dit artikel is ook [beschikbaar als PDF](Het%20gebruik%20van%20Delpher%20in%20Ne
 
 _**Delpher** biedt toegang tot miljoenen gedigitaliseerde pagina's uit Nederlandse historische kranten, boeken en tijdschriften. Het is een veelgebruikte bron in de Nederlandstalige Wikipedia. In dit artikel bekijken we hoe vaak er in welke Wikipedia-artikelen verwezen wordt naar [Delpher](https://www.delpher.nl), en welke Delpher-pagina’s het vaakst worden geciteerd. Ook speuren we naar Wikipedia-artikelen die geheel of grotendeels op Delpher zijn gebaseerd._
 
-><big><span style="color:#000">***Er zijn 61 Wikipedia-artikelen die (bijna) geheel op basis van Delpher geschreven zijn. Zonder Delpher zouden het artikel [Vuilnisman](https://nl.wikipedia.org/wiki/Vuilnisman) niet bestaan hebben.***</span></big>
+><big>***Er zijn 61 Wikipedia-artikelen die (bijna) geheel op basis van Delpher geschreven zijn. Zonder Delpher zouden het artikel [Vuilnisman](https://nl.wikipedia.org/wiki/Vuilnisman) niet bestaan hebben.***</span></big>
 
 De belangrijkste punten (per 17 januari 2025) uit dit artikel zijn:
 
