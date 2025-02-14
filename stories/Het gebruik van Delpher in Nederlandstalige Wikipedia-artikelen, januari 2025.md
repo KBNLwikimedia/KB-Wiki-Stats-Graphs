@@ -9,6 +9,8 @@ Dit artikel is ook [beschikbaar als PDF](Het%20gebruik%20van%20Delpher%20in%20Ne
 
 _**Delpher** biedt toegang tot miljoenen gedigitaliseerde pagina's uit Nederlandse historische kranten, boeken en tijdschriften. Het is een veelgebruikte bron in de Nederlandstalige Wikipedia. In dit artikel bekijken we hoe vaak er in welke Wikipedia-artikelen verwezen wordt naar [Delpher](https://www.delpher.nl), en welke Delpher-pagina’s het vaakst worden geciteerd. Ook speuren we naar Wikipedia-artikelen die geheel of grotendeels op Delpher zijn gebaseerd._
 
+><big>*Er zijn 61 Wikipedia-artikelen die (bijna) geheel op basis van Delpher geschreven zijn. Zonder Delpher zouden ze niet bestaan hebben.*</big>
+
 De belangrijkste punten (per 17 januari 2025) uit dit artikel zijn:
 
 * 15.569 verschillende Wikipedia-artikelen bevatten gezamenlijk 45.409 links naar 43.063 verschillende pagina’s in de Delpher.
@@ -227,7 +229,7 @@ Voorts zien we dat er meerdere artikelen volledig op Delpher (veelal kranten) ge
 * [Nederlands-Indische kentekens](https://nl.wikipedia.org/wiki/Nederlands-Indische_kentekens)
 * [Lijst van burgemeesters van Aengwirden](https://nl.wikipedia.org/wiki/Lijst_van_burgemeesters_van_Aengwirden)
 
-Het eerder genoemde artikel uit 2020 bevat een vergelijkbaar [overzicht van 193 Wikipedia-artikelen](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html#for-delpher) die geheel of grotendeels op DBNL gebaseerd zijn. Destijds zijn de volgende drempelwaarden gekozen: *Number of external links >= 6* , *Link ratio >= 0.75*. Dit leverde een stuk bredere artikelselectie op dan met de nu gehanteerde drempelwaarden van 20 en 0.8. Het is interessant - en tevens een oefening voor de lezer - om de overeenkomsten en verschillen te zoeken tussen die tabel en de lijst van 61 artikelen hierboven.
+Het eerder genoemde artikel uit 2020 bevat een vergelijkbaar [overzicht van 193 Wikipedia-artikelen](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html#for-delpher) die geheel of grotendeels op DBNL gebaseerd zijn. Destijds zijn de volgende drempelwaarden gekozen: *Number of external links >= 6* , *Link ratio >= 0.75*. Dit leverde een stuk bredere artikelselectie op dan met de nu gehanteerde drempelwaarden van 20 en 0.80. Het is interessant - en tevens een oefening voor de lezer - om de overeenkomsten en verschillen te zoeken tussen die tabel en de lijst van 61 artikelen hierboven.
 
 ## Ruwe data
 Alle data gebruikt voor de visualisaties en analyses in dit artikel is [beschikbaar op Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_20250117). Je kunt het Excel-bestand ook [direct downloaden](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/Delpher_20250117/WPNLarticlesAndDelpherUrls_20250117_Delpher.xlsx).
