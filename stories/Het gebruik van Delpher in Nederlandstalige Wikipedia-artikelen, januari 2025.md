@@ -55,26 +55,14 @@ _In radiobulletins_
 * In het artikel over de [Mont Blanctunnel](https://nl.wikipedia.org/wiki/Mont_Blanctunnel)	wordt verwezen naar het ANP radionieuwsbericht over [de inwijding Mont Blanctunnel](https://resolver.kb.nl/resolve?urn=anp:1962:09:15:54) op  15 september 1962.
 * Het [Middelheimmuseum](https://nl.wikipedia.org/wiki/Middelheimmuseum) is een Antwerps openluchtmuseum voor moderne en hedendaagse beeldhouwkunst. Op 25-05-1957 vond daar de plechtige opening van de 4e [Biënnale voor beeldhouwkunst](https://nl.wikipedia.org/wiki/Middelheimmuseum#Lijst_van_bi%C3%ABnnales) plaats, aldus [een ANP nieuwsbericht](https://www.delpher.nl/nl/radiobulletins/view?query=middelheim&coll=anp&identifier=anp:1957:05:25:126:mpeg21&resultsidentifier=anp:1957:05:25:160:mpeg21&rowid=5) van die dag.
 
-
-
-
-
-
-<br clear="all"/>
-
-
-
 ## Materiaalsoorten in Delpher
 
-Zijn er op WPNL Delpher-sjablonen??
+Wanneer we de diverse soorten Delpher-verwijzingen in Wikipedia systematisch proberen te groeperen, komen er (bij toverslag, je verwacht het niet, surprise-surprise! :open_mouth: ) vijf materiaalsoorten naar voren: 
 
-Als we deze diverse soorten verwijzingen in Wikipedia proberen te groeperen, komen er vijf materiaalsoorten naar voren: 
-
-voor Delpher: boeken (basis en google) , kranten (basis en externe), tijdschriften, radiobulletins
 
 ### 1) Kranten 
 
-
+kranten (basis en externe),
 
 In deze URLs komt het patroon _/tekst/_ voor, typisch met de syntax *www.dbnl.org/tekst/*. Komt overeen met de hierboven genoemde groep 
 https://resolver.kb.nl/resolve?urn=ddd:011015958:mpeg21:a0385
