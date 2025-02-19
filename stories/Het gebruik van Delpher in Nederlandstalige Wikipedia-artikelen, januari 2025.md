@@ -9,7 +9,7 @@ Dit artikel is ook [beschikbaar als PDF](Het%20gebruik%20van%20Delpher%20in%20Ne
 
 _**Delpher** biedt toegang tot miljoenen gedigitaliseerde pagina's uit Nederlandse historische kranten, boeken en tijdschriften. Het is een veelgebruikte bron in de Nederlandstalige Wikipedia. In dit artikel bekijken we hoe vaak er in welke Wikipedia-artikelen verwezen wordt naar [Delpher](https://www.delpher.nl), en welke Delpher-pagina’s het vaakst worden geciteerd. Ook speuren we naar Wikipedia-artikelen die geheel of grotendeels op Delpher zijn gebaseerd._
 
-><big>***Er zijn 61 Wikipedia-artikelen die (bijna) geheel op basis van Delpher geschreven zijn. Zonder Delpher zouden het artikel [Vuilnisman](https://nl.wikipedia.org/wiki/Vuilnisman) niet bestaan hebben.***</big>
+><big><b><em>Er zijn vele Wikipedia-artikelen die (bijna) geheel op basis van Delpher geschreven zijn. Zonder Delpher zou het artikel [Vuilnisman](https://nl.wikipedia.org/wiki/Vuilnisman) niet hebben bestaan.</em></b></big>
 
 De belangrijkste punten (per 17 januari 2025) uit dit artikel zijn:
 
@@ -30,30 +30,28 @@ _In kranten:_
 * In het lemma over [Abraham Asscher (1884-1926)](https://nl.wikipedia.org/wiki/Abraham_Asscher_(1884-1926)) staat een link naar een [PDF van de aflevering van 14 maart 1919](https://resolver.kb.nl/resolve?urn=ddd:010859722:mpeg21:pdf) van het _Nieuw Israëlietisch Weekblad_, waarin een artikel over Opperrabbijn A. Asscher te lezen is.
 * [Pagina 8 van de _Amigoe_ van 04-07-1985](https://resolver.kb.nl/resolve?urn=ddd:010643132:mpeg21:p008) bevat informatie (over een expositie van Surinaamse kunstenaars in Curaçao) die in het artikel over de Amsterdamse decorontwerper, tekenaar, schilder en journalist [Nic Loning](https://nl.wikipedia.org/wiki/Nic_Loning) is verwerkt.
 * Het artikel over [10 jaar Bassie & Adriaan](https://nl.wikipedia.org/wiki/10_jaar_Bassie_%26_Adriaan) verwijst naar een [krantenartikel van 19-10-1984](https://resolver.kb.nl/resolve?urn=ddd:010593326:mpeg21:a0154) in het _Limburgsch dagblad_ waarin een optreden van het duo in _[De Blufshow](https://kindertvgeheugen.nl/series/serie-overzicht/5915-blufkwis-de-blufshow-de-1983-1987)_ van [Hans Kazàn](https://nl.wikipedia.org/wiki/Hans_Kaz%C3%A0n) wordt aangekondigd.
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXX
-
- * resultaten van zoekactiesi n kranten via uitergebreid zoeken Geheime Dienst Nederland	https://www.delpher.nl/nl/kranten/results?query=miki+max+rechtbank+utrecht&coll=ddd&sortfield=date
-
-* OCR, Nico Bolkestein	https://resolver.kb.nl/resolve?urn=ddd:010628816:mpeg21:a0108:ocr
-
+* In maart 1991 vechten Joep Jansen (alias _Max_) en Willem Schoemaker (alias _Miki_) voor de Utrechtse rechtbank uit wie de ware oprichter van de WO2-spionagegroep [Geheime Dienst Nederland](https://nl.wikipedia.org/wiki/Geheime_Dienst_Nederland) zou zijn. Diverse kranten [schrijven hierover](https://www.delpher.nl/nl/kranten/results?query=miki+max+rechtbank+utrecht&coll=ddd&sortfield=date).
+* In het artikel over [Nico Bolkestein](https://nl.wikipedia.org/wiki/Nico_Bolkestein) wordt verwezen naar de [platte tekst van een krantenartikel](https://resolver.kb.nl/resolve?urn=ddd:010628816:mpeg21:a0108:ocr#:~:text=bolkestein) waarin het overlijden van deze politicus en PvdA-bestuurder genoemd wordt. Het is niet meteen manifest uit welk krantenartikel deze tekst afkomstig is, maar na enig zoekwerk blijkt dit de personaliarubriek in [_Nederlands dagblad_ van 12-1993](https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010628816:mpeg21:a0108) te zijn. 
 
 _In boeken_
 
+<a href="https://resolver.kb.nl/resolve?urn=MMKB06:000002985:00019"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Illustratie Ortman-pag19-Onmaatschappelijke voorkeur-1938.jpg" align="left" width="200" hspace="30" alt="Illustratie van een rokende man in een stoel op het strand door Theo Ortmann in het boek Onmaatschappelijke voorkeur van Mary Dorna uit 1938."/></a><sub>*Illustratie door Theo Ortmann in het boek [Onmaatschappelijke voorkeur](https://resolver.kb.nl/resolve?urn=MMKB06:000002985) van Mary Dorna uit 1938. - [Bron](https://resolver.kb.nl/resolve?urn=MMKB06:000002985:00019), publiek domein*</sub>
+
+* In het artikel [Studentencorps](https://nl.wikipedia.org/wiki/Studentencorps#Studentensoci%C3%ABteit) wordt uitgelegd wat de oudste nog bestaande studentensociëteit in Nederland is. Daarbij wordt gebruik gemaakt van het boek _[Studentenleven](https://www.delpher.nl/nl/boeken1/gview?coll=boeken1&identifier=a91WAAAAcAAJ)_ van [Klikspaan](https://nl.wikipedia.org/wiki/Johannes_Kneppelhout) uit 1844. 
+* De Duitse kunstenaar [Theo Ortmann](https://nl.wikipedia.org/wiki/Theo_Ortmann) (1902-1941) heeft in 1938 het boek _Onmaatschappelijke voorkeur_ van [Mary Dorna](https://nl.wikipedia.org/wiki/Mary_Dorna) geïllustreerd. Op pagina 13 maakte hij een [illustratie van een rokende man in een stoel op het strand](https://resolver.kb.nl/resolve?urn=MMKB06:000002985:00019).<br clear="right"/>
+* Bij een uitleg over [voormalige Nederlandse loodsvlaggen](https://nl.wikipedia.org/wiki/Loods_(scheepvaart)#Voormalige_Nederlandse_loodsvlaggen) wordt gebruik gemaakt van het [zoekwoord 'loodsvlag'](https://www.delpher.nl/nl/boeken/view?coll=boeken&identifier=MMKB06:000008238:00021&objectsearch=loodsvlag) in het boek _Jongens en techniek, Schepen-havens-kranen-kanalen-sluizen-bruggen-centrifugaalpompen_ uit 1938. 
+* In het lemma over de [Doelisten](https://nl.wikipedia.org/wiki/Doelistenbeweging) - een 18e eeuwse prinsgezinde burgerbeweging in Amsterdam - staat een literatuurverwijzing naar een [PDF van het boek _Revolutiedagen in Amsterdam_](https://resolver.kb.nl/resolve?urn=MMKB06:000001542:pdf) van P.C.A. Geyl uit 1936.
+
+
 _In tijdschriften_
+* 
 
 _In radiobulletins_
+* 
 
-* In het artikel over [André Breton](https://nl.wikipedia.org/wiki/Andr%C3%A9_Breton#:~:text=Dbnl-profiel) staat onder de portretfoto een link naar [zijn DBNL-profiel](https://www.dbnl.org/auteurs/auteur.php?id=bret007). 
-* Het artikel over [Geertruida Bosboom-Toussaint](https://nl.wikipedia.org/wiki/Geertruida_Bosboom-Toussaint#:~:text=Gedigitaliseerde%20versies%20van%20Bosboom%2DToussaints%27%20boeken) verwijst naar meerdere gedigitaliseerde boeken van haar op DBNL , bijvoorbeeld *[Graaf Pepoli, de roman van een rijk edelman](https://www.dbnl.org/titels/titel.php?id=bosb002graa03)*. Bovendien bevat de uitklaplijst onder [Bibliografische informatie](https://nl.wikipedia.org/wiki/Geertruida_Bosboom-Toussaint#:~:text=Bibliografische%20informatie) onder *bosb002* een verwijzing naar [haar DBNL-auteursprofiel](https://www.dbnl.org/auteurs/auteur.php?id=bosb002).
-* Het lemma over [Arthur van Schendel](https://nl.wikipedia.org/wiki/Arthur_van_Schendel_(schrijver)) bevat onder [Externe links](https://nl.wikipedia.org/wiki/Arthur_van_Schendel_(schrijver)#:~:text=Schendel.%201936-,Externe%20links) de regel *[Biografieën, werken en teksten](https://www.dbnl.org/auteurs/auteur.php?id=sche034) bij de [Digitale Bibliotheek voor de Nederlandse Letteren](https://nl.wikipedia.org/wiki/Digitale_Bibliotheek_voor_de_Nederlandse_Letteren)*.
-* In het Wikipedia-artikel [Encyclopedie](https://nl.wikipedia.org/wiki/Encyclopedie) staat in de voetnoeten een verwijzing naar het lemma *[Encyclopedie-1](https://www.dbnl.org/tekst/dela012alge01_01/dela012alge01_01_00502.php)* in het *[Algemeen letterkundig lexicon](https://www.dbnl.org/tekst/dela012alge01_01/)* op DBNL.
-* Het artikel over [Liesbeth List](https://nl.wikipedia.org/wiki/Liesbeth_List) legt aan de hand van een [levenschets van de zangers op DBNL](https://www.dbnl.org/tekst/_nee003200201_01/_nee003200201_01_0032.php#:~:text=En%20ineens%20was%20daar%20de%20comeback%20van%20Liesbeth%20List%2C%20bewerkstelligd%20door%20Frank%20Boeijen) uit dat ze in 1994, na een periode van afnemend succes, [opnieuw op de kaart](https://nl.wikipedia.org/wiki/Liesbeth_List#:~:text=Chanson%20Knokkefestival%20zette%20haar%20carri%C3%A8re%20op%20gang%20Liesbeth%20List%3A%20een%20voorlopig%20leven%20met%20vallen%20en%20opstaan) werd gezet door Frank Boeijen. 
-* Het artikel [Basisbibliotheek - Duizend sleutelteksten uit de cultuurgeschiedenis van de Lage Landen](https://nl.wikipedia.org/wiki/Basisbibliotheek) bestaat uit een selectie van de 1000 werken uit de Nederlandse literatuur die belangrijk zijn voor het Nederlandstalige erfgoed, in 2008 [gepubliceerd op de DBNL](https://www.dbnl.org/basisbibliotheek/index.php?o=ca). 
 <br clear="all"/>
 
-<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/dbnl_in_wikipedia.jpg" align="left" width="800" hspace="30" alt="Illustratie van hoe informatie uit de DBNL verwerkt wordt in de Nederlandstalige Wikipedia."/></a>
-<br clear="all"/><sub>*Illustratie van hoe informatie uit de DBNL verwerkt wordt in de Nederlandstalige Wikipedia. Screenshot november 2024. Zie de tekst hierboven voor nadere uitleg. (Klik voor vergroting)*</sub>
+
 
 ## Materiaalsoorten in Delpher
 
