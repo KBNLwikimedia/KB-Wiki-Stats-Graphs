@@ -55,10 +55,38 @@ _In radiobulletins_
 * In het artikel over de [Mont Blanctunnel](https://nl.wikipedia.org/wiki/Mont_Blanctunnel)	wordt verwezen naar het ANP radionieuwsbericht over [de inwijding Mont Blanctunnel](https://resolver.kb.nl/resolve?urn=anp:1962:09:15:54) op  15 september 1962.
 * Het [Middelheimmuseum](https://nl.wikipedia.org/wiki/Middelheimmuseum) is een Antwerps openluchtmuseum voor moderne en hedendaagse beeldhouwkunst. Op 25-05-1957 vond daar de plechtige opening van de 4e [Biënnale voor beeldhouwkunst](https://nl.wikipedia.org/wiki/Middelheimmuseum#Lijst_van_bi%C3%ABnnales) plaats, aldus [een ANP nieuwsbericht](https://www.delpher.nl/nl/radiobulletins/view?query=middelheim&coll=anp&identifier=anp:1957:05:25:126:mpeg21&resultsidentifier=anp:1957:05:25:160:mpeg21&rowid=5) van die dag.
 
-## Materiaalsoorten in Delpher
 
-Wanneer we de diverse soorten Delpher-verwijzingen in Wikipedia systematisch proberen te groeperen, komen er (bij toverslag, je verwacht het niet, surprise-surprise! :open_mouth: ) vijf materiaalsoorten naar voren: 
+## De structuur van Delpher-URLs
+Voordat we een volledige analyse van Delpher-verwijzingen in Wikipedia kunnen maken, is het handig om eerst de structuur van Delpher-URLs beter te begrijpen. Deze kunnen in een aantal logische groepen worden onderverdeeld:
 
+1) **Kranten-URLs**: dit zijn URLs van krantentitels, -afleveringen, -pagina's en -artikelen, of bijvoorbeeld full-text en/of samengestelde zoekopdrachten, PDF's van afleveringen of de platte tekst (OCR) van een artikel. Dit kun je zien wanneer je de URLs van bovenstaande voorbeelden inspecteert. 
+Dit materiaal is te vinden onder de ingang [Kranten 1618-1995 (Basiscollectie)](https://www.delpher.nl/nl/kranten) en begint typisch met de syntax _http(s)://www.delpher.nl/nl/kranten/_ danwel _http(s)://resolver.kb.nl/resolve?urn=_, zie hiervoor de uitgebreidere uitleg hierna. 
+
+
+2) **Boeken-URLs**: dit zijn URLs van boektitels, -pagina's of -illustraties, of bijvoorbeeld full-text en/of samengestelde zoekopdrachten, PDF's van hele boeken of de platte tekst (OCR) van een heel boek. Dit kun je zien wanneer je de URLs van bovenstaande voorbeelden inspecteert. 
+Dit materiaal is te vinden onder twee ingangen:
+   * [Boeken 17e t/m 20e eeuw (Basiscollectie)](https://www.delpher.nl/nl/boeken/) waarbij URLs typische beginnen met _http(s)://www.delpher.nl/nl/boeken/_ of met _http(s)://resolver.kb.nl/resolve?urn=_ (zie uitleg hieronder)
+   * [Boeken Google](https://www.delpher.nl/nl/boeken1/) waarbij de URL begint met _http(s)://www.delpher.nl/nl/boeken1/_.
+
+
+3) **Tijdschriften-URLs**: 
+http(s)://www.delpher.nl/nl/tijdschriften/
+
+[Tijdschriften 19e en 20e eeuw ]
+
+
+4) **Radiobulletins-URLs**: 
+http(s)://www.delpher.nl/nl/radiobulletins/
+
+Radiobulletins van het ANP
+
+
+5) **Overige URLs (statische pagina's)**: 
+http(s)://www.delpher.nl/nl/.. rest 
+
+
+
+Wanneer we de diverse soorten Delpher-verwijzingen in Wikipedia systematisch proberen te groeperen, komen er (bij toverslag) vijf materiaalsoorten naar voren: 
 
 ### 1) Kranten 
 
@@ -68,48 +96,14 @@ In deze URLs komt het patroon _/tekst/_ voor, typisch met de syntax *www.dbnl.or
 https://resolver.kb.nl/resolve?urn=ddd:011015958:mpeg21:a0385
 https://delpher.nl/nl/kranten/view?coll=ddd&identifier=ABCDDD:010831738:mpeg21:p019
 
-<a href="https://nl.wikipedia.org/wiki/Albert_Verwey" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/albert_verwey_wikipedia_jan2025.jpg" align="right" width="400" hspace="20" alt="Screenshot van het Nederlandstalige Wikipedia-artikel over de Nederlandse auteur Albert_Verwey (1865–1937)"/></a>
-
 De meest voorkomende verwijzingen zijn die naar [DBNL-auteurspagina's](https://www.dbnl.org/zoek/solr/auteurZoek.php?zoek=&prefilter=auteurs&subform_values=&f_id=&size=10&sort=relevantie&weergave=lijst), bijvoorbeeld [die van Albert Verwey](https://www.dbnl.org/auteurs/auteur.php?id=verw008). Dit soort pagina's bevat typisch overzichten van oorspronkelijke publicaties, teksten en vertalingen van de auteur, biografieën en secundaire literatuur over de auteur, of brieven die geschreven of ontvangen zijn door de auteur. 
-Als we kijken naar het [Wikipedia-artikel over Albert Verwey](https://nl.wikipedia.org/wiki/Albert_Verwey), dan zien we dat er op drie plaatsen naar zijn DBNL-auteurspagina wordt verwezen: 
-
-a) Onder de portretfoto staat een link genaamd _[Dbnl-profiel](https://www.dbnl.org/auteurs/auteur.php?id=verw008)_. Als we in de [broncode van het artikel](https://nl.wikipedia.org/w/index.php?title=Albert_Verwey&action=edit) kijken, dan zien we dat deze link wordt gemaakt met behulp van het [Sjabloon:Infobox auteur](https://nl.wikipedia.org/wiki/Sjabloon:Infobox_auteur), waar in het veld *dbnl* de waarde *verw008* is ingevuld. 
-
-b) In de lijst onder *Externe links* staat de regel *[Biografieën, werken en teksten](https://www.dbnl.org/auteurs/auteur.php?id=verw008) bij de [Digitale Bibliotheek voor de Nederlandse Letteren (dbnl)](https://nl.wikipedia.org/wiki/Digitale_Bibliotheek_voor_de_Nederlandse_Letteren)*. Deze regel [wordt gemaakt](https://nl.wikipedia.org/w/index.php?title=Albert_Verwey&action=edit&section=12) met behulp van het [Sjabloon:Link dbnl auteur](https://nl.wikipedia.org/wiki/Sjabloon:Link_dbnl_auteur), waarin de waarde *id=verw008* is ingevuld.
-
-c) Helemaal onderaan het artikel staat een uitklaplijst met [Bibliografische informatie](https://nl.wikipedia.org/wiki/Albert_Verwey#:~:text=Bibliografische%20informatie). Als je deze openklapt, zie je daar een lijst met identifiers van Verwey in allerlei (bibliografische) databases en websites, waaronder de DBNL, met als waarde *[verw008](https://www.dbnl.org/auteurs/auteur.php?id=verw008)*. Deze lijst wordt gegenereerd door het [Sjabloon:Bibliografische informatie](https://nl.wikipedia.org/wiki/Sjabloon:Bibliografische_informatie), dat op zijn beurt weer gebruik maakt van de [Module:Authority control](https://nl.wikipedia.org/wiki/Module:Authority_control). Hierin zit [een stukje code](https://nl.wikipedia.org/wiki/Module:Authority_control#:~:text=function%20p.dbnlLink(%20id%20)) dat de URL naar de DBNL-auteurspagina van Verwey genereert.
-
-Bij al deze sjablonen wordt de waarde *verw008* uit het [Wikidata-item over Albert Verwey](https://www.wikidata.org/wiki/Q586323#P723) gehaald. 
 
 Het voordeel van het gebruik van deze sjablonen is dat ze zorgen voor een uniforme opmaak van artikelen over auteurs en andere personen die in de DBNL voorkomen.
-
-### 2) Teksten 
-De tweede grote groep van verwijzingen in Wikipedia zijn die naar specifieke [teksten in DBNL](https://www.dbnl.org/zoek/solr/corpusZoek.php?zoek=&prefilter=teksten), zoals boeken, tijdschrfiten, artikelen, biografieën, gedichten, toneelstukken of brieven. 
-Deze teksten zitten niet alleen op auteursniveau in bovengenoemde *Biografieën, werken en teksten bij de Digitale Bibliotheek voor de Nederlandse Letteren (dbnl)*, maar kunnen ook elders in een artikel gebruikt worden. Bijvoorbeeld in het notenapparaat, zoals bij bovengenoemde gedigitaliseerde DBNL-boeken in het artikel over [Geertruida Bosboom-Toussaint](https://nl.wikipedia.org/wiki/Geertruida_Bosboom-Toussaint#:~:text=Gedigitaliseerde%20versies%20van%20Bosboom%2DToussaints%27%20boeken). 
-
-<a href="https://nl.wikipedia.org/wiki/Albert_Verwey" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/lint011gesc01_01_tpg.gif" align="right" width="200" hspace="20" alt="Cover van het boek: Geschiedenis van de techniek in Nederland. De wording van een moderne samenleving 1800-1890. Deel I"/></a>
-
-### 3) Titels
-De [beschikbare titels in DBNL](https://www.dbnl.org/zoek/solr/titelZoek.php?zoek=&prefilter=titels) varieren van proza, bloemlezingen en poezië, via naslagwerken, jeugdliteratuur of drama, tot brieven, toneelstukken en essays, en nog veel meer. Zo zien we bijvoorbeeld in het [artikel over Jacob van Lennep](https://nl.wikipedia.org/wiki/Jacob_van_Lennep) verwijzingen naar de titels *[Dagboek van mijne reis](https://www.dbnl.org/titels/titel.php?id=lenn006dagb01)* uit 1823, *[Elizabeth Musch (3 delen)](https://www.dbnl.org/titels/titel.php?id=lenn006eliz01)* uit 1850-1851, *[Zeemansliedtjens](https://www.dbnl.org/titels/titel.php?id=lenn006zeem01)* uit 1852, *[Zeemans-woordenboek](https://www.dbnl.org/titels/titel.php?id=lenn006zeem02)* uit 1856, *[De vermakelijke spraakkunst](https://www.dbnl.org/titels/titel.php?id=lenn006verm01)* uit 1865 en *[De lotgevallen van Klaasje Zevenster](https://www.dbnl.org/titels/titel.php?id=lenn006lotg02)* uit 1866.
-
-Maar ook buiten de context van letterkundige auteurs of teksten kunnen DBNL-titels in Wikipedia voorkomen. Zo wordt in het artikel [Lijst van vaktermen in de vestingbouwkunde](https://nl.wikipedia.org/wiki/Lijst_van_vaktermen_in_de_vestingbouwkunde) verwezen naar het *[Militair woordenboek](https://www.dbnl.org/titels/titel.php?id=land016mili01)* van H.M.F. Landholt uit 1861-1862. En in het artikel over [Techniekgeschiedenis](https://nl.wikipedia.org/wiki/Techniekgeschiedenis) wordt verwezen naar *[Geschiedenis van de techniek in Nederland](https://www.dbnl.org/titels/titel.php?id=lint011gesc00)* uit 1992-1995.
-
-### 4) Resultaten van zoekacties
-Soms wil een schrijver van een Wikipedia-artikel weten waar in de DBNL een bepaalde zoekterm voorkomt. Kijk bijvoorbeeld naar het artikel over de 17eeuws Amsterdamse boekdrukker [Tymon Houthaeck](https://nl.wikipedia.org/wiki/Tymon_Houthaeck). Dit bevat helemaal onderaan, onder het kopje [*Literatuur*](https://nl.wikipedia.org/wiki/Tymon_Houthaeck#:~:text=Literatuur), een verwijzing naar de zoekvraag in welke titels en teksten in de DBNL de frase ["Amsterdamse boekhandel"](https://www.dbnl.org/zoeken/zoekeninteksten/index.php?zoek=Amsterdamse+boekhandel) voorkomt.
 
 ### 5) Overige pagina's
 De laatste groep verwijzingen zijn die naar de overige pagina's van de DBNL, zoals de [homepage](https://www.dbnl.org/), [Over DBNL](https://www.dbnl.org/overdbnl/organisatie.php), de [Basisbibliotheek](https://www.dbnl.org/basisbibliotheek/index.php), de letterkundige collecties over [Friesland](https://www.dbnl.org/letterkunde/fries), [Limburg](https://www.dbnl.org/letterkunde/limburg), [Suriname](https://www.dbnl.org/letterkunde/suriname) en [Zuid-Afrika](https://www.dbnl.org/letterkunde/zuidafrika), of de [DBNL-atlas](https://www.dbnl.org/atlas/index.php).
 
 Zo bevat het Wikipedia-artikel over de Belgische schrijver [Paul Verrept](https://nl.wikipedia.org/wiki/Paul_Verrept) een verwijzing naar een overzicht van [auteurs die in de Vlaamse plaats Deurne geboren](https://www.dbnl.org/atlas/plaats.php?id=deurn002) danwel overleden zijn. Of kijk bijvoorbeeld naar de [Lijst van rederijkerskamers](https://nl.wikipedia.org/wiki/Lijst_van_rederijkerskamers), dat artikel leunt sterk op de alfabetisch [lijst van Vlaamse, Frans-Vlaamse, Brabantse, Limburgse en Nederlandse rederijkerskamers](https://www.dbnl.org/organisaties/rederijkerskamers/) uit de DBNL.
-
-## De volledige analyse
-Naar aanleiding van bovenstaande anekdotische voorbeelden, is het interessant om een complete analyse van verwijzingen naar Delpher in de Nederlandstalige Wikipedia te maken. We krijgen daarmee precies inzicht welke Wikipedia-artikelen hoe vaak naar Delpher verwijzen, en welke Delpher-pagina's het vaakst worden geciteerd. 
-
-Hoe kunnen we alle Delpher-links in Wikipedia systematisch opsporen? Daar biedt Wikipedia een handig hulpmiddel voor, genaamd *[Externe koppelingen zoeken](https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken)*. Hiermee vind je Wikipedia-pagina's die een bepaald URL-patroon bevatten. Zo kunt je bijvoorbeeld zoeken naar [pagina's die het patroon *www.delpher.nl* bevatten](https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken&limit=100&offset=0&target=www.delpher.nl). Je vindt hierbij niet alleen de reguliere artikelen, maar ook pagina's in de 'achterkant' van Wikipedia, zoals Overleg- en Gebruikerspagina's.
-
-Je kunt dit op een gelijkwaardige manier ook via de [Wikipedia API](https://www.mediawiki.org/w/api.php?action=help&modules=query%2Bexturlusage) uitvragen. Hierbij kun je dan meteen filteren op alleen de artikelen (*eunamespace=0*), waarbij dus (o.a.) Overleg- en Gebruikerspagina's niet worden meegenomen. Dit doe je met de API-call [https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.delpher.nl](https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.delpher.nl).
-
-Met behulp van dit soort API-calls een stukje Python-code kunnen we alle artikelen in de Nederlandstalige Wikipedia die (één of meer keer) verwijzen naar _http(s)://www.delpher.nl_ opsporen. 
 
 ### Speciale aandacht Duurzame links naar Delpher
 
@@ -123,6 +117,36 @@ Het gaat voor dit artiekel wat te ver om alle identoefis te neoem per materiaals
 In februari 2025 hebben we deze speurtocht uitgevoerd en de [ruwe data gepubliceerd](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_202501xx). 
 
 In de rest van dit artikel zullen we met behulp van datavisualisaties de resultaten van deze analyse presenteren.
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+## De volledige analyse
+Naar aanleiding van bovenstaande anekdotische voorbeelden, is het interessant om een complete analyse van verwijzingen naar Delpher in de Nederlandstalige Wikipedia te maken. We krijgen daarmee precies inzicht welke Wikipedia-artikelen hoe vaak naar Delpher verwijzen, en welke Delpher-pagina's het vaakst worden geciteerd. 
+
+Hoe kunnen we alle Delpher-links in Wikipedia systematisch opsporen? Daar biedt Wikipedia een handig hulpmiddel voor, genaamd *[Externe koppelingen zoeken](https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken)*. Hiermee vind je Wikipedia-pagina's die een bepaald URL-patroon bevatten. Zo kunt je bijvoorbeeld zoeken naar [pagina's die het patroon *www.delpher.nl* bevatten](https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken&limit=100&offset=0&target=www.delpher.nl). Je vindt hierbij niet alleen de reguliere artikelen, maar ook pagina's in de 'achterkant' van Wikipedia, zoals Overleg- en Gebruikerspagina's.
+
+Je kunt dit op een gelijkwaardige manier ook via de [Wikipedia API](https://www.mediawiki.org/w/api.php?action=help&modules=query%2Bexturlusage) uitvragen. Hierbij kun je dan meteen filteren op alleen de artikelen (*eunamespace=0*), waarbij dus (o.a.) Overleg- en Gebruikerspagina's niet worden meegenomen. Dit doe je met de API-call [https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.delpher.nl](https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.delpher.nl).
+
+Met behulp van dit soort API-calls een stukje Python-code kunnen we alle artikelen in de Nederlandstalige Wikipedia die (één of meer keer) verwijzen naar _http(s)://www.delpher.nl_ opsporen. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 1) Aantal verwijzingen naar Delpher vanuit Wikipedia
 
