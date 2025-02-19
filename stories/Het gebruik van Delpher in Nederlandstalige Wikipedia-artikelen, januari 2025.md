@@ -59,11 +59,10 @@ _In radiobulletins_
 ## De structuur van Delpher-URLs
 Voordat we een volledige analyse van Delpher-verwijzingen in Wikipedia kunnen maken, is het handig om eerst de structuur van Delpher-URLs beter te begrijpen. Deze kunnen in een aantal logische groepen worden onderverdeeld:
 
-1) **Kranten-URLs**: dit zijn URLs van krantentitels, -afleveringen, -pagina's en -artikelen, of bijvoorbeeld full-text en/of samengestelde zoekopdrachten, PDF's van afleveringen of de platte tekst (OCR) van een artikel. Dit kun je zien wanneer je de URLs van bovenstaande voorbeelden inspecteert. 
-Dit materiaal is te vinden onder de ingang [Kranten 1618-1995 (Basiscollectie)](https://www.delpher.nl/nl/kranten) en begint typisch met de syntax _http(s)://www.delpher.nl/nl/kranten/_ danwel _http(s)://resolver.kb.nl/resolve?urn=_, zie hiervoor de uitgebreidere uitleg hierna. 
+1) **Kranten-URLs**: dit zijn URLs van krantentitels, -afleveringen, -pagina's en -artikelen, of van full-text en/of samengestelde zoekopdrachten, PDF's van afleveringen of de platte tekst (OCR) van een artikel. Dit kun je zien wanneer je de URLs van bovenstaande voorbeelden inspecteert. <br/>
+Dit materiaal is te vinden onder de ingang [Kranten 1618-1995 (Basiscollectie)](https://www.delpher.nl/nl/kranten) en begint typisch met de syntax _http(s)://www.delpher.nl/nl/kranten/_ danwel _http(s)://resolver.kb.nl/resolve?urn=_, zie voor deze laatste de uitgebreidere uitleg hierna. 
 
-
-2) **Boeken-URLs**: dit zijn URLs van boektitels, -pagina's of -illustraties, of bijvoorbeeld full-text en/of samengestelde zoekopdrachten, PDF's van hele boeken of de platte tekst (OCR) van een heel boek. Dit kun je zien wanneer je de URLs van bovenstaande voorbeelden inspecteert. 
+2) **Boeken-URLs**: dit zijn URLs van boektitels, -pagina's of -illustraties, of van full-text en/of samengestelde zoekopdrachten, PDF's van hele boeken of de platte tekst (OCR) van een heel boek. Dit kun je zien wanneer je de URLs van bovenstaande voorbeelden inspecteert.<br/> 
 Dit materiaal is te vinden onder twee ingangen:
    * [Boeken 17e t/m 20e eeuw (Basiscollectie)](https://www.delpher.nl/nl/boeken/) waarbij URLs typische beginnen met _http(s)://www.delpher.nl/nl/boeken/_ of met _http(s)://resolver.kb.nl/resolve?urn=_ (zie uitleg hieronder)
    * [Boeken Google](https://www.delpher.nl/nl/boeken1/) waarbij de URL begint met _http(s)://www.delpher.nl/nl/boeken1/_.
