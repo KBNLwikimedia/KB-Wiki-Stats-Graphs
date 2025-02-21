@@ -73,7 +73,9 @@ De laatste groep verwijzingen zijn die naar de overige pagina's van de DBNL, zoa
 
 Zo bevat het Wikipedia-artikel over de Belgische schrijver [Paul Verrept](https://nl.wikipedia.org/wiki/Paul_Verrept) een verwijzing naar een overzicht van [auteurs die in de Vlaamse plaats Deurne geboren](https://www.dbnl.org/atlas/plaats.php?id=deurn002) danwel overleden zijn. Of kijk bijvoorbeeld naar de [Lijst van rederijkerskamers](https://nl.wikipedia.org/wiki/Lijst_van_rederijkerskamers), dat artikel leunt sterk op de alfabetisch [lijst van Vlaamse, Frans-Vlaamse, Brabantse, Limburgse en Nederlandse rederijkerskamers](https://www.dbnl.org/organisaties/rederijkerskamers/) uit de DBNL.
 
-## De volledige analyse
+
+
+## DBNL-links opsporen in Wikipedia
 Naar aanleiding van bovenstaande anekdotische voorbeelden, is het interessant om een complete analyse van verwijzingen naar de DBNL in de Nederlandstalige Wikipedia te maken. We krijgen daarmee precies inzicht welke Wikipedia-artikelen hoe vaak naar de DBNL verwijzen, en welke DBNL-pagina's het vaakst worden geciteerd. 
 
 Hoe kunnen we alle DBNL-links in Wikipedia systematisch opsporen? Daar biedt Wikipedia een handig hulpmiddel voor, genaamd *[Externe koppelingen zoeken](https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken)*. Hiermee vind je Wikipedia-pagina's die een bepaald URL-patroon bevatten. Zo kunt je bijvoorbeeld zoeken naar [pagina's die het patroon *www.dbnl.org* bevatten](https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken&limit=100&offset=0&target=www.dbnl.org). Je vindt hierbij niet alleen de reguliere artikelen, maar ook pagina's in de 'achterkant' van Wikipedia, zoals Overleg- en Gebruikerspagina's.
@@ -81,6 +83,8 @@ Hoe kunnen we alle DBNL-links in Wikipedia systematisch opsporen? Daar biedt Wik
 Je kunt dit op een gelijkwaardige manier ook via de [Wikipedia API](https://www.mediawiki.org/w/api.php?action=help&modules=query%2Bexturlusage) uitvragen. Hierbij kun je dan meteen filteren op alleen de artikelen (*eunamespace=0*), waarbij dus (o.a.) Overleg- en Gebruikerspagina's niet worden meegenomen. Dit doe je met de API-call [https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.dbnl.org](https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.dbnl.org).
 
 Met behulp van dit soort API-calls een stukje Python-code kunnen we alle artikelen in de Nederlandstalige Wikipedia die (één of meer keer) verwijzen naar _http(s)://\*.dbnl.org\|.nl_ opsporen. 
+
+## De volledige analyse
 
 Begin september 2024 hebben we deze speurtocht uitgevoerd en de [ruwe data gepubliceerd](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/DBNL_20240905). De vijf artikelen die [verwijzen naar *dbnl.be*](https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euquery=dbnl.be) zijn hierbij niet meegenomen, omdat de auteur toen niet op de hoogte was van het bestaan van dit domein. 
 
