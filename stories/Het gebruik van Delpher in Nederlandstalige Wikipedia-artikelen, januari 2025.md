@@ -12,6 +12,7 @@ _**Delpher** biedt toegang tot miljoenen gedigitaliseerde pagina's uit Nederland
 ><big><b><em>Er zijn veel Wikipedia-artikelen die (bijna) geheel op basis van Delpher geschreven zijn. Zonder Delpher zou het artikel [Vuilnisman](https://nl.wikipedia.org/wiki/Vuilnisman) niet hebben bestaan.</em></b></big>
 
 <div style="border: 1px solid black; padding:10px">
+
 De belangrijkste punten (per 17 januari 2025) uit dit artikel zijn:
 
 * 15.569 verschillende Wikipedia-artikelen bevatten gezamenlijk 45.409 links naar 43.063 verschillende pagina’s in Delpher.
