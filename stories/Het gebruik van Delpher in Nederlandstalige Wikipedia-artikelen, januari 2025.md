@@ -9,16 +9,18 @@ Dit artikel is ook [beschikbaar als PDF](Het%20gebruik%20van%20Delpher%20in%20Ne
 
 _**Delpher** biedt toegang tot miljoenen gedigitaliseerde pagina's uit Nederlandse historische kranten, boeken en tijdschriften. Het is een veelgebruikte bron in de Nederlandstalige Wikipedia. In dit artikel bekijken we hoe vaak er in welke Wikipedia-artikelen verwezen wordt naar [Delpher](https://www.delpher.nl), en welke Delpher-pagina’s het vaakst worden geciteerd. Ook speuren we naar Wikipedia-artikelen die geheel of grotendeels op Delpher zijn gebaseerd._
 
-><big><b><em>Er zijn vele Wikipedia-artikelen die (bijna) geheel op basis van Delpher geschreven zijn. Zonder Delpher zou het artikel [Vuilnisman](https://nl.wikipedia.org/wiki/Vuilnisman) niet hebben bestaan.</em></b></big>
+><big><b><em>Er zijn veel Wikipedia-artikelen die (bijna) geheel op basis van Delpher geschreven zijn. Zonder Delpher zou het artikel [Vuilnisman](https://nl.wikipedia.org/wiki/Vuilnisman) niet hebben bestaan.</em></b></big>
 
+<div style="border: 1px solid black; padding:10px">
 De belangrijkste punten (per 17 januari 2025) uit dit artikel zijn:
 
 * 15.569 verschillende Wikipedia-artikelen bevatten gezamenlijk 45.409 links naar 43.063 verschillende pagina’s in Delpher.
-* Deze verwijzingen zijn voornamelijk naar kranten (38.530 URLs), gevolgd door boeken (4.923 URLs) en tijdschriften (1872 URLs). Zie [de details](#1-aantal-verwijzingen-naar-delpher-vanuit-wikipedia).
+* Deze verwijzingen zijn voornamelijk naar kranten (38.530 URLs), gevolgd door boeken (4.923 URLs) en tijdschriften (1.872 URLs). Zie [de details](#1-aantal-verwijzingen-naar-delpher-vanuit-wikipedia).
 * Het artikel [Lijst van rampen in Nederland](https://nl.wikipedia.org/wiki/Lijst_van_rampen_in_Nederland) bevat met 182 de meeste links naar Delpher, gevolgd door het artikel [Lijst van historische Nederlandse netnummers](https://nl.wikipedia.org/wiki/Lijst_van_historische_Nederlandse_netnummers), met 175 Delpher-URLs. Het artikel over [Jacques Anquetil](https://nl.wikipedia.org/wiki/Jacques_Anquetil) sluit met 130 verwijzingen de top 3 af. Zie [de details](#2-wikipedia-artikelen-met-de-meeste-links-naar-delpher).
 * Wanneer we de [Kranten homepage](https://www.delpher.nl/nl/kranten) en de [Delpher homepage](https://www.delpher.nl/) buiten beschouwing laten, wordt naar de illustratie _[Afstandsaanduidingen langs Rijkswegen](https://delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010237771:mpeg21:a0208)_ in de _Nieuwe Tilburgsche Courant_ van 12-02-1937 het vaakst, nl. vanuit 13 Wikipedia-artikelen verwezen. Op de tweede plek staat [pagina 2](https://resolver.kb.nl/resolve?urn=KBDDD02:000212802:mpeg21:p002) van de krant _Suriname_ van 02-09-1933 met verwijzingen in 12 artikelen. Zie [de details](#3-delpher-paginas-waarnaar-het-vaakst-verwezen-wordt-vanuit-wikipedia-artikelen).
 * Er zijn 61 Wikipedia-artikelen die (bijna) geheel op basis van Delpher-inhoud geschreven zijn. M.a.w.: zij danken hun bestaan voor een belangrijk deel aan Delpher. Zie [de details](#4-wikipedia-artikelen-die-grotendeels-op-delpher-gebaseerd-zijn).
 * De onderliggende [ruwe data](#ruwe-data) waar dit artikel gebruik van maakt is [beschikbaar op Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_20250117).
+</div>
 
 ## Links naar Delpher in Nederlandstalige Wikipedia-artikelen 
 
@@ -140,7 +142,7 @@ Vervolgens kunnen we ook kijken naar de in totaal 43.063 unieke Delpher-pagina�
 
 Voor de goede orde: onder Delpher-pagina's verstaan we hier o.a.
 * titels, jaargangen, afleveringen, pagina's en artikelen uit kranten, boeken, tijdschriften en radiobulletins, 
-* resultaten van full-text en/of samengetelde zoekopdrachten in deze materiaalsoorten, 
+* resultaten van full-text en/of samengestelde zoekopdrachten in deze materiaalsoorten, 
 * PDF's, platte tekst (OCR) en scans (JPG's) van deze materiaalsoorten, 
 * statische pagina's.
 
