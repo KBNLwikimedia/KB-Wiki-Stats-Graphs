@@ -79,7 +79,6 @@ Dit materiaal is op Delpher te vinden onder de ingang [Radiobulletins](https://w
 
 5) **Overige URLs (statische pagina's)**: dit zijn URLs van de overige pagina's in Delpher die niet tot één van de vier bovenstaande groepen behoren. Denk daarbij aan de [homepage](https://www.delpher.nl/), [Wat is Delpher?](https://www.delpher.nl/over-delpher/wat-is-delpher/), [Wat zit er in Delpher?](https://www.delpher.nl/over-delpher/wat-zit-er-in-delpher/wat-zit-er-in-delpher#7b8c9) of overkoepelende zoekopdrachten in alle materiaalsoorten tegelijk, zoals bv. [zoeken naar "Hans Janmaat"](https://www.delpher.nl/nl/platform/results?query=%22Hans+Janmaat%22&coll=platform). 
 
-
 ### Duurzaam verwijzen d.m.v. resolver-URLs
 
 Naast die vijf groepen Delpher-URLs die hierboven besproken worden, is er nóg een zeer grote verzameling URLs die naar materialen in Delpher verwijzen. Dit zijn persistente URLs die beginnen met de 'abstracte resolver-syntax' _http(s)://resolver.kb.nl/resolve?urn=_.
@@ -105,6 +104,8 @@ Met behulp van dit soort API-calls een stuk Python-code kunnen we alle artikelen
 
 In februari 2025 hebben we de hele speurtocht volbracht en de [ruwe data gepubliceerd](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_20250117). In de rest van dit artikel zullen we met behulp van datavisualisaties de resultaten van deze analyse presenteren.
 
+><big>***15.569 verschillende Wikipedia-artikelen bevatten gezamenlijk 45.409 links naar 43.063 verschillende pagina’s in Delpher.***</big>
+
 ### 1) Aantal verwijzingen naar Delpher vanuit Wikipedia
 
 Als eerste kijken we hoe vaak er in Wikipedia-artikelen verwezen wordt naar kranten, boeken, tijdschriften, radiobulletins en statische pagina's in Delpher. Dit laat onderstaande donutgrafiek zien. Zo zien we bijvoorbeeld dat er op 17 januari 2025 
@@ -121,8 +122,6 @@ Als eerste kijken we hoe vaak er in Wikipedia-artikelen verwezen wordt naar kran
 <br clear="all"/>
 
 ### 2) Wikipedia-artikelen met de meeste links naar Delpher
-
-><big>***15.569 verschillende Wikipedia-artikelen bevatten gezamenlijk 45.409 links naar 43.063 verschillende pagina’s in Delpher.***</big>
 
 Wanneer we iets dieper op [de data](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_20250117) inzoomen zien we dat er op 17 januari 2025 in totaal 15.569 verschillende Wikipedia-artikelen waren die één of meerdere links naar Delpher bevatten. 
 
