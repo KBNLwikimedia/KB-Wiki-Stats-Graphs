@@ -59,47 +59,39 @@ _In radiobulletins_
 ## De structuur van Delpher-URLs
 Voordat we een volledige analyse van Delpher-verwijzingen in Wikipedia kunnen maken, is het handig om eerst de structuur van Delpher-URLs beter te begrijpen. Deze kunnen in een aantal logische groepen worden onderverdeeld:
 
-1) **Kranten-URLs**: dit zijn URLs van krantentitels, -afleveringen, -pagina's en -artikelen, of van full-text en/of samengestelde zoekopdrachten, PDF's van afleveringen of de platte tekst (OCR) van een krantenartikel. Dit kun je zien wanneer je de URLs van bovenstaande voorbeelden inspecteert. <br/>
+1) **Kranten-URLs**: dit zijn URLs van krantentitels, -afleveringen, -pagina's en -artikelen, of van full-text en/of samengestelde zoekopdrachten, PDF's van afleveringen of de platte tekst (OCR) van een krantenartikel. Dit kun je zien wanneer je de URLs van bovenstaande voorbeelden inspecteert. <br/><br/>
 Dit materiaal is op Delpher te vinden onder de ingang [Kranten 1618-1995](https://www.delpher.nl/nl/kranten) en URLs beginnen typisch met de syntax _http(s)://www.delpher.nl/nl/kranten/_ maar ook vaak met _http(s)://resolver.kb.nl/resolve?urn=_. Zie voor uitgebreidere uitleg over deze 'resolver-syntax' hierna.
 
 
-2) **Boeken-URLs**: dit zijn URLs van boektitels, -pagina's of -illustraties, of van full-text en/of samengestelde zoekopdrachten, PDF's van hele boeken of de platte tekst (OCR) van een heel boek. Dit wordt inzichtelijker wanneer je de URLs van bovenstaande voorbeelden inspecteert.<br/> 
+2) **Boeken-URLs**: dit zijn URLs van boektitels, -pagina's of -illustraties, of van full-text en/of samengestelde zoekopdrachten, PDF's van hele boeken of de platte tekst (OCR) van een heel boek. Dit wordt inzichtelijker wanneer je de URLs van bovenstaande voorbeelden inspecteert.<br/><br/>
 Dit materiaal is op Delpher te vinden onder twee ingangen:
    * [Boeken Basis](https://www.delpher.nl/nl/boeken/) waarbij URLs typisch beginnen met _http(s)://www.delpher.nl/nl/boeken/_ of met _http(s)://resolver.kb.nl/resolve?urn=_ (zie uitleg hieronder)
    * [Boeken Google](https://www.delpher.nl/nl/boeken1/) waarbij URLs beginnen met _http(s)://www.delpher.nl/nl/boeken1/_.
 
 
-3) **Tijdschriften-URLs**: dit zijn URLs van tijdschriftentitels, -jaargangen, -afleveringen, -pagina's en -artikelen, of van full-text en/of samengestelde zoekopdrachten, of PDF's van afleveringen. Dit kun je zien wanneer je de URLs van bovenstaande voorbeelden inspecteert. <br/>
+3) **Tijdschriften-URLs**: dit zijn URLs van tijdschriftentitels, -jaargangen, -afleveringen, -pagina's en -artikelen, of van full-text en/of samengestelde zoekopdrachten, of PDF's van afleveringen. Dit kun je zien wanneer je de URLs van bovenstaande voorbeelden inspecteert. <br/><br/>
 Dit materiaal is op Delpher te vinden onder de ingang [Tijdschriften 19e t/m 21e eeuw](https://www.delpher.nl/nl/tijdschriften/) en URLs beginnen typisch met de syntax _http(s)://www.delpher.nl/nl/tijdschriften/_ maar ook vaak met _http(s)://resolver.kb.nl/resolve?urn=_. Zie voor uitgebreidere uitleg over deze 'resolver-syntax' hierna.
 
 
-4) **Radiobulletins-URLs**: dit zijn URLs van de uitgetypte teksten van radiojournaaluitzendingen van het [ANP](https://nl.wikipedia.org/wiki/Radionieuwsdienst_ANP), van full-text en/of samengestelde zoekopdrachten of van scans (jpg's) van de typoscripten. Zie de bovenstaande voorbeelden. <br/>
+4) **Radiobulletins-URLs**: dit zijn URLs van de uitgetypte teksten van radiojournaaluitzendingen van het [ANP](https://nl.wikipedia.org/wiki/Radionieuwsdienst_ANP), van full-text en/of samengestelde zoekopdrachten of van scans (jpg's) van de typoscripten. Zie de bovenstaande voorbeelden. <br/><br/>
 Dit materiaal is op Delpher te vinden onder de ingang [Radiobulletins](https://www.delpher.nl/nl/radiobulletins/) (van het ANP) en URLs beginnen typisch met de syntax _http(s)://www.delpher.nl/nl/radiobulletins/_ of met _http(s)://resolver.kb.nl/resolve?urn=anp_, waarbij de suffix _=anp_ dan aangeeft dat dit een radiobullettin (van het ANP) betreft. Zie voor uitgebreidere uitleg over deze 'resolver-syntax' hierna.
 
 
 5) **Overige URLs (statische pagina's)**: dit zijn URLs van de overige pagina's in Delpher die niet tot één van de vier bovenstaande groepen behoren. Denk daarbij aan de [homepage](https://www.delpher.nl/), [Wat is Delpher?](https://www.delpher.nl/over-delpher/wat-is-delpher/), [Wat zit er in Delpher?](https://www.delpher.nl/over-delpher/wat-zit-er-in-delpher/wat-zit-er-in-delpher#7b8c9) of overkoepelende zoekopdrachten in alle materiaalsoorten tegelijk, zoals bv. [zoeken naar "Hans Janmaat"](https://www.delpher.nl/nl/platform/results?query=%22Hans+Janmaat%22&coll=platform).  
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-### Speciale aandacht Duurzame links naar Delpher
+### Duurzaam verwijzen d.m.v. resolver-URLs
 
-Alleen zoeken op delpher.nl is niet voldioende, want er worst (geullikg) veel persistent verwezen naar delpher middels resolver.kb plinks, Die resolver-URLS herken je aan <<pateroon, waarbij dan de idnetiefir>> . zo geeft "ddd" bv aan dat het om kranten gaat.  bepaalt of het hier omeen boeke, kranteo f tijdcriodft gaat.
-Er zijn heel veel verschillende idsntitifdrs die naar tijfscriften verwinzen, maar ook naar boeken en kranten.
+Naast die vijf groepen van Delpher-URLs die hierboven besproken worden, is er nog een zeer grote verzameling URLs die naar materialen in Delpher verwijzen. Dit zijn persistente URLs die beginnen met de 'abstracte resolver-syntax' _http(s)://resolver.kb.nl/resolve?urn=_.
 
-Het gaat voor dit artiekel wat te ver om alle identoefis te neoem per materiaalsoort, maar op http://services.kb.nl/mdo/oai?verb=ListSets lun je een indruk krijgen
+De KB heeft een zgn. resolver-service die duurzame, abstracte, materiaalsoort-onafhankelijke URLs vertaalt naar een van de bovengenoemde materiaalsoort-specifieke URLs. 
+Zo verwijst bijvoorbeeld de abstracte URL [https://resolver.kb.nl/resolve?urn=KBNRC01:000035786:mpeg21:a0014](https://resolver.kb.nl/resolve?urn=KBNRC01:000035786:mpeg21:a0014) door naar een krantenartikel met URL [https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=KBNRC01:000035786:mpeg21:a0014](https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=KBNRC01:000035786:mpeg21:a0014)
 
-==> speciale aandacht voor alle resolver links!! 
+Dit is een duurzame manier van verwijzen, omdat de KB ervoor zorgt dat deze resolver-URLs altijd naar de juiste Delpher-pagina blijven verwijzen, ook als de URL-structuur van Delpher in de toekomst zou veranderen. 
 
-In februari 2025 hebben we deze speurtocht uitgevoerd en de [ruwe data gepubliceerd](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_202501xx). 
+In bovenstaand voorbeeld staat de (set)identifier _KBNRC01_, wat aangeeft dat het om een krantencolllectie gaat, in dit geval het _[Algemeen Handelsblad](https://nl.wikipedia.org/wiki/Algemeen_Handelsblad)_, een voorloper van de _[NRC](https://nl.wikipedia.org/wiki/NRC_(krant))_. Voor haar resolver-service hanteert de KB een groot aantal verschillende (set)identifiers die naar kranten, boeken, tijdschriften of ANP-radiobulletins verwijzen. via [http://services.kb.nl/mdo/oai?verb=ListSets](http://services.kb.nl/mdo/oai?verb=ListSets) kun je een indruk krijgen van de verschillende (set)identifiers die de KB hanteert en naar welke materiaalsoorten ze verwijzen. 
 
-In de rest van dit artikel zullen we met behulp van datavisualisaties de resultaten van deze analyse presenteren.
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-## De volledige analyse
+## Delpher-URLs opsporen in Wikipedia
 Naar aanleiding van bovenstaande anekdotische voorbeelden en de uitelg over Delpher-URLs, is het interessant om een complete analyse van verwijzingen naar Delpher in de Nederlandstalige Wikipedia te maken. We krijgen daarmee precies inzicht welke Wikipedia-artikelen hoe vaak naar Delpher verwijzen, en welke Delpher-pagina's het vaakst worden geciteerd. 
 
 Hoe kunnen we alle Delpher-links in Wikipedia systematisch opsporen? Daar biedt Wikipedia een handig hulpmiddel voor, genaamd *[Externe koppelingen zoeken](https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken)*. Hiermee vind je Wikipedia-pagina's die een bepaald URL-patroon bevatten. Zo kunt je bijvoorbeeld zoeken naar [pagina's die het patroon *www.delpher.nl* bevatten](https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken&limit=100&offset=0&target=www.delpher.nl). Je vindt hierbij niet alleen de reguliere artikelen, maar ook pagina's in de 'achterkant' van Wikipedia, zoals Overleg- en Gebruikerspagina's.
@@ -109,8 +101,11 @@ Je kunt dit op een gelijkwaardige manier ook via de [Wikipedia API](https://www.
 Met behulp van dit soort API-calls een stukje Python-code kunnen we alle artikelen in de Nederlandstalige Wikipedia die (één of meer keer) verwijzen naar _http(s)://www.delpher.nl_ opsporen. 
 
 
+## De volledige analyse
 
+In februari 2025 hebben we deze speurtocht uitgevoerd en de [ruwe data gepubliceerd](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_202501xx). 
 
+In de rest van dit artikel zullen we met behulp van datavisualisaties de resultaten van deze analyse presenteren.
 
 
 
