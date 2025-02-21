@@ -12,7 +12,7 @@ _**Delpher** biedt toegang tot miljoenen gedigitaliseerde pagina's uit Nederland
 ><big><b><em>Er zijn veel Wikipedia-artikelen die (bijna) geheel op basis van Delpher geschreven zijn. Zonder Delpher zou het artikel [Vuilnisman](https://nl.wikipedia.org/wiki/Vuilnisman) niet hebben bestaan.</em></b></big>
 
 De belangrijkste punten (per 17 januari 2025) uit dit artikel zijn:
-* 
+
 * 15.569 verschillende Wikipedia-artikelen bevatten gezamenlijk 45.409 links naar 43.063 verschillende pagina’s in Delpher.
 * Deze verwijzingen zijn voornamelijk naar kranten (38.530 URLs), gevolgd door boeken (4.923 URLs) en tijdschriften (1.872 URLs). Zie [de details](#1-aantal-verwijzingen-naar-delpher-vanuit-wikipedia).
 * Het artikel [Lijst van rampen in Nederland](https://nl.wikipedia.org/wiki/Lijst_van_rampen_in_Nederland) bevat met 182 de meeste links naar Delpher, gevolgd door het artikel [Lijst van historische Nederlandse netnummers](https://nl.wikipedia.org/wiki/Lijst_van_historische_Nederlandse_netnummers), met 175 Delpher-URLs. Het artikel over [Jacques Anquetil](https://nl.wikipedia.org/wiki/Jacques_Anquetil) sluit met 130 verwijzingen de top 3 af. Zie [de details](#2-wikipedia-artikelen-met-de-meeste-links-naar-delpher).
