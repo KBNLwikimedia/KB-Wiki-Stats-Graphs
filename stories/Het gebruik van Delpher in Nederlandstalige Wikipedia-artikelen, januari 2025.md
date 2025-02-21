@@ -11,23 +11,14 @@ _**Delpher** biedt toegang tot miljoenen gedigitaliseerde pagina's uit Nederland
 
 ><big><b><em>Er zijn veel Wikipedia-artikelen die (bijna) geheel op basis van Delpher geschreven zijn. Zonder Delpher zou het artikel [Vuilnisman](https://nl.wikipedia.org/wiki/Vuilnisman) niet hebben bestaan.</em></b></big>
 
-<div style="border: 1px solid black; padding:10px">
-
 De belangrijkste punten (per 17 januari 2025) uit dit artikel zijn:
-
+* 
 * 15.569 verschillende Wikipedia-artikelen bevatten gezamenlijk 45.409 links naar 43.063 verschillende pagina’s in Delpher.
-
 * Deze verwijzingen zijn voornamelijk naar kranten (38.530 URLs), gevolgd door boeken (4.923 URLs) en tijdschriften (1.872 URLs). Zie [de details](#1-aantal-verwijzingen-naar-delpher-vanuit-wikipedia).
-
 * Het artikel [Lijst van rampen in Nederland](https://nl.wikipedia.org/wiki/Lijst_van_rampen_in_Nederland) bevat met 182 de meeste links naar Delpher, gevolgd door het artikel [Lijst van historische Nederlandse netnummers](https://nl.wikipedia.org/wiki/Lijst_van_historische_Nederlandse_netnummers), met 175 Delpher-URLs. Het artikel over [Jacques Anquetil](https://nl.wikipedia.org/wiki/Jacques_Anquetil) sluit met 130 verwijzingen de top 3 af. Zie [de details](#2-wikipedia-artikelen-met-de-meeste-links-naar-delpher).
-
 * Wanneer we de [Kranten homepage](https://www.delpher.nl/nl/kranten) en de [Delpher homepage](https://www.delpher.nl/) buiten beschouwing laten, wordt naar de illustratie _[Afstandsaanduidingen langs Rijkswegen](https://delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010237771:mpeg21:a0208)_ in de _Nieuwe Tilburgsche Courant_ van 12-02-1937 het vaakst, nl. vanuit 13 Wikipedia-artikelen verwezen. Op de tweede plek staat [pagina 2](https://resolver.kb.nl/resolve?urn=KBDDD02:000212802:mpeg21:p002) van de krant _Suriname_ van 02-09-1933 met verwijzingen in 12 artikelen. Zie [de details](#3-delpher-paginas-waarnaar-het-vaakst-verwezen-wordt-vanuit-wikipedia-artikelen).
-
 * Er zijn 61 Wikipedia-artikelen die (bijna) geheel op basis van Delpher-inhoud geschreven zijn. M.a.w.: zij danken hun bestaan voor een belangrijk deel aan Delpher. Zie [de details](#4-wikipedia-artikelen-die-grotendeels-op-delpher-gebaseerd-zijn).
-
 * De onderliggende [ruwe data](#ruwe-data) waar dit artikel gebruik van maakt is [beschikbaar op Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_20250117).
-
-</div>
 
 ## Links naar Delpher in Nederlandstalige Wikipedia-artikelen 
 
@@ -35,12 +26,12 @@ De Nederlandstalige Wikipedia maakt veelvuldig gebruik van informatie uit Delphe
 
 _In kranten:_
  
-* Het artikel [Aethernieuws](https://nl.wikipedia.org/wiki/Aethernieuws) verwijst naar een [overzicht van 67 afleveringen](https://www.delpher.nl/nl/kranten/results/index?page=1&cql%5B%5D=ppn%3D046286330&coll=dddtitel) op Delpher van dit verzetsblad uit de Tweede Wereldoorlog.
+* Het artikel [Aethernieuws](https://nl.wikipedia.org/wiki/Aethernieuws) verwijst naar een [overzicht van 67 afleveringen](https://www.delpher.nl/nl/kranten/results/index?page=1&cql%5B%5D=ppn%3D046286330&coll=dddtitel) van dit verzetsblad uit de Tweede Wereldoorlog op Delpher.
 * In het lemma over [Abraham Asscher (1884-1926)](https://nl.wikipedia.org/wiki/Abraham_Asscher_(1884-1926)) staat een link naar een [PDF van de aflevering van 14 maart 1919](https://resolver.kb.nl/resolve?urn=ddd:010859722:mpeg21:pdf) van het _Nieuw Israëlietisch Weekblad_, waarin een artikel over Opperrabbijn A. Asscher te lezen is.
-* [Pagina 8 van de _Amigoe_ van 04-07-1985](https://resolver.kb.nl/resolve?urn=ddd:010643132:mpeg21:p008) bevat informatie (over een expositie van Surinaamse kunstenaars in Curaçao) die in het artikel over de Amsterdamse decorontwerper, tekenaar, schilder en journalist [Nic Loning](https://nl.wikipedia.org/wiki/Nic_Loning) is verwerkt.
+* [Pagina 8 van de _Amigoe_ van 04-07-1985](https://resolver.kb.nl/resolve?urn=ddd:010643132:mpeg21:p008) bevat informatie over een expositie van Surinaamse kunstenaars in Curaçao die in het artikel over de Amsterdamse decorontwerper, tekenaar, schilder en journalist [Nic Loning](https://nl.wikipedia.org/wiki/Nic_Loning) is verwerkt.
 * Het artikel over [10 jaar Bassie & Adriaan](https://nl.wikipedia.org/wiki/10_jaar_Bassie_%26_Adriaan) verwijst naar een [krantenartikel van 19-10-1984](https://resolver.kb.nl/resolve?urn=ddd:010593326:mpeg21:a0154) in het _Limburgsch dagblad_ waarin een optreden van het duo in _[De Blufshow](https://kindertvgeheugen.nl/series/serie-overzicht/5915-blufkwis-de-blufshow-de-1983-1987)_ van [Hans Kazàn](https://nl.wikipedia.org/wiki/Hans_Kaz%C3%A0n) wordt aangekondigd.
 * In maart 1991 vochten Joep Jansen (codenaam _Max_) en [Willem Schoemaker](https://nl.wikipedia.org/wiki/Willem_Schoemaker_(1920-2003)) (codenaam _Miki_) voor de Utrechtse rechtbank uit wie de ware oprichter van de WO2-spionagegroep [Geheime Dienst Nederland](https://nl.wikipedia.org/wiki/Geheime_Dienst_Nederland) zou zijn. Diverse kranten [schrijven hierover](https://www.delpher.nl/nl/kranten/results?query=miki+max+rechtbank+utrecht&coll=ddd&sortfield=date).
-* In het artikel over [Nico Bolkestein](https://nl.wikipedia.org/wiki/Nico_Bolkestein) wordt verwezen naar de [platte tekst van een krantenartikel](https://resolver.kb.nl/resolve?urn=ddd:010628816:mpeg21:a0108:ocr#:~:text=bolkestein) waarin het overlijden van deze politicus en PvdA-bestuurder genoemd wordt. Het is niet meteen manifest uit welk krantenartikel deze tekst afkomstig is, maar na enig zoekwerk blijkt dit de personaliarubriek in [_Nederlands dagblad_ van 12-1993](https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010628816:mpeg21:a0108) te zijn. 
+* In het artikel over [Nico Bolkestein](https://nl.wikipedia.org/wiki/Nico_Bolkestein) wordt verwezen naar de [platte tekst van een krantenartikel](https://resolver.kb.nl/resolve?urn=ddd:010628816:mpeg21:a0108:ocr#:~:text=bolkestein) waarin het overlijden van deze politicus en PvdA-bestuurder genoemd wordt. Het is niet meteen manifest uit welk krantenartikel deze tekst afkomstig is, maar na enig zoekwerk blijkt dit de personaliarubriek in het [_Nederlands dagblad_ van 12-1993](https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010628816:mpeg21:a0108) te zijn. 
 
 _In boeken_
 
@@ -53,7 +44,7 @@ _In boeken_
 
 _In tijdschriften_
 
-* Het artikel over het Nederlands tijdschrift voor de fotografie [Lux](https://nl.wikipedia.org/wiki/Lux_(tijdschrift)) (1889-1927) bevat een link naar [280 gescande edities](https://www.delpher.nl/nl/tijdschriften/results?facets%5BalternativeFacet%5D%5B%5D=Lux&page=1&maxperpage=50&sortfield=date&coll=dts) die van dit tijdschrift in Delpher beschikbaar zijn. 
+* Het artikel over het Nederlands tijdschrift voor de fotografie [Lux](https://nl.wikipedia.org/wiki/Lux_(tijdschrift)) (1889-1927) bevat een link naar [280 gescande edities](https://www.delpher.nl/nl/tijdschriften/results?facets%5BalternativeFacet%5D%5B%5D=Lux&page=1&maxperpage=50&sortfield=date&coll=dts) van dit tijdschrift die in Delpher beschikbaar zijn. 
 * Op [pagina 346](https://resolver.kb.nl/resolve?urn=MMKB13:002743002:00350) (en verder) van het _Tijdschrift der Nederlandsche Maatschappij ter Bevordering van Nijverheid_ uit 1898 wordt een beschrijving gegeven van de voormalige kleding- en ondergoedproducent [Jansen & Tilanus](https://nl.wikipedia.org/wiki/Jansen_%26_Tilanus) uit Vriezenveen. 
 * Het artikel over [Dirk Blank](https://nl.wikipedia.org/wiki/Dirk_Blank) verwijst naar een [foto getiteld _Ochtend in't Bosch_](https://www.delpher.nl/nl/tijdschriften/view?coll=dts&identifier=MMNFM01:015879001:00042) in jaargang 9 van het tijdschrift _De camera; modern fotografisch tijdschrift_ waarmee deze Utrechtse fotograaf in december 1916 de eerste prijs van een amateurfotowedstrijd won. 
 * Het artikel over het vijfjaarlijkse internationale [World Congress of Philosophy](https://nl.wikipedia.org/wiki/World_Congress_of_Philosophy) bevat een link naar de [PDF van het _Algemeen Nederlandsch tijdschrift voor wijsbegeerte en psychologie_](https://resolver.kb.nl/resolve?urn=MMKB07:000964001:pdf), jaargang 28 van 01-03-1935.
@@ -61,8 +52,8 @@ _In tijdschriften_
 
 _In radiobulletins_
 
-* In het artikel over de [Mont Blanctunnel](https://nl.wikipedia.org/wiki/Mont_Blanctunnel)	wordt verwezen naar het ANP radionieuwsbericht over [de inwijding Mont Blanctunnel](https://resolver.kb.nl/resolve?urn=anp:1962:09:15:54) op 15 september 1962.
-* Het [Middelheimmuseum](https://nl.wikipedia.org/wiki/Middelheimmuseum) is een Antwerps openluchtmuseum voor moderne en hedendaagse beeldhouwkunst. Op 25-05-1957 vond daar de plechtige opening van de 4e [Biënnale voor beeldhouwkunst](https://nl.wikipedia.org/wiki/Middelheimmuseum#Lijst_van_bi%C3%ABnnales) plaats, aldus [een ANP nieuwsbericht](https://www.delpher.nl/nl/radiobulletins/view?query=middelheim&coll=anp&identifier=anp:1957:05:25:126:mpeg21&resultsidentifier=anp:1957:05:25:160:mpeg21&rowid=5) van die dag.
+* In het artikel over de [Mont Blanctunnel](https://nl.wikipedia.org/wiki/Mont_Blanctunnel)	wordt verwezen naar het ANP-radionieuwsbericht over de [inwijding Mont Blanctunnel](https://resolver.kb.nl/resolve?urn=anp:1962:09:15:54) op 15 september 1962.
+* Het [Middelheimmuseum](https://nl.wikipedia.org/wiki/Middelheimmuseum) is een Antwerps openluchtmuseum voor moderne en hedendaagse beeldhouwkunst. Op 25-05-1957 vond daar de plechtige opening van de 4e [Biënnale voor beeldhouwkunst](https://nl.wikipedia.org/wiki/Middelheimmuseum#Lijst_van_bi%C3%ABnnales) plaats, aldus [een ANP-nieuwsbericht](https://www.delpher.nl/nl/radiobulletins/view?query=middelheim&coll=anp&identifier=anp:1957:05:25:126:mpeg21&resultsidentifier=anp:1957:05:25:160:mpeg21&rowid=5) van die dag.
 
 
 ## De structuur van Delpher-URLs
@@ -91,14 +82,14 @@ Dit materiaal is op Delpher te vinden onder de ingang [Radiobulletins](https://w
 
 ### Duurzaam verwijzen d.m.v. resolver-URLs
 
-Naast die vijf groepen van Delpher-URLs die hierboven besproken worden, is er nog een zeer grote verzameling URLs die naar materialen in Delpher verwijzen. Dit zijn persistente URLs die beginnen met de 'abstracte resolver-syntax' _http(s)://resolver.kb.nl/resolve?urn=_.
+Naast die vijf groepen Delpher-URLs die hierboven besproken worden, is er nóg een zeer grote verzameling URLs die naar materialen in Delpher verwijzen. Dit zijn persistente URLs die beginnen met de 'abstracte resolver-syntax' _http(s)://resolver.kb.nl/resolve?urn=_.
 
-De KB heeft een zgn. resolver-service die duurzame, abstracte, materiaalsoort-onafhankelijke URLs vertaalt naar een van de bovengenoemde materiaalsoort-specifieke URLs. 
+De KB heeft een zgn. resolver-service die duurzame, abstracte, materiaalsoortonafhankelijke URLs vertaalt naar bovengenoemde materiaalsoortspecifieke URLs. 
 Zo verwijst bijvoorbeeld de abstracte URL [https://resolver.kb.nl/resolve?urn=KBNRC01:000035786:mpeg21:a0014](https://resolver.kb.nl/resolve?urn=KBNRC01:000035786:mpeg21:a0014) door naar een krantenartikel met URL [https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=KBNRC01:000035786:mpeg21:a0014](https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=KBNRC01:000035786:mpeg21:a0014)
 
 Dit is een duurzame manier van verwijzen, omdat de KB ervoor zorgt dat deze resolver-URLs altijd naar de juiste Delpher-pagina blijven verwijzen, ook als de URL-structuur van Delpher in de toekomst zou veranderen. 
 
-In bovenstaand voorbeeld staat de (set)identifier _KBNRC01_, wat aangeeft dat het om een krantencolllectie gaat, in dit geval het _[Algemeen Handelsblad](https://nl.wikipedia.org/wiki/Algemeen_Handelsblad)_, een voorloper van de _[NRC](https://nl.wikipedia.org/wiki/NRC_(krant))_. Voor haar resolver-service hanteert de KB een groot aantal verschillende (set)identifiers die naar kranten, boeken, tijdschriften of ANP-radiobulletins verwijzen. via [http://services.kb.nl/mdo/oai?verb=ListSets](http://services.kb.nl/mdo/oai?verb=ListSets) kun je een indruk krijgen van de verschillende (set)identifiers die de KB hanteert en naar welke materiaalsoorten ze verwijzen. 
+In bovenstaand voorbeeld staat de (set)identifier _KBNRC01_, wat aangeeft dat het om een krantencolllectie gaat, in dit geval het _[Algemeen Handelsblad](https://nl.wikipedia.org/wiki/Algemeen_Handelsblad)_, een voorloper van de _[NRC](https://nl.wikipedia.org/wiki/NRC_(krant))_. Voor haar resolver-service hanteert de KB een groot aantal verschillende (set)identifiers die naar kranten, boeken, tijdschriften of ANP-radiobulletins verwijzen. Via [http://services.kb.nl/mdo/oai?verb=ListSets](http://services.kb.nl/mdo/oai?verb=ListSets) kun je een indruk krijgen van de verschillende (set)identifiers die de KB hanteert met welke materiaalsoorten ze geassocieerd worden. 
 
 ## Delpher-links opsporen in Wikipedia
 Naar aanleiding van bovenstaande anekdotische voorbeelden en de uitleg over Delpher-URLs, is het interessant om een complete analyse van verwijzingen naar Delpher in de Nederlandstalige Wikipedia te maken. We krijgen daarmee precies inzicht welke Wikipedia-artikelen hoe vaak naar Delpher verwijzen, en welke Delpher-pagina's het vaakst worden geciteerd. 
@@ -106,9 +97,9 @@ Naar aanleiding van bovenstaande anekdotische voorbeelden en de uitleg over Delp
 Hoe kunnen we alle Delpher-links in Wikipedia systematisch opsporen? Daar biedt Wikipedia een handig hulpmiddel voor, genaamd *[Externe koppelingen zoeken](https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken)*. Hiermee vind je Wikipedia-pagina's die een bepaald URL-patroon bevatten. Zo kunt je bijvoorbeeld zoeken naar [pagina's die het patroon *https://www.delpher.nl* bevatten](https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenZoeken&limit=100&offset=0&target=https://www.delpher.nl). Je vindt hierbij niet alleen de reguliere artikelen, maar ook pagina's in de 'achterkant' van Wikipedia, zoals Overleg- en Gebruikerspagina's.
 
 Je kunt dit op een gelijkwaardige manier ook via de [Wikipedia API](https://www.mediawiki.org/w/api.php?action=help&modules=query%2Bexturlusage) uitvragen. Hierbij kun je dan meteen filteren op alleen de artikelen (*eunamespace=0*), waarbij dus (o.a.) Overleg- en Gebruikerspagina's niet worden meegenomen. Dit doe je met de API-call [https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.delpher.nl](https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euprotocol=https&euquery=www.delpher.nl).
-Ook kun je m.b.v. deze [API-call](https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euquery=resolver.kb.nl/resolve?urn=KBNRC01) alle Wikipedia-artikelen opsporen die een verwijzing naar kranten(artikelen) in bovengenoemde _KBNRC01_-collectie bevatten, m.a.w. die het patroon _resolver.kb.nl/resolve?urn=KBNRC01_ bevatten. 
+Op een zelfde manier kun je m.b.v. deze [API-call](https://nl.wikipedia.org/w/api.php?action=query&list=exturlusage&eulimit=100&eunamespace=0&format=json&euquery=resolver.kb.nl/resolve?urn=KBNRC01) alle Wikipedia-artikelen opsporen die een verwijzing naar kranten(artikelen) in bovengenoemde _KBNRC01_-collectie bevatten, m.a.w. die het patroon _resolver.kb.nl/resolve?urn=KBNRC01_ bevatten. 
 
-Met behulp van dit soort API-calls een stuk Python-code kunnen we alle artikelen in de Nederlandstalige Wikipedia die (één of meer keer) naar Delpher verwijzen opsporen. 
+Met behulp van dit soort API-calls een stuk Python-code kunnen we alle artikelen in de Nederlandstalige Wikipedia die (één of meer keer) verwijzen naar Delpher opsporen. 
 
 ## De volledige analyse
 
@@ -150,10 +141,10 @@ Vervolgens kunnen we ook kijken naar de in totaal 43.063 unieke Delpher-pagina�
 Voor de goede orde: onder Delpher-pagina's verstaan we hier o.a.
 * titels, jaargangen, afleveringen, pagina's en artikelen uit kranten, boeken, tijdschriften en radiobulletins, 
 * resultaten van full-text en/of samengestelde zoekopdrachten in deze materiaalsoorten, 
-* PDF's, platte tekst (OCR) en scans (JPG's) van deze materiaalsoorten, 
+* PDF's, platte tekst (OCR) en scans (JPG's) van deze materiaalsoorten, en
 * statische pagina's.
 
-* De staafgrafiek hieronder laat de Top 25 van deze Delpher-pagina’s zien. 
+De staafgrafiek hieronder laat de Top 25 van deze Delpher-pagina’s zien. 
 
 Wanneer we de [Kranten homepage ](https://www.delpher.nl/nl/kranten) en [Delpher homepage](https://www.delpher.nl/) buiten beschouwing laten, dan zien we dat er 13 verschillende Wikipedia-artikelen bestaan die naar de illustratie _[Afstandsaanduidingen langs Rijkswegen](https://delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010237771:mpeg21:a0208)_ in de _Nieuwe Tilburgsche Courant_ van 12-02-1937 verwijzen. Op de tweede plek staat [pagina 2](https://resolver.kb.nl/resolve?urn=KBDDD02:000212802:mpeg21:p002) van de krant _Suriname_ van 02-09-1933, met verwijzingen vanuit 12 artikelen.
 
@@ -174,8 +165,8 @@ Als je bijvoorbeeld kijkt naar het artikel [Vuilnisman](https://nl.wikipedia.org
 Hoe kunnen we dit soort artikelen systematisch opsporen? Daarvoor verwijs ik graag naar het artikel *[Detecting Wikipedia articles strongly based on single library collections](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html)* uit 2020. Hierin wordt een methode beschreven om Wikipedia-artikelen te vinden die geheel of grotendeels gebaseerd op inhoud uit één online bron, zoals een digitaal krantenarchief met volledige tekst (Delpher), of een digitale tekstbibliotheek zoals de [Digitale Bibliotheek voor de Nederlandse Letteren](https://www.dbnl.org) (DBNL).
 
 Samengevat kijken we bij deze methode naar twee parameters:
-* *External link treshhold*: Het artikel moet een minimum aantal externe koppelingen bevatten, aangezien de inhoud ervan voldoende gebaseerd moet zijn op externe bronnen.
-* *Link ratio*: De verhouding tussen het totale aantal externe URLs en het aantal daarvan dat naar Delpher verwijst. Een link ratio van 1,00 betekent dat alle externe links in een artikel Delpher-links zijn. Hoe lager de link ratio, hoe kleiner het relatieve aantal Delpher-URLs in het artikel.
+* *External link treshhold*: Het Wikipedia-artikel moet een minimum aantal externe koppelingen bevatten, aangezien de inhoud ervan voldoende gebaseerd moet zijn op externe bronnen.
+* *Link ratio*: Dit is de verhouding tussen het totale aantal externe URLs en het aantal daarvan dat naar Delpher verwijst. Een link ratio van 1,00 betekent dat alle externe links in een artikel Delpher-links zijn. Hoe lager de link ratio, hoe kleiner het relatieve aantal Delpher-URLs in het artikel.
 
 Om te beoordelen of een artikel grotendeels op Delpher is gebaseerd, hebben we de volgende drempelwaarden gekozen: 
 * *External link treshhold = 20*: Het artikel bevat minimaal 20 externe URLs.
@@ -203,7 +194,7 @@ Voorts zien we dat er meerdere artikelen volledig op Delpher (veelal kranten) ge
 * [Nederlands-Indische kentekens](https://nl.wikipedia.org/wiki/Nederlands-Indische_kentekens)
 * [Lijst van burgemeesters van Aengwirden](https://nl.wikipedia.org/wiki/Lijst_van_burgemeesters_van_Aengwirden)
 
-Het eerder genoemde artikel uit 2020 bevat een vergelijkbaar [overzicht van 193 Wikipedia-artikelen](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html#for-delpher) die geheel of grotendeels op DBNL gebaseerd zijn. Destijds zijn de volgende drempelwaarden gekozen: *Number of external links >= 6* , *Link ratio >= 0.75*. Dit leverde een stuk bredere artikelselectie op dan met de nu gehanteerde drempelwaarden van 20 en 0.80. Het is interessant - en tevens een oefening voor de lezer - om de overeenkomsten en verschillen te zoeken tussen die tabel en de lijst van 61 artikelen hierboven.
+Het eerder genoemde artikel uit 2020 bevat een vergelijkbaar [overzicht van 193 Wikipedia-artikelen](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html#for-delpher) die geheel of grotendeels op Delpher gebaseerd zijn. Destijds zijn de volgende drempelwaarden gekozen: *Number of external links >= 6* , *Link ratio >= 0.75*. Dit leverde een stuk bredere artikelselectie op dan met de nu gehanteerde drempelwaarden van 20 en 0.80. Het is interessant - en tevens een oefening voor de lezer - om de overeenkomsten en verschillen te zoeken tussen die tabel en de lijst van 61 artikelen hierboven.
 
 ## Ruwe data
 Alle data gebruikt voor de visualisaties en analyses in dit artikel is [beschikbaar op Github](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories/data/Delpher_20250117). Je kunt het Excel-bestand ook [direct downloaden](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/data/Delpher_20250117/WPNLarticlesAndDelpherUrls_20250117_Delpher.xlsx).
