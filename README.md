@@ -3,7 +3,7 @@
 
 # Data stories for Wikimedia reuse indicators of the KB, national library of the Netherlands
 
-### [Het gebruik van Delpher URL's in Nederlandstalige Wikipedia-artikelen, januari 2025](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen,%20januari%202025.html)
+### [Het gebruik van Delpher-URL's in Nederlandstalige Wikipedia-artikelen, januari 2025](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen,%20januari%202025.html)
 
 *15 February 2025*
 
@@ -11,7 +11,7 @@ The Dutch full-text historical newspapers, books and periodicals archive [Delphe
 
 -------------
 
-### [Het gebruik van DBNL URL's in Nederlandstalige Wikipedia-artikelen, september 2024](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html)
+### [Het gebruik van DBNL-URL's in Nederlandstalige Wikipedia-artikelen, september 2024](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html)
 
 *31 January 2025*
 

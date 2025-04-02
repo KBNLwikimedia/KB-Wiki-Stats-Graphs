@@ -1,4 +1,4 @@
-# Het gebruik van Delpher in Nederlandstalige Wikipedia-artikelen, januari 2025 
+# Het gebruik van Delpher-URL's in Nederlandstalige Wikipedia-artikelen, januari 2025 
 <sup>Olaf Janssen, 15 februari 2025</sup>
 
 Dit artikel is ook [beschikbaar als PDF](Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen%2C%20januari%202025.pdf).
