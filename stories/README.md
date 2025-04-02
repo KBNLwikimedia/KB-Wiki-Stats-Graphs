@@ -60,3 +60,13 @@ This article illustrates an approach to detect Wikipedia articles whose contents
 
 <!--  <img src="images/Detecting_Wikipedia_articles_strongly_based_on_single_library_collections.png" align="left">
 <br clear="all"/> --> 
+
+-------------
+
+### [Impactmeting beelddonatie *Nederlandsche Vogelen*](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/ImpactBeelddonatieNederlandscheVogelen)
+*2016*
+
+In mei 2015 heeft de Koninklijke Bibliotheek i.s.m. de Wikipedia-gemeenschap 250 historische afbeeldingen van Nederlandse vogels aan Wikimedia Commons gedoneerd. Het ging hierbij om de afbeeldingen uit (de 5 delen van) het boek [Nederlandsche Vogelen](https://www.kb.nl/ontdekken-bewonderen/topstukken/nederlandsche-vogelen) (1770-1829) uit de collectie van de KB. 
+In de maanden na de beelddonatie hebben redacteuren van Wikipedia de [vogelafbeeldingen](https://commons.wikimedia.org/wiki/Category:Nederlandsche_vogelen_van_Nozeman_en_Sepp) in vele artikelen verwerkt. Dit heeft geleid tot een enorme vergroting (meer dan 100x) van de zichtbaarheid van deze erfgoedcollectie, ook buiten Nederland, zoals deze impactmeting over het jaar 2016 laat zien. 
+
+[Bekijk de video](https://commons.wikimedia.org/wiki/File:Het_effect_van_beelddonaties_door_de_KB_-_Publiek_Domeindag_2020,_Beeld_en_Geluid,_Hilversum_10-01-2020.webm)

@@ -58,6 +58,8 @@ This article illustrates an approach to detect Wikipedia articles whose contents
 <!-- <img src="stories/images/Detecting_Wikipedia_articles_strongly_based_on_single_library_collections.png" align="left">
 <br clear="all"/>  -->
 
+-------------
+
 ### [Impactmeting beelddonatie *Nederlandsche Vogelen*](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Resultaten/ImpactBeelddonatieNederlandscheVogelen)
 *2016*
 
