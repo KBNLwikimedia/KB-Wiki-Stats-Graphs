@@ -176,7 +176,7 @@ Dit dataverhaal is gebruikt in de presentatie *[Wat betekenen DBNL en Wikipedia 
 
 <a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen,%20januari%202025.html" target="_blank"><img src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/Het-gebruik-van-Delpher-in-Nederlandstalige-Wikipedia-artikelen_Jan2025.jpg" align="right" width="300" hspace="20" alt="Screenshot van het artikel 'Het gebruik van Delpher in Nederlandstalige Wikipedia-artikelen, januari 2025' op Github."/></a>
 
-In februari 2025 publiceerden we een soortgelijk artikel getiteld _[Het gebruik van Delpher in Nederlandstalige Wikipedia-artikelen, januari 2025](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen,%20januari%202025.html)_. Hierin bekijken we hoe vaak er in welke Wikipedia-artikelen verwezen wordt naar [Delpher](https://www.delpher.nl), en welke Delpher-pagina’s het vaakst worden geciteerd. Ook speuren we naar Wikipedia-artikelen die geheel of grotendeels op Delpher zijn gebaseerd.
+In februari 2025 publiceerden we een soortgelijk artikel getiteld _[Het gebruik van Delpher-URL's in Nederlandstalige Wikipedia-artikelen, januari 2025](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen,%20januari%202025.html)_. Hierin bekijken we hoe vaak er in welke Wikipedia-artikelen verwezen wordt naar [Delpher](https://www.delpher.nl), en welke Delpher-pagina’s het vaakst worden geciteerd. Ook speuren we naar Wikipedia-artikelen die geheel of grotendeels op Delpher zijn gebaseerd.
 
 ## Over de auteur
 <img align="left" src="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/images/389px-Olaf_Janssen_at_GLAM_WIKI_Tel_Aviv_Conference_2018.JPG" width="50" hspace="5" alt="Afbeelding van Olaf Janssen in Tel Aviv in 2018."/>
@@ -189,7 +189,7 @@ Olaf Janssen is de [Wikimedia-coördinator](https://www.kb.nl/over-ons/experts/o
 De tekst van dit artikel is vrijgegeven onder de [Creative Commons Naamsvermelding](https://creativecommons.org/licenses/by/4.0/deed.nl) CC-BY 4.0 licentie.<br/> 
 <img src="images/cc-by.png" width="120" align="right" alt="Logo van de CC-BY licentie"/>
 
-*Citatie*: Janssen, O.D. (2025). ‘Het gebruik van DBNL in Nederlandstalige Wikipedia-artikelen, september 2024’. Zenodo, 31 januari 2025. [https://doi.org/10.5281/zenodo.14779865](https://doi.org/10.5281/zenodo.14779865).<br/> 
+*Citatie*: Janssen, O.D. (2025). ‘Het gebruik van DBNL-URL's in Nederlandstalige Wikipedia-artikelen, september 2024’. Zenodo, 31 januari 2025. [https://doi.org/10.5281/zenodo.14779865](https://doi.org/10.5281/zenodo.14779865).<br/> 
 
 Naamsvermelding: *KB, nationale bibliotheek van Nederland / Olaf Janssen, CC-BY 4.0*
 
