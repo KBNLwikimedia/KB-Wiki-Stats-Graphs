@@ -1,3 +1,5 @@
+[<< Back to stories index](https://kbnlwikimedia.github.io/stories/)
+
 ## Detecting Wikipedia articles strongly based on single library collections ##
 #### ***247 Dutch Wikipedia articles that wouldn't be here without Delpher and DBNL, with 33.000 views each month***
 
