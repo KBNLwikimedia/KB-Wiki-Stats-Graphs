@@ -1,3 +1,5 @@
+[<< Back to stories index](https://kbnlwikimedia.github.io/stories/)
+
 # Reuse indicators for KB images in Wikipedia and Wikimedia Commons, the 2023 update
 <sup>Olaf Janssen, 24 January 2024</sup>
 

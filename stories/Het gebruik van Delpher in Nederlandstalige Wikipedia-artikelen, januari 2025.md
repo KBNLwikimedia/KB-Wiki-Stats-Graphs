@@ -1,3 +1,5 @@
+[<< Terug naar verhalenoverzicht](https://kbnlwikimedia.github.io/stories/)
+
 # Het gebruik van Delpher-URL's in Nederlandstalige Wikipedia-artikelen, januari 2025 
 <sup>Olaf Janssen, 15 februari 2025</sup>
 

@@ -1,3 +1,5 @@
+[<< Terug naar verhalenoverzicht](https://kbnlwikimedia.github.io/stories/)
+
 # Het gebruik van DBNL-URL's in Nederlandstalige Wikipedia-artikelen, september 2024 
 <sup>Olaf Janssen, 31 januari 2025</sup>
 
