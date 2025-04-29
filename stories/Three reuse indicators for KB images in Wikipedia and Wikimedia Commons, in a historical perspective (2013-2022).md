@@ -1,3 +1,5 @@
+[<< Back to stories index](https://kbnlwikimedia.github.io/stories/)
+
 # Three reuse indicators for KB images in Wikipedia and Wikimedia Commons, in a historical perspective (2013-2022)
 <sup>Olaf Janssen, 29 December 2022</sup>
 
