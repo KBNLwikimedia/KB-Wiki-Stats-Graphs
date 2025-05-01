@@ -1,4 +1,9 @@
-[<< Back to stories index](https://kbnlwikimedia.github.io/stories/)
+<table width="100%" border="0"><tr><td align="left">
+<a href="https://kbnlwikimedia.github.io/stories/"><< Back to stories index</a>
+</td><td align="right">
+<a href="https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories" target="_blank">>> To the Github repo of this page</a>
+</td></tr></table>
+<hr/>
 
 ## Detecting Wikipedia articles strongly based on single library collections ##
 #### ***247 Dutch Wikipedia articles that wouldn't be here without Delpher and DBNL, with 33.000 views each month***

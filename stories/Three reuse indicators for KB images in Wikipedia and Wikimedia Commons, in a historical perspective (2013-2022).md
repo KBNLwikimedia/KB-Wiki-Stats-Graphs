@@ -1,4 +1,9 @@
-[<< Back to stories index](https://kbnlwikimedia.github.io/stories/)
+<table width="100%" border="0"><tr><td align="left">
+<a href="https://kbnlwikimedia.github.io/stories/"><< Back to stories index</a>
+</td><td align="right">
+<a href="https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/tree/master/stories" target="_blank">>> To the Github repo of this page</a>
+</td></tr></table>
+<hr/>
 
 # Three reuse indicators for KB images in Wikipedia and Wikimedia Commons, in a historical perspective (2013-2022)
 <sup>Olaf Janssen, 29 December 2022</sup>
